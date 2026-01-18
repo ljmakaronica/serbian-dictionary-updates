@@ -16,6 +16,21 @@
         "english_def": "The first month of the year.",
         "english_example": "January is the coldest month."
       },
+        {
+        "action": "delete",
+        "cyrillic_word": "јануар",
+        "cyrillic_part": "именица",
+        "cyrillic_def": "Први месец у години.",
+        "cyrillic_example": "Јануар је најхладнији месец.",
+        "latin_word": "januarr",
+        "latin_part": "imenica",
+        "latin_def": "Prvi mesec u godini.",
+        "latin_example": "Januar je najhladniji mesec.",
+        "english_word": "January",
+        "english_part": "noun",
+        "english_def": "The first month of the year.",
+        "english_example": "January is the coldest month."
+      },
       {
         "action": "add",
         "cyrillic_word": "фебруар",
