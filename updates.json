@@ -1,5 +1,5 @@
 {
-    "version": 2,
+    "version": 3,
     "entries": [
       {
         "action": "add",
@@ -7,7 +7,7 @@
         "cyrillic_part": "именица",
         "cyrillic_def": "Први месец у години.",
         "cyrillic_example": "Јануар је најхладнији месец.",
-        "latin_word": "januar",
+        "latin_word": "januarr",
         "latin_part": "imenica",
         "latin_def": "Prvi mesec u godini.",
         "latin_example": "Januar je najhladniji mesec.",
