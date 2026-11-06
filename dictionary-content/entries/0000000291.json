@@ -1,0 +1,23 @@
+{
+  "id": 291,
+  "translation": {
+    "cyrillic": {
+      "word": "жена",
+      "part_of_speech": "именица",
+      "definition": "Одрасла особа женског пола.",
+      "example_sentence": "Жена стоји поред прозора."
+    },
+    "latin": {
+      "word": "žena",
+      "part_of_speech": "imenica",
+      "definition": "Odrasla osoba ženskog pola.",
+      "example_sentence": "Žena stoji pored prozora."
+    },
+    "english": {
+      "word": "woman",
+      "part_of_speech": "noun",
+      "definition": "An adult female person.",
+      "example_sentence": "The woman is standing by the window."
+    }
+  }
+}

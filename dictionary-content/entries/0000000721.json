@@ -1,0 +1,23 @@
+{
+  "id": 721,
+  "translation": {
+    "cyrillic": {
+      "word": "освајати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство добијања контроле или победе над нечим.",
+      "example_sentence": "Војска осваја непријатељску територију."
+    },
+    "latin": {
+      "word": "osvajati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo dobijanja kontrole ili pobede nad nečim.",
+      "example_sentence": "Vojska osvaja neprijateljsku teritoriju."
+    },
+    "english": {
+      "word": "conquer",
+      "part_of_speech": "verb",
+      "definition": "To gain control or overcome by force.",
+      "example_sentence": "The army is conquering enemy territory."
+    }
+  }
+}

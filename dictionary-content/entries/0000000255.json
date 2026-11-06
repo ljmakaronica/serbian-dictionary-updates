@@ -1,0 +1,23 @@
+{
+  "id": 255,
+  "translation": {
+    "cyrillic": {
+      "word": "ехинацеа",
+      "part_of_speech": "именица",
+      "definition": "Биљка из рода ехинацеа са упадљивим цветовима и испупченом средином цвета.",
+      "example_sentence": "Ехинацеа расте у нашој башти."
+    },
+    "latin": {
+      "word": "ehinacea",
+      "part_of_speech": "imenica",
+      "definition": "Biljka iz roda ehinacea sa upadljivim cvetovima i ispupčenom sredinom cveta.",
+      "example_sentence": "Ehinacea raste u našoj bašti."
+    },
+    "english": {
+      "word": "echinacea",
+      "part_of_speech": "noun",
+      "definition": "A plant of the genus Echinacea with showy flowers and a raised central cone.",
+      "example_sentence": "Echinacea grows in our garden."
+    }
+  }
+}

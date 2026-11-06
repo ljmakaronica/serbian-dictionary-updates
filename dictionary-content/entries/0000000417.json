@@ -1,0 +1,23 @@
+{
+  "id": 417,
+  "translation": {
+    "cyrillic": {
+      "word": "слава",
+      "part_of_speech": "именица",
+      "definition": "Прослава породичног светитеља.",
+      "example_sentence": "Слава је била весела и гостопримљива."
+    },
+    "latin": {
+      "word": "slava",
+      "part_of_speech": "imenica",
+      "definition": "Proslava porodičnog sveca.",
+      "example_sentence": "Slava je bila vesela i gostoprimljiva."
+    },
+    "english": {
+      "word": "family saint's day",
+      "part_of_speech": "noun",
+      "definition": "A celebration of a family's patron saint.",
+      "example_sentence": "The family saint's day was joyful and hospitable."
+    }
+  }
+}

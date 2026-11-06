@@ -1,0 +1,23 @@
+{
+  "id": 545,
+  "translation": {
+    "cyrillic": {
+      "word": "други",
+      "part_of_speech": "придев",
+      "definition": "Који по реду долази одмах после првог.",
+      "example_sentence": "Она је друга у реду."
+    },
+    "latin": {
+      "word": "drugi",
+      "part_of_speech": "pridev",
+      "definition": "Koji po redu dolazi odmah posle prvog.",
+      "example_sentence": "Ona je druga u redu."
+    },
+    "english": {
+      "word": "second",
+      "part_of_speech": "adjective",
+      "definition": "Coming immediately after the first.",
+      "example_sentence": "She is second in line."
+    }
+  }
+}

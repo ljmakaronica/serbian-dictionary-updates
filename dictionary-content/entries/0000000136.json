@@ -1,0 +1,23 @@
+{
+  "id": 136,
+  "translation": {
+    "cyrillic": {
+      "word": "вук",
+      "part_of_speech": "именица",
+      "definition": "Дивља животиња слична псу.",
+      "example_sentence": "Вук је завијао у шуми."
+    },
+    "latin": {
+      "word": "vuk",
+      "part_of_speech": "imenica",
+      "definition": "Divlja životinja slična psu.",
+      "example_sentence": "Vuk je zavijao u šumi."
+    },
+    "english": {
+      "word": "wolf",
+      "part_of_speech": "noun",
+      "definition": "A wild animal similar to a dog.",
+      "example_sentence": "The wolf howled in the forest."
+    }
+  }
+}

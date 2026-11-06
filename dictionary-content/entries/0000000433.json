@@ -1,0 +1,23 @@
+{
+  "id": 433,
+  "translation": {
+    "cyrillic": {
+      "word": "успех",
+      "part_of_speech": "именица",
+      "definition": "Позитиван исход или постигнуће.",
+      "example_sentence": "Његов успех је био награђен."
+    },
+    "latin": {
+      "word": "uspeh",
+      "part_of_speech": "imenica",
+      "definition": "Pozitivan ishod ili postignuće.",
+      "example_sentence": "Njegov uspeh je bio nagrađen."
+    },
+    "english": {
+      "word": "success",
+      "part_of_speech": "noun",
+      "definition": "A positive outcome or achievement.",
+      "example_sentence": "His success was rewarded."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 61,
+  "translation": {
+    "cyrillic": {
+      "word": "администрација",
+      "part_of_speech": "именица",
+      "definition": "Управљање или организовање послова у организацији.",
+      "example_sentence": "Администрација фирме је била веома ефикасна."
+    },
+    "latin": {
+      "word": "administracija",
+      "part_of_speech": "imenica",
+      "definition": "Upravljanje ili organizovanje poslova u organizaciji.",
+      "example_sentence": "Administracija firme je bila veoma efikasna."
+    },
+    "english": {
+      "word": "administration",
+      "part_of_speech": "noun",
+      "definition": "The management or organization of tasks in an organization.",
+      "example_sentence": "The company's administration was very efficient."
+    }
+  }
+}

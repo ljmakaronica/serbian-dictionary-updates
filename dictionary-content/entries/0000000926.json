@@ -1,0 +1,23 @@
+{
+  "id": 926,
+  "translation": {
+    "cyrillic": {
+      "word": "пријатељ",
+      "part_of_speech": "именица",
+      "definition": "особа са којом имамо блиске односе",
+      "example_sentence": "Он је мој најбољи пријатељ."
+    },
+    "latin": {
+      "word": "prijatelj",
+      "part_of_speech": "imenica",
+      "definition": "osoba sa kojom imamo bliske odnose",
+      "example_sentence": "On je moj najbolji prijatelj."
+    },
+    "english": {
+      "word": "friend",
+      "part_of_speech": "noun",
+      "definition": "person with whom we have a close relationship",
+      "example_sentence": "He is my best friend."
+    }
+  }
+}

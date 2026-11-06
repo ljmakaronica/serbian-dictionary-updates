@@ -1,0 +1,23 @@
+{
+  "id": 246,
+  "translation": {
+    "cyrillic": {
+      "word": "елита",
+      "part_of_speech": "именица",
+      "definition": "Одабрана група људи која се сматра најбољом у друштву.",
+      "example_sentence": "Они припадају градској елити."
+    },
+    "latin": {
+      "word": "elita",
+      "part_of_speech": "imenica",
+      "definition": "Odabrana grupa ljudi koja se smatra najboljom u društvu.",
+      "example_sentence": "Oni pripadaju gradskoj eliti."
+    },
+    "english": {
+      "word": "elite",
+      "part_of_speech": "noun",
+      "definition": "A select group considered to be the best in society.",
+      "example_sentence": "They belong to the city's elite."
+    }
+  }
+}

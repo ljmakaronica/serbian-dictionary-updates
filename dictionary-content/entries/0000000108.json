@@ -1,0 +1,23 @@
+{
+  "id": 108,
+  "translation": {
+    "cyrillic": {
+      "word": "благајна",
+      "part_of_speech": "именица",
+      "definition": "Место где се врши плаћање или наплата.",
+      "example_sentence": "Молим вас платите на благајни."
+    },
+    "latin": {
+      "word": "blagajna",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde se vrši plaćanje ili naplata.",
+      "example_sentence": "Molim vas platite na blagajni."
+    },
+    "english": {
+      "word": "cash register",
+      "part_of_speech": "noun",
+      "definition": "A place where payment or collection is made.",
+      "example_sentence": "Please pay at the cash register."
+    }
+  }
+}

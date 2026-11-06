@@ -1,0 +1,23 @@
+{
+  "id": 612,
+  "translation": {
+    "cyrillic": {
+      "word": "тата",
+      "part_of_speech": "именица",
+      "definition": "Неформални назив за оца.",
+      "example_sentence": "Мој тата је најбољи!"
+    },
+    "latin": {
+      "word": "tata",
+      "part_of_speech": "imenica",
+      "definition": "Neformalni naziv za oca.",
+      "example_sentence": "Moj tata je najbolji!"
+    },
+    "english": {
+      "word": "dad",
+      "part_of_speech": "noun",
+      "definition": "An informal term for father.",
+      "example_sentence": "My dad is the best!"
+    }
+  }
+}

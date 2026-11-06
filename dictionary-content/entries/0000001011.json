@@ -1,0 +1,23 @@
+{
+  "id": 1011,
+  "translation": {
+    "cyrillic": {
+      "word": "вредност",
+      "part_of_speech": "именица",
+      "definition": "Важност или корисност нечега.",
+      "example_sentence": "Образовање има велику вредност."
+    },
+    "latin": {
+      "word": "vrednost",
+      "part_of_speech": "imenica",
+      "definition": "Važnost ili korisnost nečega.",
+      "example_sentence": "Obrazovanje ima veliku vrednost."
+    },
+    "english": {
+      "word": "value",
+      "part_of_speech": "noun",
+      "definition": "The importance or usefulness of something.",
+      "example_sentence": "Education has great value."
+    }
+  }
+}

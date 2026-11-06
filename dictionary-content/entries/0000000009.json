@@ -1,0 +1,23 @@
+{
+  "id": 9,
+  "translation": {
+    "cyrillic": {
+      "word": "албум",
+      "part_of_speech": "именица",
+      "definition": "Књига за чување фотографија или колекција музичких песама.",
+      "example_sentence": "Купила сам нови албум за породичне фотографије."
+    },
+    "latin": {
+      "word": "album",
+      "part_of_speech": "imenica",
+      "definition": "Knjiga za čuvanje fotografija ili kolekcija muzičkih pesama.",
+      "example_sentence": "Kupila sam novi album za porodične fotografije."
+    },
+    "english": {
+      "word": "album",
+      "part_of_speech": "noun",
+      "definition": "A book for keeping photographs or a collection of musical songs.",
+      "example_sentence": "I bought a new album for family photos."
+    }
+  }
+}

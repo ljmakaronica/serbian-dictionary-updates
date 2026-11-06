@@ -1,0 +1,23 @@
+{
+  "id": 1101,
+  "translation": {
+    "cyrillic": {
+      "word": "ево",
+      "part_of_speech": "речца",
+      "definition": "Речца која указује на присуство или показује нешто.",
+      "example_sentence": "Ево га!"
+    },
+    "latin": {
+      "word": "evo",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja ukazuje na prisustvo ili pokazuje nešto.",
+      "example_sentence": "Evo ga!"
+    },
+    "english": {
+      "word": "here",
+      "part_of_speech": "particle",
+      "definition": "A particle indicating presence or drawing attention.",
+      "example_sentence": "Here he is!"
+    }
+  }
+}

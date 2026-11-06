@@ -1,0 +1,23 @@
+{
+  "id": 553,
+  "translation": {
+    "cyrillic": {
+      "word": "маказе",
+      "part_of_speech": "именица",
+      "definition": "Алат за сечење са два сегмента.",
+      "example_sentence": "Користио је маказе да исече папир."
+    },
+    "latin": {
+      "word": "makaze",
+      "part_of_speech": "imenica",
+      "definition": "Alat za sečenje sa dva segmenta.",
+      "example_sentence": "Koristio je makaze da iseče papir."
+    },
+    "english": {
+      "word": "scissors",
+      "part_of_speech": "noun",
+      "definition": "A tool for cutting with two blades.",
+      "example_sentence": "He used scissors to cut the paper."
+    }
+  }
+}

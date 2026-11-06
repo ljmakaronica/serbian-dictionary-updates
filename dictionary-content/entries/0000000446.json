@@ -1,0 +1,23 @@
+{
+  "id": 446,
+  "translation": {
+    "cyrillic": {
+      "word": "феномен",
+      "part_of_speech": "именица",
+      "definition": "Нешто необично или изузетно.",
+      "example_sentence": "Овај феномен је научницима остао мистерија."
+    },
+    "latin": {
+      "word": "fenomen",
+      "part_of_speech": "imenica",
+      "definition": "Nešto neobično ili izuzetno.",
+      "example_sentence": "Ovaj fenomen je naučnicima ostao misterija."
+    },
+    "english": {
+      "word": "phenomenon",
+      "part_of_speech": "noun",
+      "definition": "Something unusual or exceptional.",
+      "example_sentence": "This phenomenon remained a mystery to scientists."
+    }
+  }
+}

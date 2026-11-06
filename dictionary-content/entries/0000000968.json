@@ -1,0 +1,23 @@
+{
+  "id": 968,
+  "translation": {
+    "cyrillic": {
+      "word": "покушати",
+      "part_of_speech": "глагол",
+      "definition": "настојати да се уради нешто",
+      "example_sentence": "Покушавам да научим."
+    },
+    "latin": {
+      "word": "pokušati",
+      "part_of_speech": "glagol",
+      "definition": "nastojati da se uradi nešto",
+      "example_sentence": "Pokušavam da naučim."
+    },
+    "english": {
+      "word": "to try",
+      "part_of_speech": "verb",
+      "definition": "attempt to do something",
+      "example_sentence": "I try to learn."
+    }
+  }
+}

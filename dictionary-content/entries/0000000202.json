@@ -1,0 +1,23 @@
+{
+  "id": 202,
+  "translation": {
+    "cyrillic": {
+      "word": "добијање",
+      "part_of_speech": "именица",
+      "definition": "Процес добијања нечега.",
+      "example_sentence": "Добијање информација је кључно за успех."
+    },
+    "latin": {
+      "word": "dobijanje",
+      "part_of_speech": "imenica",
+      "definition": "Proces dobijanja nečega.",
+      "example_sentence": "Dobijanje informacija je ključno za uspeh."
+    },
+    "english": {
+      "word": "obtaining",
+      "part_of_speech": "noun",
+      "definition": "The process of acquiring something.",
+      "example_sentence": "Obtaining information is key to success."
+    }
+  }
+}

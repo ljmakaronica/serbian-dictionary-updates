@@ -1,0 +1,23 @@
+{
+  "id": 619,
+  "translation": {
+    "cyrillic": {
+      "word": "шпорет",
+      "part_of_speech": "именица",
+      "definition": "Уређај за кување хране.",
+      "example_sentence": "Кувам ручак на шпорету."
+    },
+    "latin": {
+      "word": "šporet",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za kuvanje hrane.",
+      "example_sentence": "Kuvam ručak na šporetu."
+    },
+    "english": {
+      "word": "stove",
+      "part_of_speech": "noun",
+      "definition": "A device for cooking food.",
+      "example_sentence": "I cook lunch on the stove."
+    }
+  }
+}

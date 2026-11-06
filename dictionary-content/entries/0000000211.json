@@ -1,0 +1,23 @@
+{
+  "id": 211,
+  "translation": {
+    "cyrillic": {
+      "word": "дискусија",
+      "part_of_speech": "именица",
+      "definition": "Разговор или размена мишљења о некој теми.",
+      "example_sentence": "Дискусија је била веома конструктивна."
+    },
+    "latin": {
+      "word": "diskusija",
+      "part_of_speech": "imenica",
+      "definition": "Razgovor ili razmena mišljenja o nekoj temi.",
+      "example_sentence": "Diskusija je bila veoma konstruktivna."
+    },
+    "english": {
+      "word": "discussion",
+      "part_of_speech": "noun",
+      "definition": "A conversation or exchange of ideas on a topic.",
+      "example_sentence": "The discussion was very constructive."
+    }
+  }
+}

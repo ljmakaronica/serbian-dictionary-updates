@@ -1,0 +1,23 @@
+{
+  "id": 156,
+  "translation": {
+    "cyrillic": {
+      "word": "госпођа",
+      "part_of_speech": "именица",
+      "definition": "Усмерени обраћање удатој жени.",
+      "example_sentence": "Госпођа Милић је наш нови професор."
+    },
+    "latin": {
+      "word": "gospođa",
+      "part_of_speech": "imenica",
+      "definition": "Usmereno obraćanje udatoj ženi.",
+      "example_sentence": "Gospođa Milić je naš novi profesor."
+    },
+    "english": {
+      "word": "Mrs.",
+      "part_of_speech": "noun",
+      "definition": "A formal title for a married woman.",
+      "example_sentence": "Mrs. Milić is our new teacher."
+    }
+  }
+}

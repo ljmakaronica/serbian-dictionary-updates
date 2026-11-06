@@ -1,0 +1,23 @@
+{
+  "id": 492,
+  "translation": {
+    "cyrillic": {
+      "word": "џез",
+      "part_of_speech": "именица",
+      "definition": "Музички жанр са афричким и америчким коренима.",
+      "example_sentence": "џез музика је била веома популарна."
+    },
+    "latin": {
+      "word": "džez",
+      "part_of_speech": "imenica",
+      "definition": "Muzički žanr sa afričkim i američkim korenima.",
+      "example_sentence": "Džez muzika je bila veoma popularna."
+    },
+    "english": {
+      "word": "jazz",
+      "part_of_speech": "noun",
+      "definition": "A music genre with African and American roots.",
+      "example_sentence": "Jazz music was very popular."
+    }
+  }
+}

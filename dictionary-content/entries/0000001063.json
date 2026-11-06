@@ -1,0 +1,23 @@
+{
+  "id": 1063,
+  "translation": {
+    "cyrillic": {
+      "word": "јорган",
+      "part_of_speech": "именица",
+      "definition": "Топла постељина направљена од ткања.",
+      "example_sentence": "Покрила се јорганом."
+    },
+    "latin": {
+      "word": "jorgan",
+      "part_of_speech": "imenica",
+      "definition": "Topla posteljina napravljena od tkanja.",
+      "example_sentence": "Pokrila se jorganom."
+    },
+    "english": {
+      "word": "quilt",
+      "part_of_speech": "noun",
+      "definition": "A warm bedding made from fabric.",
+      "example_sentence": "She covered herself with a quilt."
+    }
+  }
+}

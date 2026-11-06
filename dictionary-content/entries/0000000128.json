@@ -1,0 +1,23 @@
+{
+  "id": 128,
+  "translation": {
+    "cyrillic": {
+      "word": "видео",
+      "part_of_speech": "именица",
+      "definition": "Снимак или запис покретних слика.",
+      "example_sentence": "Гледали смо забавни видео на интернету."
+    },
+    "latin": {
+      "word": "video",
+      "part_of_speech": "imenica",
+      "definition": "Snimak ili zapis pokretnih slika.",
+      "example_sentence": "Gledali smo zabavan video na internetu."
+    },
+    "english": {
+      "word": "video",
+      "part_of_speech": "noun",
+      "definition": "A recording or moving images.",
+      "example_sentence": "We watched a funny video on the internet."
+    }
+  }
+}

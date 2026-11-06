@@ -1,0 +1,23 @@
+{
+  "id": 1071,
+  "translation": {
+    "cyrillic": {
+      "word": "попустити",
+      "part_of_speech": "глагол",
+      "definition": "Предати се или дозволити нешто.",
+      "example_sentence": "Попустио је под притиском."
+    },
+    "latin": {
+      "word": "popustiti",
+      "part_of_speech": "glagol",
+      "definition": "Predati se ili dozvoliti nešto.",
+      "example_sentence": "Popustio je pod pritiskom."
+    },
+    "english": {
+      "word": "yield",
+      "part_of_speech": "verb",
+      "definition": "To give in or allow something.",
+      "example_sentence": "He yielded under pressure."
+    }
+  }
+}

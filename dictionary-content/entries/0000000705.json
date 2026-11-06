@@ -1,0 +1,23 @@
+{
+  "id": 705,
+  "translation": {
+    "cyrillic": {
+      "word": "видети",
+      "part_of_speech": "глагол",
+      "definition": "Перцепција светлости и облика очима.",
+      "example_sentence": "Ми видимо лепу природу."
+    },
+    "latin": {
+      "word": "videti",
+      "part_of_speech": "glagol",
+      "definition": "Percepcija svetlosti i oblika očima.",
+      "example_sentence": "Mi vidimo lepu prirodu."
+    },
+    "english": {
+      "word": "see",
+      "part_of_speech": "verb",
+      "definition": "To perceive with the eyes.",
+      "example_sentence": "We see beautiful nature."
+    }
+  }
+}

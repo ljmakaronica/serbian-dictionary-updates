@@ -1,0 +1,23 @@
+{
+  "id": 702,
+  "translation": {
+    "cyrillic": {
+      "word": "улога",
+      "part_of_speech": "именица",
+      "definition": "Функција или задатак у одређеном контексту.",
+      "example_sentence": "Њена улога у филму је била значајна."
+    },
+    "latin": {
+      "word": "uloga",
+      "part_of_speech": "imenica",
+      "definition": "Funkcija ili zadatak u određenom kontekstu.",
+      "example_sentence": "Njena uloga u filmu je bila značajna."
+    },
+    "english": {
+      "word": "role",
+      "part_of_speech": "noun",
+      "definition": "A function or part played in a particular context.",
+      "example_sentence": "Her role in the film was significant."
+    }
+  }
+}

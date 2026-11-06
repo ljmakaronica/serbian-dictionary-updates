@@ -1,0 +1,23 @@
+{
+  "id": 874,
+  "translation": {
+    "cyrillic": {
+      "word": "макар",
+      "part_of_speech": "везник",
+      "definition": "Изражава допуштање упркос околностима.",
+      "example_sentence": "Доћи ћу макар падала киша."
+    },
+    "latin": {
+      "word": "makar",
+      "part_of_speech": "veznik",
+      "definition": "Izražava dopuštanje uprkos okolnostima.",
+      "example_sentence": "Doći ću makar padala kiša."
+    },
+    "english": {
+      "word": "even if",
+      "part_of_speech": "conjunction",
+      "definition": "Expresses concession despite circumstances.",
+      "example_sentence": "I will come even if it rains."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 551,
+  "translation": {
+    "cyrillic": {
+      "word": "шах",
+      "part_of_speech": "именица",
+      "definition": "Стратешка игра са фигурама на табли.",
+      "example_sentence": "Волим да играм шах."
+    },
+    "latin": {
+      "word": "šah",
+      "part_of_speech": "imenica",
+      "definition": "Strategijska igra sa figurama na tabli.",
+      "example_sentence": "Volim da igram šah."
+    },
+    "english": {
+      "word": "chess",
+      "part_of_speech": "noun",
+      "definition": "A strategic game played with pieces on a board.",
+      "example_sentence": "I love playing chess."
+    }
+  }
+}

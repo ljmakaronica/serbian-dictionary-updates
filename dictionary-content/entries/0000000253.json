@@ -1,0 +1,23 @@
+{
+  "id": 253,
+  "translation": {
+    "cyrillic": {
+      "word": "екватор",
+      "part_of_speech": "именица",
+      "definition": "Замишљена линија која дели Земљу на северну и јужну полулопту.",
+      "example_sentence": "Температуре су највише око екватора."
+    },
+    "latin": {
+      "word": "ekvator",
+      "part_of_speech": "imenica",
+      "definition": "Zamišljena linija koja deli Zemlju na severnu i južnu poluloptu.",
+      "example_sentence": "Temperature su najviše oko ekvatora."
+    },
+    "english": {
+      "word": "equator",
+      "part_of_speech": "noun",
+      "definition": "The imaginary line that divides Earth into northern and southern hemispheres.",
+      "example_sentence": "Temperatures are highest around the equator."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 153,
+  "translation": {
+    "cyrillic": {
+      "word": "град",
+      "part_of_speech": "именица",
+      "definition": "Велико насељено место са много становника.",
+      "example_sentence": "Београд је главни град Србије."
+    },
+    "latin": {
+      "word": "grad",
+      "part_of_speech": "imenica",
+      "definition": "Veliko naseljeno mesto sa mnogo stanovnika.",
+      "example_sentence": "Beograd je glavni grad Srbije."
+    },
+    "english": {
+      "word": "city",
+      "part_of_speech": "noun",
+      "definition": "A large populated place with many inhabitants.",
+      "example_sentence": "Belgrade is the capital city of Serbia."
+    }
+  }
+}

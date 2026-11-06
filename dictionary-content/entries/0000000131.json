@@ -1,0 +1,23 @@
+{
+  "id": 131,
+  "translation": {
+    "cyrillic": {
+      "word": "више",
+      "part_of_speech": "прилог",
+      "definition": "У већој количини или степену.",
+      "example_sentence": "Морам да радим више да бих постигао своје циљеве."
+    },
+    "latin": {
+      "word": "više",
+      "part_of_speech": "prilog",
+      "definition": "U većoj količini ili stepenu.",
+      "example_sentence": "Moram da radim više da bih postigao svoje ciljeve."
+    },
+    "english": {
+      "word": "more",
+      "part_of_speech": "adverb",
+      "definition": "In a greater quantity or degree.",
+      "example_sentence": "I need to work more to achieve my goals."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 505,
+  "translation": {
+    "cyrillic": {
+      "word": "шљива",
+      "part_of_speech": "именица",
+      "definition": "Воће са меснатим плодом и коштицом у средини.",
+      "example_sentence": "Шљиве су биле зреле и укусне."
+    },
+    "latin": {
+      "word": "šljiva",
+      "part_of_speech": "imenica",
+      "definition": "Voće sa mesnatim plodom i košticom u sredini.",
+      "example_sentence": "Šljive su bile zrele i ukusne."
+    },
+    "english": {
+      "word": "plum",
+      "part_of_speech": "noun",
+      "definition": "A fruit with fleshy flesh and a pit in the middle.",
+      "example_sentence": "The plums were ripe and tasty."
+    }
+  }
+}

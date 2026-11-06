@@ -1,0 +1,23 @@
+{
+  "id": 594,
+  "translation": {
+    "cyrillic": {
+      "word": "шаргарепа",
+      "part_of_speech": "именица",
+      "definition": "Наранџасто поврће са слатким укусом.",
+      "example_sentence": "Шаргарепа је добра за очи."
+    },
+    "latin": {
+      "word": "šargarepa",
+      "part_of_speech": "imenica",
+      "definition": "Narandžasto povrće sa slatkim ukusom.",
+      "example_sentence": "Šargarepa je dobra za oči."
+    },
+    "english": {
+      "word": "carrot",
+      "part_of_speech": "noun",
+      "definition": "Orange vegetable with a sweet taste.",
+      "example_sentence": "Carrots are good for the eyes."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 225,
+  "translation": {
+    "cyrillic": {
+      "word": "екипа",
+      "part_of_speech": "именица",
+      "definition": "Група људи који заједно раде или се такмиче.",
+      "example_sentence": "Наша екипа је победила на турниру."
+    },
+    "latin": {
+      "word": "ekipa",
+      "part_of_speech": "imenica",
+      "definition": "Grupa ljudi koji zajedno rade ili se takmiče.",
+      "example_sentence": "Naša ekipa je pobedila na turniru."
+    },
+    "english": {
+      "word": "team",
+      "part_of_speech": "noun",
+      "definition": "A group of people who work or compete together.",
+      "example_sentence": "Our team won the tournament."
+    }
+  }
+}

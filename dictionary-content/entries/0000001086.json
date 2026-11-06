@@ -1,0 +1,23 @@
+{
+  "id": 1086,
+  "translation": {
+    "cyrillic": {
+      "word": "зенит",
+      "part_of_speech": "именица",
+      "definition": "Највиша тачка на небу или врхунац нечега.",
+      "example_sentence": "Сунце је било у зениту."
+    },
+    "latin": {
+      "word": "zenit",
+      "part_of_speech": "imenica",
+      "definition": "Najviša tačka na nebu ili vrhunac nečega.",
+      "example_sentence": "Sunce je bilo u zenitu."
+    },
+    "english": {
+      "word": "zenith",
+      "part_of_speech": "noun",
+      "definition": "The highest point in the sky or the peak of something.",
+      "example_sentence": "The sun was at its zenith."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 252,
+  "translation": {
+    "cyrillic": {
+      "word": "езотерија",
+      "part_of_speech": "именица",
+      "definition": "Учење намењено одабраном кругу људи.",
+      "example_sentence": "Бави се езотеријом годинама."
+    },
+    "latin": {
+      "word": "ezoterija",
+      "part_of_speech": "imenica",
+      "definition": "Učenje namenjeno odabranom krugu ljudi.",
+      "example_sentence": "Bavi se ezoterijom godinama."
+    },
+    "english": {
+      "word": "esoterica",
+      "part_of_speech": "noun",
+      "definition": "Teaching intended for a select circle of people.",
+      "example_sentence": "He has been involved in esoterica for years."
+    }
+  }
+}

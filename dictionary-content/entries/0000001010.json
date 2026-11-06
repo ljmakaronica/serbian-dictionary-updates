@@ -1,0 +1,23 @@
+{
+  "id": 1010,
+  "translation": {
+    "cyrillic": {
+      "word": "долина",
+      "part_of_speech": "именица",
+      "definition": "Ниско подручје између брда или планина.",
+      "example_sentence": "Река тече кроз долину."
+    },
+    "latin": {
+      "word": "dolina",
+      "part_of_speech": "imenica",
+      "definition": "Nisko područje između brda ili planina.",
+      "example_sentence": "Reka teče kroz dolinu."
+    },
+    "english": {
+      "word": "valley",
+      "part_of_speech": "noun",
+      "definition": "A low area between hills or mountains.",
+      "example_sentence": "The river flows through the valley."
+    }
+  }
+}

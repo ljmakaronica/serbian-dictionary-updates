@@ -1,0 +1,23 @@
+{
+  "id": 789,
+  "translation": {
+    "cyrillic": {
+      "word": "дивидирати",
+      "part_of_speech": "глагол",
+      "definition": "Делити један број другим; математички термин.",
+      "example_sentence": "Дванаест дивидирано са три је четири."
+    },
+    "latin": {
+      "word": "dividirati",
+      "part_of_speech": "glagol",
+      "definition": "Deliti jedan broj drugim; matematički termin.",
+      "example_sentence": "Dvanaest dividirano sa tri je četiri."
+    },
+    "english": {
+      "word": "divide",
+      "part_of_speech": "verb",
+      "definition": "To divide one number by another; a mathematical use of the Serbian verb.",
+      "example_sentence": "Twelve divided by three is four."
+    }
+  }
+}

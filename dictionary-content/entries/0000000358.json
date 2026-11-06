@@ -1,0 +1,23 @@
+{
+  "id": 358,
+  "translation": {
+    "cyrillic": {
+      "word": "љубичаста",
+      "part_of_speech": "придев",
+      "definition": "Боја која је мешавина плаве и црвене.",
+      "example_sentence": "Њена хаљина је била љубичаста."
+    },
+    "latin": {
+      "word": "ljubičasta",
+      "part_of_speech": "pridev",
+      "definition": "Boja koja je mešavina plave i crvene.",
+      "example_sentence": "Njena haljina je bila ljubičasta."
+    },
+    "english": {
+      "word": "purple",
+      "part_of_speech": "adjective",
+      "definition": "A color that is a mix of blue and red.",
+      "example_sentence": "Her dress was purple."
+    }
+  }
+}

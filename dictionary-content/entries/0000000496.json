@@ -1,0 +1,23 @@
+{
+  "id": 496,
+  "translation": {
+    "cyrillic": {
+      "word": "шума",
+      "part_of_speech": "именица",
+      "definition": "Велико подручје прекривено дрвећем.",
+      "example_sentence": "Шума је била пуна животиња."
+    },
+    "latin": {
+      "word": "šuma",
+      "part_of_speech": "imenica",
+      "definition": "Veliko područje prekriveno drvećem.",
+      "example_sentence": "Šuma je bila puna životinja."
+    },
+    "english": {
+      "word": "forest",
+      "part_of_speech": "noun",
+      "definition": "A large area covered with trees.",
+      "example_sentence": "The forest was full of animals."
+    }
+  }
+}

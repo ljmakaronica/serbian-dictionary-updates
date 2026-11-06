@@ -1,0 +1,23 @@
+{
+  "id": 531,
+  "translation": {
+    "cyrillic": {
+      "word": "деветнаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 19.",
+      "example_sentence": "Имам деветнаест бомбона."
+    },
+    "latin": {
+      "word": "devetnaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 19.",
+      "example_sentence": "Imam devetnaest bombona."
+    },
+    "english": {
+      "word": "nineteen",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 19.",
+      "example_sentence": "I have nineteen candies."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 39,
+  "translation": {
+    "cyrillic": {
+      "word": "анимација",
+      "part_of_speech": "именица",
+      "definition": "Процес креирања покретних слика помоћу цртања или рачунарске графике.",
+      "example_sentence": "Анимација у том филму је била невероватно детаљна."
+    },
+    "latin": {
+      "word": "animacija",
+      "part_of_speech": "imenica",
+      "definition": "Proces kreiranja pokretnih slika pomoću crtanja ili računarske grafike.",
+      "example_sentence": "Animacija u tom filmu je bila neverovatno detaljna."
+    },
+    "english": {
+      "word": "animation",
+      "part_of_speech": "noun",
+      "definition": "The process of creating moving images through drawing or computer graphics.",
+      "example_sentence": "The animation in that movie was incredibly detailed."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 132,
+  "translation": {
+    "cyrillic": {
+      "word": "вишња",
+      "part_of_speech": "именица",
+      "definition": "Врста воћа слична трешњи, али киселог укуса.",
+      "example_sentence": "Вишње су одличне за прављење џемова."
+    },
+    "latin": {
+      "word": "višnja",
+      "part_of_speech": "imenica",
+      "definition": "Vrsta voća slična trešnji, ali kiselog ukusa.",
+      "example_sentence": "Višnje su odlične za pravljenje džemova."
+    },
+    "english": {
+      "word": "sour cherry",
+      "part_of_speech": "noun",
+      "definition": "A type of fruit similar to cherries but with a sour taste.",
+      "example_sentence": "Sour cherries are great for making jams."
+    }
+  }
+}

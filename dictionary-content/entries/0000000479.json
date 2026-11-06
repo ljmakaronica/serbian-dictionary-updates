@@ -1,0 +1,23 @@
+{
+  "id": 479,
+  "translation": {
+    "cyrillic": {
+      "word": "чаша",
+      "part_of_speech": "именица",
+      "definition": "Стаклена посуда за пиће.",
+      "example_sentence": "Чаша воде је била на столу."
+    },
+    "latin": {
+      "word": "čaša",
+      "part_of_speech": "imenica",
+      "definition": "Staklena posuda za piće.",
+      "example_sentence": "Čaša vode je bila na stolu."
+    },
+    "english": {
+      "word": "glass",
+      "part_of_speech": "noun",
+      "definition": "A glass container for drinking.",
+      "example_sentence": "A glass of water was on the table."
+    }
+  }
+}

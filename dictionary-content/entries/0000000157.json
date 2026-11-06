@@ -1,0 +1,23 @@
+{
+  "id": 157,
+  "translation": {
+    "cyrillic": {
+      "word": "грађанин",
+      "part_of_speech": "именица",
+      "definition": "Особа која припада одређеној држави.",
+      "example_sentence": "Сваки грађанин има права и обавезе."
+    },
+    "latin": {
+      "word": "građanin",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja pripada određenoj državi.",
+      "example_sentence": "Svaki građanin ima prava i obaveze."
+    },
+    "english": {
+      "word": "citizen",
+      "part_of_speech": "noun",
+      "definition": "A person belonging to a particular state.",
+      "example_sentence": "Every citizen has rights and responsibilities."
+    }
+  }
+}

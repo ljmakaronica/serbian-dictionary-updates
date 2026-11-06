@@ -1,0 +1,23 @@
+{
+  "id": 228,
+  "translation": {
+    "cyrillic": {
+      "word": "економија",
+      "part_of_speech": "именица",
+      "definition": "Систем производње, дистрибуције и потрошње роба.",
+      "example_sentence": "Економија земље се стално развија."
+    },
+    "latin": {
+      "word": "ekonomija",
+      "part_of_speech": "imenica",
+      "definition": "Sistem proizvodnje, distribucije i potrošnje roba.",
+      "example_sentence": "Ekonomija zemlje se stalno razvija."
+    },
+    "english": {
+      "word": "economy",
+      "part_of_speech": "noun",
+      "definition": "The system of production, distribution, and consumption of goods.",
+      "example_sentence": "The country's economy is constantly developing."
+    }
+  }
+}

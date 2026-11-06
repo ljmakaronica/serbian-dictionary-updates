@@ -1,0 +1,23 @@
+{
+  "id": 323,
+  "translation": {
+    "cyrillic": {
+      "word": "јастук",
+      "part_of_speech": "именица",
+      "definition": "Мека подлога за главу при спавању.",
+      "example_sentence": "Нови јастук је веома удобан."
+    },
+    "latin": {
+      "word": "jastuk",
+      "part_of_speech": "imenica",
+      "definition": "Meka podloga za glavu pri spavanju.",
+      "example_sentence": "Novi jastuk je veoma udoban."
+    },
+    "english": {
+      "word": "pillow",
+      "part_of_speech": "noun",
+      "definition": "A soft cushion for the head while sleeping.",
+      "example_sentence": "The new pillow is very comfortable."
+    }
+  }
+}

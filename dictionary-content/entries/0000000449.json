@@ -1,0 +1,23 @@
+{
+  "id": 449,
+  "translation": {
+    "cyrillic": {
+      "word": "фотографија",
+      "part_of_speech": "именица",
+      "definition": "Слика направљена камером.",
+      "example_sentence": "Фотографија је била јасна и детаљна."
+    },
+    "latin": {
+      "word": "fotografija",
+      "part_of_speech": "imenica",
+      "definition": "Slika napravljena kamerom.",
+      "example_sentence": "Fotografija je bila jasna i detaljna."
+    },
+    "english": {
+      "word": "photograph",
+      "part_of_speech": "noun",
+      "definition": "A picture taken with a camera.",
+      "example_sentence": "The photograph was clear and detailed."
+    }
+  }
+}

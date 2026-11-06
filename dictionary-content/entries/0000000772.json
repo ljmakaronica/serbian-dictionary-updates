@@ -1,0 +1,23 @@
+{
+  "id": 772,
+  "translation": {
+    "cyrillic": {
+      "word": "осмислити",
+      "part_of_speech": "глагол",
+      "definition": "Створити план или идеју кроз размишљање.",
+      "example_sentence": "Она је осмислила нову стратегију."
+    },
+    "latin": {
+      "word": "osmisliti",
+      "part_of_speech": "glagol",
+      "definition": "Stvoriti plan ili ideju kroz razmišljanje.",
+      "example_sentence": "Ona je osmislila novu strategiju."
+    },
+    "english": {
+      "word": "devise",
+      "part_of_speech": "verb",
+      "definition": "To plan or invent by careful thought.",
+      "example_sentence": "She devised a new strategy."
+    }
+  }
+}

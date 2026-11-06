@@ -1,0 +1,23 @@
+{
+  "id": 232,
+  "translation": {
+    "cyrillic": {
+      "word": "еволуција",
+      "part_of_speech": "именица",
+      "definition": "Постепени процес развоја и промене.",
+      "example_sentence": "Еволуција је довела до развоја различитих врста."
+    },
+    "latin": {
+      "word": "evolucija",
+      "part_of_speech": "imenica",
+      "definition": "Postepeni proces razvoja i promene.",
+      "example_sentence": "Evolucija je dovela do razvoja različitih vrsta."
+    },
+    "english": {
+      "word": "evolution",
+      "part_of_speech": "noun",
+      "definition": "The gradual process of development and change.",
+      "example_sentence": "Evolution has led to the development of different species."
+    }
+  }
+}

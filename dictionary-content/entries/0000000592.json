@@ -1,0 +1,23 @@
+{
+  "id": 592,
+  "translation": {
+    "cyrillic": {
+      "word": "кромпир",
+      "part_of_speech": "именица",
+      "definition": "Основна намирница која се користи у многим јелима.",
+      "example_sentence": "Кромпир је веома популаран."
+    },
+    "latin": {
+      "word": "krompir",
+      "part_of_speech": "imenica",
+      "definition": "Osnovna namirnica koja se koristi u mnogim jelima.",
+      "example_sentence": "Krompir je veoma popularan."
+    },
+    "english": {
+      "word": "potato",
+      "part_of_speech": "noun",
+      "definition": "A staple food used in many dishes.",
+      "example_sentence": "Potatoes are very popular."
+    }
+  }
+}

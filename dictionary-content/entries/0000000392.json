@@ -1,0 +1,23 @@
+{
+  "id": 392,
+  "translation": {
+    "cyrillic": {
+      "word": "одлука",
+      "part_of_speech": "именица",
+      "definition": "Закључак или решење донето након размишљања.",
+      "example_sentence": "Његова одлука је била коначна."
+    },
+    "latin": {
+      "word": "odluka",
+      "part_of_speech": "imenica",
+      "definition": "Zaključak ili rešenje doneto nakon razmišljanja.",
+      "example_sentence": "Njegova odluka je bila konačna."
+    },
+    "english": {
+      "word": "decision",
+      "part_of_speech": "noun",
+      "definition": "A conclusion or solution made after consideration.",
+      "example_sentence": "His decision was final."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 514,
+  "translation": {
+    "cyrillic": {
+      "word": "један",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 1.",
+      "example_sentence": "Имам један аутомобил."
+    },
+    "latin": {
+      "word": "jedan",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 1.",
+      "example_sentence": "Imam jedan automobil."
+    },
+    "english": {
+      "word": "one",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 1.",
+      "example_sentence": "I have one car."
+    }
+  }
+}

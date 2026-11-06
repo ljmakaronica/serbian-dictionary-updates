@@ -1,0 +1,23 @@
+{
+  "id": 819,
+  "translation": {
+    "cyrillic": {
+      "word": "снажно",
+      "part_of_speech": "прилог",
+      "definition": "Са великом снагом или интензитетом.",
+      "example_sentence": "Ветар снажно дува."
+    },
+    "latin": {
+      "word": "snažno",
+      "part_of_speech": "prilog",
+      "definition": "Sa velikom snagom ili intenzitetom.",
+      "example_sentence": "Vetar snažno duva."
+    },
+    "english": {
+      "word": "strongly",
+      "part_of_speech": "adverb",
+      "definition": "With great force or intensity.",
+      "example_sentence": "The wind is blowing strongly."
+    }
+  }
+}

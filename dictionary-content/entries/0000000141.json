@@ -1,0 +1,23 @@
+{
+  "id": 141,
+  "translation": {
+    "cyrillic": {
+      "word": "вест",
+      "part_of_speech": "именица",
+      "definition": "Информација или обавештење о неком догађају.",
+      "example_sentence": "Добили смо добре вести из болнице."
+    },
+    "latin": {
+      "word": "vest",
+      "part_of_speech": "imenica",
+      "definition": "Informacija ili obaveštenje o nekom događaju.",
+      "example_sentence": "Dobili smo dobre vesti iz bolnice."
+    },
+    "english": {
+      "word": "news",
+      "part_of_speech": "noun",
+      "definition": "Information or notification about an event.",
+      "example_sentence": "We received good news from the hospital."
+    }
+  }
+}

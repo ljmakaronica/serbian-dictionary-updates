@@ -1,0 +1,23 @@
+{
+  "id": 201,
+  "translation": {
+    "cyrillic": {
+      "word": "доктор",
+      "part_of_speech": "именица",
+      "definition": "Лекар који има високу квалификацију у медицинској области.",
+      "example_sentence": "Доктор је преписао лекове за лечење инфекције."
+    },
+    "latin": {
+      "word": "doktor",
+      "part_of_speech": "imenica",
+      "definition": "Lekar koji ima visoku kvalifikaciju u medicinskoj oblasti.",
+      "example_sentence": "Doktor je prepisao lekove za lečenje infekcije."
+    },
+    "english": {
+      "word": "doctor",
+      "part_of_speech": "noun",
+      "definition": "A physician with high qualifications in the medical field.",
+      "example_sentence": "The doctor prescribed medication to treat the infection."
+    }
+  }
+}

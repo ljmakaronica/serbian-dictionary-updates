@@ -1,0 +1,23 @@
+{
+  "id": 587,
+  "translation": {
+    "cyrillic": {
+      "word": "банана",
+      "part_of_speech": "именица",
+      "definition": "Воће са жутом кожом.",
+      "example_sentence": "Банане су слатке."
+    },
+    "latin": {
+      "word": "banana",
+      "part_of_speech": "imenica",
+      "definition": "Voće sa žutom korom.",
+      "example_sentence": "Banane su slatke."
+    },
+    "english": {
+      "word": "banana",
+      "part_of_speech": "noun",
+      "definition": "A fruit with yellow skin.",
+      "example_sentence": "Bananas are sweet."
+    }
+  }
+}

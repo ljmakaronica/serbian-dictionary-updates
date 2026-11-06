@@ -1,0 +1,23 @@
+{
+  "id": 905,
+  "translation": {
+    "cyrillic": {
+      "word": "весело",
+      "part_of_speech": "прилог",
+      "definition": "Прилог који означава радњу извршену са радошћу",
+      "example_sentence": "Деца весело играју."
+    },
+    "latin": {
+      "word": "veselo",
+      "part_of_speech": "prilog",
+      "definition": "Prilog koji označava radnju izvršenu sa radošću",
+      "example_sentence": "Deca veselo igraju."
+    },
+    "english": {
+      "word": "cheerfully",
+      "part_of_speech": "adverb",
+      "definition": "Adverb indicating action performed with joy",
+      "example_sentence": "Children play cheerfully."
+    }
+  }
+}

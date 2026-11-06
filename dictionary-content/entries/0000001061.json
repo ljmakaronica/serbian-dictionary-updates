@@ -1,0 +1,23 @@
+{
+  "id": 1061,
+  "translation": {
+    "cyrillic": {
+      "word": "квиз",
+      "part_of_speech": "именица",
+      "definition": "Кратка провера знања.",
+      "example_sentence": "Радили су квиз из историје."
+    },
+    "latin": {
+      "word": "kviz",
+      "part_of_speech": "imenica",
+      "definition": "Kratka provera znanja.",
+      "example_sentence": "Radili su kviz iz istorije."
+    },
+    "english": {
+      "word": "quiz",
+      "part_of_speech": "noun",
+      "definition": "A short test of knowledge.",
+      "example_sentence": "They did a history quiz."
+    }
+  }
+}

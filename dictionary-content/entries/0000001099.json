@@ -1,0 +1,23 @@
+{
+  "id": 1099,
+  "translation": {
+    "cyrillic": {
+      "word": "тек",
+      "part_of_speech": "речца",
+      "definition": "Речца која означава нешто што се управо десило или ће тек уследити.",
+      "example_sentence": "Тек сад сам стигао."
+    },
+    "latin": {
+      "word": "tek",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja označava nešto što se upravo desilo ili će tek uslediti.",
+      "example_sentence": "Tek sad sam stigao."
+    },
+    "english": {
+      "word": "just",
+      "part_of_speech": "particle",
+      "definition": "A particle meaning \"just,\" \"only,\" or \"not until.\"",
+      "example_sentence": "I just arrived."
+    }
+  }
+}

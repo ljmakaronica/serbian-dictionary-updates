@@ -1,0 +1,23 @@
+{
+  "id": 700,
+  "translation": {
+    "cyrillic": {
+      "word": "песник",
+      "part_of_speech": "именица",
+      "definition": "Особа која ствара поезију.",
+      "example_sentence": "Песник инспирише публику својим стиховима."
+    },
+    "latin": {
+      "word": "pesnik",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja stvara poeziju.",
+      "example_sentence": "Pesnik inspiriše publiku svojim stihovima."
+    },
+    "english": {
+      "word": "poet",
+      "part_of_speech": "noun",
+      "definition": "A person who creates poetry.",
+      "example_sentence": "The poet inspires the audience with his verses."
+    }
+  }
+}

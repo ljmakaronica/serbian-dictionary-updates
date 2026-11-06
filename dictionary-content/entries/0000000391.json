@@ -1,0 +1,23 @@
+{
+  "id": 391,
+  "translation": {
+    "cyrillic": {
+      "word": "одговор",
+      "part_of_speech": "именица",
+      "definition": "Реакција или решење на питање или проблем.",
+      "example_sentence": "Одговор на његово питање је био јасан."
+    },
+    "latin": {
+      "word": "odgovor",
+      "part_of_speech": "imenica",
+      "definition": "Reakcija ili rešenje na pitanje ili problem.",
+      "example_sentence": "Odgovor na njegovo pitanje je bio jasan."
+    },
+    "english": {
+      "word": "answer",
+      "part_of_speech": "noun",
+      "definition": "A reaction or solution to a question or problem.",
+      "example_sentence": "The answer to his question was clear."
+    }
+  }
+}

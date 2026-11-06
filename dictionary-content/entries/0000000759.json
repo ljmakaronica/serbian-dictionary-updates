@@ -1,0 +1,23 @@
+{
+  "id": 759,
+  "translation": {
+    "cyrillic": {
+      "word": "развијати",
+      "part_of_speech": "глагол",
+      "definition": "Постепено унапређивати или проширивати нешто.",
+      "example_sentence": "Технологија се стално развија."
+    },
+    "latin": {
+      "word": "razvijati",
+      "part_of_speech": "glagol",
+      "definition": "Postepeno unapređivati ili širiti nešto.",
+      "example_sentence": "Tehnologija se stalno razvija."
+    },
+    "english": {
+      "word": "develop",
+      "part_of_speech": "verb",
+      "definition": "To grow or cause to grow and become more mature.",
+      "example_sentence": "Technology is constantly developing."
+    }
+  }
+}

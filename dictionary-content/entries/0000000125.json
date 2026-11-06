@@ -1,0 +1,23 @@
+{
+  "id": 125,
+  "translation": {
+    "cyrillic": {
+      "word": "ветар",
+      "part_of_speech": "именица",
+      "definition": "Кретање ваздуха у атмосфери.",
+      "example_sentence": "Ветар је дувао јако током олује."
+    },
+    "latin": {
+      "word": "vetar",
+      "part_of_speech": "imenica",
+      "definition": "Kretanje vazduha u atmosferi.",
+      "example_sentence": "Vetar je duvao jako tokom oluje."
+    },
+    "english": {
+      "word": "wind",
+      "part_of_speech": "noun",
+      "definition": "The movement of air in the atmosphere.",
+      "example_sentence": "The wind blew strongly during the storm."
+    }
+  }
+}

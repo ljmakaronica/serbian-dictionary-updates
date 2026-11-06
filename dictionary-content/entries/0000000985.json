@@ -1,0 +1,23 @@
+{
+  "id": 985,
+  "translation": {
+    "cyrillic": {
+      "word": "ко",
+      "part_of_speech": "заменица",
+      "definition": "која особа",
+      "example_sentence": "Ко је то?"
+    },
+    "latin": {
+      "word": "ko",
+      "part_of_speech": "zamenica",
+      "definition": "koja osoba",
+      "example_sentence": "Ko je to?"
+    },
+    "english": {
+      "word": "who",
+      "part_of_speech": "pronoun",
+      "definition": "which person",
+      "example_sentence": "Who is that?"
+    }
+  }
+}

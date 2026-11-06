@@ -1,0 +1,23 @@
+{
+  "id": 203,
+  "translation": {
+    "cyrillic": {
+      "word": "датум",
+      "part_of_speech": "именица",
+      "definition": "Одређени тренутак у времену.",
+      "example_sentence": "Датум нашег састанка је 15. фебруар."
+    },
+    "latin": {
+      "word": "datum",
+      "part_of_speech": "imenica",
+      "definition": "Određeni trenutak u vremenu.",
+      "example_sentence": "Datum našeg sastanka je 15. februar."
+    },
+    "english": {
+      "word": "date",
+      "part_of_speech": "noun",
+      "definition": "A specific moment in time.",
+      "example_sentence": "The date of our meeting is February 15."
+    }
+  }
+}

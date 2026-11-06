@@ -1,0 +1,23 @@
+{
+  "id": 347,
+  "translation": {
+    "cyrillic": {
+      "word": "кафић",
+      "part_of_speech": "именица",
+      "definition": "Мањи угоститељски објекат у коме се служе кафа и други напици.",
+      "example_sentence": "У кафићу смо се упознали пре много година."
+    },
+    "latin": {
+      "word": "kafić",
+      "part_of_speech": "imenica",
+      "definition": "Manji ugostiteljski objekat u kome se služe kafa i drugi napici.",
+      "example_sentence": "U kafiću smo se upoznali pre mnogo godina."
+    },
+    "english": {
+      "word": "café",
+      "part_of_speech": "noun",
+      "definition": "A small establishment serving coffee and other drinks.",
+      "example_sentence": "We met at a café many years ago."
+    }
+  }
+}

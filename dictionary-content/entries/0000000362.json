@@ -1,0 +1,23 @@
+{
+  "id": 362,
+  "translation": {
+    "cyrillic": {
+      "word": "млеко",
+      "part_of_speech": "именица",
+      "definition": "Бела течност коју производе женке сисара за храњење младунаца.",
+      "example_sentence": "Млеко је богато калцијумом."
+    },
+    "latin": {
+      "word": "mleko",
+      "part_of_speech": "imenica",
+      "definition": "Bela tečnost koju proizvode ženke sisara za hranjenje mladunaca.",
+      "example_sentence": "Mleko je bogato kalcijumom."
+    },
+    "english": {
+      "word": "milk",
+      "part_of_speech": "noun",
+      "definition": "A white liquid produced by female mammals to feed their young.",
+      "example_sentence": "Milk is rich in calcium."
+    }
+  }
+}

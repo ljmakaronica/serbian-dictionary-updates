@@ -1,0 +1,23 @@
+{
+  "id": 334,
+  "translation": {
+    "cyrillic": {
+      "word": "крава",
+      "part_of_speech": "именица",
+      "definition": "Домаћа животиња која даје млеко.",
+      "example_sentence": "Крава је пасла на ливади."
+    },
+    "latin": {
+      "word": "krava",
+      "part_of_speech": "imenica",
+      "definition": "Domaća životinja koja daje mleko.",
+      "example_sentence": "Krava je pasla na livadi."
+    },
+    "english": {
+      "word": "cow",
+      "part_of_speech": "noun",
+      "definition": "A domestic animal that produces milk.",
+      "example_sentence": "The cow was grazing in the meadow."
+    }
+  }
+}

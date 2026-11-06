@@ -1,0 +1,23 @@
+{
+  "id": 2,
+  "translation": {
+    "cyrillic": {
+      "word": "ако",
+      "part_of_speech": "везник",
+      "definition": "Користи се за изражавање услова или могућности.",
+      "example_sentence": "Доћи ћу ако престане киша."
+    },
+    "latin": {
+      "word": "ako",
+      "part_of_speech": "veznik",
+      "definition": "Koristi se za izražavanje uslova ili mogućnosti.",
+      "example_sentence": "Doći ću ako prestane kiša."
+    },
+    "english": {
+      "word": "if",
+      "part_of_speech": "conjunction",
+      "definition": "Used to express conditions or possibilities.",
+      "example_sentence": "I will come if it stops raining."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 249,
+  "translation": {
+    "cyrillic": {
+      "word": "ефекат",
+      "part_of_speech": "именица",
+      "definition": "Резултат или последица неке акције.",
+      "example_sentence": "Лек је имао позитиван ефекат."
+    },
+    "latin": {
+      "word": "efekat",
+      "part_of_speech": "imenica",
+      "definition": "Rezultat ili posledica neke akcije.",
+      "example_sentence": "Lek je imao pozitivan efekat."
+    },
+    "english": {
+      "word": "effect",
+      "part_of_speech": "noun",
+      "definition": "The result or consequence of an action.",
+      "example_sentence": "The medicine had a positive effect."
+    }
+  }
+}

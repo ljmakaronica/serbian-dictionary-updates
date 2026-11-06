@@ -1,0 +1,23 @@
+{
+  "id": 900,
+  "translation": {
+    "cyrillic": {
+      "word": "према",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава усмерење или став",
+      "example_sentence": "Идем према парку."
+    },
+    "latin": {
+      "word": "prema",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava usmerenje ili stav",
+      "example_sentence": "Idem prema parku."
+    },
+    "english": {
+      "word": "towards",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating direction or attitude",
+      "example_sentence": "I am going towards the park."
+    }
+  }
+}

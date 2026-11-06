@@ -1,0 +1,23 @@
+{
+  "id": 4,
+  "translation": {
+    "cyrillic": {
+      "word": "армија",
+      "part_of_speech": "именица",
+      "definition": "Организована војна снага једне земље.",
+      "example_sentence": "Служио је у армији две године."
+    },
+    "latin": {
+      "word": "armija",
+      "part_of_speech": "imenica",
+      "definition": "Organizovana vojna snaga jedne zemlje.",
+      "example_sentence": "Služio je u armiji dve godine."
+    },
+    "english": {
+      "word": "army",
+      "part_of_speech": "noun",
+      "definition": "The organized military force of a country.",
+      "example_sentence": "He served in the army for two years."
+    }
+  }
+}

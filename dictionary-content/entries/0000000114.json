@@ -1,0 +1,23 @@
+{
+  "id": 114,
+  "translation": {
+    "cyrillic": {
+      "word": "бука",
+      "part_of_speech": "именица",
+      "definition": "Гласан и неугодан звук.",
+      "example_sentence": "Бука са улице ме буди ујутру."
+    },
+    "latin": {
+      "word": "buka",
+      "part_of_speech": "imenica",
+      "definition": "Glasan i neugodan zvuk.",
+      "example_sentence": "Buka sa ulice me budi ujutru."
+    },
+    "english": {
+      "word": "noise",
+      "part_of_speech": "noun",
+      "definition": "A loud and unpleasant sound.",
+      "example_sentence": "The noise from the street wakes me up in the morning."
+    }
+  }
+}

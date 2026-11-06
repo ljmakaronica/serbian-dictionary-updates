@@ -1,0 +1,23 @@
+{
+  "id": 94,
+  "translation": {
+    "cyrillic": {
+      "word": "биоскоп",
+      "part_of_speech": "именица",
+      "definition": "Место где се приказују филмови.",
+      "example_sentence": "Вечерас идемо у биоскоп да гледамо нови филм."
+    },
+    "latin": {
+      "word": "bioskop",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde se prikazuju filmovi.",
+      "example_sentence": "Večeras idemo u bioskop da gledamo novi film."
+    },
+    "english": {
+      "word": "cinema",
+      "part_of_speech": "noun",
+      "definition": "A place where films are shown.",
+      "example_sentence": "Tonight we're going to the cinema to watch a new movie."
+    }
+  }
+}

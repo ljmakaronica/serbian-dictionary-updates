@@ -1,0 +1,23 @@
+{
+  "id": 1019,
+  "translation": {
+    "cyrillic": {
+      "word": "судија",
+      "part_of_speech": "именица",
+      "definition": "Особа која доноси одлуке у суду.",
+      "example_sentence": "Судија је донео пресуду."
+    },
+    "latin": {
+      "word": "sudija",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja donosi odluke u sudu.",
+      "example_sentence": "Sudija je doneo presudu."
+    },
+    "english": {
+      "word": "judge",
+      "part_of_speech": "noun",
+      "definition": "An official who makes decisions in court.",
+      "example_sentence": "The judge delivered the verdict."
+    }
+  }
+}

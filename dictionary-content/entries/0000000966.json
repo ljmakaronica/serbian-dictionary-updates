@@ -1,0 +1,23 @@
+{
+  "id": 966,
+  "translation": {
+    "cyrillic": {
+      "word": "живети",
+      "part_of_speech": "глагол",
+      "definition": "бити жив",
+      "example_sentence": "Живим у Београду."
+    },
+    "latin": {
+      "word": "živeti",
+      "part_of_speech": "glagol",
+      "definition": "biti živ",
+      "example_sentence": "Živim u Beogradu."
+    },
+    "english": {
+      "word": "to live",
+      "part_of_speech": "verb",
+      "definition": "be alive",
+      "example_sentence": "I live in Belgrade."
+    }
+  }
+}

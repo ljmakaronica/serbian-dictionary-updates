@@ -1,0 +1,23 @@
+{
+  "id": 459,
+  "translation": {
+    "cyrillic": {
+      "word": "хор",
+      "part_of_speech": "именица",
+      "definition": "Група људи која пева заједно.",
+      "example_sentence": "Хор је певао дивно."
+    },
+    "latin": {
+      "word": "hor",
+      "part_of_speech": "imenica",
+      "definition": "Grupa ljudi koja peva zajedno.",
+      "example_sentence": "Hor je pevao divno."
+    },
+    "english": {
+      "word": "choir",
+      "part_of_speech": "noun",
+      "definition": "A group of people singing together.",
+      "example_sentence": "The choir sang beautifully."
+    }
+  }
+}

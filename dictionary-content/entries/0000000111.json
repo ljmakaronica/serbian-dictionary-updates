@@ -1,0 +1,23 @@
+{
+  "id": 111,
+  "translation": {
+    "cyrillic": {
+      "word": "бицикл",
+      "part_of_speech": "именица",
+      "definition": "Возило на два точка које се покреће педалама.",
+      "example_sentence": "Купио сам нови бицикл за вожњу по граду."
+    },
+    "latin": {
+      "word": "bicikl",
+      "part_of_speech": "imenica",
+      "definition": "Vozilo na dva točka koje se pokreće pedalama.",
+      "example_sentence": "Kupio sam novi bicikl za vožnju po gradu."
+    },
+    "english": {
+      "word": "bicycle",
+      "part_of_speech": "noun",
+      "definition": "A two-wheeled vehicle powered by pedals.",
+      "example_sentence": "I bought a new bicycle for riding around the city."
+    }
+  }
+}

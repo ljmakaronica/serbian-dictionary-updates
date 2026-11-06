@@ -1,0 +1,23 @@
+{
+  "id": 532,
+  "translation": {
+    "cyrillic": {
+      "word": "двадесет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 20.",
+      "example_sentence": "Имам двадесет књига."
+    },
+    "latin": {
+      "word": "dvadeset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 20.",
+      "example_sentence": "Imam dvadeset knjiga."
+    },
+    "english": {
+      "word": "twenty",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 20.",
+      "example_sentence": "I have twenty books."
+    }
+  }
+}

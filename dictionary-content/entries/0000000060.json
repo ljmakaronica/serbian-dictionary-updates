@@ -1,0 +1,23 @@
+{
+  "id": 60,
+  "translation": {
+    "cyrillic": {
+      "word": "адекватан",
+      "part_of_speech": "придев",
+      "definition": "Прикладан или одговарајућих размера.",
+      "example_sentence": "Његов одговор на питање био је адекватан."
+    },
+    "latin": {
+      "word": "adekvatan",
+      "part_of_speech": "pridev",
+      "definition": "Prikladan ili odgovarajućih razmera.",
+      "example_sentence": "Njegov odgovor na pitanje bio je adekvatan."
+    },
+    "english": {
+      "word": "adequate",
+      "part_of_speech": "adjective",
+      "definition": "Suitable or of appropriate proportions.",
+      "example_sentence": "His answer to the question was adequate."
+    }
+  }
+}

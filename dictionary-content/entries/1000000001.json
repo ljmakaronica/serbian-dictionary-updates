@@ -1,0 +1,23 @@
+{
+  "id": 1000000001,
+  "translation": {
+    "cyrillic": {
+      "word": "јануар",
+      "part_of_speech": "именица",
+      "definition": "Први месец у години.",
+      "example_sentence": "Јануар је најхладнији месец."
+    },
+    "latin": {
+      "word": "januar",
+      "part_of_speech": "imenica",
+      "definition": "Prvi mesec u godini.",
+      "example_sentence": "Januar je najhladniji mesec."
+    },
+    "english": {
+      "word": "January",
+      "part_of_speech": "noun",
+      "definition": "The first month of the year.",
+      "example_sentence": "January is the coldest month."
+    }
+  }
+}

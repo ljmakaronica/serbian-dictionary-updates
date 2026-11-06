@@ -1,0 +1,23 @@
+{
+  "id": 758,
+  "translation": {
+    "cyrillic": {
+      "word": "учврстити",
+      "part_of_speech": "глагол",
+      "definition": "Учинити нешто чвршћим или стабилнијим.",
+      "example_sentence": "Радници су учврстили конструкцију моста."
+    },
+    "latin": {
+      "word": "učvrstiti",
+      "part_of_speech": "glagol",
+      "definition": "Učiniti nešto čvršćim ili stabilnijim.",
+      "example_sentence": "Radnici su učvrstili konstrukciju mosta."
+    },
+    "english": {
+      "word": "strengthen",
+      "part_of_speech": "verb",
+      "definition": "To make something stronger or more resilient.",
+      "example_sentence": "The workers strengthened the structure of the bridge."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 171,
+  "translation": {
+    "cyrillic": {
+      "word": "грејач",
+      "part_of_speech": "именица",
+      "definition": "Уређај који производи топлоту.",
+      "example_sentence": "Зими користим грејач да загрејем собу."
+    },
+    "latin": {
+      "word": "grejač",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj koji proizvodi toplinu.",
+      "example_sentence": "Zimi koristim grejač da zagrejem sobu."
+    },
+    "english": {
+      "word": "heater",
+      "part_of_speech": "noun",
+      "definition": "A device that produces heat.",
+      "example_sentence": "In winter, I use a heater to warm the room."
+    }
+  }
+}

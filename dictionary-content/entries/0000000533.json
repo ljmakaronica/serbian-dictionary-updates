@@ -1,0 +1,23 @@
+{
+  "id": 533,
+  "translation": {
+    "cyrillic": {
+      "word": "тридесет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 30.",
+      "example_sentence": "Имам тридесет јабука."
+    },
+    "latin": {
+      "word": "trideset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 30.",
+      "example_sentence": "Imam trideset jabuka."
+    },
+    "english": {
+      "word": "thirty",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 30.",
+      "example_sentence": "I have thirty apples."
+    }
+  }
+}

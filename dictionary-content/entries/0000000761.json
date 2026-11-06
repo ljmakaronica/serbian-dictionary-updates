@@ -1,0 +1,23 @@
+{
+  "id": 761,
+  "translation": {
+    "cyrillic": {
+      "word": "повезивати",
+      "part_of_speech": "глагол",
+      "definition": "Стварај везу између различитих елемената.",
+      "example_sentence": "Софтвер повезује уређаје у мрежу."
+    },
+    "latin": {
+      "word": "povezivati",
+      "part_of_speech": "glagol",
+      "definition": "Stvarati vezu između različitih elemenata.",
+      "example_sentence": "Softver povezuje uređaje u mrežu."
+    },
+    "english": {
+      "word": "connect",
+      "part_of_speech": "verb",
+      "definition": "To join together so as to provide access or communication.",
+      "example_sentence": "The software connects the devices into a network."
+    }
+  }
+}

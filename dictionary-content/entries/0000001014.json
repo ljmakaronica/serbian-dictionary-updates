@@ -1,0 +1,23 @@
+{
+  "id": 1014,
+  "translation": {
+    "cyrillic": {
+      "word": "глагол",
+      "part_of_speech": "именица",
+      "definition": "Реч која означава радњу или стање.",
+      "example_sentence": "У реченици треба да буде глагол."
+    },
+    "latin": {
+      "word": "glagol",
+      "part_of_speech": "imenica",
+      "definition": "Reč koja označava radnju ili stanje.",
+      "example_sentence": "U rečenici treba da bude glagol."
+    },
+    "english": {
+      "word": "verb",
+      "part_of_speech": "noun",
+      "definition": "A word that indicates an action or state.",
+      "example_sentence": "There should be a verb in the sentence."
+    }
+  }
+}

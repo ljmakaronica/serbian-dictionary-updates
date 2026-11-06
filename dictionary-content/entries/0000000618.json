@@ -1,0 +1,23 @@
+{
+  "id": 618,
+  "translation": {
+    "cyrillic": {
+      "word": "рерна",
+      "part_of_speech": "именица",
+      "definition": "Уређај за печење хране.",
+      "example_sentence": "Печем хлеб у рерни."
+    },
+    "latin": {
+      "word": "rerna",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za pečenje hrane.",
+      "example_sentence": "Pečem hleb u rerni."
+    },
+    "english": {
+      "word": "oven",
+      "part_of_speech": "noun",
+      "definition": "A device for baking food.",
+      "example_sentence": "I bake bread in the oven."
+    }
+  }
+}

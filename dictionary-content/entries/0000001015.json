@@ -1,0 +1,23 @@
+{
+  "id": 1015,
+  "translation": {
+    "cyrillic": {
+      "word": "јакна",
+      "part_of_speech": "именица",
+      "definition": "Кратка горња одећа која се носи преко друге одеће; има рукаве и затвара се спреда.",
+      "example_sentence": "Обукла је јакну јер је напољу било хладно."
+    },
+    "latin": {
+      "word": "jakna",
+      "part_of_speech": "imenica",
+      "definition": "Kratka gornja odeća koja se nosi preko druge odeće; ima rukave i zatvara se spredu.",
+      "example_sentence": "Obukla je jaknu jer je napolju bilo hladno."
+    },
+    "english": {
+      "word": "jacket",
+      "part_of_speech": "noun",
+      "definition": "A short outer garment worn over other clothing, with sleeves and front fastenings.",
+      "example_sentence": "She put on her jacket because it was cold outside."
+    }
+  }
+}

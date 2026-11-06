@@ -1,0 +1,23 @@
+{
+  "id": 103,
+  "translation": {
+    "cyrillic": {
+      "word": "бележити",
+      "part_of_speech": "глагол",
+      "definition": "Записивати нешто ради памћења.",
+      "example_sentence": "Студенти бележе важне информације током предавања."
+    },
+    "latin": {
+      "word": "beležiti",
+      "part_of_speech": "glagol",
+      "definition": "Zapisivati nešto radi pamćenja.",
+      "example_sentence": "Studenti beleže važne informacije tokom predavanja."
+    },
+    "english": {
+      "word": "note down",
+      "part_of_speech": "verb",
+      "definition": "To write something down for remembering.",
+      "example_sentence": "Students note down important information during lectures."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 490,
+  "translation": {
+    "cyrillic": {
+      "word": "џокер",
+      "part_of_speech": "именица",
+      "definition": "Карта у игри која може заменити било коју другу карту.",
+      "example_sentence": "Џокер је био кључна карта у игри."
+    },
+    "latin": {
+      "word": "džoker",
+      "part_of_speech": "imenica",
+      "definition": "Karta u igri koja može zameniti bilo koju drugu kartu.",
+      "example_sentence": "Džoker je bio ključna karta u igri."
+    },
+    "english": {
+      "word": "joker",
+      "part_of_speech": "noun",
+      "definition": "A card in a game that can replace any other card.",
+      "example_sentence": "The joker was the key card in the game."
+    }
+  }
+}

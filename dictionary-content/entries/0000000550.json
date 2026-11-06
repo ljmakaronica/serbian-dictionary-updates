@@ -1,0 +1,23 @@
+{
+  "id": 550,
+  "translation": {
+    "cyrillic": {
+      "word": "шапат",
+      "part_of_speech": "именица",
+      "definition": "Тихи говор који се чује само близу.",
+      "example_sentence": "Чуо сам њен шапат у тишини."
+    },
+    "latin": {
+      "word": "šapat",
+      "part_of_speech": "imenica",
+      "definition": "Tihi govor koji se čuje samo blizu.",
+      "example_sentence": "Čuo sam njen šapat u tišini."
+    },
+    "english": {
+      "word": "whisper",
+      "part_of_speech": "noun",
+      "definition": "Soft speech that can only be heard close by.",
+      "example_sentence": "I heard her whisper in the silence."
+    }
+  }
+}

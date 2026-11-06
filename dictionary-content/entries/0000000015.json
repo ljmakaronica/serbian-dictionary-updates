@@ -1,0 +1,23 @@
+{
+  "id": 15,
+  "translation": {
+    "cyrillic": {
+      "word": "американка",
+      "part_of_speech": "именица",
+      "definition": "Жена која је пореклом из Америке или живи у Америци.",
+      "example_sentence": "Моја професорка енглеског је американка."
+    },
+    "latin": {
+      "word": "amerikanka",
+      "part_of_speech": "imenica",
+      "definition": "Žena koja je poreklom iz Amerike ili živi u Americi.",
+      "example_sentence": "Moja profesorka engleskog je amerikanka."
+    },
+    "english": {
+      "word": "American woman",
+      "part_of_speech": "noun",
+      "definition": "A woman who is from America or lives in America.",
+      "example_sentence": "My English teacher is an American woman."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 367,
+  "translation": {
+    "cyrillic": {
+      "word": "музика",
+      "part_of_speech": "именица",
+      "definition": "Уметност која користи звук и ритам.",
+      "example_sentence": "Волим да слушам класичну музику."
+    },
+    "latin": {
+      "word": "muzika",
+      "part_of_speech": "imenica",
+      "definition": "Umetnost koja koristi zvuk i ritam.",
+      "example_sentence": "Volim da slušam klasičnu muziku."
+    },
+    "english": {
+      "word": "music",
+      "part_of_speech": "noun",
+      "definition": "The art of using sound and rhythm.",
+      "example_sentence": "I love listening to classical music."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 807,
+  "translation": {
+    "cyrillic": {
+      "word": "тихо",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је мек и без буке.",
+      "example_sentence": "Она тихо шета кроз башту."
+    },
+    "latin": {
+      "word": "tiho",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je mekan i bez buke.",
+      "example_sentence": "Ona tiho šeta kroz baštu."
+    },
+    "english": {
+      "word": "quietly",
+      "part_of_speech": "adverb",
+      "definition": "In a soft, muted, or silent manner.",
+      "example_sentence": "She walks quietly through the garden."
+    }
+  }
+}

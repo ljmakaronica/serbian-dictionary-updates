@@ -1,0 +1,23 @@
+{
+  "id": 1006,
+  "translation": {
+    "cyrillic": {
+      "word": "имати",
+      "part_of_speech": "глагол",
+      "definition": "поседовати нешто",
+      "example_sentence": "Имам књигу."
+    },
+    "latin": {
+      "word": "imati",
+      "part_of_speech": "glagol",
+      "definition": "posedovati nešto",
+      "example_sentence": "Imam knjigu."
+    },
+    "english": {
+      "word": "to have",
+      "part_of_speech": "verb",
+      "definition": "possess something",
+      "example_sentence": "I have a book."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 461,
+  "translation": {
+    "cyrillic": {
+      "word": "хумор",
+      "part_of_speech": "именица",
+      "definition": "Смисао за шалу или весеље.",
+      "example_sentence": "Воли његов смисао за хумор."
+    },
+    "latin": {
+      "word": "humor",
+      "part_of_speech": "imenica",
+      "definition": "Smisao za šalu ili veselje.",
+      "example_sentence": "Voli njegov smisao za humor."
+    },
+    "english": {
+      "word": "humor",
+      "part_of_speech": "noun",
+      "definition": "The quality of being amusing or comical.",
+      "example_sentence": "She loves his sense of humor."
+    }
+  }
+}

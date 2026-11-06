@@ -1,0 +1,23 @@
+{
+  "id": 941,
+  "translation": {
+    "cyrillic": {
+      "word": "срећан",
+      "part_of_speech": "придев",
+      "definition": "пун радости",
+      "example_sentence": "Ја сам срећан данас."
+    },
+    "latin": {
+      "word": "srećan",
+      "part_of_speech": "pridev",
+      "definition": "pun radosti",
+      "example_sentence": "Ja sam srećan danas."
+    },
+    "english": {
+      "word": "happy",
+      "part_of_speech": "adjective",
+      "definition": "full of joy",
+      "example_sentence": "I am happy today."
+    }
+  }
+}

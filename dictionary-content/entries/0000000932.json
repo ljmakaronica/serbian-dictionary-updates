@@ -1,0 +1,23 @@
+{
+  "id": 932,
+  "translation": {
+    "cyrillic": {
+      "word": "породица",
+      "part_of_speech": "именица",
+      "definition": "група сродника",
+      "example_sentence": "Моја породица је велика."
+    },
+    "latin": {
+      "word": "porodica",
+      "part_of_speech": "imenica",
+      "definition": "grupa srodnika",
+      "example_sentence": "Moja porodica je velika."
+    },
+    "english": {
+      "word": "family",
+      "part_of_speech": "noun",
+      "definition": "group of relatives",
+      "example_sentence": "My family is big."
+    }
+  }
+}

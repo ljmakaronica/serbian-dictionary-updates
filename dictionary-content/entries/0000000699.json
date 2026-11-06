@@ -1,0 +1,23 @@
+{
+  "id": 699,
+  "translation": {
+    "cyrillic": {
+      "word": "математика",
+      "part_of_speech": "именица",
+      "definition": "Наука која проучава бројеве, облике и релације.",
+      "example_sentence": "Математика је основна дисциплина у школи."
+    },
+    "latin": {
+      "word": "matematika",
+      "part_of_speech": "imenica",
+      "definition": "Nauka koja proučava brojeve, oblike i relacije.",
+      "example_sentence": "Matematika je osnovna disciplina u školi."
+    },
+    "english": {
+      "word": "mathematics",
+      "part_of_speech": "noun",
+      "definition": "The science that studies numbers, shapes, and relationships.",
+      "example_sentence": "Mathematics is a fundamental subject in school."
+    }
+  }
+}

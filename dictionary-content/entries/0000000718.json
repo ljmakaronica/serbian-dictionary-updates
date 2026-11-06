@@ -1,0 +1,23 @@
+{
+  "id": 718,
+  "translation": {
+    "cyrillic": {
+      "word": "одлучивати",
+      "part_of_speech": "глагол",
+      "definition": "Доношење избора између могућности.",
+      "example_sentence": "Ми одлучујемо о плановима за викенд."
+    },
+    "latin": {
+      "word": "odlučivati",
+      "part_of_speech": "glagol",
+      "definition": "Donošenje izbora između mogućnosti.",
+      "example_sentence": "Mi odlučujemo o planovima za vikend."
+    },
+    "english": {
+      "word": "decide",
+      "part_of_speech": "verb",
+      "definition": "To choose between alternatives.",
+      "example_sentence": "We decide on weekend plans."
+    }
+  }
+}

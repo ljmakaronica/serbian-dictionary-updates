@@ -1,0 +1,23 @@
+{
+  "id": 1078,
+  "translation": {
+    "cyrillic": {
+      "word": "ксенофобија",
+      "part_of_speech": "именица",
+      "definition": "Страх или мржња према странцима.",
+      "example_sentence": "Ксенофобија је облик дискриминације."
+    },
+    "latin": {
+      "word": "ksenofobija",
+      "part_of_speech": "imenica",
+      "definition": "Strah ili mržnja prema strancima.",
+      "example_sentence": "Ksenofobija je oblik diskriminacije."
+    },
+    "english": {
+      "word": "xenophobia",
+      "part_of_speech": "noun",
+      "definition": "Fear or hatred of foreigners.",
+      "example_sentence": "Xenophobia is a form of discrimination."
+    }
+  }
+}

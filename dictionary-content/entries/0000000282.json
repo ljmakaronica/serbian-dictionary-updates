@@ -1,0 +1,23 @@
+{
+  "id": 282,
+  "translation": {
+    "cyrillic": {
+      "word": "едукатор",
+      "part_of_speech": "именица",
+      "definition": "Особа која се бави образовањем других.",
+      "example_sentence": "Ради као едукатор у основној школи."
+    },
+    "latin": {
+      "word": "edukator",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja se bavi obrazovanjem drugih.",
+      "example_sentence": "Radi kao edukator u osnovnoj školi."
+    },
+    "english": {
+      "word": "educator",
+      "part_of_speech": "noun",
+      "definition": "A person involved in educating others.",
+      "example_sentence": "He works as an educator in an elementary school."
+    }
+  }
+}

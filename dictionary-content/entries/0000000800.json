@@ -1,0 +1,23 @@
+{
+  "id": 800,
+  "translation": {
+    "cyrillic": {
+      "word": "обавестити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство пружања информација.",
+      "example_sentence": "Наставник је обавестио ученике о изменама."
+    },
+    "latin": {
+      "word": "obavestiti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo pružanja informacija.",
+      "example_sentence": "Nastavnik je obavestio učenike o izmenama."
+    },
+    "english": {
+      "word": "inform",
+      "part_of_speech": "verb",
+      "definition": "To give information or notify.",
+      "example_sentence": "The teacher informed the students about the changes."
+    }
+  }
+}

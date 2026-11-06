@@ -1,0 +1,23 @@
+{
+  "id": 33,
+  "translation": {
+    "cyrillic": {
+      "word": "аустралија",
+      "part_of_speech": "именица",
+      "definition": "Држава и континент на југу Земље.",
+      "example_sentence": "Аустралија је позната по својим јединственим животињама."
+    },
+    "latin": {
+      "word": "Australija",
+      "part_of_speech": "imenica",
+      "definition": "Država i kontinent na jugu Zemlje.",
+      "example_sentence": "Australija je poznata po svojim jedinstvenim životinjama."
+    },
+    "english": {
+      "word": "Australia",
+      "part_of_speech": "noun",
+      "definition": "A country and continent in the Southern Hemisphere.",
+      "example_sentence": "Australia is known for its unique wildlife."
+    }
+  }
+}

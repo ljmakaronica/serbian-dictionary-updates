@@ -1,0 +1,23 @@
+{
+  "id": 34,
+  "translation": {
+    "cyrillic": {
+      "word": "аутостоп",
+      "part_of_speech": "именица",
+      "definition": "Начин путовања у којем путник тражи превоз од пролазних возила.",
+      "example_sentence": "Путовали смо аутостопом кроз Европу."
+    },
+    "latin": {
+      "word": "autostop",
+      "part_of_speech": "imenica",
+      "definition": "Način putovanja u kojem putnik traži prevoz od prolaznih vozila.",
+      "example_sentence": "Putovali smo autostopom kroz Evropu."
+    },
+    "english": {
+      "word": "hitchhiking",
+      "part_of_speech": "noun",
+      "definition": "A way of traveling by asking for rides from passing vehicles.",
+      "example_sentence": "We traveled across Europe by hitchhiking."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1000000002,
+  "translation": {
+    "cyrillic": {
+      "word": "фебруар",
+      "part_of_speech": "именица",
+      "definition": "Други месец у години.",
+      "example_sentence": "Фебруар има двадесет осам дана."
+    },
+    "latin": {
+      "word": "februar",
+      "part_of_speech": "imenica",
+      "definition": "Drugi mesec u godini.",
+      "example_sentence": "Februar ima dvadeset osam dana."
+    },
+    "english": {
+      "word": "February",
+      "part_of_speech": "noun",
+      "definition": "The second month of the year.",
+      "example_sentence": "February has twenty-eight days."
+    }
+  }
+}

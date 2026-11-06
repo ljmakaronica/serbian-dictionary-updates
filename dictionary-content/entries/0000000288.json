@@ -1,0 +1,23 @@
+{
+  "id": 288,
+  "translation": {
+    "cyrillic": {
+      "word": "евидентан",
+      "part_of_speech": "придев",
+      "definition": "Очигледан, јасан, видљив.",
+      "example_sentence": "Напредак је евидентан."
+    },
+    "latin": {
+      "word": "evidentan",
+      "part_of_speech": "pridev",
+      "definition": "Očigledan, jasan, vidljiv.",
+      "example_sentence": "Napredak je evidentan."
+    },
+    "english": {
+      "word": "evident",
+      "part_of_speech": "adjective",
+      "definition": "Clear, obvious, visible.",
+      "example_sentence": "The progress is evident."
+    }
+  }
+}

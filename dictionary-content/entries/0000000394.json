@@ -1,0 +1,23 @@
+{
+  "id": 394,
+  "translation": {
+    "cyrillic": {
+      "word": "пут",
+      "part_of_speech": "именица",
+      "definition": "Простор или правац којим се креће.",
+      "example_sentence": "Пут до града је био дуг."
+    },
+    "latin": {
+      "word": "put",
+      "part_of_speech": "imenica",
+      "definition": "Prostor ili pravac kojim se kreće.",
+      "example_sentence": "Put do grada je bio dug."
+    },
+    "english": {
+      "word": "road",
+      "part_of_speech": "noun",
+      "definition": "A space or direction for movement.",
+      "example_sentence": "The road to the city was long."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 803,
+  "translation": {
+    "cyrillic": {
+      "word": "добро",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је исправан или задовољавајући.",
+      "example_sentence": "Он игра добро."
+    },
+    "latin": {
+      "word": "dobro",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je ispravan ili zadovoljavajući.",
+      "example_sentence": "On igra dobro."
+    },
+    "english": {
+      "word": "well",
+      "part_of_speech": "adverb",
+      "definition": "In a satisfactory or proper manner.",
+      "example_sentence": "He plays well."
+    }
+  }
+}

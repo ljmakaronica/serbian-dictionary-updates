@@ -1,0 +1,23 @@
+{
+  "id": 624,
+  "translation": {
+    "cyrillic": {
+      "word": "веш машина",
+      "part_of_speech": "именица",
+      "definition": "Уређај за прање веша.",
+      "example_sentence": "Перем веш у веш машини."
+    },
+    "latin": {
+      "word": "veš mašina",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za pranje veša.",
+      "example_sentence": "Perem veš u veš mašini."
+    },
+    "english": {
+      "word": "washing machine",
+      "part_of_speech": "noun",
+      "definition": "A device for washing clothes.",
+      "example_sentence": "I wash clothes in the washing machine."
+    }
+  }
+}

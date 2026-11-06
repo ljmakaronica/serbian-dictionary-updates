@@ -1,0 +1,23 @@
+{
+  "id": 916,
+  "translation": {
+    "cyrillic": {
+      "word": "ружан",
+      "part_of_speech": "придев",
+      "definition": "Који није леп, непријатан за гледање.",
+      "example_sentence": "То је ружна зграда."
+    },
+    "latin": {
+      "word": "ružan",
+      "part_of_speech": "pridev",
+      "definition": "Koji nije lep, neprijatan za gledanje.",
+      "example_sentence": "To je ružna zgrada."
+    },
+    "english": {
+      "word": "ugly",
+      "part_of_speech": "adjective",
+      "definition": "Not beautiful, unpleasant to look at.",
+      "example_sentence": "That is an ugly building."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 747,
+  "translation": {
+    "cyrillic": {
+      "word": "радовати се",
+      "part_of_speech": "глагол",
+      "definition": "Дејство изражавања среће и задовољства.",
+      "example_sentence": "Сви се радују добрим вестима."
+    },
+    "latin": {
+      "word": "radovati se",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo izražavanja sreće i zadovoljstva.",
+      "example_sentence": "Svi se raduju dobrim vestima."
+    },
+    "english": {
+      "word": "rejoice",
+      "part_of_speech": "verb",
+      "definition": "To feel or show great joy or delight.",
+      "example_sentence": "Everyone is rejoicing at the good news."
+    }
+  }
+}

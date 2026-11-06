@@ -1,0 +1,23 @@
+{
+  "id": 953,
+  "translation": {
+    "cyrillic": {
+      "word": "видети",
+      "part_of_speech": "глагол",
+      "definition": "опажати очима",
+      "example_sentence": "Видим птицу."
+    },
+    "latin": {
+      "word": "videti",
+      "part_of_speech": "glagol",
+      "definition": "opažati očima",
+      "example_sentence": "Vidim pticu."
+    },
+    "english": {
+      "word": "to see",
+      "part_of_speech": "verb",
+      "definition": "perceive with eyes",
+      "example_sentence": "I see a bird."
+    }
+  }
+}

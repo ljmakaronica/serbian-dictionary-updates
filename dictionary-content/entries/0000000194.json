@@ -1,0 +1,23 @@
+{
+  "id": 194,
+  "translation": {
+    "cyrillic": {
+      "word": "данас",
+      "part_of_speech": "прилог",
+      "definition": "Тиме се означава време у садашњем дану.",
+      "example_sentence": "Данас ћу ићи на посао."
+    },
+    "latin": {
+      "word": "danas",
+      "part_of_speech": "prilog",
+      "definition": "Time se označava vreme u sadašnjem danu.",
+      "example_sentence": "Danas ću ići na posao."
+    },
+    "english": {
+      "word": "today",
+      "part_of_speech": "adverb",
+      "definition": "It indicates the time in the current day.",
+      "example_sentence": "Today I will go to work."
+    }
+  }
+}

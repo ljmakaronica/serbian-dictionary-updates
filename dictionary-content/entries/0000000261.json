@@ -1,0 +1,23 @@
+{
+  "id": 261,
+  "translation": {
+    "cyrillic": {
+      "word": "еманципација",
+      "part_of_speech": "именица",
+      "definition": "Ослобађање од зависности или потчињености.",
+      "example_sentence": "Еманципација жена је важан друштвени процес."
+    },
+    "latin": {
+      "word": "emancipacija",
+      "part_of_speech": "imenica",
+      "definition": "Oslobađanje od zavisnosti ili potčinjenosti.",
+      "example_sentence": "Emancipacija žena je važan društveni proces."
+    },
+    "english": {
+      "word": "emancipation",
+      "part_of_speech": "noun",
+      "definition": "Liberation from dependency or subordination.",
+      "example_sentence": "Women's emancipation is an important social process."
+    }
+  }
+}

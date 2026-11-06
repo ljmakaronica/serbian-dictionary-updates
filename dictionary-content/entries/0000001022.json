@@ -1,0 +1,23 @@
+{
+  "id": 1022,
+  "translation": {
+    "cyrillic": {
+      "word": "вилица",
+      "part_of_speech": "именица",
+      "definition": "Кост у лицу у којој се налазе зуби.",
+      "example_sentence": "Сломио је вилицу."
+    },
+    "latin": {
+      "word": "vilica",
+      "part_of_speech": "imenica",
+      "definition": "Kost u licu u kojoj se nalaze zubi.",
+      "example_sentence": "Slomio je vilicu."
+    },
+    "english": {
+      "word": "jaw",
+      "part_of_speech": "noun",
+      "definition": "The bone structure in the face that holds teeth.",
+      "example_sentence": "He broke his jaw."
+    }
+  }
+}

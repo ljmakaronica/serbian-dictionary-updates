@@ -1,0 +1,23 @@
+{
+  "id": 691,
+  "translation": {
+    "cyrillic": {
+      "word": "разговор",
+      "part_of_speech": "именица",
+      "definition": "Узастопна размена речи између људи.",
+      "example_sentence": "Разговор је трајао дуго у кафани."
+    },
+    "latin": {
+      "word": "razgovor",
+      "part_of_speech": "imenica",
+      "definition": "Uzastopna razmena reči između ljudi.",
+      "example_sentence": "Razgovor je trajao dugo u kafani."
+    },
+    "english": {
+      "word": "conversation",
+      "part_of_speech": "noun",
+      "definition": "An exchange of words between people.",
+      "example_sentence": "The conversation lasted long in the cafe."
+    }
+  }
+}

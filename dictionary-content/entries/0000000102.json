@@ -1,0 +1,23 @@
+{
+  "id": 102,
+  "translation": {
+    "cyrillic": {
+      "word": "бубрег",
+      "part_of_speech": "именица",
+      "definition": "Орган који филтрира крв и производи урин.",
+      "example_sentence": "Важно је пити доста воде за здраве бубреге."
+    },
+    "latin": {
+      "word": "bubreg",
+      "part_of_speech": "imenica",
+      "definition": "Organ koji filtrira krv i proizvodi urin.",
+      "example_sentence": "Važno je piti dosta vode za zdrave bubrege."
+    },
+    "english": {
+      "word": "kidney",
+      "part_of_speech": "noun",
+      "definition": "An organ that filters blood and produces urine.",
+      "example_sentence": "It's important to drink plenty of water for healthy kidneys."
+    }
+  }
+}

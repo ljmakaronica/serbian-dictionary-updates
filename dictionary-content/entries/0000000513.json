@@ -1,0 +1,23 @@
+{
+  "id": 513,
+  "translation": {
+    "cyrillic": {
+      "word": "воз",
+      "part_of_speech": "именица",
+      "definition": "Возило са вагонима које се креће по шинама.",
+      "example_sentence": "Воз за Београд полази у 8 сати."
+    },
+    "latin": {
+      "word": "voz",
+      "part_of_speech": "imenica",
+      "definition": "Vozilo sa vagonima koje se kreće po šinama.",
+      "example_sentence": "Voz za Beograd polazi u 8 sati."
+    },
+    "english": {
+      "word": "train",
+      "part_of_speech": "noun",
+      "definition": "A rail vehicle consisting of connected carriages.",
+      "example_sentence": "The train to Belgrade departs at 8 o'clock."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 630,
+  "translation": {
+    "cyrillic": {
+      "word": "кревет",
+      "part_of_speech": "именица",
+      "definition": "Намештај за спавање.",
+      "example_sentence": "Идем у кревет рано."
+    },
+    "latin": {
+      "word": "krevet",
+      "part_of_speech": "imenica",
+      "definition": "Nameštaj za spavanje.",
+      "example_sentence": "Idem u krevet rano."
+    },
+    "english": {
+      "word": "bed",
+      "part_of_speech": "noun",
+      "definition": "A piece of furniture for sleeping.",
+      "example_sentence": "I go to bed early."
+    }
+  }
+}

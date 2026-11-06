@@ -1,0 +1,23 @@
+{
+  "id": 723,
+  "translation": {
+    "cyrillic": {
+      "word": "спремати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство припреме нечега пре употребе.",
+      "example_sentence": "Он спрема ручак за породицу."
+    },
+    "latin": {
+      "word": "spremati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo pripreme nečega pre upotrebe.",
+      "example_sentence": "On sprema ručak za porodicu."
+    },
+    "english": {
+      "word": "prepare",
+      "part_of_speech": "verb",
+      "definition": "To make something ready for a particular purpose.",
+      "example_sentence": "He is preparing lunch for the family."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 212,
+  "translation": {
+    "cyrillic": {
+      "word": "ђак",
+      "part_of_speech": "именица",
+      "definition": "Особа која похађа школу, ученик.",
+      "example_sentence": "Добар ђак редовно учи."
+    },
+    "latin": {
+      "word": "đak",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja pohađa školu, učenik.",
+      "example_sentence": "Dobar đak redovno uči."
+    },
+    "english": {
+      "word": "student",
+      "part_of_speech": "noun",
+      "definition": "A person who attends school.",
+      "example_sentence": "A good student studies regularly."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 109,
+  "translation": {
+    "cyrillic": {
+      "word": "бележница",
+      "part_of_speech": "именица",
+      "definition": "Свеска за писање белешки.",
+      "example_sentence": "Записао сам идеју у своју бележницу."
+    },
+    "latin": {
+      "word": "beležnica",
+      "part_of_speech": "imenica",
+      "definition": "Sveska za pisanje beleški.",
+      "example_sentence": "Zapisao sam ideju u svoju beležnicu."
+    },
+    "english": {
+      "word": "notebook",
+      "part_of_speech": "noun",
+      "definition": "A book for writing notes.",
+      "example_sentence": "I wrote down the idea in my notebook."
+    }
+  }
+}

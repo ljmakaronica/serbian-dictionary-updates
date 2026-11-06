@@ -1,0 +1,23 @@
+{
+  "id": 1052,
+  "translation": {
+    "cyrillic": {
+      "word": "краљица",
+      "part_of_speech": "именица",
+      "definition": "Супруга краља или женски владар.",
+      "example_sentence": "Краљица је носила круну."
+    },
+    "latin": {
+      "word": "kraljica",
+      "part_of_speech": "imenica",
+      "definition": "Supruga kralja ili ženski vladar.",
+      "example_sentence": "Kraljica je nosila krunu."
+    },
+    "english": {
+      "word": "queen",
+      "part_of_speech": "noun",
+      "definition": "The wife of a king or a female monarch.",
+      "example_sentence": "The queen wore a crown."
+    }
+  }
+}

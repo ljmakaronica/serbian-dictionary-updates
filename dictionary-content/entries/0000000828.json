@@ -1,0 +1,23 @@
+{
+  "id": 828,
+  "translation": {
+    "cyrillic": {
+      "word": "стабилно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који се одржава без промене или нестабилности.",
+      "example_sentence": "Компанија стабилно расте."
+    },
+    "latin": {
+      "word": "stabilno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji se održava bez promene ili nestabilnosti.",
+      "example_sentence": "Kompanija stabilno raste."
+    },
+    "english": {
+      "word": "steadily",
+      "part_of_speech": "adverb",
+      "definition": "In a consistent and unvarying manner.",
+      "example_sentence": "The company is growing steadily."
+    }
+  }
+}

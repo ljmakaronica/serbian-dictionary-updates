@@ -1,0 +1,23 @@
+{
+  "id": 260,
+  "translation": {
+    "cyrillic": {
+      "word": "еуфемизам",
+      "part_of_speech": "именица",
+      "definition": "Блажи израз који замењује груб или непријатан појам.",
+      "example_sentence": "Користио је еуфемизам да опише ситуацију."
+    },
+    "latin": {
+      "word": "eufemizam",
+      "part_of_speech": "imenica",
+      "definition": "Blaži izraz koji zamenjuje grub ili neprijatan pojam.",
+      "example_sentence": "Koristio je eufemizam da opiše situaciju."
+    },
+    "english": {
+      "word": "euphemism",
+      "part_of_speech": "noun",
+      "definition": "A mild expression used in place of a harsh or unpleasant one.",
+      "example_sentence": "He used a euphemism to describe the situation."
+    }
+  }
+}

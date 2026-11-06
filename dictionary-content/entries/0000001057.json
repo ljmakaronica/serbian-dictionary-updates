@@ -1,0 +1,23 @@
+{
+  "id": 1057,
+  "translation": {
+    "cyrillic": {
+      "word": "цитат",
+      "part_of_speech": "именица",
+      "definition": "Речи преузете од неког другог.",
+      "example_sentence": "Написао је цитат из књиге."
+    },
+    "latin": {
+      "word": "citat",
+      "part_of_speech": "imenica",
+      "definition": "Reči preuzete od nekog drugog.",
+      "example_sentence": "Napisao je citat iz knjige."
+    },
+    "english": {
+      "word": "quote",
+      "part_of_speech": "noun",
+      "definition": "Words taken from someone else.",
+      "example_sentence": "He wrote a quote from the book."
+    }
+  }
+}

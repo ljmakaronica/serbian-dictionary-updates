@@ -1,0 +1,23 @@
+{
+  "id": 1050,
+  "translation": {
+    "cyrillic": {
+      "word": "уобичајен",
+      "part_of_speech": "придев",
+      "definition": "Који се редовно дешава или чини.",
+      "example_sentence": "То је његова уобичајена рутина."
+    },
+    "latin": {
+      "word": "uobičajen",
+      "part_of_speech": "pridev",
+      "definition": "Koji se redovno dešava ili čini.",
+      "example_sentence": "To je njegova uobičajena rutina."
+    },
+    "english": {
+      "word": "usual",
+      "part_of_speech": "adjective",
+      "definition": "Happening or done regularly.",
+      "example_sentence": "That is his usual routine."
+    }
+  }
+}

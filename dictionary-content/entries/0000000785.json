@@ -1,0 +1,23 @@
+{
+  "id": 785,
+  "translation": {
+    "cyrillic": {
+      "word": "убацити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство уметања нечега у већ постојећи контекст.",
+      "example_sentence": "Он је убацио додатне податке у извештај."
+    },
+    "latin": {
+      "word": "ubaciti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo umetanja nečega u već postojeći kontekst.",
+      "example_sentence": "On je ubacio dodatne podatke u izveštaj."
+    },
+    "english": {
+      "word": "insert",
+      "part_of_speech": "verb",
+      "definition": "To place or include something within.",
+      "example_sentence": "He inserted additional data into the report."
+    }
+  }
+}

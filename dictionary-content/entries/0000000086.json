@@ -1,0 +1,23 @@
+{
+  "id": 86,
+  "translation": {
+    "cyrillic": {
+      "word": "берба",
+      "part_of_speech": "именица",
+      "definition": "Прикупљање зрелих плодова са биљака.",
+      "example_sentence": "Берба грожђа почиње у септембру."
+    },
+    "latin": {
+      "word": "berba",
+      "part_of_speech": "imenica",
+      "definition": "Prikupljanje zrelih plodova sa biljaka.",
+      "example_sentence": "Berba grožđa počinje u septembru."
+    },
+    "english": {
+      "word": "harvest",
+      "part_of_speech": "noun",
+      "definition": "The gathering of ripe crops or fruits.",
+      "example_sentence": "The grape harvest begins in September."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 164,
+  "translation": {
+    "cyrillic": {
+      "word": "глумац",
+      "part_of_speech": "именица",
+      "definition": "Мушкарац који тумачи улоге у позоришту, на филму или телевизији.",
+      "example_sentence": "Он је познати глумац који је играо у многим филмовима."
+    },
+    "latin": {
+      "word": "glumac",
+      "part_of_speech": "imenica",
+      "definition": "Muškarac koji tumači uloge u pozorištu, na filmu ili televiziji.",
+      "example_sentence": "On je poznati glumac koji je igrao u mnogim filmovima."
+    },
+    "english": {
+      "word": "actor",
+      "part_of_speech": "noun",
+      "definition": "A man who performs roles in theater, film, or television.",
+      "example_sentence": "He is a famous actor who has starred in many movies."
+    }
+  }
+}

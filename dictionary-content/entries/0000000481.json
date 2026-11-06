@@ -1,0 +1,23 @@
+{
+  "id": 481,
+  "translation": {
+    "cyrillic": {
+      "word": "чај",
+      "part_of_speech": "именица",
+      "definition": "Топло пиће направљено од биља или лишћа.",
+      "example_sentence": "Чај је био освежавајућ."
+    },
+    "latin": {
+      "word": "čaj",
+      "part_of_speech": "imenica",
+      "definition": "Toplo piće napravljeno od bilja ili lišća.",
+      "example_sentence": "Čaj je bio osvežavajuć."
+    },
+    "english": {
+      "word": "tea",
+      "part_of_speech": "noun",
+      "definition": "A hot drink made from herbs or leaves.",
+      "example_sentence": "The tea was refreshing."
+    }
+  }
+}

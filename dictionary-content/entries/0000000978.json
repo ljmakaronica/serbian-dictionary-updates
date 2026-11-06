@@ -1,0 +1,23 @@
+{
+  "id": 978,
+  "translation": {
+    "cyrillic": {
+      "word": "лош",
+      "part_of_speech": "придев",
+      "definition": "негативног квалитета",
+      "example_sentence": "То је лоша идеја."
+    },
+    "latin": {
+      "word": "loš",
+      "part_of_speech": "pridev",
+      "definition": "negativnog kvaliteta",
+      "example_sentence": "To je loša ideja."
+    },
+    "english": {
+      "word": "bad",
+      "part_of_speech": "adjective",
+      "definition": "of poor quality",
+      "example_sentence": "That is a bad idea."
+    }
+  }
+}

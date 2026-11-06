@@ -1,0 +1,23 @@
+{
+  "id": 861,
+  "translation": {
+    "cyrillic": {
+      "word": "док",
+      "part_of_speech": "везник",
+      "definition": "Означава истовременост.",
+      "example_sentence": "Читам док путујем."
+    },
+    "latin": {
+      "word": "dok",
+      "part_of_speech": "veznik",
+      "definition": "Označava istovremenost.",
+      "example_sentence": "Čitam dok putujem."
+    },
+    "english": {
+      "word": "while",
+      "part_of_speech": "conjunction",
+      "definition": "Indicates simultaneity.",
+      "example_sentence": "I read while traveling."
+    }
+  }
+}

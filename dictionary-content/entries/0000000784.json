@@ -1,0 +1,23 @@
+{
+  "id": 784,
+  "translation": {
+    "cyrillic": {
+      "word": "применити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство коришћења нечега у пракси.",
+      "example_sentence": "Она је применила нову методу у раду."
+    },
+    "latin": {
+      "word": "primeniti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo korišćenja nečega u praksi.",
+      "example_sentence": "Ona je primenila novu metodu u radu."
+    },
+    "english": {
+      "word": "apply",
+      "part_of_speech": "verb",
+      "definition": "To put to use or implement.",
+      "example_sentence": "She applied a new method at work."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 110,
+  "translation": {
+    "cyrillic": {
+      "word": "бресква",
+      "part_of_speech": "именица",
+      "definition": "Сочно воће са меком кожицом и великом коштицом.",
+      "example_sentence": "Брескве су најслађе у августу."
+    },
+    "latin": {
+      "word": "breskva",
+      "part_of_speech": "imenica",
+      "definition": "Sočno voće sa mekom kožicom i velikom košticom.",
+      "example_sentence": "Breskve su najslađe u avgustu."
+    },
+    "english": {
+      "word": "peach",
+      "part_of_speech": "noun",
+      "definition": "A juicy fruit with soft skin and a large pit.",
+      "example_sentence": "Peaches are sweetest in August."
+    }
+  }
+}

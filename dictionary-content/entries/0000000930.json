@@ -1,0 +1,23 @@
+{
+  "id": 930,
+  "translation": {
+    "cyrillic": {
+      "word": "град",
+      "part_of_speech": "именица",
+      "definition": "урбано насеље",
+      "example_sentence": "Београд је велики град."
+    },
+    "latin": {
+      "word": "grad",
+      "part_of_speech": "imenica",
+      "definition": "urbano naselje",
+      "example_sentence": "Beograd je veliki grad."
+    },
+    "english": {
+      "word": "city",
+      "part_of_speech": "noun",
+      "definition": "urban settlement",
+      "example_sentence": "Belgrade is a big city."
+    }
+  }
+}

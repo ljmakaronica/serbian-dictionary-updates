@@ -1,0 +1,23 @@
+{
+  "id": 453,
+  "translation": {
+    "cyrillic": {
+      "word": "флаша",
+      "part_of_speech": "именица",
+      "definition": "Стаклена или пластична посуда за течност.",
+      "example_sentence": "Флаша воде је била на столу."
+    },
+    "latin": {
+      "word": "flaša",
+      "part_of_speech": "imenica",
+      "definition": "Staklena ili plastična posuda za tečnost.",
+      "example_sentence": "Flaša vode je bila na stolu."
+    },
+    "english": {
+      "word": "bottle",
+      "part_of_speech": "noun",
+      "definition": "A glass or plastic container for liquids.",
+      "example_sentence": "The bottle of water was on the table."
+    }
+  }
+}

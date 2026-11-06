@@ -1,0 +1,23 @@
+{
+  "id": 366,
+  "translation": {
+    "cyrillic": {
+      "word": "мед",
+      "part_of_speech": "именица",
+      "definition": "Слатка супстанца коју производе пчеле.",
+      "example_sentence": "Мед је природни заслађивач."
+    },
+    "latin": {
+      "word": "med",
+      "part_of_speech": "imenica",
+      "definition": "Slatka supstanca koju proizvode pčele.",
+      "example_sentence": "Med je prirodni zaslađivač."
+    },
+    "english": {
+      "word": "honey",
+      "part_of_speech": "noun",
+      "definition": "A sweet substance produced by bees.",
+      "example_sentence": "Honey is a natural sweetener."
+    }
+  }
+}

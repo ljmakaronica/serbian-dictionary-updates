@@ -1,0 +1,23 @@
+{
+  "id": 471,
+  "translation": {
+    "cyrillic": {
+      "word": "црква",
+      "part_of_speech": "именица",
+      "definition": "Хришћански верски објекат за богослужење.",
+      "example_sentence": "Црква је била пуна верника."
+    },
+    "latin": {
+      "word": "crkva",
+      "part_of_speech": "imenica",
+      "definition": "Hrišćanski verski objekat za bogosluženje.",
+      "example_sentence": "Crkva je bila puna vernika."
+    },
+    "english": {
+      "word": "church",
+      "part_of_speech": "noun",
+      "definition": "A Christian religious building for worship.",
+      "example_sentence": "The church was full of worshippers."
+    }
+  }
+}

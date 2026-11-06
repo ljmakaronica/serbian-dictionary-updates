@@ -1,0 +1,23 @@
+{
+  "id": 595,
+  "translation": {
+    "cyrillic": {
+      "word": "кувати",
+      "part_of_speech": "глагол",
+      "definition": "Припремати храну на ватри.",
+      "example_sentence": "Волим да кувам вечере."
+    },
+    "latin": {
+      "word": "kuvati",
+      "part_of_speech": "glagol",
+      "definition": "Pripremati hranu na vatri.",
+      "example_sentence": "Volim da kuvam večere."
+    },
+    "english": {
+      "word": "to cook",
+      "part_of_speech": "verb",
+      "definition": "To prepare food by heating it.",
+      "example_sentence": "I love to cook dinners."
+    }
+  }
+}

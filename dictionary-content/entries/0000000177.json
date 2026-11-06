@@ -1,0 +1,23 @@
+{
+  "id": 177,
+  "translation": {
+    "cyrillic": {
+      "word": "гњавити",
+      "part_of_speech": "глагол",
+      "definition": "Давати некој особи потешкоће.",
+      "example_sentence": "Не престаје да ме гњави са питањима."
+    },
+    "latin": {
+      "word": "gnjaviti",
+      "part_of_speech": "glagol",
+      "definition": "Davati nekoj osobi poteškoće.",
+      "example_sentence": "Ne prestaje da me gnjavi sa pitanjima."
+    },
+    "english": {
+      "word": "to bother",
+      "part_of_speech": "verb",
+      "definition": "To cause someone difficulties.",
+      "example_sentence": "He keeps bothering me with questions."
+    }
+  }
+}

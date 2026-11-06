@@ -1,0 +1,23 @@
+{
+  "id": 506,
+  "translation": {
+    "cyrillic": {
+      "word": "шкрипати",
+      "part_of_speech": "глагол",
+      "definition": "Правити оштар звук при кретању или трењу.",
+      "example_sentence": "Врата су шкрипала када су се отварала."
+    },
+    "latin": {
+      "word": "škripati",
+      "part_of_speech": "glagol",
+      "definition": "Praviti oštar zvuk pri kretanju ili trenju.",
+      "example_sentence": "Vrata su škripala kada su se otvarala."
+    },
+    "english": {
+      "word": "to creak",
+      "part_of_speech": "verb",
+      "definition": "To make a sharp sound when moving or rubbing.",
+      "example_sentence": "The door creaked as it opened."
+    }
+  }
+}

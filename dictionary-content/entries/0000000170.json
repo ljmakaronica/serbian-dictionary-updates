@@ -1,0 +1,23 @@
+{
+  "id": 170,
+  "translation": {
+    "cyrillic": {
+      "word": "горица",
+      "part_of_speech": "именица",
+      "definition": "Врста биљке која се често користи у медицинске сврхе.",
+      "example_sentence": "Горица има лековита својства."
+    },
+    "latin": {
+      "word": "gorica",
+      "part_of_speech": "imenica",
+      "definition": "Vrsta biljke koja se često koristi u medicinske svrhe.",
+      "example_sentence": "Gorica ima lekovita svojstva."
+    },
+    "english": {
+      "word": "gorse",
+      "part_of_speech": "noun",
+      "definition": "A type of plant commonly used for medicinal purposes.",
+      "example_sentence": "Gorse has healing properties."
+    }
+  }
+}

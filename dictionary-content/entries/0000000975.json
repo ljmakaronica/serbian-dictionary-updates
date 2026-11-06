@@ -1,0 +1,23 @@
+{
+  "id": 975,
+  "translation": {
+    "cyrillic": {
+      "word": "рука",
+      "part_of_speech": "именица",
+      "definition": "део тела од рамена до шаке",
+      "example_sentence": "Подигао сам руку."
+    },
+    "latin": {
+      "word": "ruka",
+      "part_of_speech": "imenica",
+      "definition": "deo tela od ramena do šake",
+      "example_sentence": "Podigao sam ruku."
+    },
+    "english": {
+      "word": "arm",
+      "part_of_speech": "noun",
+      "definition": "upper limb from shoulder to hand",
+      "example_sentence": "I raised my arm."
+    }
+  }
+}

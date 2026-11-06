@@ -1,0 +1,23 @@
+{
+  "id": 901,
+  "translation": {
+    "cyrillic": {
+      "word": "између",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава положај између две ствари",
+      "example_sentence": "Седи између нас."
+    },
+    "latin": {
+      "word": "između",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava položaj između dve stvari",
+      "example_sentence": "Sedi između nas."
+    },
+    "english": {
+      "word": "between",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating position between two things",
+      "example_sentence": "Sit between us."
+    }
+  }
+}

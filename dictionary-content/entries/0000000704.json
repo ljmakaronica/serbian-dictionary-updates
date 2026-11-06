@@ -1,0 +1,23 @@
+{
+  "id": 704,
+  "translation": {
+    "cyrillic": {
+      "word": "ходати",
+      "part_of_speech": "глагол",
+      "definition": "Кретање пешке.",
+      "example_sentence": "Ми волимо да ходамо по парку."
+    },
+    "latin": {
+      "word": "hodati",
+      "part_of_speech": "glagol",
+      "definition": "Kretanje peške.",
+      "example_sentence": "Mi volimo da hodamo po parku."
+    },
+    "english": {
+      "word": "walk",
+      "part_of_speech": "verb",
+      "definition": "To move on foot.",
+      "example_sentence": "We love to walk in the park."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 441,
+  "translation": {
+    "cyrillic": {
+      "word": "увек",
+      "part_of_speech": "прилог",
+      "definition": "У сваком тренутку или без прекида.",
+      "example_sentence": "Увек сам ту за тебе."
+    },
+    "latin": {
+      "word": "uvek",
+      "part_of_speech": "prilog",
+      "definition": "U svakom trenutku ili bez prekida.",
+      "example_sentence": "Uvek sam tu za tebe."
+    },
+    "english": {
+      "word": "always",
+      "part_of_speech": "adverb",
+      "definition": "At all times or without interruption.",
+      "example_sentence": "I am always here for you."
+    }
+  }
+}

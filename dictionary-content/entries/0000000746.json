@@ -1,0 +1,23 @@
+{
+  "id": 746,
+  "translation": {
+    "cyrillic": {
+      "word": "поносити се",
+      "part_of_speech": "глагол",
+      "definition": "Дејство осећања и изражавања поноса.",
+      "example_sentence": "Он се поноси својим радом."
+    },
+    "latin": {
+      "word": "ponositi se",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo osećanja i izražavanja ponosa.",
+      "example_sentence": "On se ponosi svojim radom."
+    },
+    "english": {
+      "word": "be proud",
+      "part_of_speech": "verb",
+      "definition": "To feel deep pleasure or satisfaction.",
+      "example_sentence": "He is proud of his work."
+    }
+  }
+}

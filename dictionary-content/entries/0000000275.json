@@ -1,0 +1,23 @@
+{
+  "id": 275,
+  "translation": {
+    "cyrillic": {
+      "word": "еластин",
+      "part_of_speech": "именица",
+      "definition": "Протеин који даје еластичност кожи.",
+      "example_sentence": "Еластин помаже да кожа остане млада."
+    },
+    "latin": {
+      "word": "elastin",
+      "part_of_speech": "imenica",
+      "definition": "Protein koji daje elastičnost koži.",
+      "example_sentence": "Elastin pomaže da koža ostane mlada."
+    },
+    "english": {
+      "word": "elastin",
+      "part_of_speech": "noun",
+      "definition": "A protein that gives skin its elasticity.",
+      "example_sentence": "Elastin helps keep skin youthful."
+    }
+  }
+}

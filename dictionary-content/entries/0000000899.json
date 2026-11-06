@@ -1,0 +1,23 @@
+{
+  "id": 899,
+  "translation": {
+    "cyrillic": {
+      "word": "од",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава порекло или почетну тачку",
+      "example_sentence": "Поклон од маме."
+    },
+    "latin": {
+      "word": "od",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava poreklo ili početnu tačku",
+      "example_sentence": "Poklon od mame."
+    },
+    "english": {
+      "word": "from",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating origin or starting point",
+      "example_sentence": "A gift from mom."
+    }
+  }
+}

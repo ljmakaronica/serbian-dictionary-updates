@@ -1,0 +1,23 @@
+{
+  "id": 660,
+  "translation": {
+    "cyrillic": {
+      "word": "писац",
+      "part_of_speech": "именица",
+      "definition": "Особа која ствара литерарна дела.",
+      "example_sentence": "Писац је објавио нов роман."
+    },
+    "latin": {
+      "word": "pisac",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja stvara literarna dela.",
+      "example_sentence": "Pisac je objavio novi roman."
+    },
+    "english": {
+      "word": "writer",
+      "part_of_speech": "noun",
+      "definition": "A person who creates literary works.",
+      "example_sentence": "The writer published a new novel."
+    }
+  }
+}

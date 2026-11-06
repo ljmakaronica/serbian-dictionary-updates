@@ -1,0 +1,23 @@
+{
+  "id": 74,
+  "translation": {
+    "cyrillic": {
+      "word": "алкохол",
+      "part_of_speech": "именица",
+      "definition": "Течност која се користи у пићима и има опојна својства.",
+      "example_sentence": "У овом пићу нема алкохола."
+    },
+    "latin": {
+      "word": "alkohol",
+      "part_of_speech": "imenica",
+      "definition": "Tekućina koja se koristi u pićima i ima opojna svojstva.",
+      "example_sentence": "U ovom piću nema alkohola."
+    },
+    "english": {
+      "word": "alcohol",
+      "part_of_speech": "noun",
+      "definition": "A liquid used in drinks that has intoxicating properties.",
+      "example_sentence": "There is no alcohol in this drink."
+    }
+  }
+}

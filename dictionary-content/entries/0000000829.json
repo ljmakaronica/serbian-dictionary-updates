@@ -1,0 +1,23 @@
+{
+  "id": 829,
+  "translation": {
+    "cyrillic": {
+      "word": "интензивно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који показује велику енергију или фокус.",
+      "example_sentence": "Студенти уче интензивно за испите."
+    },
+    "latin": {
+      "word": "intenzivno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji pokazuje veliku energiju ili fokus.",
+      "example_sentence": "Studenti uče intenzivno za ispite."
+    },
+    "english": {
+      "word": "intensively",
+      "part_of_speech": "adverb",
+      "definition": "In a manner that exhibits great energy or concentration.",
+      "example_sentence": "The students study intensively for exams."
+    }
+  }
+}

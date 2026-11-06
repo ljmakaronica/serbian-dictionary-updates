@@ -1,0 +1,23 @@
+{
+  "id": 945,
+  "translation": {
+    "cyrillic": {
+      "word": "пити",
+      "part_of_speech": "глагол",
+      "definition": "узимати течност",
+      "example_sentence": "Волим да пијем кафу."
+    },
+    "latin": {
+      "word": "piti",
+      "part_of_speech": "glagol",
+      "definition": "uzimati tečnost",
+      "example_sentence": "Volim da pijem kafu."
+    },
+    "english": {
+      "word": "to drink",
+      "part_of_speech": "verb",
+      "definition": "consume liquid",
+      "example_sentence": "I like to drink coffee."
+    }
+  }
+}

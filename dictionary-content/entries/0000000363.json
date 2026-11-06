@@ -1,0 +1,23 @@
+{
+  "id": 363,
+  "translation": {
+    "cyrillic": {
+      "word": "миш",
+      "part_of_speech": "именица",
+      "definition": "Мали глодар са дугим репом.",
+      "example_sentence": "Миш је ушао у кухињу."
+    },
+    "latin": {
+      "word": "miš",
+      "part_of_speech": "imenica",
+      "definition": "Mali glodar sa dugim repom.",
+      "example_sentence": "Miš je ušao u kuhinju."
+    },
+    "english": {
+      "word": "mouse",
+      "part_of_speech": "noun",
+      "definition": "A small rodent with a long tail.",
+      "example_sentence": "A mouse entered the kitchen."
+    }
+  }
+}

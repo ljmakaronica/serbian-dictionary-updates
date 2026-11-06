@@ -1,0 +1,23 @@
+{
+  "id": 268,
+  "translation": {
+    "cyrillic": {
+      "word": "епидемиолог",
+      "part_of_speech": "именица",
+      "definition": "Стручњак који проучава ширење болести.",
+      "example_sentence": "Епидемиолог је дао препоруке за превенцију."
+    },
+    "latin": {
+      "word": "epidemiolog",
+      "part_of_speech": "imenica",
+      "definition": "Stručnjak koji proučava širenje bolesti.",
+      "example_sentence": "Epidemiolog je dao preporuke za prevenciju."
+    },
+    "english": {
+      "word": "epidemiologist",
+      "part_of_speech": "noun",
+      "definition": "An expert who studies disease spread.",
+      "example_sentence": "The epidemiologist gave prevention recommendations."
+    }
+  }
+}

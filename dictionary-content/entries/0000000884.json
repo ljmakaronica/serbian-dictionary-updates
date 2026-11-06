@@ -1,0 +1,23 @@
+{
+  "id": 884,
+  "translation": {
+    "cyrillic": {
+      "word": "оне",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица трећег лица множине женског рода",
+      "example_sentence": "Оне иду у школу."
+    },
+    "latin": {
+      "word": "one",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica trećeg lica množine ženskog roda",
+      "example_sentence": "One idu u školu."
+    },
+    "english": {
+      "word": "they",
+      "part_of_speech": "pronoun",
+      "definition": "Third person plural feminine personal pronoun",
+      "example_sentence": "They go to school."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 299,
+  "translation": {
+    "cyrillic": {
+      "word": "злато",
+      "part_of_speech": "именица",
+      "definition": "Драгоцен метал жуте боје који се користи за накит и друге предмете.",
+      "example_sentence": "Овај прстен је направљен од злата."
+    },
+    "latin": {
+      "word": "zlato",
+      "part_of_speech": "imenica",
+      "definition": "Dragocen metal žute boje koji se koristi za nakit i druge predmete.",
+      "example_sentence": "Ovaj prsten je napravljen od zlata."
+    },
+    "english": {
+      "word": "gold",
+      "part_of_speech": "noun",
+      "definition": "A valuable yellow metal used for jewelry and other objects.",
+      "example_sentence": "This ring is made of gold."
+    }
+  }
+}

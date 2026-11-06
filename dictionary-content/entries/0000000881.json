@@ -1,0 +1,23 @@
+{
+  "id": 881,
+  "translation": {
+    "cyrillic": {
+      "word": "ми",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица првог лица множине",
+      "example_sentence": "Ми идемо у парк."
+    },
+    "latin": {
+      "word": "mi",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica prvog lica množine",
+      "example_sentence": "Mi idemo u park."
+    },
+    "english": {
+      "word": "we",
+      "part_of_speech": "pronoun",
+      "definition": "First person plural personal pronoun",
+      "example_sentence": "We go to the park."
+    }
+  }
+}

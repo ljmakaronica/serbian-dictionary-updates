@@ -1,0 +1,23 @@
+{
+  "id": 973,
+  "translation": {
+    "cyrillic": {
+      "word": "нос",
+      "part_of_speech": "именица",
+      "definition": "орган за мирис",
+      "example_sentence": "Осећам мирис носом."
+    },
+    "latin": {
+      "word": "nos",
+      "part_of_speech": "imenica",
+      "definition": "organ za miris",
+      "example_sentence": "Osećam miris nosom."
+    },
+    "english": {
+      "word": "nose",
+      "part_of_speech": "noun",
+      "definition": "organ for smell",
+      "example_sentence": "I smell with my nose."
+    }
+  }
+}

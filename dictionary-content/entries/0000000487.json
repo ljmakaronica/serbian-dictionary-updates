@@ -1,0 +1,23 @@
+{
+  "id": 487,
+  "translation": {
+    "cyrillic": {
+      "word": "џем",
+      "part_of_speech": "именица",
+      "definition": "Слатки намаз од воћа куваног са шећером.",
+      "example_sentence": "џем од јагода је био укусан."
+    },
+    "latin": {
+      "word": "džem",
+      "part_of_speech": "imenica",
+      "definition": "Slatki namaz od voća kuvanog sa šećerom.",
+      "example_sentence": "Džem od jagoda je bio ukusan."
+    },
+    "english": {
+      "word": "jam",
+      "part_of_speech": "noun",
+      "definition": "A sweet spread made by cooking fruit with sugar.",
+      "example_sentence": "The strawberry jam was delicious."
+    }
+  }
+}

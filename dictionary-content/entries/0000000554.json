@@ -1,0 +1,23 @@
+{
+  "id": 554,
+  "translation": {
+    "cyrillic": {
+      "word": "образ",
+      "part_of_speech": "именица",
+      "definition": "Део лица испод очију.",
+      "example_sentence": "Пољубио ју је у образ."
+    },
+    "latin": {
+      "word": "obraz",
+      "part_of_speech": "imenica",
+      "definition": "Deo lica ispod očiju.",
+      "example_sentence": "Poljubio ju je u obraz."
+    },
+    "english": {
+      "word": "cheek",
+      "part_of_speech": "noun",
+      "definition": "The part of the face below the eyes.",
+      "example_sentence": "He kissed her on the cheek."
+    }
+  }
+}

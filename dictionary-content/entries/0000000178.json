@@ -1,0 +1,23 @@
+{
+  "id": 178,
+  "translation": {
+    "cyrillic": {
+      "word": "грозно",
+      "part_of_speech": "придев",
+      "definition": "Неки страшан или ужасан догађај.",
+      "example_sentence": "Грозно је било видети последице олује."
+    },
+    "latin": {
+      "word": "grozno",
+      "part_of_speech": "pridev",
+      "definition": "Neki strašan ili užasan događaj.",
+      "example_sentence": "Grozno je bilo videti posledice oluje."
+    },
+    "english": {
+      "word": "terrible",
+      "part_of_speech": "adjective",
+      "definition": "A frightening or horrifying event.",
+      "example_sentence": "It was terrible to see the aftermath of the storm."
+    }
+  }
+}

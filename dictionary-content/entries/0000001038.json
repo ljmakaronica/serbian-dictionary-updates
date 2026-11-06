@@ -1,0 +1,23 @@
+{
+  "id": 1038,
+  "translation": {
+    "cyrillic": {
+      "word": "кишобран",
+      "part_of_speech": "именица",
+      "definition": "Предмет који се користи за заштиту од кише.",
+      "example_sentence": "Понела је кишобран због кише."
+    },
+    "latin": {
+      "word": "kišobran",
+      "part_of_speech": "imenica",
+      "definition": "Predmet koji se koristi za zaštitu od kiše.",
+      "example_sentence": "Ponela je kišobran zbog kiše."
+    },
+    "english": {
+      "word": "umbrella",
+      "part_of_speech": "noun",
+      "definition": "An object used for protection from rain.",
+      "example_sentence": "She brought an umbrella because of the rain."
+    }
+  }
+}

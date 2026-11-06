@@ -1,0 +1,23 @@
+{
+  "id": 749,
+  "translation": {
+    "cyrillic": {
+      "word": "планирати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство дефинисања будућих активности или циљева.",
+      "example_sentence": "Она планира путовање за лето."
+    },
+    "latin": {
+      "word": "planirati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo definisanja budućih aktivnosti ili ciljeva.",
+      "example_sentence": "Ona planira putovanje za leto."
+    },
+    "english": {
+      "word": "plan",
+      "part_of_speech": "verb",
+      "definition": "To decide on and arrange a course of action.",
+      "example_sentence": "She is planning a trip for the summer."
+    }
+  }
+}

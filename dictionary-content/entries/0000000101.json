@@ -1,0 +1,23 @@
+{
+  "id": 101,
+  "translation": {
+    "cyrillic": {
+      "word": "бистар",
+      "part_of_speech": "придев",
+      "definition": "Чист, прозиран или интелигентан.",
+      "example_sentence": "Вода у потоку је бистра као кристал."
+    },
+    "latin": {
+      "word": "bistar",
+      "part_of_speech": "pridev",
+      "definition": "Čist, proziran ili inteligentan.",
+      "example_sentence": "Voda u potoku je bistra kao kristal."
+    },
+    "english": {
+      "word": "clear",
+      "part_of_speech": "adjective",
+      "definition": "Pure, transparent or intelligent.",
+      "example_sentence": "The water in the stream is clear as crystal."
+    }
+  }
+}

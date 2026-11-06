@@ -1,0 +1,23 @@
+{
+  "id": 976,
+  "translation": {
+    "cyrillic": {
+      "word": "нога",
+      "part_of_speech": "именица",
+      "definition": "део тела за ходање",
+      "example_sentence": "Дуге су ми ноге."
+    },
+    "latin": {
+      "word": "noga",
+      "part_of_speech": "imenica",
+      "definition": "deo tela za hodanje",
+      "example_sentence": "Duge su mi noge."
+    },
+    "english": {
+      "word": "leg",
+      "part_of_speech": "noun",
+      "definition": "limb for walking",
+      "example_sentence": "My legs are long."
+    }
+  }
+}

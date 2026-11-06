@@ -1,0 +1,23 @@
+{
+  "id": 986,
+  "translation": {
+    "cyrillic": {
+      "word": "који",
+      "part_of_speech": "заменица",
+      "definition": "који од више",
+      "example_sentence": "Која књига?"
+    },
+    "latin": {
+      "word": "koji",
+      "part_of_speech": "zamenica",
+      "definition": "koji od više",
+      "example_sentence": "Koja knjiga?"
+    },
+    "english": {
+      "word": "which",
+      "part_of_speech": "pronoun",
+      "definition": "what one of several",
+      "example_sentence": "Which book?"
+    }
+  }
+}

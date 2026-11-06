@@ -1,0 +1,23 @@
+{
+  "id": 381,
+  "translation": {
+    "cyrillic": {
+      "word": "његов",
+      "part_of_speech": "придев",
+      "definition": "Посесивни придев за треће лице мушког рода.",
+      "example_sentence": "Његов ауто је био брз."
+    },
+    "latin": {
+      "word": "njegov",
+      "part_of_speech": "pridev",
+      "definition": "Posesivni pridev za treće lice muškog roda.",
+      "example_sentence": "Njegov auto je bio brz."
+    },
+    "english": {
+      "word": "his",
+      "part_of_speech": "adjective",
+      "definition": "Possessive adjective for the third person masculine.",
+      "example_sentence": "His car was fast."
+    }
+  }
+}

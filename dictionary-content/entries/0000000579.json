@@ -1,0 +1,23 @@
+{
+  "id": 579,
+  "translation": {
+    "cyrillic": {
+      "word": "срећан",
+      "part_of_speech": "придев",
+      "definition": "Осећај радости и задовољства.",
+      "example_sentence": "Она је веома срећна данас."
+    },
+    "latin": {
+      "word": "srećan",
+      "part_of_speech": "pridev",
+      "definition": "Osećaj radosti i zadovoljstva.",
+      "example_sentence": "Ona je veoma srećna danas."
+    },
+    "english": {
+      "word": "happy",
+      "part_of_speech": "adjective",
+      "definition": "Feeling or showing joy and contentment.",
+      "example_sentence": "She is very happy today."
+    }
+  }
+}

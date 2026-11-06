@@ -1,0 +1,23 @@
+{
+  "id": 778,
+  "translation": {
+    "cyrillic": {
+      "word": "прихватити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство прихватања нечега или некога.",
+      "example_sentence": "Она је прихватила савет колеге."
+    },
+    "latin": {
+      "word": "prihvatiti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo prihvatanja nečega ili nekoga.",
+      "example_sentence": "Ona je prihvatila savet kolege."
+    },
+    "english": {
+      "word": "accept",
+      "part_of_speech": "verb",
+      "definition": "To receive or agree to something.",
+      "example_sentence": "She accepted her colleague’s advice."
+    }
+  }
+}

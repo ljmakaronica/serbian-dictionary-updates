@@ -1,0 +1,23 @@
+{
+  "id": 856,
+  "translation": {
+    "cyrillic": {
+      "word": "или",
+      "part_of_speech": "везник",
+      "definition": "Нуди избор између опција.",
+      "example_sentence": "Желиш кафу или чај?"
+    },
+    "latin": {
+      "word": "ili",
+      "part_of_speech": "veznik",
+      "definition": "Nudi izbor između opcija.",
+      "example_sentence": "Želiš kafu ili čaj?"
+    },
+    "english": {
+      "word": "or",
+      "part_of_speech": "conjunction",
+      "definition": "Offers choice between options.",
+      "example_sentence": "Do you want coffee or tea?"
+    }
+  }
+}

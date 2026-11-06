@@ -1,0 +1,23 @@
+{
+  "id": 677,
+  "translation": {
+    "cyrillic": {
+      "word": "сан",
+      "part_of_speech": "именица",
+      "definition": "Психичко искуство током спавања.",
+      "example_sentence": "Сан је био живописан."
+    },
+    "latin": {
+      "word": "san",
+      "part_of_speech": "imenica",
+      "definition": "Psihičko iskustvo tokom spavanja.",
+      "example_sentence": "San je bio živopisan."
+    },
+    "english": {
+      "word": "dream",
+      "part_of_speech": "noun",
+      "definition": "A mental experience during sleep.",
+      "example_sentence": "The dream was vivid."
+    }
+  }
+}

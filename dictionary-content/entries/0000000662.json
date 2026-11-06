@@ -1,0 +1,23 @@
+{
+  "id": 662,
+  "translation": {
+    "cyrillic": {
+      "word": "клавир",
+      "part_of_speech": "именица",
+      "definition": "Музички инструмент са клавијатуром за свирање.",
+      "example_sentence": "Клавир стоји у дневној соби."
+    },
+    "latin": {
+      "word": "klavir",
+      "part_of_speech": "imenica",
+      "definition": "Muzički instrument sa klavijaturom za sviranje.",
+      "example_sentence": "Klavir stoji u dnevnoj sobi."
+    },
+    "english": {
+      "word": "piano",
+      "part_of_speech": "noun",
+      "definition": "A musical instrument with keys.",
+      "example_sentence": "The piano is in the living room."
+    }
+  }
+}

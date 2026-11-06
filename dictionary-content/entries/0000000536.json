@@ -1,0 +1,23 @@
+{
+  "id": 536,
+  "translation": {
+    "cyrillic": {
+      "word": "шездесет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 60.",
+      "example_sentence": "Имам шездесет књига."
+    },
+    "latin": {
+      "word": "šezdeset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 60.",
+      "example_sentence": "Imam šezdeset knjiga."
+    },
+    "english": {
+      "word": "sixty",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 60.",
+      "example_sentence": "I have sixty books."
+    }
+  }
+}

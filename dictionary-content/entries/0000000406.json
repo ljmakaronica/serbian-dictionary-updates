@@ -1,0 +1,23 @@
+{
+  "id": 406,
+  "translation": {
+    "cyrillic": {
+      "word": "раст",
+      "part_of_speech": "именица",
+      "definition": "Процес повећања величине или развијања.",
+      "example_sentence": "Раст биљака зависи од воде и сунца."
+    },
+    "latin": {
+      "word": "rast",
+      "part_of_speech": "imenica",
+      "definition": "Proces povećanja veličine ili razvijanja.",
+      "example_sentence": "Rast biljaka zavisi od vode i sunca."
+    },
+    "english": {
+      "word": "growth",
+      "part_of_speech": "noun",
+      "definition": "The process of increasing in size or developing.",
+      "example_sentence": "The growth of plants depends on water and sunlight."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 129,
+  "translation": {
+    "cyrillic": {
+      "word": "виноград",
+      "part_of_speech": "именица",
+      "definition": "Посад винове лозе за производњу грожђа.",
+      "example_sentence": "Виноград је био пун зрелог грожђа."
+    },
+    "latin": {
+      "word": "vinograd",
+      "part_of_speech": "imenica",
+      "definition": "Posad vinove loze za proizvodnju grožđa.",
+      "example_sentence": "Vinograd je bio pun zrelog grožđa."
+    },
+    "english": {
+      "word": "vineyard",
+      "part_of_speech": "noun",
+      "definition": "A plantation of grapevines for producing grapes.",
+      "example_sentence": "The vineyard was full of ripe grapes."
+    }
+  }
+}

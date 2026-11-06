@@ -1,0 +1,23 @@
+{
+  "id": 714,
+  "translation": {
+    "cyrillic": {
+      "word": "продавати",
+      "part_of_speech": "глагол",
+      "definition": "Давати робу или услуге купцу у замену за новац.",
+      "example_sentence": "Трговци продају разноврсне производе."
+    },
+    "latin": {
+      "word": "prodavati",
+      "part_of_speech": "glagol",
+      "definition": "Davati robu ili usluge kupcu u zamenu za novac.",
+      "example_sentence": "Trgovci prodaju raznovrsne proizvode."
+    },
+    "english": {
+      "word": "sell",
+      "part_of_speech": "verb",
+      "definition": "To provide goods or services to a buyer in exchange for money.",
+      "example_sentence": "Merchants sell various products."
+    }
+  }
+}

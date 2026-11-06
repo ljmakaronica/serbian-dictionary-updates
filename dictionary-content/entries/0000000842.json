@@ -1,0 +1,23 @@
+{
+  "id": 842,
+  "translation": {
+    "cyrillic": {
+      "word": "ретко",
+      "part_of_speech": "прилог",
+      "definition": "На начин који се дешава у веома малом броју случајева.",
+      "example_sentence": "Он ретко изговара своје мишљење."
+    },
+    "latin": {
+      "word": "retko",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji se dešava u veoma malom broju slučajeva.",
+      "example_sentence": "On retko iznosi svoje mišljenje."
+    },
+    "english": {
+      "word": "rarely",
+      "part_of_speech": "adverb",
+      "definition": "Not often; scarcely.",
+      "example_sentence": "He rarely shares his opinion."
+    }
+  }
+}

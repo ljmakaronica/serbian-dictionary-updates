@@ -1,0 +1,23 @@
+{
+  "id": 663,
+  "translation": {
+    "cyrillic": {
+      "word": "камера",
+      "part_of_speech": "именица",
+      "definition": "Уређај за снимање слика или видеа.",
+      "example_sentence": "Камера је забележила све догађаје."
+    },
+    "latin": {
+      "word": "kamera",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za snimanje slika ili videa.",
+      "example_sentence": "Kamera je zabeležila sve događaje."
+    },
+    "english": {
+      "word": "camera",
+      "part_of_speech": "noun",
+      "definition": "A device for recording images or videos.",
+      "example_sentence": "The camera recorded all the events."
+    }
+  }
+}

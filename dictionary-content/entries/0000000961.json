@@ -1,0 +1,23 @@
+{
+  "id": 961,
+  "translation": {
+    "cyrillic": {
+      "word": "радити",
+      "part_of_speech": "глагол",
+      "definition": "извршавати задатак",
+      "example_sentence": "Радим задатак."
+    },
+    "latin": {
+      "word": "raditi",
+      "part_of_speech": "glagol",
+      "definition": "izvršavati zadatak",
+      "example_sentence": "Radim zadatak."
+    },
+    "english": {
+      "word": "to do",
+      "part_of_speech": "verb",
+      "definition": "perform a task",
+      "example_sentence": "I do the task."
+    }
+  }
+}

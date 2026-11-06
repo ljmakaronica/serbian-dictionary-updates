@@ -1,0 +1,23 @@
+{
+  "id": 693,
+  "translation": {
+    "cyrillic": {
+      "word": "књижарија",
+      "part_of_speech": "именица",
+      "definition": "Продавница где се продају књиге.",
+      "example_sentence": "Књижарија нуди велики избор књига."
+    },
+    "latin": {
+      "word": "knjižarija",
+      "part_of_speech": "imenica",
+      "definition": "Prodavnica gde se prodaju knjige.",
+      "example_sentence": "Knjižarija nudi veliki izbor knjiga."
+    },
+    "english": {
+      "word": "bookstore",
+      "part_of_speech": "noun",
+      "definition": "A store where books are sold.",
+      "example_sentence": "The bookstore offers a wide selection of books."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 995,
+  "translation": {
+    "cyrillic": {
+      "word": "онда",
+      "part_of_speech": "прилог",
+      "definition": "у том тренутку",
+      "example_sentence": "Онда сам био млад."
+    },
+    "latin": {
+      "word": "onda",
+      "part_of_speech": "prilog",
+      "definition": "u tom trenutku",
+      "example_sentence": "Onda sam bio mlad."
+    },
+    "english": {
+      "word": "then",
+      "part_of_speech": "adverb",
+      "definition": "at that time",
+      "example_sentence": "I was young then."
+    }
+  }
+}

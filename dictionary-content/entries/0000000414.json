@@ -1,0 +1,23 @@
+{
+  "id": 414,
+  "translation": {
+    "cyrillic": {
+      "word": "срећа",
+      "part_of_speech": "именица",
+      "definition": "Осећај задовољства и радости.",
+      "example_sentence": "Његова срећа је била очигледна."
+    },
+    "latin": {
+      "word": "sreća",
+      "part_of_speech": "imenica",
+      "definition": "Osećaj zadovoljstva i radosti.",
+      "example_sentence": "Njegova sreća je bila očigledna."
+    },
+    "english": {
+      "word": "happiness",
+      "part_of_speech": "noun",
+      "definition": "A feeling of contentment and joy.",
+      "example_sentence": "His happiness was evident."
+    }
+  }
+}

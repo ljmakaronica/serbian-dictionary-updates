@@ -1,0 +1,23 @@
+{
+  "id": 1081,
+  "translation": {
+    "cyrillic": {
+      "word": "зона",
+      "part_of_speech": "именица",
+      "definition": "Подручје са одређеним карактеристикама.",
+      "example_sentence": "Улазимо у пешачку зону."
+    },
+    "latin": {
+      "word": "zona",
+      "part_of_speech": "imenica",
+      "definition": "Područje sa određenim karakteristikama.",
+      "example_sentence": "Ulazimo u pešačku zonu."
+    },
+    "english": {
+      "word": "zone",
+      "part_of_speech": "noun",
+      "definition": "An area with specific characteristics.",
+      "example_sentence": "We are entering the pedestrian zone."
+    }
+  }
+}

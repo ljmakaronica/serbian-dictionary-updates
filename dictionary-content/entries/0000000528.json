@@ -1,0 +1,23 @@
+{
+  "id": 528,
+  "translation": {
+    "cyrillic": {
+      "word": "шеснаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 16.",
+      "example_sentence": "Имам шеснаест бомбона."
+    },
+    "latin": {
+      "word": "šesnaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 16.",
+      "example_sentence": "Imam šesnaest bombona."
+    },
+    "english": {
+      "word": "sixteen",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 16.",
+      "example_sentence": "I have sixteen candies."
+    }
+  }
+}

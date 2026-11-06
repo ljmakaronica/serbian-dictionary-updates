@@ -1,0 +1,23 @@
+{
+  "id": 869,
+  "translation": {
+    "cyrillic": {
+      "word": "где",
+      "part_of_speech": "везник",
+      "definition": "Означава место.",
+      "example_sentence": "Идем где ме воде ноге."
+    },
+    "latin": {
+      "word": "gde",
+      "part_of_speech": "veznik",
+      "definition": "Označava mesto.",
+      "example_sentence": "Idem gde me vode noge."
+    },
+    "english": {
+      "word": "where",
+      "part_of_speech": "conjunction",
+      "definition": "Indicates place.",
+      "example_sentence": "I go where my feet take me."
+    }
+  }
+}

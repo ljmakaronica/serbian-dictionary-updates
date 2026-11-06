@@ -1,0 +1,23 @@
+{
+  "id": 591,
+  "translation": {
+    "cyrillic": {
+      "word": "парадајз",
+      "part_of_speech": "именица",
+      "definition": "Црвено поврће које се користи у салатама.",
+      "example_sentence": "Парадајз је сочан."
+    },
+    "latin": {
+      "word": "paradajz",
+      "part_of_speech": "imenica",
+      "definition": "Crveno povrće koje se koristi u salatama.",
+      "example_sentence": "Paradajz je sočan."
+    },
+    "english": {
+      "word": "tomato",
+      "part_of_speech": "noun",
+      "definition": "Red vegetable used in salads.",
+      "example_sentence": "Tomatoes are juicy."
+    }
+  }
+}

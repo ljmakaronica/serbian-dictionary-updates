@@ -1,0 +1,23 @@
+{
+  "id": 287,
+  "translation": {
+    "cyrillic": {
+      "word": "есеј",
+      "part_of_speech": "именица",
+      "definition": "Краћи писани рад на одређену тему.",
+      "example_sentence": "Написала је есеј о екологији."
+    },
+    "latin": {
+      "word": "esej",
+      "part_of_speech": "imenica",
+      "definition": "Kraći pisani rad na određenu temu.",
+      "example_sentence": "Napisala je esej o ekologiji."
+    },
+    "english": {
+      "word": "essay",
+      "part_of_speech": "noun",
+      "definition": "A short written piece on a specific topic.",
+      "example_sentence": "She wrote an essay about ecology."
+    }
+  }
+}

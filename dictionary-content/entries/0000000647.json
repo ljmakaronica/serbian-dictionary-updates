@@ -1,0 +1,23 @@
+{
+  "id": 647,
+  "translation": {
+    "cyrillic": {
+      "word": "новине",
+      "part_of_speech": "именица",
+      "definition": "Публикација која преноси вести и информације.",
+      "example_sentence": "Свакодневне новине доносе свеже вести."
+    },
+    "latin": {
+      "word": "novine",
+      "part_of_speech": "imenica",
+      "definition": "Publikacija koja prenosi vesti i informacije.",
+      "example_sentence": "Dnevne novine donose sveže vesti."
+    },
+    "english": {
+      "word": "newspaper",
+      "part_of_speech": "noun",
+      "definition": "A publication that delivers news and information.",
+      "example_sentence": "The daily newspaper brings fresh news."
+    }
+  }
+}

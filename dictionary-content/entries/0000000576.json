@@ -1,0 +1,23 @@
+{
+  "id": 576,
+  "translation": {
+    "cyrillic": {
+      "word": "играти",
+      "part_of_speech": "глагол",
+      "definition": "Учествовати у игри или спортској активности.",
+      "example_sentence": "Деца воле да играју напољу."
+    },
+    "latin": {
+      "word": "igrati",
+      "part_of_speech": "glagol",
+      "definition": "Učestvovati u igri ili sportskoj aktivnosti.",
+      "example_sentence": "Deca vole da igraju napolju."
+    },
+    "english": {
+      "word": "to play",
+      "part_of_speech": "verb",
+      "definition": "To engage in a game or sport.",
+      "example_sentence": "Children love to play outside."
+    }
+  }
+}

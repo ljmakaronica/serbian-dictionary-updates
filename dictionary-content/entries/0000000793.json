@@ -1,0 +1,23 @@
+{
+  "id": 793,
+  "translation": {
+    "cyrillic": {
+      "word": "напасти",
+      "part_of_speech": "глагол",
+      "definition": "Дејство агресивног деловања против некога или нечега.",
+      "example_sentence": "Војска је напала непријатељски положај."
+    },
+    "latin": {
+      "word": "napasti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo agresivnog delovanja protiv nekoga ili nečega.",
+      "example_sentence": "Vojska je napala neprijateljski položaj."
+    },
+    "english": {
+      "word": "attack",
+      "part_of_speech": "verb",
+      "definition": "To take aggressive action against.",
+      "example_sentence": "The army attacked the enemy position."
+    }
+  }
+}

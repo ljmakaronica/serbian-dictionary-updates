@@ -1,0 +1,23 @@
+{
+  "id": 578,
+  "translation": {
+    "cyrillic": {
+      "word": "мали",
+      "part_of_speech": "придев",
+      "definition": "Малих размера или обима.",
+      "example_sentence": "Ова соба је мала."
+    },
+    "latin": {
+      "word": "mali",
+      "part_of_speech": "pridev",
+      "definition": "Malih razmera ili obima.",
+      "example_sentence": "Ova soba je mala."
+    },
+    "english": {
+      "word": "small",
+      "part_of_speech": "adjective",
+      "definition": "Small in size or extent.",
+      "example_sentence": "This room is small."
+    }
+  }
+}

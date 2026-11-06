@@ -1,0 +1,23 @@
+{
+  "id": 123,
+  "translation": {
+    "cyrillic": {
+      "word": "вода",
+      "part_of_speech": "именица",
+      "definition": "Течност без мириса и укуса, неопходна за живот.",
+      "example_sentence": "Пијте много воде током дана."
+    },
+    "latin": {
+      "word": "voda",
+      "part_of_speech": "imenica",
+      "definition": "Tekućina bez mirisa i ukusa, neophodna za život.",
+      "example_sentence": "Pijte mnogo vode tokom dana."
+    },
+    "english": {
+      "word": "water",
+      "part_of_speech": "noun",
+      "definition": "A tasteless and odorless liquid essential for life.",
+      "example_sentence": "Drink plenty of water throughout the day."
+    }
+  }
+}

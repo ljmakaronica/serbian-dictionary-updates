@@ -1,0 +1,23 @@
+{
+  "id": 752,
+  "translation": {
+    "cyrillic": {
+      "word": "цртати",
+      "part_of_speech": "глагол",
+      "definition": "Правити слику или скицу помоћу линија.",
+      "example_sentence": "Она црта портрет на папиру."
+    },
+    "latin": {
+      "word": "crtati",
+      "part_of_speech": "glagol",
+      "definition": "Praviti sliku ili skicu pomoću linija.",
+      "example_sentence": "Ona crta portret na papiru."
+    },
+    "english": {
+      "word": "draw",
+      "part_of_speech": "verb",
+      "definition": "To make a picture or sketch using lines.",
+      "example_sentence": "She is drawing a portrait on paper."
+    }
+  }
+}

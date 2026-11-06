@@ -1,0 +1,23 @@
+{
+  "id": 270,
+  "translation": {
+    "cyrillic": {
+      "word": "егзил",
+      "part_of_speech": "именица",
+      "definition": "Принудни боравак ван домовине.",
+      "example_sentence": "Писац је живео у егзилу двадесет година."
+    },
+    "latin": {
+      "word": "egzil",
+      "part_of_speech": "imenica",
+      "definition": "Prinudni boravak van domovine.",
+      "example_sentence": "Pisac je živeo u egzilu dvadeset godina."
+    },
+    "english": {
+      "word": "exile",
+      "part_of_speech": "noun",
+      "definition": "Forced stay away from one's homeland.",
+      "example_sentence": "The writer lived in exile for twenty years."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 787,
+  "translation": {
+    "cyrillic": {
+      "word": "поновити",
+      "part_of_speech": "глагол",
+      "definition": "Урадити или изговорити нешто још једном.",
+      "example_sentence": "Она је поновила исти поступак."
+    },
+    "latin": {
+      "word": "ponoviti",
+      "part_of_speech": "glagol",
+      "definition": "Uraditi ili izgovoriti nešto još jednom.",
+      "example_sentence": "Ona je ponovila isti postupak."
+    },
+    "english": {
+      "word": "repeat",
+      "part_of_speech": "verb",
+      "definition": "To do or say something again.",
+      "example_sentence": "She repeated the same procedure."
+    }
+  }
+}

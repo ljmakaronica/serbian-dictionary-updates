@@ -1,0 +1,23 @@
+{
+  "id": 889,
+  "translation": {
+    "cyrillic": {
+      "word": "у",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава место или положај унутар нечега",
+      "example_sentence": "Књига је у торби."
+    },
+    "latin": {
+      "word": "u",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava mesto ili položaj unutar nečega",
+      "example_sentence": "Knjiga je u torbi."
+    },
+    "english": {
+      "word": "in",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating location or position inside something",
+      "example_sentence": "The book is in the bag."
+    }
+  }
+}

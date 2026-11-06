@@ -1,0 +1,23 @@
+{
+  "id": 91,
+  "translation": {
+    "cyrillic": {
+      "word": "бескрајан",
+      "part_of_speech": "придев",
+      "definition": "Који нема краја или граница.",
+      "example_sentence": "Небо изгледа бескрајно на отвореном мору."
+    },
+    "latin": {
+      "word": "beskrajan",
+      "part_of_speech": "pridev",
+      "definition": "Koji nema kraja ili granica.",
+      "example_sentence": "Nebo izgleda beskrajno na otvorenom moru."
+    },
+    "english": {
+      "word": "endless",
+      "part_of_speech": "adjective",
+      "definition": "Having no end or limit.",
+      "example_sentence": "The sky looks endless on the open sea."
+    }
+  }
+}

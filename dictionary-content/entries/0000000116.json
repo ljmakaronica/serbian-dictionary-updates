@@ -1,0 +1,23 @@
+{
+  "id": 116,
+  "translation": {
+    "cyrillic": {
+      "word": "беба",
+      "part_of_speech": "именица",
+      "definition": "Врло младо дете, новорођенче.",
+      "example_sentence": "Беба је заспала у колевци."
+    },
+    "latin": {
+      "word": "beba",
+      "part_of_speech": "imenica",
+      "definition": "Vrlo mlado dete, novorođenče.",
+      "example_sentence": "Beba je zaspala u kolevci."
+    },
+    "english": {
+      "word": "baby",
+      "part_of_speech": "noun",
+      "definition": "A very young child, infant.",
+      "example_sentence": "The baby fell asleep in the cradle."
+    }
+  }
+}

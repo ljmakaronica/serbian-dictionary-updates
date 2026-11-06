@@ -1,0 +1,23 @@
+{
+  "id": 423,
+  "translation": {
+    "cyrillic": {
+      "word": "топло",
+      "part_of_speech": "прилог",
+      "definition": "На начин који има високу температуру.",
+      "example_sentence": "Сунце је топло грејало."
+    },
+    "latin": {
+      "word": "toplo",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ima visoku temperaturu.",
+      "example_sentence": "Sunce je toplo grejalo."
+    },
+    "english": {
+      "word": "warmly",
+      "part_of_speech": "adverb",
+      "definition": "In a manner that has a high temperature.",
+      "example_sentence": "The sun was shining warmly."
+    }
+  }
+}

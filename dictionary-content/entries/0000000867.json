@@ -1,0 +1,23 @@
+{
+  "id": 867,
+  "translation": {
+    "cyrillic": {
+      "word": "мада",
+      "part_of_speech": "везник",
+      "definition": "Изражава супротност или допуштање.",
+      "example_sentence": "Добар је, мада понекад греши."
+    },
+    "latin": {
+      "word": "mada",
+      "part_of_speech": "veznik",
+      "definition": "Izražava suprotnost ili dopuštanje.",
+      "example_sentence": "Dobar je, mada ponekad greši."
+    },
+    "english": {
+      "word": "though",
+      "part_of_speech": "conjunction",
+      "definition": "Expresses contrast or concession.",
+      "example_sentence": "He is good, though he sometimes makes mistakes."
+    }
+  }
+}

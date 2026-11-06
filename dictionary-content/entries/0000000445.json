@@ -1,0 +1,23 @@
+{
+  "id": 445,
+  "translation": {
+    "cyrillic": {
+      "word": "филм",
+      "part_of_speech": "именица",
+      "definition": "Аудиовизуелно дело које прича причу.",
+      "example_sentence": "Гледали смо филм у биоскопу."
+    },
+    "latin": {
+      "word": "film",
+      "part_of_speech": "imenica",
+      "definition": "Audiovizuelno delo koje priča priču.",
+      "example_sentence": "Gledali smo film u bioskopu."
+    },
+    "english": {
+      "word": "movie",
+      "part_of_speech": "noun",
+      "definition": "An audiovisual work that tells a story.",
+      "example_sentence": "We watched a movie at the cinema."
+    }
+  }
+}

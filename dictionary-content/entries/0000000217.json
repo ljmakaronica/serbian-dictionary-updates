@@ -1,0 +1,23 @@
+{
+  "id": 217,
+  "translation": {
+    "cyrillic": {
+      "word": "ђумбир",
+      "part_of_speech": "именица",
+      "definition": "Зачинска биљка оштрог укуса.",
+      "example_sentence": "Ђумбир је здрав зачин."
+    },
+    "latin": {
+      "word": "đumbir",
+      "part_of_speech": "imenica",
+      "definition": "Začinska biljka oštrog ukusa.",
+      "example_sentence": "Đumbir je zdrav začin."
+    },
+    "english": {
+      "word": "ginger",
+      "part_of_speech": "noun",
+      "definition": "A spicy root used as a seasoning.",
+      "example_sentence": "Ginger is a healthy spice."
+    }
+  }
+}

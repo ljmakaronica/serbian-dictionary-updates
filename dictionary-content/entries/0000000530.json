@@ -1,0 +1,23 @@
+{
+  "id": 530,
+  "translation": {
+    "cyrillic": {
+      "word": "осамнаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 18.",
+      "example_sentence": "Имам осамнаест јаја."
+    },
+    "latin": {
+      "word": "osamnaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 18.",
+      "example_sentence": "Imam osamnaest jaja."
+    },
+    "english": {
+      "word": "eighteen",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 18.",
+      "example_sentence": "I have eighteen eggs."
+    }
+  }
+}

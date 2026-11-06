@@ -1,0 +1,23 @@
+{
+  "id": 314,
+  "translation": {
+    "cyrillic": {
+      "word": "ићи",
+      "part_of_speech": "глагол",
+      "definition": "Кретање од једног места до другог.",
+      "example_sentence": "Требам да идем у школу."
+    },
+    "latin": {
+      "word": "ići",
+      "part_of_speech": "glagol",
+      "definition": "Kretanje od jednog mesta do drugog.",
+      "example_sentence": "Trebam da idem u školu."
+    },
+    "english": {
+      "word": "go",
+      "part_of_speech": "verb",
+      "definition": "To move from one place to another.",
+      "example_sentence": "I need to go to school."
+    }
+  }
+}

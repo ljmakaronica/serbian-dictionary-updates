@@ -1,0 +1,23 @@
+{
+  "id": 921,
+  "translation": {
+    "cyrillic": {
+      "word": "тамо",
+      "part_of_speech": "прилог",
+      "definition": "Означава место далеко од говорника.",
+      "example_sentence": "Они живе тамо."
+    },
+    "latin": {
+      "word": "tamo",
+      "part_of_speech": "prilog",
+      "definition": "Označava mesto daleko od govornika.",
+      "example_sentence": "Oni žive tamo."
+    },
+    "english": {
+      "word": "there",
+      "part_of_speech": "adverb",
+      "definition": "Indicates a place far from the speaker.",
+      "example_sentence": "They live there."
+    }
+  }
+}

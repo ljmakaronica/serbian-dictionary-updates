@@ -1,0 +1,23 @@
+{
+  "id": 1051,
+  "translation": {
+    "cyrillic": {
+      "word": "искористити",
+      "part_of_speech": "глагол",
+      "definition": "Употребити нешто за одређени циљ.",
+      "example_sentence": "Искористио је прилику."
+    },
+    "latin": {
+      "word": "iskoristiti",
+      "part_of_speech": "glagol",
+      "definition": "Upotrebiti nešto za određeni cilj.",
+      "example_sentence": "Iskoristio je priliku."
+    },
+    "english": {
+      "word": "utilize",
+      "part_of_speech": "verb",
+      "definition": "To use something for a specific goal.",
+      "example_sentence": "He utilized the opportunity."
+    }
+  }
+}

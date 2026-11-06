@@ -1,0 +1,23 @@
+{
+  "id": 950,
+  "translation": {
+    "cyrillic": {
+      "word": "особа",
+      "part_of_speech": "именица",
+      "definition": "човек",
+      "example_sentence": "Он је добра особа."
+    },
+    "latin": {
+      "word": "osoba",
+      "part_of_speech": "imenica",
+      "definition": "čovek",
+      "example_sentence": "On je dobra osoba."
+    },
+    "english": {
+      "word": "person",
+      "part_of_speech": "noun",
+      "definition": "a human being",
+      "example_sentence": "He is a good person."
+    }
+  }
+}

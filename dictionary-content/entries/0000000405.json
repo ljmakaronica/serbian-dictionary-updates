@@ -1,0 +1,23 @@
+{
+  "id": 405,
+  "translation": {
+    "cyrillic": {
+      "word": "ручак",
+      "part_of_speech": "именица",
+      "definition": "Главни оброк током дана.",
+      "example_sentence": "Ручак је био укусан."
+    },
+    "latin": {
+      "word": "ručak",
+      "part_of_speech": "imenica",
+      "definition": "Glavni obrok tokom dana.",
+      "example_sentence": "Ručak je bio ukusan."
+    },
+    "english": {
+      "word": "lunch",
+      "part_of_speech": "noun",
+      "definition": "The main meal during the day.",
+      "example_sentence": "The lunch was delicious."
+    }
+  }
+}

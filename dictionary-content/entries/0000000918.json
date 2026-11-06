@@ -1,0 +1,23 @@
+{
+  "id": 918,
+  "translation": {
+    "cyrillic": {
+      "word": "горе",
+      "part_of_speech": "прилог",
+      "definition": "Означава место које је више или изнад.",
+      "example_sentence": "Књига је горе на полици."
+    },
+    "latin": {
+      "word": "gore",
+      "part_of_speech": "prilog",
+      "definition": "Označava mesto koje je više ili iznad.",
+      "example_sentence": "Knjiga je gore na polici."
+    },
+    "english": {
+      "word": "up",
+      "part_of_speech": "adverb",
+      "definition": "Indicates a place that is higher or above.",
+      "example_sentence": "The book is up on the shelf."
+    }
+  }
+}

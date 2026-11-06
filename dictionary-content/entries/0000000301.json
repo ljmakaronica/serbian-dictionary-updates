@@ -1,0 +1,23 @@
+{
+  "id": 301,
+  "translation": {
+    "cyrillic": {
+      "word": "зима",
+      "part_of_speech": "именица",
+      "definition": "Годишње доба које долази после јесени.",
+      "example_sentence": "Зима је веома хладна."
+    },
+    "latin": {
+      "word": "zima",
+      "part_of_speech": "imenica",
+      "definition": "Godišnje doba koje dolazi posle jeseni.",
+      "example_sentence": "Zima je veoma hladna."
+    },
+    "english": {
+      "word": "winter",
+      "part_of_speech": "noun",
+      "definition": "The season that follows autumn.",
+      "example_sentence": "Winter is very cold."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 59,
+  "translation": {
+    "cyrillic": {
+      "word": "авијатичар",
+      "part_of_speech": "именица",
+      "definition": "Особа која управља авионом; пилот.",
+      "example_sentence": "Авијатичар је безбедно приземљио авион."
+    },
+    "latin": {
+      "word": "avijatičar",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja upravlja avionom; pilot.",
+      "example_sentence": "Avijatičar je bezbedno prizemljio avion."
+    },
+    "english": {
+      "word": "aviator",
+      "part_of_speech": "noun",
+      "definition": "A person who flies an aircraft; a pilot.",
+      "example_sentence": "The aviator landed the plane safely."
+    }
+  }
+}

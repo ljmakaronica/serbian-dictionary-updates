@@ -1,0 +1,23 @@
+{
+  "id": 679,
+  "translation": {
+    "cyrillic": {
+      "word": "писмо",
+      "part_of_speech": "именица",
+      "definition": "Написана комуникација послата путем поште.",
+      "example_sentence": "Писмо је стигло из далеке земље."
+    },
+    "latin": {
+      "word": "pismo",
+      "part_of_speech": "imenica",
+      "definition": "Napisana komunikacija poslana putem pošte.",
+      "example_sentence": "Pismo je stiglo iz daleke zemlje."
+    },
+    "english": {
+      "word": "letter",
+      "part_of_speech": "noun",
+      "definition": "A written communication sent by mail.",
+      "example_sentence": "The letter arrived from a distant land."
+    }
+  }
+}

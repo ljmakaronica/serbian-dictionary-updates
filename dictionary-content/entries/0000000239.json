@@ -1,0 +1,23 @@
+{
+  "id": 239,
+  "translation": {
+    "cyrillic": {
+      "word": "емоција",
+      "part_of_speech": "именица",
+      "definition": "Снажно осећање или расположење.",
+      "example_sentence": "Радост је позитивна емоција."
+    },
+    "latin": {
+      "word": "emocija",
+      "part_of_speech": "imenica",
+      "definition": "Snažno osećanje ili raspoloženje.",
+      "example_sentence": "Radost je pozitivna emocija."
+    },
+    "english": {
+      "word": "emotion",
+      "part_of_speech": "noun",
+      "definition": "A strong feeling or mood.",
+      "example_sentence": "Joy is a positive emotion."
+    }
+  }
+}

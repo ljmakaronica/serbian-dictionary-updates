@@ -1,0 +1,23 @@
+{
+  "id": 205,
+  "translation": {
+    "cyrillic": {
+      "word": "долар",
+      "part_of_speech": "именица",
+      "definition": "Новчана јединица која се користи у неким земљама.",
+      "example_sentence": "Цена је била 10 долара."
+    },
+    "latin": {
+      "word": "dolar",
+      "part_of_speech": "imenica",
+      "definition": "Novčana jedinica koja se koristi u nekim zemljama.",
+      "example_sentence": "Cena je bila 10 dolara."
+    },
+    "english": {
+      "word": "dollar",
+      "part_of_speech": "noun",
+      "definition": "A unit of currency used in some countries.",
+      "example_sentence": "The price was 10 dollars."
+    }
+  }
+}

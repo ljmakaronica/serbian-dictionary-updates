@@ -1,0 +1,23 @@
+{
+  "id": 464,
+  "translation": {
+    "cyrillic": {
+      "word": "хемијски",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на хемију.",
+      "example_sentence": "Ово је хемијски експеримент."
+    },
+    "latin": {
+      "word": "hemijski",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na hemiju.",
+      "example_sentence": "Ovo je hemijski eksperiment."
+    },
+    "english": {
+      "word": "chemical",
+      "part_of_speech": "adjective",
+      "definition": "Relating to chemistry.",
+      "example_sentence": "This is a chemical experiment."
+    }
+  }
+}

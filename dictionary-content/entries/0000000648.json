@@ -1,0 +1,23 @@
+{
+  "id": 648,
+  "translation": {
+    "cyrillic": {
+      "word": "радио",
+      "part_of_speech": "именица",
+      "definition": "Уређај који прима и емитује аудио сигнале.",
+      "example_sentence": "Радио емитује музику и вести."
+    },
+    "latin": {
+      "word": "radio",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj koji prima i emituje audio signale.",
+      "example_sentence": "Radio emituje muziku i vesti."
+    },
+    "english": {
+      "word": "radio",
+      "part_of_speech": "noun",
+      "definition": "A device that receives and broadcasts audio signals.",
+      "example_sentence": "The radio broadcasts music and news."
+    }
+  }
+}

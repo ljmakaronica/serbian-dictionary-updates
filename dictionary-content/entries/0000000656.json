@@ -1,0 +1,23 @@
+{
+  "id": 656,
+  "translation": {
+    "cyrillic": {
+      "word": "театар",
+      "part_of_speech": "именица",
+      "definition": "Место на коме се изводе позоришне представе.",
+      "example_sentence": "Театар је био пун публике."
+    },
+    "latin": {
+      "word": "teatar",
+      "part_of_speech": "imenica",
+      "definition": "Mesto na kome se izvode pozorišne predstave.",
+      "example_sentence": "Teatar je bio pun publike."
+    },
+    "english": {
+      "word": "theater",
+      "part_of_speech": "noun",
+      "definition": "A place where plays are performed.",
+      "example_sentence": "The theater was full of spectators."
+    }
+  }
+}

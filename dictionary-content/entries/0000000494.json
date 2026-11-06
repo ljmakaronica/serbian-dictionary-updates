@@ -1,0 +1,23 @@
+{
+  "id": 494,
+  "translation": {
+    "cyrillic": {
+      "word": "џип",
+      "part_of_speech": "именица",
+      "definition": "Возило са погоном на сва четири точка.",
+      "example_sentence": "џип је био идеалан за вожњу по терену."
+    },
+    "latin": {
+      "word": "džip",
+      "part_of_speech": "imenica",
+      "definition": "Vozilo sa pogonom na sva četiri točka.",
+      "example_sentence": "Džip je bio idealan za vožnju po terenu."
+    },
+    "english": {
+      "word": "jeep",
+      "part_of_speech": "noun",
+      "definition": "A vehicle with four-wheel drive.",
+      "example_sentence": "The jeep was ideal for off-road driving."
+    }
+  }
+}

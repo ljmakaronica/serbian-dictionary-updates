@@ -1,0 +1,23 @@
+{
+  "id": 1082,
+  "translation": {
+    "cyrillic": {
+      "word": "зоолошки врт",
+      "part_of_speech": "именица",
+      "definition": "Место где се држе животиње за јавни приказ.",
+      "example_sentence": "Посетили су зоолошки врт."
+    },
+    "latin": {
+      "word": "zoološki vrt",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde se drže životinje za javni prikaz.",
+      "example_sentence": "Posetili su zoološki vrt."
+    },
+    "english": {
+      "word": "zoo",
+      "part_of_speech": "noun",
+      "definition": "A place where animals are kept for public display.",
+      "example_sentence": "They visited the zoo."
+    }
+  }
+}

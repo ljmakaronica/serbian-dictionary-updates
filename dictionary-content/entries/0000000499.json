@@ -1,0 +1,23 @@
+{
+  "id": 499,
+  "translation": {
+    "cyrillic": {
+      "word": "шанса",
+      "part_of_speech": "именица",
+      "definition": "Могућност за успех или нешто позитивно.",
+      "example_sentence": "Ово је твоја шанса да докажеш себе."
+    },
+    "latin": {
+      "word": "šansa",
+      "part_of_speech": "imenica",
+      "definition": "Mogućnost za uspeh ili nešto pozitivno.",
+      "example_sentence": "Ovo je tvoja šansa da dokažeš sebe."
+    },
+    "english": {
+      "word": "chance",
+      "part_of_speech": "noun",
+      "definition": "An opportunity for success or something positive.",
+      "example_sentence": "This is your chance to prove yourself."
+    }
+  }
+}

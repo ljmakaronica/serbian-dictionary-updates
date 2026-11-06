@@ -1,0 +1,23 @@
+{
+  "id": 286,
+  "translation": {
+    "cyrillic": {
+      "word": "евиденција",
+      "part_of_speech": "именица",
+      "definition": "Скуп систематски забележених података о нечему.",
+      "example_sentence": "Школа води евиденцију о присуству ученика."
+    },
+    "latin": {
+      "word": "evidencija",
+      "part_of_speech": "imenica",
+      "definition": "Skup sistematski zabeleženih podataka o nečemu.",
+      "example_sentence": "Škola vodi evidenciju o prisustvu učenika."
+    },
+    "english": {
+      "word": "records",
+      "part_of_speech": "noun",
+      "definition": "Information systematically recorded about something.",
+      "example_sentence": "The school keeps records of student attendance."
+    }
+  }
+}

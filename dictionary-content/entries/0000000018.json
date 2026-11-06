@@ -1,0 +1,23 @@
+{
+  "id": 18,
+  "translation": {
+    "cyrillic": {
+      "word": "аустралијски",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на Аустралију или потиче из Аустралије.",
+      "example_sentence": "Аустралијски кенгури су познати широм света."
+    },
+    "latin": {
+      "word": "australijski",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na Australiju ili potiče iz Australije.",
+      "example_sentence": "Australijski kenguri su poznati širom sveta."
+    },
+    "english": {
+      "word": "Australian",
+      "part_of_speech": "adjective",
+      "definition": "Relating to or originating from Australia.",
+      "example_sentence": "Australian kangaroos are known worldwide."
+    }
+  }
+}

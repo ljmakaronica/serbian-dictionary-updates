@@ -1,0 +1,23 @@
+{
+  "id": 668,
+  "translation": {
+    "cyrillic": {
+      "word": "пустина",
+      "part_of_speech": "именица",
+      "definition": "Широко и суво подручје са мало воде.",
+      "example_sentence": "Пустина се протеже километре."
+    },
+    "latin": {
+      "word": "pustina",
+      "part_of_speech": "imenica",
+      "definition": "Široko i suvo područje sa malo vode.",
+      "example_sentence": "Pustina se proteže kilometrima."
+    },
+    "english": {
+      "word": "desert",
+      "part_of_speech": "noun",
+      "definition": "A vast and arid area with little water.",
+      "example_sentence": "The desert stretches for miles."
+    }
+  }
+}

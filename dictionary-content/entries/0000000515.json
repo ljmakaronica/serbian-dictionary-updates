@@ -1,0 +1,23 @@
+{
+  "id": 515,
+  "translation": {
+    "cyrillic": {
+      "word": "три",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 3.",
+      "example_sentence": "Имам три књиге."
+    },
+    "latin": {
+      "word": "tri",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 3.",
+      "example_sentence": "Imam tri knjige."
+    },
+    "english": {
+      "word": "three",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 3.",
+      "example_sentence": "I have three books."
+    }
+  }
+}

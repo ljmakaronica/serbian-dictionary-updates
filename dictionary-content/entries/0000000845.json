@@ -1,0 +1,23 @@
+{
+  "id": 845,
+  "translation": {
+    "cyrillic": {
+      "word": "запањујуће",
+      "part_of_speech": "прилог",
+      "definition": "На начин који изазива пажњу својом необичношћу.",
+      "example_sentence": "Резултати су запањујуће добри."
+    },
+    "latin": {
+      "word": "zapanjujuće",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji izaziva pažnju svojom neobičnošću.",
+      "example_sentence": "Rezultati su zapanjujuće dobri."
+    },
+    "english": {
+      "word": "remarkably",
+      "part_of_speech": "adverb",
+      "definition": "In a way that is notably impressive.",
+      "example_sentence": "The results are remarkably good."
+    }
+  }
+}

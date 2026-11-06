@@ -1,0 +1,23 @@
+{
+  "id": 1084,
+  "translation": {
+    "cyrillic": {
+      "word": "рајсфершлус",
+      "part_of_speech": "именица",
+      "definition": "Затварач са два низа зубаца који спајају ивице тканине.",
+      "example_sentence": "Затворио је рајсфершлус на јакни."
+    },
+    "latin": {
+      "word": "rajsferšlus",
+      "part_of_speech": "imenica",
+      "definition": "Zatvarač sa dva niza zubaca koji spajaju ivice tkanine.",
+      "example_sentence": "Zatvorio je rajsferšlus na jakni."
+    },
+    "english": {
+      "word": "zipper",
+      "part_of_speech": "noun",
+      "definition": "A fastener with two rows of teeth that join the edges of fabric.",
+      "example_sentence": "He closed the zipper on his jacket."
+    }
+  }
+}

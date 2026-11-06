@@ -1,0 +1,23 @@
+{
+  "id": 507,
+  "translation": {
+    "cyrillic": {
+      "word": "шминка",
+      "part_of_speech": "именица",
+      "definition": "Козметички производи за лице.",
+      "example_sentence": "Њена шминка је била савршена за вечеру."
+    },
+    "latin": {
+      "word": "šminka",
+      "part_of_speech": "imenica",
+      "definition": "Kozmetički proizvodi za lice.",
+      "example_sentence": "Njena šminka je bila savršena za večeru."
+    },
+    "english": {
+      "word": "makeup",
+      "part_of_speech": "noun",
+      "definition": "Cosmetic products for the face.",
+      "example_sentence": "Her makeup was perfect for the dinner."
+    }
+  }
+}

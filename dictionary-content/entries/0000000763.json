@@ -1,0 +1,23 @@
+{
+  "id": 763,
+  "translation": {
+    "cyrillic": {
+      "word": "одредити",
+      "part_of_speech": "глагол",
+      "definition": "Установити или дефинисати вредност или карактеристику нечега.",
+      "example_sentence": "Одредили смо датум састанка."
+    },
+    "latin": {
+      "word": "odrediti",
+      "part_of_speech": "glagol",
+      "definition": "Ustanoviti ili definisati vrednost ili karakteristiku nečega.",
+      "example_sentence": "Odredili smo datum sastanka."
+    },
+    "english": {
+      "word": "determine",
+      "part_of_speech": "verb",
+      "definition": "To establish or ascertain something.",
+      "example_sentence": "We determined the date of the meeting."
+    }
+  }
+}

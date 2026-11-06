@@ -1,0 +1,23 @@
+{
+  "id": 1000000005,
+  "translation": {
+    "cyrillic": {
+      "word": "јун",
+      "part_of_speech": "именица",
+      "definition": "Шести месец у години.",
+      "example_sentence": "Јун је први месец лета."
+    },
+    "latin": {
+      "word": "jun",
+      "part_of_speech": "imenica",
+      "definition": "Šesti mesec u godini.",
+      "example_sentence": "Jun je prvi mesec leta."
+    },
+    "english": {
+      "word": "June",
+      "part_of_speech": "noun",
+      "definition": "The sixth month of the year.",
+      "example_sentence": "June is the first month of summer."
+    }
+  }
+}

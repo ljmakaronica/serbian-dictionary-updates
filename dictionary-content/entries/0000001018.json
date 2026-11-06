@@ -1,0 +1,23 @@
+{
+  "id": 1018,
+  "translation": {
+    "cyrillic": {
+      "word": "скакати",
+      "part_of_speech": "глагол",
+      "definition": "Више пута се одгурнути од земље и враћати се надоле.",
+      "example_sentence": "Деца воле да скачу."
+    },
+    "latin": {
+      "word": "skakati",
+      "part_of_speech": "glagol",
+      "definition": "Više puta se odgurnuti od zemlje i vraćati se nadole.",
+      "example_sentence": "Deca vole da skaču."
+    },
+    "english": {
+      "word": "jump",
+      "part_of_speech": "verb",
+      "definition": "To push oneself off the ground and into the air repeatedly.",
+      "example_sentence": "Children love to jump."
+    }
+  }
+}

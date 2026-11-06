@@ -1,0 +1,23 @@
+{
+  "id": 422,
+  "translation": {
+    "cyrillic": {
+      "word": "телефон",
+      "part_of_speech": "именица",
+      "definition": "Уређај за комуникацију на даљину.",
+      "example_sentence": "Мој телефон је био искључен."
+    },
+    "latin": {
+      "word": "telefon",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za komunikaciju na daljinu.",
+      "example_sentence": "Moj telefon je bio isključen."
+    },
+    "english": {
+      "word": "phone",
+      "part_of_speech": "noun",
+      "definition": "A device for long-distance communication.",
+      "example_sentence": "My phone was turned off."
+    }
+  }
+}

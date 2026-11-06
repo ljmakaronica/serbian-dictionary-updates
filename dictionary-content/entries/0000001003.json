@@ -1,0 +1,23 @@
+{
+  "id": 1003,
+  "translation": {
+    "cyrillic": {
+      "word": "животиња",
+      "part_of_speech": "именица",
+      "definition": "живо биће",
+      "example_sentence": "Пас је животиња."
+    },
+    "latin": {
+      "word": "životinja",
+      "part_of_speech": "imenica",
+      "definition": "živo biće",
+      "example_sentence": "Pas je životinja."
+    },
+    "english": {
+      "word": "animal",
+      "part_of_speech": "noun",
+      "definition": "living creature",
+      "example_sentence": "A dog is an animal."
+    }
+  }
+}

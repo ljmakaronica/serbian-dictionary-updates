@@ -1,0 +1,23 @@
+{
+  "id": 126,
+  "translation": {
+    "cyrillic": {
+      "word": "вече",
+      "part_of_speech": "именица",
+      "definition": "Део дана који следи после поднева и пре ноћи.",
+      "example_sentence": "Вече је било мирно и тихо."
+    },
+    "latin": {
+      "word": "veče",
+      "part_of_speech": "imenica",
+      "definition": "Deo dana koji sledi posle podneva i pre noći.",
+      "example_sentence": "Veče je bilo mirno i tiho."
+    },
+    "english": {
+      "word": "evening",
+      "part_of_speech": "noun",
+      "definition": "The part of the day following the afternoon and before night.",
+      "example_sentence": "The evening was calm and quiet."
+    }
+  }
+}

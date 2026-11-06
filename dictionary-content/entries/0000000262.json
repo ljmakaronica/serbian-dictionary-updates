@@ -1,0 +1,23 @@
+{
+  "id": 262,
+  "translation": {
+    "cyrillic": {
+      "word": "ерудиција",
+      "part_of_speech": "именица",
+      "definition": "Широко знање стечено учењем и читањем.",
+      "example_sentence": "Његова ерудиција је импресивна."
+    },
+    "latin": {
+      "word": "erudicija",
+      "part_of_speech": "imenica",
+      "definition": "Široko znanje stečeno učenjem i čitanjem.",
+      "example_sentence": "Njegova erudicija je impresivna."
+    },
+    "english": {
+      "word": "erudition",
+      "part_of_speech": "noun",
+      "definition": "Extensive knowledge gained through study and reading.",
+      "example_sentence": "His erudition is impressive."
+    }
+  }
+}

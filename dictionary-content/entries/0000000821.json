@@ -1,0 +1,23 @@
+{
+  "id": 821,
+  "translation": {
+    "cyrillic": {
+      "word": "баш",
+      "part_of_speech": "речца",
+      "definition": "Речца која служи за појачање исказа.",
+      "example_sentence": "Баш је лепо!"
+    },
+    "latin": {
+      "word": "baš",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja služi za pojačanje iskaza.",
+      "example_sentence": "Baš je lepo!"
+    },
+    "english": {
+      "word": "really",
+      "part_of_speech": "particle",
+      "definition": "A particle used for emphasis.",
+      "example_sentence": "It's really nice!"
+    }
+  }
+}

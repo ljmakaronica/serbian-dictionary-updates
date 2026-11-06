@@ -1,0 +1,23 @@
+{
+  "id": 207,
+  "translation": {
+    "cyrillic": {
+      "word": "дизање",
+      "part_of_speech": "именица",
+      "definition": "Акција подизања нечега.",
+      "example_sentence": "Тренер је изводио дизање тегова."
+    },
+    "latin": {
+      "word": "dizanje",
+      "part_of_speech": "imenica",
+      "definition": "Akcija podizanja nečega.",
+      "example_sentence": "Trener je izvodio dizanje tegova."
+    },
+    "english": {
+      "word": "lifting",
+      "part_of_speech": "noun",
+      "definition": "The act of lifting something.",
+      "example_sentence": "The coach was demonstrating weightlifting."
+    }
+  }
+}

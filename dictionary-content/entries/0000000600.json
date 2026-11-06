@@ -1,0 +1,23 @@
+{
+  "id": 600,
+  "translation": {
+    "cyrillic": {
+      "word": "отворити",
+      "part_of_speech": "глагол",
+      "definition": "Учинити нешто доступним или видљивим.",
+      "example_sentence": "Отворио сам прозор."
+    },
+    "latin": {
+      "word": "otvoriti",
+      "part_of_speech": "glagol",
+      "definition": "Učiniti nešto dostupnim ili vidljivim.",
+      "example_sentence": "Otvorio sam prozor."
+    },
+    "english": {
+      "word": "to open",
+      "part_of_speech": "verb",
+      "definition": "To make something accessible or visible.",
+      "example_sentence": "I opened the window."
+    }
+  }
+}

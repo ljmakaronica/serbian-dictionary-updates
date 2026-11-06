@@ -1,0 +1,23 @@
+{
+  "id": 936,
+  "translation": {
+    "cyrillic": {
+      "word": "ноћ",
+      "part_of_speech": "именица",
+      "definition": "део дана без сунца",
+      "example_sentence": "Лаку ноћ!"
+    },
+    "latin": {
+      "word": "noć",
+      "part_of_speech": "imenica",
+      "definition": "deo dana bez sunca",
+      "example_sentence": "Laku noć!"
+    },
+    "english": {
+      "word": "night",
+      "part_of_speech": "noun",
+      "definition": "time of day without sun",
+      "example_sentence": "Good night!"
+    }
+  }
+}

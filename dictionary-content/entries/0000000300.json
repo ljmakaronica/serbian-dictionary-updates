@@ -1,0 +1,23 @@
+{
+  "id": 300,
+  "translation": {
+    "cyrillic": {
+      "word": "здравље",
+      "part_of_speech": "именица",
+      "definition": "Стање људског организма када је без болести.",
+      "example_sentence": "Здравље је најважнија ствар."
+    },
+    "latin": {
+      "word": "zdravlje",
+      "part_of_speech": "imenica",
+      "definition": "Stanje ljudskog organizma kada je bez bolesti.",
+      "example_sentence": "Zdravlje je najvažnija stvar."
+    },
+    "english": {
+      "word": "health",
+      "part_of_speech": "noun",
+      "definition": "The condition of the human body when free from disease.",
+      "example_sentence": "Health is the most important thing."
+    }
+  }
+}

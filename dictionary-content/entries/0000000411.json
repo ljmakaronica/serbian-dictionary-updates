@@ -1,0 +1,23 @@
+{
+  "id": 411,
+  "translation": {
+    "cyrillic": {
+      "word": "сунце",
+      "part_of_speech": "именица",
+      "definition": "Звезда у центру нашег Соларног система.",
+      "example_sentence": "Сунце је обасјало цео дан."
+    },
+    "latin": {
+      "word": "sunce",
+      "part_of_speech": "imenica",
+      "definition": "Zvezda u centru našeg Solarnog sistema.",
+      "example_sentence": "Sunce je obasjalo ceo dan."
+    },
+    "english": {
+      "word": "sun",
+      "part_of_speech": "noun",
+      "definition": "The star at the center of our Solar System.",
+      "example_sentence": "The sun shone all day."
+    }
+  }
+}

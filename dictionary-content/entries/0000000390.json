@@ -1,0 +1,23 @@
+{
+  "id": 390,
+  "translation": {
+    "cyrillic": {
+      "word": "обичај",
+      "part_of_speech": "именица",
+      "definition": "Традиционално понашање или пракса.",
+      "example_sentence": "Овај обичај постоји вековима."
+    },
+    "latin": {
+      "word": "običaj",
+      "part_of_speech": "imenica",
+      "definition": "Tradicionalno ponašanje ili praksa.",
+      "example_sentence": "Ovaj običaj postoji vekovima."
+    },
+    "english": {
+      "word": "custom",
+      "part_of_speech": "noun",
+      "definition": "Traditional behavior or practice.",
+      "example_sentence": "This custom has existed for centuries."
+    }
+  }
+}

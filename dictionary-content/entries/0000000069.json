@@ -1,0 +1,23 @@
+{
+  "id": 69,
+  "translation": {
+    "cyrillic": {
+      "word": "акумулатор",
+      "part_of_speech": "именица",
+      "definition": "Уређај за складиштење електричне енергије.",
+      "example_sentence": "Акумулатор у аутомобилу је потребно заменити."
+    },
+    "latin": {
+      "word": "akumulator",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za skladištenje električne energije.",
+      "example_sentence": "Akumulator u automobilu je potrebno zameniti."
+    },
+    "english": {
+      "word": "battery",
+      "part_of_speech": "noun",
+      "definition": "A device for storing electrical energy.",
+      "example_sentence": "The car's battery needs to be replaced."
+    }
+  }
+}

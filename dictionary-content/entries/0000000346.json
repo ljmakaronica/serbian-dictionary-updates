@@ -1,0 +1,23 @@
+{
+  "id": 346,
+  "translation": {
+    "cyrillic": {
+      "word": "каријера",
+      "part_of_speech": "именица",
+      "definition": "Професионални пут или развој у одређеној области.",
+      "example_sentence": "Његова каријера у спорту је била веома успешна."
+    },
+    "latin": {
+      "word": "karijera",
+      "part_of_speech": "imenica",
+      "definition": "Profesionalni put ili razvoj u određenoj oblasti.",
+      "example_sentence": "Njegova karijera u sportu je bila veoma uspešna."
+    },
+    "english": {
+      "word": "career",
+      "part_of_speech": "noun",
+      "definition": "A professional path or development in a specific field.",
+      "example_sentence": "His career in sports was very successful."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 851,
+  "translation": {
+    "cyrillic": {
+      "word": "спремно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који указује на брзу доступност или одзив.",
+      "example_sentence": "Он спремно прихвата нове изазове."
+    },
+    "latin": {
+      "word": "spremno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ukazuje na brzu dostupnost ili odaziv.",
+      "example_sentence": "On spremno prihvata nove izazove."
+    },
+    "english": {
+      "word": "readily",
+      "part_of_speech": "adverb",
+      "definition": "In a prompt or willing manner.",
+      "example_sentence": "He readily accepts new challenges."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 731,
+  "translation": {
+    "cyrillic": {
+      "word": "дружити се",
+      "part_of_speech": "глагол",
+      "definition": "Проводити време са другим људима ради разговора и заједничких активности.",
+      "example_sentence": "Они се редовно друже после посла."
+    },
+    "latin": {
+      "word": "družiti se",
+      "part_of_speech": "glagol",
+      "definition": "Provoditi vreme sa drugim ljudima radi razgovora i zajedničkih aktivnosti.",
+      "example_sentence": "Oni se redovno druže posle posla."
+    },
+    "english": {
+      "word": "socialize",
+      "part_of_speech": "verb",
+      "definition": "To spend time with other people in conversation or shared activities.",
+      "example_sentence": "They regularly socialize after work."
+    }
+  }
+}

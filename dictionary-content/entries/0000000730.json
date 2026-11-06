@@ -1,0 +1,23 @@
+{
+  "id": 730,
+  "translation": {
+    "cyrillic": {
+      "word": "модернизовати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство унапређења или прилагођавања модерним трендовима.",
+      "example_sentence": "Фабрика модернизује своју опрему."
+    },
+    "latin": {
+      "word": "modernizovati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo unapređenja ili prilagođavanja modernim trendovima.",
+      "example_sentence": "Fabrika modernizuje svoju opremu."
+    },
+    "english": {
+      "word": "modernize",
+      "part_of_speech": "verb",
+      "definition": "To update something to modern standards.",
+      "example_sentence": "The factory is modernizing its equipment."
+    }
+  }
+}

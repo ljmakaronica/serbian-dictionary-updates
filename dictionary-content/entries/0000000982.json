@@ -1,0 +1,23 @@
+{
+  "id": 982,
+  "translation": {
+    "cyrillic": {
+      "word": "зашто",
+      "part_of_speech": "прилог",
+      "definition": "из ког разлога",
+      "example_sentence": "Зашто си тужан?"
+    },
+    "latin": {
+      "word": "zašto",
+      "part_of_speech": "prilog",
+      "definition": "iz kog razloga",
+      "example_sentence": "Zašto si tužan?"
+    },
+    "english": {
+      "word": "why",
+      "part_of_speech": "adverb",
+      "definition": "for what reason",
+      "example_sentence": "Why are you sad?"
+    }
+  }
+}

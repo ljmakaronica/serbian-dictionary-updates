@@ -1,0 +1,23 @@
+{
+  "id": 307,
+  "translation": {
+    "cyrillic": {
+      "word": "истина",
+      "part_of_speech": "именица",
+      "definition": "Оно што је реално и тачно, супротно лажи.",
+      "example_sentence": "Истина ће увек изаћи на површину."
+    },
+    "latin": {
+      "word": "istina",
+      "part_of_speech": "imenica",
+      "definition": "Ono što je realno i tačno, suprotno laži.",
+      "example_sentence": "Istina će uvek izaći na površinu."
+    },
+    "english": {
+      "word": "truth",
+      "part_of_speech": "noun",
+      "definition": "What is real and accurate, the opposite of a lie.",
+      "example_sentence": "The truth will always come out."
+    }
+  }
+}

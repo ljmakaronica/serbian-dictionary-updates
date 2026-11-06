@@ -1,0 +1,23 @@
+{
+  "id": 188,
+  "translation": {
+    "cyrillic": {
+      "word": "граница",
+      "part_of_speech": "именица",
+      "definition": "Линија која одваја две територије или области.",
+      "example_sentence": "Граница између Србије и Хрватске је јасно дефинисана."
+    },
+    "latin": {
+      "word": "granica",
+      "part_of_speech": "imenica",
+      "definition": "Linija koja odvaja dve teritorije ili oblasti.",
+      "example_sentence": "Granica između Srbije i Hrvatske je jasno definisana."
+    },
+    "english": {
+      "word": "border",
+      "part_of_speech": "noun",
+      "definition": "A line that separates two territories or areas.",
+      "example_sentence": "The border between Serbia and Croatia is clearly defined."
+    }
+  }
+}

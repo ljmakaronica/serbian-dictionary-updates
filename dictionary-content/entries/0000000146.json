@@ -1,0 +1,23 @@
+{
+  "id": 146,
+  "translation": {
+    "cyrillic": {
+      "word": "вино",
+      "part_of_speech": "именица",
+      "definition": "Алкохолно пиће направљено од грожђа.",
+      "example_sentence": "Црвено вино је идеално уз месо."
+    },
+    "latin": {
+      "word": "vino",
+      "part_of_speech": "imenica",
+      "definition": "Alkoholno piće napravljeno od grožđa.",
+      "example_sentence": "Crveno vino je idealno uz meso."
+    },
+    "english": {
+      "word": "wine",
+      "part_of_speech": "noun",
+      "definition": "An alcoholic beverage made from grapes.",
+      "example_sentence": "Red wine is ideal with meat."
+    }
+  }
+}

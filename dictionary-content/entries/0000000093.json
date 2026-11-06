@@ -1,0 +1,23 @@
+{
+  "id": 93,
+  "translation": {
+    "cyrillic": {
+      "word": "бивши",
+      "part_of_speech": "придев",
+      "definition": "Који је некада био, али више није.",
+      "example_sentence": "Срео сам бившег колегу у граду."
+    },
+    "latin": {
+      "word": "bivši",
+      "part_of_speech": "pridev",
+      "definition": "Koji je nekada bio, ali više nije.",
+      "example_sentence": "Sreo sam bivšeg kolegu u gradu."
+    },
+    "english": {
+      "word": "former",
+      "part_of_speech": "adjective",
+      "definition": "Having previously been but no longer being.",
+      "example_sentence": "I met my former colleague in the city."
+    }
+  }
+}

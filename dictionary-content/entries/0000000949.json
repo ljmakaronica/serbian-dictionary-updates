@@ -1,0 +1,23 @@
+{
+  "id": 949,
+  "translation": {
+    "cyrillic": {
+      "word": "ствар",
+      "part_of_speech": "именица",
+      "definition": "предмет или нешто",
+      "example_sentence": "Која је ово ствар?"
+    },
+    "latin": {
+      "word": "stvar",
+      "part_of_speech": "imenica",
+      "definition": "predmet ili nešto",
+      "example_sentence": "Koja je ovo stvar?"
+    },
+    "english": {
+      "word": "thing",
+      "part_of_speech": "noun",
+      "definition": "an object or item",
+      "example_sentence": "What is this thing?"
+    }
+  }
+}

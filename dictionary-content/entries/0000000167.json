@@ -1,0 +1,23 @@
+{
+  "id": 167,
+  "translation": {
+    "cyrillic": {
+      "word": "грешка",
+      "part_of_speech": "именица",
+      "definition": "Неправилност или погрешан поступак.",
+      "example_sentence": "Направио сам велику грешку на испиту."
+    },
+    "latin": {
+      "word": "greška",
+      "part_of_speech": "imenica",
+      "definition": "Nepravilnost ili pogrešan postupak.",
+      "example_sentence": "Napravio sam veliku grešku na ispitu."
+    },
+    "english": {
+      "word": "mistake",
+      "part_of_speech": "noun",
+      "definition": "An error or incorrect action.",
+      "example_sentence": "I made a big mistake on the exam."
+    }
+  }
+}

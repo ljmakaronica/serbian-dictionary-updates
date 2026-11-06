@@ -1,0 +1,23 @@
+{
+  "id": 923,
+  "translation": {
+    "cyrillic": {
+      "word": "књига",
+      "part_of_speech": "именица",
+      "definition": "штампано дело",
+      "example_sentence": "Волим да читам књиге."
+    },
+    "latin": {
+      "word": "knjiga",
+      "part_of_speech": "imenica",
+      "definition": "štampano delo",
+      "example_sentence": "Volim da čitam knjige."
+    },
+    "english": {
+      "word": "book",
+      "part_of_speech": "noun",
+      "definition": "printed work",
+      "example_sentence": "I love to read books."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 625,
+  "translation": {
+    "cyrillic": {
+      "word": "шетати",
+      "part_of_speech": "глагол",
+      "definition": "Кретати се пешке.",
+      "example_sentence": "Волим да шетам у парку."
+    },
+    "latin": {
+      "word": "šetati",
+      "part_of_speech": "glagol",
+      "definition": "Kretati se peške.",
+      "example_sentence": "Volim da šetam u parku."
+    },
+    "english": {
+      "word": "to walk",
+      "part_of_speech": "verb",
+      "definition": "To move on foot.",
+      "example_sentence": "I love to walk in the park."
+    }
+  }
+}

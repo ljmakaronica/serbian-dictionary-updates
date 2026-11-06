@@ -1,0 +1,23 @@
+{
+  "id": 824,
+  "translation": {
+    "cyrillic": {
+      "word": "знатно",
+      "part_of_speech": "прилог",
+      "definition": "У великој мери или значајно.",
+      "example_sentence": "Трошкови су знатно порасли."
+    },
+    "latin": {
+      "word": "znatno",
+      "part_of_speech": "prilog",
+      "definition": "U velikoj meri ili značajno.",
+      "example_sentence": "Troškovi su znatno porasli."
+    },
+    "english": {
+      "word": "considerably",
+      "part_of_speech": "adverb",
+      "definition": "To a notably large extent.",
+      "example_sentence": "The costs have increased considerably."
+    }
+  }
+}

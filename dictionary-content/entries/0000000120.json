@@ -1,0 +1,23 @@
+{
+  "id": 120,
+  "translation": {
+    "cyrillic": {
+      "word": "бразда",
+      "part_of_speech": "именица",
+      "definition": "Дугачак узак усек у земљи направљен плугом.",
+      "example_sentence": "Трактор оре дубоке бразде у пољу."
+    },
+    "latin": {
+      "word": "brazda",
+      "part_of_speech": "imenica",
+      "definition": "Dugačak uzak usek u zemlji napravljen plugom.",
+      "example_sentence": "Traktor ore duboke brazde u polju."
+    },
+    "english": {
+      "word": "furrow",
+      "part_of_speech": "noun",
+      "definition": "A long narrow trench made in the soil by a plow.",
+      "example_sentence": "The tractor plows deep furrows in the field."
+    }
+  }
+}

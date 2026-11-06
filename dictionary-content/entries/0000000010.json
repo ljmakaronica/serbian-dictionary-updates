@@ -1,0 +1,23 @@
+{
+  "id": 10,
+  "translation": {
+    "cyrillic": {
+      "word": "алат",
+      "part_of_speech": "именица",
+      "definition": "Предмет који се користи за обављање неког посла или задатка.",
+      "example_sentence": "Треба ми бољи алат за поправку бицикла."
+    },
+    "latin": {
+      "word": "alat",
+      "part_of_speech": "imenica",
+      "definition": "Predmet koji se koristi za obavljanje nekog posla ili zadatka.",
+      "example_sentence": "Treba mi bolji alat za popravku bicikla."
+    },
+    "english": {
+      "word": "tool",
+      "part_of_speech": "noun",
+      "definition": "An object used to perform a job or task.",
+      "example_sentence": "I need better tools to repair the bicycle."
+    }
+  }
+}

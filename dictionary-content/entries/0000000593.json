@@ -1,0 +1,23 @@
+{
+  "id": 593,
+  "translation": {
+    "cyrillic": {
+      "word": "лук",
+      "part_of_speech": "именица",
+      "definition": "Поврће са слојевитом луковицом и јаким мирисом и укусом.",
+      "example_sentence": "Лук се користи у многим рецептима."
+    },
+    "latin": {
+      "word": "luk",
+      "part_of_speech": "imenica",
+      "definition": "Povrće sa slojevitom lukovicom i jakim mirisom i ukusom.",
+      "example_sentence": "Luk se koristi u mnogim receptima."
+    },
+    "english": {
+      "word": "onion",
+      "part_of_speech": "noun",
+      "definition": "A vegetable with a layered bulb and a strong smell and taste.",
+      "example_sentence": "Onions are used in many recipes."
+    }
+  }
+}

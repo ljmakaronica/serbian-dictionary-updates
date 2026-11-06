@@ -1,0 +1,23 @@
+{
+  "id": 664,
+  "translation": {
+    "cyrillic": {
+      "word": "метро",
+      "part_of_speech": "именица",
+      "definition": "Подземна железница за масовни превоз у градовима.",
+      "example_sentence": "Метро брзо превози путнике."
+    },
+    "latin": {
+      "word": "metro",
+      "part_of_speech": "imenica",
+      "definition": "Podzemna železnica za masovni prevoz u gradovima.",
+      "example_sentence": "Metro brzo prevozi putnike."
+    },
+    "english": {
+      "word": "subway",
+      "part_of_speech": "noun",
+      "definition": "An underground railway for mass transit.",
+      "example_sentence": "The subway quickly transports passengers."
+    }
+  }
+}

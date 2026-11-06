@@ -1,0 +1,23 @@
+{
+  "id": 147,
+  "translation": {
+    "cyrillic": {
+      "word": "виртуелни",
+      "part_of_speech": "придев",
+      "definition": "Који постоји у рачунарском окружењу, а не у стварности.",
+      "example_sentence": "Виртуелни светови су постали популарни."
+    },
+    "latin": {
+      "word": "virtuelni",
+      "part_of_speech": "pridev",
+      "definition": "Koji postoji u računarskom okruženju, a ne u stvarnosti.",
+      "example_sentence": "Virtuelni svetovi su postali popularni."
+    },
+    "english": {
+      "word": "virtual",
+      "part_of_speech": "adjective",
+      "definition": "Existing in a computer environment, not in reality.",
+      "example_sentence": "Virtual worlds have become popular."
+    }
+  }
+}

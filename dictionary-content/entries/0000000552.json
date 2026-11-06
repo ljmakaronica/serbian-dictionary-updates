@@ -1,0 +1,23 @@
+{
+  "id": 552,
+  "translation": {
+    "cyrillic": {
+      "word": "корак",
+      "part_of_speech": "именица",
+      "definition": "Један покрет ногом при ходању.",
+      "example_sentence": "Направио је велики корак напред."
+    },
+    "latin": {
+      "word": "korak",
+      "part_of_speech": "imenica",
+      "definition": "Jedan pokret nogom pri hodanju.",
+      "example_sentence": "Napravio je veliki korak napred."
+    },
+    "english": {
+      "word": "step",
+      "part_of_speech": "noun",
+      "definition": "A single movement of the foot while walking.",
+      "example_sentence": "He took a big step forward."
+    }
+  }
+}

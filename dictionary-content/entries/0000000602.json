@@ -1,0 +1,23 @@
+{
+  "id": 602,
+  "translation": {
+    "cyrillic": {
+      "word": "почети",
+      "part_of_speech": "глагол",
+      "definition": "Започети нешто ново.",
+      "example_sentence": "Почео сам нови пројекат."
+    },
+    "latin": {
+      "word": "početi",
+      "part_of_speech": "glagol",
+      "definition": "Započeti nešto novo.",
+      "example_sentence": "Počeo sam novi projekat."
+    },
+    "english": {
+      "word": "to start",
+      "part_of_speech": "verb",
+      "definition": "To begin something new.",
+      "example_sentence": "I started a new project."
+    }
+  }
+}

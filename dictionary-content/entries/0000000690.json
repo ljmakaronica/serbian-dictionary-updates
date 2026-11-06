@@ -1,0 +1,23 @@
+{
+  "id": 690,
+  "translation": {
+    "cyrillic": {
+      "word": "умор",
+      "part_of_speech": "именица",
+      "definition": "Осећај исцрпљености или недостатка снаге.",
+      "example_sentence": "После дугог радног дана осетио је умор."
+    },
+    "latin": {
+      "word": "umor",
+      "part_of_speech": "imenica",
+      "definition": "Osećaj iscrpljenosti ili nedostatka snage.",
+      "example_sentence": "Posle dugog radnog dana osetio je umor."
+    },
+    "english": {
+      "word": "fatigue",
+      "part_of_speech": "noun",
+      "definition": "A feeling of exhaustion or lack of energy.",
+      "example_sentence": "After a long day at work, he felt fatigue."
+    }
+  }
+}

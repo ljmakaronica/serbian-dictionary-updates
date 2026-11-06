@@ -1,0 +1,23 @@
+{
+  "id": 525,
+  "translation": {
+    "cyrillic": {
+      "word": "тринаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 13.",
+      "example_sentence": "Имам тринаест књига."
+    },
+    "latin": {
+      "word": "trinaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 13.",
+      "example_sentence": "Imam trinaest knjiga."
+    },
+    "english": {
+      "word": "thirteen",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 13.",
+      "example_sentence": "I have thirteen books."
+    }
+  }
+}

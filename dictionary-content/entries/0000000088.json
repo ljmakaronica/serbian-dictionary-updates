@@ -1,0 +1,23 @@
+{
+  "id": 88,
+  "translation": {
+    "cyrillic": {
+      "word": "бол",
+      "part_of_speech": "именица",
+      "definition": "Физички или емотивни осећај непријатности.",
+      "example_sentence": "Осетио је јак бол у леђима."
+    },
+    "latin": {
+      "word": "bol",
+      "part_of_speech": "imenica",
+      "definition": "Fizički ili emotivni osećaj neprijatnosti.",
+      "example_sentence": "Osetio je jak bol u leđima."
+    },
+    "english": {
+      "word": "pain",
+      "part_of_speech": "noun",
+      "definition": "A physical or emotional sensation of discomfort.",
+      "example_sentence": "He felt a sharp pain in his back."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 436,
+  "translation": {
+    "cyrillic": {
+      "word": "унука",
+      "part_of_speech": "именица",
+      "definition": "Ћерка детета у односу на бабу и деду.",
+      "example_sentence": "Унука је била веома паметна."
+    },
+    "latin": {
+      "word": "unuka",
+      "part_of_speech": "imenica",
+      "definition": "Ćerka deteta u odnosu na baku i dedu.",
+      "example_sentence": "Unuka je bila veoma pametna."
+    },
+    "english": {
+      "word": "granddaughter",
+      "part_of_speech": "noun",
+      "definition": "The daughter of one's child in relation to grandparents.",
+      "example_sentence": "The granddaughter was very smart."
+    }
+  }
+}

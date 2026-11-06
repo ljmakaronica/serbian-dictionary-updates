@@ -1,0 +1,23 @@
+{
+  "id": 895,
+  "translation": {
+    "cyrillic": {
+      "word": "кроз",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава пролазак кроз нешто",
+      "example_sentence": "Гледам кроз прозор."
+    },
+    "latin": {
+      "word": "kroz",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava prolazak kroz nešto",
+      "example_sentence": "Gledam kroz prozor."
+    },
+    "english": {
+      "word": "through",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating movement through something",
+      "example_sentence": "I look through the window."
+    }
+  }
+}

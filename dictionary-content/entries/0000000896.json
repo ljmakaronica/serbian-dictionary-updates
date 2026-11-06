@@ -1,0 +1,23 @@
+{
+  "id": 896,
+  "translation": {
+    "cyrillic": {
+      "word": "пред",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава положај испред нечега",
+      "example_sentence": "Стојим пред вратима."
+    },
+    "latin": {
+      "word": "pred",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava položaj ispred nečega",
+      "example_sentence": "Stojim pred vratima."
+    },
+    "english": {
+      "word": "before/in front of",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating position in front of something",
+      "example_sentence": "I stand in front of the door."
+    }
+  }
+}

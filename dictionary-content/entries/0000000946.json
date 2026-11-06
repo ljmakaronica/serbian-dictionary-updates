@@ -1,0 +1,23 @@
+{
+  "id": 946,
+  "translation": {
+    "cyrillic": {
+      "word": "спавати",
+      "part_of_speech": "глагол",
+      "definition": "бити у стању одмора",
+      "example_sentence": "Морам да спавам."
+    },
+    "latin": {
+      "word": "spavati",
+      "part_of_speech": "glagol",
+      "definition": "biti u stanju odmora",
+      "example_sentence": "Moram da spavam."
+    },
+    "english": {
+      "word": "to sleep",
+      "part_of_speech": "verb",
+      "definition": "be in a state of rest",
+      "example_sentence": "I need to sleep."
+    }
+  }
+}

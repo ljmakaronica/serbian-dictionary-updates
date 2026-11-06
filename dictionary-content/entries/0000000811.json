@@ -1,0 +1,23 @@
+{
+  "id": 811,
+  "translation": {
+    "cyrillic": {
+      "word": "уредно",
+      "part_of_speech": "прилог",
+      "definition": "На организован или чист начин.",
+      "example_sentence": "Он уредно сређује своје документе."
+    },
+    "latin": {
+      "word": "uredno",
+      "part_of_speech": "prilog",
+      "definition": "Na organizovan ili čist način.",
+      "example_sentence": "On uredno sređuje svoje dokumente."
+    },
+    "english": {
+      "word": "neatly",
+      "part_of_speech": "adverb",
+      "definition": "In an orderly and tidy manner.",
+      "example_sentence": "He arranges his documents neatly."
+    }
+  }
+}

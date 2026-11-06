@@ -1,0 +1,23 @@
+{
+  "id": 193,
+  "translation": {
+    "cyrillic": {
+      "word": "дијагноза",
+      "part_of_speech": "именица",
+      "definition": "Процес утврђивања болести или здравственог стања.",
+      "example_sentence": "Лекар је поставио дијагнозу на основу симптома."
+    },
+    "latin": {
+      "word": "dijagnoza",
+      "part_of_speech": "imenica",
+      "definition": "Proces utvrđivanja bolesti ili zdravstvenog stanja.",
+      "example_sentence": "Lekar je postavio dijagnozu na osnovu simptoma."
+    },
+    "english": {
+      "word": "diagnosis",
+      "part_of_speech": "noun",
+      "definition": "The process of determining a disease or health condition.",
+      "example_sentence": "The doctor made a diagnosis based on the symptoms."
+    }
+  }
+}

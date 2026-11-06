@@ -1,0 +1,23 @@
+{
+  "id": 733,
+  "translation": {
+    "cyrillic": {
+      "word": "размишљати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство обрађивања информација у уму.",
+      "example_sentence": "Она размишља о будућим плановима."
+    },
+    "latin": {
+      "word": "razmišljati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo obrađivanja informacija u umu.",
+      "example_sentence": "Ona razmišlja o budućim planovima."
+    },
+    "english": {
+      "word": "think",
+      "part_of_speech": "verb",
+      "definition": "To use one’s mind actively to form connected ideas.",
+      "example_sentence": "She is thinking about future plans."
+    }
+  }
+}

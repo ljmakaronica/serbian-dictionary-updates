@@ -1,0 +1,23 @@
+{
+  "id": 629,
+  "translation": {
+    "cyrillic": {
+      "word": "језеро",
+      "part_of_speech": "именица",
+      "definition": "Велика површина воде окружена копном.",
+      "example_sentence": "Језеро је мирно и лепо."
+    },
+    "latin": {
+      "word": "jezero",
+      "part_of_speech": "imenica",
+      "definition": "Velika površina vode okružena kopnom.",
+      "example_sentence": "Jezero je mirno i lepo."
+    },
+    "english": {
+      "word": "lake",
+      "part_of_speech": "noun",
+      "definition": "A large body of water surrounded by land.",
+      "example_sentence": "The lake is calm and beautiful."
+    }
+  }
+}

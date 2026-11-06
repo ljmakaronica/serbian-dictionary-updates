@@ -1,0 +1,23 @@
+{
+  "id": 235,
+  "translation": {
+    "cyrillic": {
+      "word": "екран",
+      "part_of_speech": "именица",
+      "definition": "Површина на којој се приказују слике или информације.",
+      "example_sentence": "Слика на екрану је била јасна."
+    },
+    "latin": {
+      "word": "ekran",
+      "part_of_speech": "imenica",
+      "definition": "Površina na kojoj se prikazuju slike ili informacije.",
+      "example_sentence": "Slika na ekranu je bila jasna."
+    },
+    "english": {
+      "word": "screen",
+      "part_of_speech": "noun",
+      "definition": "A surface on which images or information are displayed.",
+      "example_sentence": "The image on the screen was clear."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 470,
+  "translation": {
+    "cyrillic": {
+      "word": "црвен",
+      "part_of_speech": "придев",
+      "definition": "Боја која подсећа на крв или залазак сунца.",
+      "example_sentence": "Црвена јабука је била сочна."
+    },
+    "latin": {
+      "word": "crven",
+      "part_of_speech": "pridev",
+      "definition": "Boja koja podseća na krv ili zalazak sunca.",
+      "example_sentence": "Crvena jabuka je bila sočna."
+    },
+    "english": {
+      "word": "red",
+      "part_of_speech": "adjective",
+      "definition": "A color resembling blood or a sunset.",
+      "example_sentence": "The red apple was juicy."
+    }
+  }
+}

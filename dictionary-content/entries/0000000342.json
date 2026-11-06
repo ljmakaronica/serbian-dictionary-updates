@@ -1,0 +1,23 @@
+{
+  "id": 342,
+  "translation": {
+    "cyrillic": {
+      "word": "коктел",
+      "part_of_speech": "именица",
+      "definition": "Мешавина различитих пића или састојака.",
+      "example_sentence": "На журци су служили разне коктеле."
+    },
+    "latin": {
+      "word": "koktel",
+      "part_of_speech": "imenica",
+      "definition": "Mešavina različitih pića ili sastojaka.",
+      "example_sentence": "Na žurci su služili razne koktele."
+    },
+    "english": {
+      "word": "cocktail",
+      "part_of_speech": "noun",
+      "definition": "A mixture of different drinks or ingredients.",
+      "example_sentence": "They served various cocktails at the party."
+    }
+  }
+}

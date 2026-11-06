@@ -1,0 +1,23 @@
+{
+  "id": 63,
+  "translation": {
+    "cyrillic": {
+      "word": "адолесценција",
+      "part_of_speech": "именица",
+      "definition": "Период између детињства и одраслог доба.",
+      "example_sentence": "Адолесценција је често тежак период за многе тинејџере."
+    },
+    "latin": {
+      "word": "adolescencija",
+      "part_of_speech": "imenica",
+      "definition": "Period između detinjstva i odraslog doba.",
+      "example_sentence": "Adolescencija je često težak period za mnoge tinejdžere."
+    },
+    "english": {
+      "word": "adolescence",
+      "part_of_speech": "noun",
+      "definition": "The period between childhood and adulthood.",
+      "example_sentence": "Adolescence is often a difficult period for many teenagers."
+    }
+  }
+}

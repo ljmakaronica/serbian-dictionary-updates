@@ -1,0 +1,23 @@
+{
+  "id": 144,
+  "translation": {
+    "cyrillic": {
+      "word": "викенд",
+      "part_of_speech": "именица",
+      "definition": "Крај недеље, обично субота и недеља.",
+      "example_sentence": "Планирамо излет за викенд."
+    },
+    "latin": {
+      "word": "vikend",
+      "part_of_speech": "imenica",
+      "definition": "Kraj nedelje, obično subota i nedelja.",
+      "example_sentence": "Planiramo izlet za vikend."
+    },
+    "english": {
+      "word": "weekend",
+      "part_of_speech": "noun",
+      "definition": "The end of the week, usually Saturday and Sunday.",
+      "example_sentence": "We are planning a trip for the weekend."
+    }
+  }
+}

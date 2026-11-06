@@ -1,0 +1,23 @@
+{
+  "id": 361,
+  "translation": {
+    "cyrillic": {
+      "word": "месец",
+      "part_of_speech": "именица",
+      "definition": "Природни Земљин сателит.",
+      "example_sentence": "Месец је сијао јасно те ноћи."
+    },
+    "latin": {
+      "word": "mesec",
+      "part_of_speech": "imenica",
+      "definition": "Prirodni Zemljin satelit.",
+      "example_sentence": "Mesec je sijao jasno te noći."
+    },
+    "english": {
+      "word": "moon",
+      "part_of_speech": "noun",
+      "definition": "Earth’s natural satellite.",
+      "example_sentence": "The moon shone brightly that night."
+    }
+  }
+}

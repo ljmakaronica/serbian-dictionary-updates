@@ -1,0 +1,23 @@
+{
+  "id": 220,
+  "translation": {
+    "cyrillic": {
+      "word": "ђубриво",
+      "part_of_speech": "именица",
+      "definition": "Материја за побољшање квалитета земљишта.",
+      "example_sentence": "Додао је ђубриво у башту."
+    },
+    "latin": {
+      "word": "đubrivo",
+      "part_of_speech": "imenica",
+      "definition": "Materija za poboljšanje kvaliteta zemljišta.",
+      "example_sentence": "Dodao je đubrivo u baštu."
+    },
+    "english": {
+      "word": "fertilizer",
+      "part_of_speech": "noun",
+      "definition": "A substance for improving soil quality.",
+      "example_sentence": "He added fertilizer to the garden."
+    }
+  }
+}

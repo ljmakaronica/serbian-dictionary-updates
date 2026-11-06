@@ -1,0 +1,23 @@
+{
+  "id": 882,
+  "translation": {
+    "cyrillic": {
+      "word": "ви",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица другог лица множине",
+      "example_sentence": "Ви сте добар професор."
+    },
+    "latin": {
+      "word": "vi",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica drugog lica množine",
+      "example_sentence": "Vi ste dobar profesor."
+    },
+    "english": {
+      "word": "you",
+      "part_of_speech": "pronoun",
+      "definition": "Second person plural/formal personal pronoun",
+      "example_sentence": "You are a good professor."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 24,
+  "translation": {
+    "cyrillic": {
+      "word": "анализа",
+      "part_of_speech": "именица",
+      "definition": "Детаљно испитивање или проучавање нечега.",
+      "example_sentence": "Анализа података је показала интересантне резултате."
+    },
+    "latin": {
+      "word": "analiza",
+      "part_of_speech": "imenica",
+      "definition": "Detaljno ispitivanje ili proučavanje nečega.",
+      "example_sentence": "Analiza podataka je pokazala interesantne rezultate."
+    },
+    "english": {
+      "word": "analysis",
+      "part_of_speech": "noun",
+      "definition": "A detailed examination or study of something.",
+      "example_sentence": "The data analysis revealed interesting results."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 238,
+  "translation": {
+    "cyrillic": {
+      "word": "етика",
+      "part_of_speech": "именица",
+      "definition": "Скуп моралних принципа и вредности.",
+      "example_sentence": "Лекари морају поштовати медицинску етику."
+    },
+    "latin": {
+      "word": "etika",
+      "part_of_speech": "imenica",
+      "definition": "Skup moralnih principa i vrednosti.",
+      "example_sentence": "Lekari moraju poštovati medicinsku etiku."
+    },
+    "english": {
+      "word": "ethics",
+      "part_of_speech": "noun",
+      "definition": "A set of moral principles and values.",
+      "example_sentence": "Doctors must respect medical ethics."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 468,
+  "translation": {
+    "cyrillic": {
+      "word": "хладноћа",
+      "part_of_speech": "именица",
+      "definition": "Ниска температура или недостатак топлоте.",
+      "example_sentence": "Хладноћа је била неподношљива."
+    },
+    "latin": {
+      "word": "hladnoća",
+      "part_of_speech": "imenica",
+      "definition": "Niska temperatura ili nedostatak toplote.",
+      "example_sentence": "Hladnoća je bila nepodnošljiva."
+    },
+    "english": {
+      "word": "coldness",
+      "part_of_speech": "noun",
+      "definition": "Low temperature or lack of warmth.",
+      "example_sentence": "The cold was unbearable."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1089,
+  "translation": {
+    "cyrillic": {
+      "word": "зоологија",
+      "part_of_speech": "именица",
+      "definition": "Наука о животињама.",
+      "example_sentence": "Студира зоологију на факултету."
+    },
+    "latin": {
+      "word": "zoologija",
+      "part_of_speech": "imenica",
+      "definition": "Nauka o životinjama.",
+      "example_sentence": "Studira zoologiju na fakultetu."
+    },
+    "english": {
+      "word": "zoology",
+      "part_of_speech": "noun",
+      "definition": "The science of animals.",
+      "example_sentence": "She studies zoology at the university."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 727,
+  "translation": {
+    "cyrillic": {
+      "word": "објашњавати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство пружања појашњења или разјашњења.",
+      "example_sentence": "Наставник објашњава граматику."
+    },
+    "latin": {
+      "word": "objašnjavati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo pružanja pojašnjenja ili razjašnjenja.",
+      "example_sentence": "Nastavnik objašnjava gramatiku."
+    },
+    "english": {
+      "word": "explain",
+      "part_of_speech": "verb",
+      "definition": "To make an idea, situation, or problem clear.",
+      "example_sentence": "The teacher is explaining grammar."
+    }
+  }
+}

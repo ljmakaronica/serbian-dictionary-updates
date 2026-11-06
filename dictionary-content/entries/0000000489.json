@@ -1,0 +1,23 @@
+{
+  "id": 489,
+  "translation": {
+    "cyrillic": {
+      "word": "џин",
+      "part_of_speech": "именица",
+      "definition": "Митичко биће огромне снаге и величине.",
+      "example_sentence": "Прича о џину је била занимљива."
+    },
+    "latin": {
+      "word": "džin",
+      "part_of_speech": "imenica",
+      "definition": "Mitičko biće ogromne snage i veličine.",
+      "example_sentence": "Priča o džinu je bila zanimljiva."
+    },
+    "english": {
+      "word": "giant",
+      "part_of_speech": "noun",
+      "definition": "A mythical being of great strength and size.",
+      "example_sentence": "The story about the giant was interesting."
+    }
+  }
+}

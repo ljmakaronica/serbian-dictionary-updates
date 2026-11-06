@@ -1,0 +1,23 @@
+{
+  "id": 413,
+  "translation": {
+    "cyrillic": {
+      "word": "село",
+      "part_of_speech": "именица",
+      "definition": "Мала заједница у руралном подручју.",
+      "example_sentence": "Село је било мирно и тихо."
+    },
+    "latin": {
+      "word": "selo",
+      "part_of_speech": "imenica",
+      "definition": "Mala zajednica u ruralnom području.",
+      "example_sentence": "Selo je bilo mirno i tiho."
+    },
+    "english": {
+      "word": "village",
+      "part_of_speech": "noun",
+      "definition": "A small community in a rural area.",
+      "example_sentence": "The village was peaceful and quiet."
+    }
+  }
+}

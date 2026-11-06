@@ -1,0 +1,23 @@
+{
+  "id": 1073,
+  "translation": {
+    "cyrillic": {
+      "word": "жуманце",
+      "part_of_speech": "именица",
+      "definition": "Жути део јајета.",
+      "example_sentence": "Одвојио је жуманце од беланцета."
+    },
+    "latin": {
+      "word": "žumance",
+      "part_of_speech": "imenica",
+      "definition": "Žuti deo jajeta.",
+      "example_sentence": "Odvojio je žumance od belanceta."
+    },
+    "english": {
+      "word": "yolk",
+      "part_of_speech": "noun",
+      "definition": "The yellow part of an egg.",
+      "example_sentence": "He separated the yolk from the white."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1024,
+  "translation": {
+    "cyrillic": {
+      "word": "змај",
+      "part_of_speech": "именица",
+      "definition": "Играчка која лети на ветру, везана за конац.",
+      "example_sentence": "Пуштао је змаја у парку."
+    },
+    "latin": {
+      "word": "zmaj",
+      "part_of_speech": "imenica",
+      "definition": "Igračka koja leti na vetru, vezana za konac.",
+      "example_sentence": "Puštao je zmaja u parku."
+    },
+    "english": {
+      "word": "kite",
+      "part_of_speech": "noun",
+      "definition": "A toy flown in the wind on a string.",
+      "example_sentence": "He flew a kite in the park."
+    }
+  }
+}

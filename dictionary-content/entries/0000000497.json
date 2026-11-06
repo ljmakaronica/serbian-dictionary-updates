@@ -1,0 +1,23 @@
+{
+  "id": 497,
+  "translation": {
+    "cyrillic": {
+      "word": "шала",
+      "part_of_speech": "именица",
+      "definition": "Нешто што се каже или ради да би изазвало смех.",
+      "example_sentence": "Његова шала је била веома смешна."
+    },
+    "latin": {
+      "word": "šala",
+      "part_of_speech": "imenica",
+      "definition": "Nešto što se kaže ili radi da bi izazvalo smeh.",
+      "example_sentence": "Njegova šala je bila veoma smešna."
+    },
+    "english": {
+      "word": "joke",
+      "part_of_speech": "noun",
+      "definition": "Something said or done to provoke laughter.",
+      "example_sentence": "His joke was very funny."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 822,
+  "translation": {
+    "cyrillic": {
+      "word": "скоро",
+      "part_of_speech": "прилог",
+      "definition": "Готово, али не сасвим.",
+      "example_sentence": "Он је скоро завршио задатак."
+    },
+    "latin": {
+      "word": "skoro",
+      "part_of_speech": "prilog",
+      "definition": "Gotovo, ali ne sasvim.",
+      "example_sentence": "On je skoro završio zadatak."
+    },
+    "english": {
+      "word": "almost",
+      "part_of_speech": "adverb",
+      "definition": "Very nearly, but not completely.",
+      "example_sentence": "He has almost finished the task."
+    }
+  }
+}

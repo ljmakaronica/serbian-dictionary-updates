@@ -1,0 +1,23 @@
+{
+  "id": 661,
+  "translation": {
+    "cyrillic": {
+      "word": "спорт",
+      "part_of_speech": "именица",
+      "definition": "Физичка активност или такмичење.",
+      "example_sentence": "Спорт промовише здрав начин живота."
+    },
+    "latin": {
+      "word": "sport",
+      "part_of_speech": "imenica",
+      "definition": "Fizička aktivnost ili takmičenje.",
+      "example_sentence": "Sport promoviše zdrav način života."
+    },
+    "english": {
+      "word": "sport",
+      "part_of_speech": "noun",
+      "definition": "Physical activity or competition.",
+      "example_sentence": "Sport promotes a healthy lifestyle."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 724,
+  "translation": {
+    "cyrillic": {
+      "word": "пећи",
+      "part_of_speech": "глагол",
+      "definition": "Дејство припреме хране у рерни.",
+      "example_sentence": "Она пече хлеб сваки дан."
+    },
+    "latin": {
+      "word": "peći",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo pripreme hrane u rerni.",
+      "example_sentence": "Ona peče hleb svaki dan."
+    },
+    "english": {
+      "word": "bake",
+      "part_of_speech": "verb",
+      "definition": "To cook food by dry heat, usually in an oven.",
+      "example_sentence": "She bakes bread every day."
+    }
+  }
+}

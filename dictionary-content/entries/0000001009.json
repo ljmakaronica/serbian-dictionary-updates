@@ -1,0 +1,23 @@
+{
+  "id": 1009,
+  "translation": {
+    "cyrillic": {
+      "word": "глас",
+      "part_of_speech": "именица",
+      "definition": "Звук који производимо говорећи или певајући.",
+      "example_sentence": "Она има леп глас."
+    },
+    "latin": {
+      "word": "glas",
+      "part_of_speech": "imenica",
+      "definition": "Zvuk koji proizvodimo govoreći ili pevajući.",
+      "example_sentence": "Ona ima lep glas."
+    },
+    "english": {
+      "word": "voice",
+      "part_of_speech": "noun",
+      "definition": "The sound produced when speaking or singing.",
+      "example_sentence": "She has a beautiful voice."
+    }
+  }
+}

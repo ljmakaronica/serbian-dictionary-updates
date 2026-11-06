@@ -1,0 +1,23 @@
+{
+  "id": 7,
+  "translation": {
+    "cyrillic": {
+      "word": "америка",
+      "part_of_speech": "именица",
+      "definition": "Континент или скраћено за Сједињене Америчке Државе.",
+      "example_sentence": "Мој брат живи у Америци већ десет година."
+    },
+    "latin": {
+      "word": "amerika",
+      "part_of_speech": "imenica",
+      "definition": "Kontinent ili skraćeno za Sjedinjene Američke Države.",
+      "example_sentence": "Moj brat živi u Americi već deset godina."
+    },
+    "english": {
+      "word": "America",
+      "part_of_speech": "noun",
+      "definition": "The continent or shortened form for the United States of America.",
+      "example_sentence": "My brother has been living in America for ten years."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 716,
+  "translation": {
+    "cyrillic": {
+      "word": "управљати",
+      "part_of_speech": "глагол",
+      "definition": "Контролисати или водити организацију.",
+      "example_sentence": "Она управља тимом са вештином."
+    },
+    "latin": {
+      "word": "upravljati",
+      "part_of_speech": "glagol",
+      "definition": "Kontrolisati ili voditi organizaciju.",
+      "example_sentence": "Ona upravlja timom sa veštinom."
+    },
+    "english": {
+      "word": "manage",
+      "part_of_speech": "verb",
+      "definition": "To direct or control an organization.",
+      "example_sentence": "She manages the team skillfully."
+    }
+  }
+}

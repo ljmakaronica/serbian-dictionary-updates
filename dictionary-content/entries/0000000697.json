@@ -1,0 +1,23 @@
+{
+  "id": 697,
+  "translation": {
+    "cyrillic": {
+      "word": "молитва",
+      "part_of_speech": "именица",
+      "definition": "Израз вере путем изговора молби.",
+      "example_sentence": "Молитва доноси утеху у тешким тренуцима."
+    },
+    "latin": {
+      "word": "molitva",
+      "part_of_speech": "imenica",
+      "definition": "Izraz vere putem izgovora molbi.",
+      "example_sentence": "Molitva donosi utehu u teškim trenucima."
+    },
+    "english": {
+      "word": "prayer",
+      "part_of_speech": "noun",
+      "definition": "An expression of faith through spoken supplication.",
+      "example_sentence": "The prayer brings comfort in difficult times."
+    }
+  }
+}

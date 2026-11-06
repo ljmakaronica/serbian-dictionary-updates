@@ -1,0 +1,23 @@
+{
+  "id": 559,
+  "translation": {
+    "cyrillic": {
+      "word": "спавати",
+      "part_of_speech": "глагол",
+      "definition": "Бити у стању мировања са затвореним очима.",
+      "example_sentence": "Волим да спавам дуго ујутру."
+    },
+    "latin": {
+      "word": "spavati",
+      "part_of_speech": "glagol",
+      "definition": "Biti u stanju mirovanja sa zatvorenim očima.",
+      "example_sentence": "Volim da spavam dugo ujutru."
+    },
+    "english": {
+      "word": "to sleep",
+      "part_of_speech": "verb",
+      "definition": "To be in a state of rest with closed eyes.",
+      "example_sentence": "I love to sleep late in the morning."
+    }
+  }
+}

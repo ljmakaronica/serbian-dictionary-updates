@@ -1,0 +1,23 @@
+{
+  "id": 296,
+  "translation": {
+    "cyrillic": {
+      "word": "живот",
+      "part_of_speech": "именица",
+      "definition": "Стање постојања и активности људских и животињских бића.",
+      "example_sentence": "Живот је леп."
+    },
+    "latin": {
+      "word": "život",
+      "part_of_speech": "imenica",
+      "definition": "Stanje postojanja i aktivnosti ljudskih i životinjskih bića.",
+      "example_sentence": "Život je lep."
+    },
+    "english": {
+      "word": "life",
+      "part_of_speech": "noun",
+      "definition": "The state of existence and activity of living beings.",
+      "example_sentence": "Life is beautiful."
+    }
+  }
+}

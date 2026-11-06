@@ -1,0 +1,23 @@
+{
+  "id": 810,
+  "translation": {
+    "cyrillic": {
+      "word": "лако",
+      "part_of_speech": "прилог",
+      "definition": "Без великих напора или трудности.",
+      "example_sentence": "Она лако решава математичке задатке."
+    },
+    "latin": {
+      "word": "lako",
+      "part_of_speech": "prilog",
+      "definition": "Bez velikih napora ili teškoća.",
+      "example_sentence": "Ona lako rešava matematičke zadatke."
+    },
+    "english": {
+      "word": "easily",
+      "part_of_speech": "adverb",
+      "definition": "Without difficulty or effort.",
+      "example_sentence": "She solves math problems easily."
+    }
+  }
+}

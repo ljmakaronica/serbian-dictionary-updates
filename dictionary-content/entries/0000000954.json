@@ -1,0 +1,23 @@
+{
+  "id": 954,
+  "translation": {
+    "cyrillic": {
+      "word": "знати",
+      "part_of_speech": "глагол",
+      "definition": "имати знање",
+      "example_sentence": "Знам одговор."
+    },
+    "latin": {
+      "word": "znati",
+      "part_of_speech": "glagol",
+      "definition": "imati znanje",
+      "example_sentence": "Znam odgovor."
+    },
+    "english": {
+      "word": "to know",
+      "part_of_speech": "verb",
+      "definition": "have knowledge",
+      "example_sentence": "I know the answer."
+    }
+  }
+}

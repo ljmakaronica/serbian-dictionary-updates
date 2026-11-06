@@ -1,0 +1,23 @@
+{
+  "id": 814,
+  "translation": {
+    "cyrillic": {
+      "word": "можда",
+      "part_of_speech": "прилог",
+      "definition": "Указује на могућност, али не сигурност.",
+      "example_sentence": "Можда ћемо ићи у биоскоп."
+    },
+    "latin": {
+      "word": "možda",
+      "part_of_speech": "prilog",
+      "definition": "Ukazuje na mogućnost, ali ne sigurnost.",
+      "example_sentence": "Možda ćemo ići u bioskop."
+    },
+    "english": {
+      "word": "perhaps",
+      "part_of_speech": "adverb",
+      "definition": "Possibly but not certainly.",
+      "example_sentence": "Perhaps we will go to the cinema."
+    }
+  }
+}

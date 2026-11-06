@@ -1,0 +1,23 @@
+{
+  "id": 387,
+  "translation": {
+    "cyrillic": {
+      "word": "операција",
+      "part_of_speech": "именица",
+      "definition": "Медицински захват у болници.",
+      "example_sentence": "Операција је била успешна."
+    },
+    "latin": {
+      "word": "operacija",
+      "part_of_speech": "imenica",
+      "definition": "Medicinski zahvat u bolnici.",
+      "example_sentence": "Operacija je bila uspešna."
+    },
+    "english": {
+      "word": "surgery",
+      "part_of_speech": "noun",
+      "definition": "A medical procedure in a hospital.",
+      "example_sentence": "The surgery was successful."
+    }
+  }
+}

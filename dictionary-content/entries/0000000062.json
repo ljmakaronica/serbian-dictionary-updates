@@ -1,0 +1,23 @@
+{
+  "id": 62,
+  "translation": {
+    "cyrillic": {
+      "word": "адмирал",
+      "part_of_speech": "именица",
+      "definition": "Високи официр у морнарици.",
+      "example_sentence": "Адмирал је командовао флотом током битке."
+    },
+    "latin": {
+      "word": "admiral",
+      "part_of_speech": "imenica",
+      "definition": "Visoki oficir u mornarici.",
+      "example_sentence": "Admiral je komandovao flotom tokom bitke."
+    },
+    "english": {
+      "word": "admiral",
+      "part_of_speech": "noun",
+      "definition": "A high-ranking officer in the navy.",
+      "example_sentence": "The admiral commanded the fleet during the battle."
+    }
+  }
+}

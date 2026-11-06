@@ -1,0 +1,23 @@
+{
+  "id": 694,
+  "translation": {
+    "cyrillic": {
+      "word": "фабрика",
+      "part_of_speech": "именица",
+      "definition": "Објекат у коме се роба производи индустријским поступцима.",
+      "example_sentence": "Фабрика производи намештај."
+    },
+    "latin": {
+      "word": "fabrika",
+      "part_of_speech": "imenica",
+      "definition": "Objekat u kome se roba proizvodi industrijskim postupcima.",
+      "example_sentence": "Fabrika proizvodi nameštaj."
+    },
+    "english": {
+      "word": "factory",
+      "part_of_speech": "noun",
+      "definition": "A building where goods are manufactured using industrial processes.",
+      "example_sentence": "The factory manufactures furniture."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 376,
+  "translation": {
+    "cyrillic": {
+      "word": "награда",
+      "part_of_speech": "именица",
+      "definition": "Признање или награда за постигнуће.",
+      "example_sentence": "Добио је награду за најбољи филм."
+    },
+    "latin": {
+      "word": "nagrada",
+      "part_of_speech": "imenica",
+      "definition": "Priznanje ili nagrada za postignuće.",
+      "example_sentence": "Dobio je nagradu za najbolji film."
+    },
+    "english": {
+      "word": "award",
+      "part_of_speech": "noun",
+      "definition": "Recognition or prize for an achievement.",
+      "example_sentence": "He received an award for the best film."
+    }
+  }
+}

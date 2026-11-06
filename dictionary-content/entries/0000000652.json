@@ -1,0 +1,23 @@
+{
+  "id": 652,
+  "translation": {
+    "cyrillic": {
+      "word": "мотоцикл",
+      "part_of_speech": "именица",
+      "definition": "Моторно возило на два точка.",
+      "example_sentence": "Мотоцикл је пролазио кроз град."
+    },
+    "latin": {
+      "word": "motocikl",
+      "part_of_speech": "imenica",
+      "definition": "Motorno vozilo na dva točka.",
+      "example_sentence": "Motocikl je prolazio kroz grad."
+    },
+    "english": {
+      "word": "motorcycle",
+      "part_of_speech": "noun",
+      "definition": "A motor vehicle with two wheels.",
+      "example_sentence": "The motorcycle sped through the city."
+    }
+  }
+}

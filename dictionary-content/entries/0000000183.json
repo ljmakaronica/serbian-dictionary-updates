@@ -1,0 +1,23 @@
+{
+  "id": 183,
+  "translation": {
+    "cyrillic": {
+      "word": "глобализација",
+      "part_of_speech": "именица",
+      "definition": "Процес убрзаног економског, политичког и културног повезивања света.",
+      "example_sentence": "Глобализација је довела до већег међународног трговинског промета."
+    },
+    "latin": {
+      "word": "globalizacija",
+      "part_of_speech": "imenica",
+      "definition": "Proces ubrzanog ekonomskog, političkog i kulturnog povezivanja sveta.",
+      "example_sentence": "Globalizacija je dovela do većeg međunarodnog trgovinskog prometa."
+    },
+    "english": {
+      "word": "globalization",
+      "part_of_speech": "noun",
+      "definition": "The process of increased economic, political, and cultural connection worldwide.",
+      "example_sentence": "Globalization has led to more international trade."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 977,
+  "translation": {
+    "cyrillic": {
+      "word": "добар",
+      "part_of_speech": "придев",
+      "definition": "позитивног квалитета",
+      "example_sentence": "То је добра идеја."
+    },
+    "latin": {
+      "word": "dobar",
+      "part_of_speech": "pridev",
+      "definition": "pozitivnog kvaliteta",
+      "example_sentence": "To je dobra ideja."
+    },
+    "english": {
+      "word": "good",
+      "part_of_speech": "adjective",
+      "definition": "of positive quality",
+      "example_sentence": "That is a good idea."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 637,
+  "translation": {
+    "cyrillic": {
+      "word": "супа",
+      "part_of_speech": "именица",
+      "definition": "Течна храна направљена од поврћа и меса.",
+      "example_sentence": "Супа је топла и утешна."
+    },
+    "latin": {
+      "word": "supa",
+      "part_of_speech": "imenica",
+      "definition": "Tekuća hrana napravljena od povrća i mesa.",
+      "example_sentence": "Supa je topla i utešna."
+    },
+    "english": {
+      "word": "soup",
+      "part_of_speech": "noun",
+      "definition": "A liquid food made from vegetables and meat.",
+      "example_sentence": "Soup is warm and comforting."
+    }
+  }
+}

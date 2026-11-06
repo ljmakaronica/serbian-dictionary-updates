@@ -1,0 +1,23 @@
+{
+  "id": 195,
+  "translation": {
+    "cyrillic": {
+      "word": "договор",
+      "part_of_speech": "именица",
+      "definition": "Званични споразум између две или више страна.",
+      "example_sentence": "Договор о сарадњи је потписан јуче."
+    },
+    "latin": {
+      "word": "dogovor",
+      "part_of_speech": "imenica",
+      "definition": "Zvanični sporazum između dve ili više strana.",
+      "example_sentence": "Dogovor o saradnji je potpisan juče."
+    },
+    "english": {
+      "word": "agreement",
+      "part_of_speech": "noun",
+      "definition": "An official arrangement between two or more parties.",
+      "example_sentence": "The agreement on cooperation was signed yesterday."
+    }
+  }
+}

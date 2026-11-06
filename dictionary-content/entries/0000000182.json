@@ -1,0 +1,23 @@
+{
+  "id": 182,
+  "translation": {
+    "cyrillic": {
+      "word": "глобус",
+      "part_of_speech": "именица",
+      "definition": "Модел Земље у облику сфере који показује континенте, океане и друге географске особености.",
+      "example_sentence": "Учитељ је користио глобус да објасни светске континенте."
+    },
+    "latin": {
+      "word": "globus",
+      "part_of_speech": "imenica",
+      "definition": "Model Zemlje u obliku sfere koji pokazuje kontinente, okeane i druge geografske osobenosti.",
+      "example_sentence": "Učitelj je koristio globus da objasni svetske kontinente."
+    },
+    "english": {
+      "word": "globe",
+      "part_of_speech": "noun",
+      "definition": "A model of the Earth in the shape of a sphere showing continents, oceans, and other geographical features.",
+      "example_sentence": "The teacher used a globe to explain the world's continents."
+    }
+  }
+}

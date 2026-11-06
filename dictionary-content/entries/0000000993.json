@@ -1,0 +1,23 @@
+{
+  "id": 993,
+  "translation": {
+    "cyrillic": {
+      "word": "недеља",
+      "part_of_speech": "именица",
+      "definition": "период од седам дана",
+      "example_sentence": "Следеће недеље путујем."
+    },
+    "latin": {
+      "word": "nedelja",
+      "part_of_speech": "imenica",
+      "definition": "period od sedam dana",
+      "example_sentence": "Sledeće nedelje putujem."
+    },
+    "english": {
+      "word": "week",
+      "part_of_speech": "noun",
+      "definition": "period of seven days",
+      "example_sentence": "I travel next week."
+    }
+  }
+}

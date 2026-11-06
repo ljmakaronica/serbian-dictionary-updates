@@ -1,0 +1,23 @@
+{
+  "id": 701,
+  "translation": {
+    "cyrillic": {
+      "word": "тренутак",
+      "part_of_speech": "именица",
+      "definition": "Кратак временски интервал.",
+      "example_sentence": "Сваки тренутак је непоновљив."
+    },
+    "latin": {
+      "word": "trenutak",
+      "part_of_speech": "imenica",
+      "definition": "Kratak vremenski interval.",
+      "example_sentence": "Svaki trenutak je neponovljiv."
+    },
+    "english": {
+      "word": "moment",
+      "part_of_speech": "noun",
+      "definition": "A brief period of time.",
+      "example_sentence": "Every moment is unique."
+    }
+  }
+}

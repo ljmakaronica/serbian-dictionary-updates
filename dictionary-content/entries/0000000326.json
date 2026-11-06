@@ -1,0 +1,23 @@
+{
+  "id": 326,
+  "translation": {
+    "cyrillic": {
+      "word": "јасмин",
+      "part_of_speech": "именица",
+      "definition": "Биљка са мирисним цветовима.",
+      "example_sentence": "У нашој башти расте јасмин."
+    },
+    "latin": {
+      "word": "jasmin",
+      "part_of_speech": "imenica",
+      "definition": "Biljka sa mirisnim cvetovima.",
+      "example_sentence": "U našoj bašti raste jasmin."
+    },
+    "english": {
+      "word": "jasmine",
+      "part_of_speech": "noun",
+      "definition": "A plant with fragrant flowers.",
+      "example_sentence": "Jasmine grows in our garden."
+    }
+  }
+}

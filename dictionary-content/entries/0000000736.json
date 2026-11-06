@@ -1,0 +1,23 @@
+{
+  "id": 736,
+  "translation": {
+    "cyrillic": {
+      "word": "заборавити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство губитка меморије о нечему.",
+      "example_sentence": "Она је заборавила лозинку."
+    },
+    "latin": {
+      "word": "zaboraviti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo gubitka memorije o nečemu.",
+      "example_sentence": "Ona je zaboravila lozinku."
+    },
+    "english": {
+      "word": "forget",
+      "part_of_speech": "verb",
+      "definition": "To fail to remember.",
+      "example_sentence": "She forgot the password."
+    }
+  }
+}

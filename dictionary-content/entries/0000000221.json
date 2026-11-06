@@ -1,0 +1,23 @@
+{
+  "id": 221,
+  "translation": {
+    "cyrillic": {
+      "word": "ђурђевдан",
+      "part_of_speech": "именица",
+      "definition": "Српски православни празник који се слави 6. маја.",
+      "example_sentence": "Ђурђевдан је важан празник у српској традицији."
+    },
+    "latin": {
+      "word": "đurđevdan",
+      "part_of_speech": "imenica",
+      "definition": "Srpski pravoslavni praznik koji se slavi 6. maja.",
+      "example_sentence": "Đurđevdan je važan praznik u srpskoj tradiciji."
+    },
+    "english": {
+      "word": "Saint George's Day",
+      "part_of_speech": "noun",
+      "definition": "A Serbian Orthodox holiday celebrated on May 6.",
+      "example_sentence": "Saint George's Day is an important holiday in Serbian tradition."
+    }
+  }
+}

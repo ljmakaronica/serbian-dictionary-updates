@@ -1,0 +1,23 @@
+{
+  "id": 476,
+  "translation": {
+    "cyrillic": {
+      "word": "црни",
+      "part_of_speech": "придев",
+      "definition": "Боја која апсорбује сву светлост.",
+      "example_sentence": "Црни аутомобил је био сјајан."
+    },
+    "latin": {
+      "word": "crni",
+      "part_of_speech": "pridev",
+      "definition": "Boja koja apsorbuje svu svetlost.",
+      "example_sentence": "Crni automobil je bio sjajan."
+    },
+    "english": {
+      "word": "black",
+      "part_of_speech": "adjective",
+      "definition": "A color that absorbs all light.",
+      "example_sentence": "The black car was shiny."
+    }
+  }
+}

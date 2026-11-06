@@ -1,0 +1,23 @@
+{
+  "id": 940,
+  "translation": {
+    "cyrillic": {
+      "word": "мали",
+      "part_of_speech": "придев",
+      "definition": "мале величине",
+      "example_sentence": "То је мали пас."
+    },
+    "latin": {
+      "word": "mali",
+      "part_of_speech": "pridev",
+      "definition": "male veličine",
+      "example_sentence": "To je mali pas."
+    },
+    "english": {
+      "word": "small",
+      "part_of_speech": "adjective",
+      "definition": "of little size",
+      "example_sentence": "That is a small dog."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 408,
+  "translation": {
+    "cyrillic": {
+      "word": "ружа",
+      "part_of_speech": "именица",
+      "definition": "Цвеће са мирисним цветовима и бодљама.",
+      "example_sentence": "Руже су цветале у башти."
+    },
+    "latin": {
+      "word": "ruža",
+      "part_of_speech": "imenica",
+      "definition": "Cveće sa mirisnim cvetovima i bodljama.",
+      "example_sentence": "Ruže su cvetale u bašti."
+    },
+    "english": {
+      "word": "rose",
+      "part_of_speech": "noun",
+      "definition": "A flower with fragrant blooms and thorns.",
+      "example_sentence": "Roses were blooming in the garden."
+    }
+  }
+}

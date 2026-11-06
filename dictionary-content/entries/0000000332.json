@@ -1,0 +1,23 @@
+{
+  "id": 332,
+  "translation": {
+    "cyrillic": {
+      "word": "киша",
+      "part_of_speech": "именица",
+      "definition": "Падавина у облику водених капи.",
+      "example_sentence": "Киша је падала цео дан."
+    },
+    "latin": {
+      "word": "kiša",
+      "part_of_speech": "imenica",
+      "definition": "Padavina u obliku vodenih kapi.",
+      "example_sentence": "Kiša je padala ceo dan."
+    },
+    "english": {
+      "word": "rain",
+      "part_of_speech": "noun",
+      "definition": "Precipitation in the form of water droplets.",
+      "example_sentence": "It rained all day."
+    }
+  }
+}

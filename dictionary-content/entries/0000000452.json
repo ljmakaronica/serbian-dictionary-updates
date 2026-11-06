@@ -1,0 +1,23 @@
+{
+  "id": 452,
+  "translation": {
+    "cyrillic": {
+      "word": "филозофија",
+      "part_of_speech": "именица",
+      "definition": "Проучавање основних питања о постојању, знању, вредностима и мишљењу.",
+      "example_sentence": "Она студира филозофију на универзитету."
+    },
+    "latin": {
+      "word": "filozofija",
+      "part_of_speech": "imenica",
+      "definition": "Proučavanje osnovnih pitanja o postojanju, znanju, vrednostima i mišljenju.",
+      "example_sentence": "Ona studira filozofiju na univerzitetu."
+    },
+    "english": {
+      "word": "philosophy",
+      "part_of_speech": "noun",
+      "definition": "The study of fundamental questions about existence, knowledge, values, and thought.",
+      "example_sentence": "She studies philosophy at university."
+    }
+  }
+}

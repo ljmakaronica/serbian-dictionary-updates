@@ -1,0 +1,23 @@
+{
+  "id": 613,
+  "translation": {
+    "cyrillic": {
+      "word": "деда",
+      "part_of_speech": "именица",
+      "definition": "Отац једног од родитеља.",
+      "example_sentence": "Мој деда прича најбоље приче."
+    },
+    "latin": {
+      "word": "deda",
+      "part_of_speech": "imenica",
+      "definition": "Otac jednog od roditelja.",
+      "example_sentence": "Moj deda priča najbolje priče."
+    },
+    "english": {
+      "word": "grandfather",
+      "part_of_speech": "noun",
+      "definition": "The father of one’s parent.",
+      "example_sentence": "My grandfather tells the best stories."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 192,
+  "translation": {
+    "cyrillic": {
+      "word": "душа",
+      "part_of_speech": "именица",
+      "definition": "Духовни, нематеријални део човека у верским и филозофским схватањима.",
+      "example_sentence": "Песник пише о људској души."
+    },
+    "latin": {
+      "word": "duša",
+      "part_of_speech": "imenica",
+      "definition": "Duhovni, nematerijalni deo čoveka u verskim i filozofskim shvatanjima.",
+      "example_sentence": "Pesnik piše o ljudskoj duši."
+    },
+    "english": {
+      "word": "soul",
+      "part_of_speech": "noun",
+      "definition": "The spiritual, nonphysical part of a person in religious and philosophical beliefs.",
+      "example_sentence": "The poet writes about the human soul."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 944,
+  "translation": {
+    "cyrillic": {
+      "word": "јести",
+      "part_of_speech": "глагол",
+      "definition": "узимати храну",
+      "example_sentence": "Волим да једем пицу."
+    },
+    "latin": {
+      "word": "jesti",
+      "part_of_speech": "glagol",
+      "definition": "uzimati hranu",
+      "example_sentence": "Volim da jedem picu."
+    },
+    "english": {
+      "word": "to eat",
+      "part_of_speech": "verb",
+      "definition": "consume food",
+      "example_sentence": "I like to eat pizza."
+    }
+  }
+}

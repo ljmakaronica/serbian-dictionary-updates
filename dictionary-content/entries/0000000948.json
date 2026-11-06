@@ -1,0 +1,23 @@
+{
+  "id": 948,
+  "translation": {
+    "cyrillic": {
+      "word": "ово",
+      "part_of_speech": "заменица",
+      "definition": "показује нешто близу",
+      "example_sentence": "Ово је моја књига."
+    },
+    "latin": {
+      "word": "ovo",
+      "part_of_speech": "zamenica",
+      "definition": "pokazuje nešto blizu",
+      "example_sentence": "Ovo je moja knjiga."
+    },
+    "english": {
+      "word": "this",
+      "part_of_speech": "pronoun",
+      "definition": "indicating something near",
+      "example_sentence": "This is my book."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 605,
+  "translation": {
+    "cyrillic": {
+      "word": "бели лук",
+      "part_of_speech": "именица",
+      "definition": "Зачинска биљка чија је луковица састављена од ченова јаког мириса и укуса.",
+      "example_sentence": "Бели лук се користи у многим јелима."
+    },
+    "latin": {
+      "word": "beli luk",
+      "part_of_speech": "imenica",
+      "definition": "Začinska biljka čija je lukovica sastavljena od čenova jakog mirisa i ukusa.",
+      "example_sentence": "Beli luk se koristi u mnogim jelima."
+    },
+    "english": {
+      "word": "garlic",
+      "part_of_speech": "noun",
+      "definition": "A plant with a bulb made up of strongly flavored cloves, used in cooking.",
+      "example_sentence": "Garlic is used in many dishes."
+    }
+  }
+}

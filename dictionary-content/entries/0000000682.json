@@ -1,0 +1,23 @@
+{
+  "id": 682,
+  "translation": {
+    "cyrillic": {
+      "word": "држава",
+      "part_of_speech": "именица",
+      "definition": "Политичка заједница са одређеном територијом и сопственом влашћу.",
+      "example_sentence": "Држава има своју владу."
+    },
+    "latin": {
+      "word": "država",
+      "part_of_speech": "imenica",
+      "definition": "Politička zajednica sa određenom teritorijom i sopstvenom vlašću.",
+      "example_sentence": "Država ima svoju vladu."
+    },
+    "english": {
+      "word": "country",
+      "part_of_speech": "noun",
+      "definition": "A political community with a defined territory and its own government.",
+      "example_sentence": "The country has its own government."
+    }
+  }
+}

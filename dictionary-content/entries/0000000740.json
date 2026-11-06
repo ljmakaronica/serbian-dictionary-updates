@@ -1,0 +1,23 @@
+{
+  "id": 740,
+  "translation": {
+    "cyrillic": {
+      "word": "посетити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство доласка на одређено место.",
+      "example_sentence": "Посетили смо музеј током викенда."
+    },
+    "latin": {
+      "word": "posetiti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo dolaska na određeno mesto.",
+      "example_sentence": "Posetili smo muzej tokom vikenda."
+    },
+    "english": {
+      "word": "visit",
+      "part_of_speech": "verb",
+      "definition": "To go to see and spend time in a place.",
+      "example_sentence": "We visited the museum over the weekend."
+    }
+  }
+}

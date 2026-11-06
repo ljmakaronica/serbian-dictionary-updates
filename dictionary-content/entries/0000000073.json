@@ -1,0 +1,23 @@
+{
+  "id": 73,
+  "translation": {
+    "cyrillic": {
+      "word": "алгебра",
+      "part_of_speech": "именица",
+      "definition": "Грана математике која се бави симболима и правилима за њихово манипулисање.",
+      "example_sentence": "Алгебра је била мој омиљени предмет у школи."
+    },
+    "latin": {
+      "word": "algebra",
+      "part_of_speech": "imenica",
+      "definition": "Grana matematike koja se bavi simbolima i pravilima za njihovo manipulisanje.",
+      "example_sentence": "Algebra je bila moj omiljeni predmet u školi."
+    },
+    "english": {
+      "word": "algebra",
+      "part_of_speech": "noun",
+      "definition": "A branch of mathematics dealing with symbols and rules for manipulating them.",
+      "example_sentence": "Algebra was my favorite subject in school."
+    }
+  }
+}

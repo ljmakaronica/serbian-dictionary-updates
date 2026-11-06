@@ -1,0 +1,23 @@
+{
+  "id": 135,
+  "translation": {
+    "cyrillic": {
+      "word": "врх",
+      "part_of_speech": "именица",
+      "definition": "Највиша тачка нечега.",
+      "example_sentence": "Попели смо се на врх планине."
+    },
+    "latin": {
+      "word": "vrh",
+      "part_of_speech": "imenica",
+      "definition": "Najviša tačka nečega.",
+      "example_sentence": "Popeli smo se na vrh planine."
+    },
+    "english": {
+      "word": "top",
+      "part_of_speech": "noun",
+      "definition": "The highest point of something.",
+      "example_sentence": "We climbed to the top of the mountain."
+    }
+  }
+}

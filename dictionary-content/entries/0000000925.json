@@ -1,0 +1,23 @@
+{
+  "id": 925,
+  "translation": {
+    "cyrillic": {
+      "word": "кућа",
+      "part_of_speech": "именица",
+      "definition": "зграда за становање",
+      "example_sentence": "Моја кућа је велика."
+    },
+    "latin": {
+      "word": "kuća",
+      "part_of_speech": "imenica",
+      "definition": "zgrada za stanovanje",
+      "example_sentence": "Moja kuća je velika."
+    },
+    "english": {
+      "word": "house",
+      "part_of_speech": "noun",
+      "definition": "building for living",
+      "example_sentence": "My house is big."
+    }
+  }
+}

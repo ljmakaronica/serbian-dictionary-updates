@@ -1,0 +1,23 @@
+{
+  "id": 571,
+  "translation": {
+    "cyrillic": {
+      "word": "врата",
+      "part_of_speech": "именица",
+      "definition": "Покретна преграда којом се затвара улаз у просторију или зграду.",
+      "example_sentence": "Врата су затворена."
+    },
+    "latin": {
+      "word": "vrata",
+      "part_of_speech": "imenica",
+      "definition": "Pokretna pregrada kojom se zatvara ulaz u prostoriju ili zgradu.",
+      "example_sentence": "Vrata su zatvorena."
+    },
+    "english": {
+      "word": "door",
+      "part_of_speech": "noun",
+      "definition": "A movable barrier used to close the entrance to a room or building.",
+      "example_sentence": "The door is closed."
+    }
+  }
+}

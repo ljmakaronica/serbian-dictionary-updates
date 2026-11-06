@@ -1,0 +1,23 @@
+{
+  "id": 710,
+  "translation": {
+    "cyrillic": {
+      "word": "пловити",
+      "part_of_speech": "глагол",
+      "definition": "Кретати се по води бродом или чамцем.",
+      "example_sentence": "Брод плови низ реку."
+    },
+    "latin": {
+      "word": "ploviti",
+      "part_of_speech": "glagol",
+      "definition": "Kretati se po vodi brodom ili čamcem.",
+      "example_sentence": "Brod plovi niz reku."
+    },
+    "english": {
+      "word": "sail",
+      "part_of_speech": "verb",
+      "definition": "To travel over water in a ship or boat.",
+      "example_sentence": "The ship is sailing down the river."
+    }
+  }
+}

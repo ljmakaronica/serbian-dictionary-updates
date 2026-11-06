@@ -1,0 +1,23 @@
+{
+  "id": 360,
+  "translation": {
+    "cyrillic": {
+      "word": "мирис",
+      "part_of_speech": "именица",
+      "definition": "Осећај који опажамо носом.",
+      "example_sentence": "Мирис свежег хлеба је дивно."
+    },
+    "latin": {
+      "word": "miris",
+      "part_of_speech": "imenica",
+      "definition": "Osećaj koji opažamo nosom.",
+      "example_sentence": "Miris svežeg hleba je divno."
+    },
+    "english": {
+      "word": "smell",
+      "part_of_speech": "noun",
+      "definition": "A sensation perceived by the nose.",
+      "example_sentence": "The smell of fresh bread is wonderful."
+    }
+  }
+}

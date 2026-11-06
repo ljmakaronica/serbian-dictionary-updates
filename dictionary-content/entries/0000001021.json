@@ -1,0 +1,23 @@
+{
+  "id": 1021,
+  "translation": {
+    "cyrillic": {
+      "word": "затвор",
+      "part_of_speech": "именица",
+      "definition": "Место у коме се држе осуђеници.",
+      "example_sentence": "Послали су га у затвор."
+    },
+    "latin": {
+      "word": "zatvor",
+      "part_of_speech": "imenica",
+      "definition": "Mesto u kome se drže osuđenici.",
+      "example_sentence": "Poslali su ga u zatvor."
+    },
+    "english": {
+      "word": "jail",
+      "part_of_speech": "noun",
+      "definition": "A facility where convicted people are confined.",
+      "example_sentence": "They sent him to jail."
+    }
+  }
+}

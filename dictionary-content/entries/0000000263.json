@@ -1,0 +1,23 @@
+{
+  "id": 263,
+  "translation": {
+    "cyrillic": {
+      "word": "елоквенција",
+      "part_of_speech": "именица",
+      "definition": "Вештина течног и убедљивог говора.",
+      "example_sentence": "Његова елоквенција је освојила публику."
+    },
+    "latin": {
+      "word": "elokvencija",
+      "part_of_speech": "imenica",
+      "definition": "Veština tečnog i ubedljivog govora.",
+      "example_sentence": "Njegova elokvencija je osvojila publiku."
+    },
+    "english": {
+      "word": "eloquence",
+      "part_of_speech": "noun",
+      "definition": "The art of fluent and persuasive speaking.",
+      "example_sentence": "His eloquence won over the audience."
+    }
+  }
+}

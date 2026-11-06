@@ -1,0 +1,23 @@
+{
+  "id": 1105,
+  "translation": {
+    "cyrillic": {
+      "word": "слика",
+      "part_of_speech": "именица",
+      "definition": "Визуелни приказ, фотографија или цртеж који представља нешто; уметничко дело на платну.",
+      "example_sentence": "Обесио је слику на зид."
+    },
+    "latin": {
+      "word": "slika",
+      "part_of_speech": "imenica",
+      "definition": "Vizuelni prikaz, fotografija ili crtež koji predstavlja nešto; umetničko delo na platnu.",
+      "example_sentence": "Obesio je sliku na zid."
+    },
+    "english": {
+      "word": "picture",
+      "part_of_speech": "noun",
+      "definition": "A visual representation, photograph, or drawing that depicts something; an artistic work on canvas.",
+      "example_sentence": "He hung the picture on the wall."
+    }
+  }
+}

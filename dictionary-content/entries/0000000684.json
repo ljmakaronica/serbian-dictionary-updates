@@ -1,0 +1,23 @@
+{
+  "id": 684,
+  "translation": {
+    "cyrillic": {
+      "word": "земља",
+      "part_of_speech": "именица",
+      "definition": "Чврста површина планете, место где расту биљке и живе животиње.",
+      "example_sentence": "Земља је наш дом."
+    },
+    "latin": {
+      "word": "zemlja",
+      "part_of_speech": "imenica",
+      "definition": "Čvrsta površina planete, mesto gde rastu biljke i žive životinje.",
+      "example_sentence": "Zemlja je naš dom."
+    },
+    "english": {
+      "word": "earth",
+      "part_of_speech": "noun",
+      "definition": "The solid surface of a planet, where plants grow and animals live.",
+      "example_sentence": "The earth is our home."
+    }
+  }
+}

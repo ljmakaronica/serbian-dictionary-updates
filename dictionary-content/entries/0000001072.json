@@ -1,0 +1,23 @@
+{
+  "id": 1072,
+  "translation": {
+    "cyrillic": {
+      "word": "јогурт",
+      "part_of_speech": "именица",
+      "definition": "Млечни производ од ферментисаног млека.",
+      "example_sentence": "Јео је јогурт за доручак."
+    },
+    "latin": {
+      "word": "jogurt",
+      "part_of_speech": "imenica",
+      "definition": "Mlečni proizvod od fermentisanog mleka.",
+      "example_sentence": "Jeo je jogurt za doručak."
+    },
+    "english": {
+      "word": "yogurt",
+      "part_of_speech": "noun",
+      "definition": "A dairy product made from fermented milk.",
+      "example_sentence": "He ate yogurt for breakfast."
+    }
+  }
+}

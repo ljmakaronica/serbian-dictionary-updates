@@ -1,0 +1,23 @@
+{
+  "id": 939,
+  "translation": {
+    "cyrillic": {
+      "word": "велик",
+      "part_of_speech": "придев",
+      "definition": "крупне величине",
+      "example_sentence": "Он је велик човек."
+    },
+    "latin": {
+      "word": "velik",
+      "part_of_speech": "pridev",
+      "definition": "krupne veličine",
+      "example_sentence": "On je velik čovek."
+    },
+    "english": {
+      "word": "big",
+      "part_of_speech": "adjective",
+      "definition": "of large size",
+      "example_sentence": "He is a big man."
+    }
+  }
+}

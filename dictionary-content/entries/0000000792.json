@@ -1,0 +1,23 @@
+{
+  "id": 792,
+  "translation": {
+    "cyrillic": {
+      "word": "контролисати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство управљања или регулисања нечега.",
+      "example_sentence": "Уређај контролише температуру у соби."
+    },
+    "latin": {
+      "word": "kontrolisati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo upravljanja ili regulisanja nečega.",
+      "example_sentence": "Uređaj kontroliše temperaturu u sobi."
+    },
+    "english": {
+      "word": "control",
+      "part_of_speech": "verb",
+      "definition": "To exercise restraint or direction over.",
+      "example_sentence": "The device controls the temperature in the room."
+    }
+  }
+}

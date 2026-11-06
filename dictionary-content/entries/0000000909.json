@@ -1,0 +1,23 @@
+{
+  "id": 909,
+  "translation": {
+    "cyrillic": {
+      "word": "сутра",
+      "part_of_speech": "прилог",
+      "definition": "Означава дан који долази после данашњег дана.",
+      "example_sentence": "Сутра ћу посетити пријатеља."
+    },
+    "latin": {
+      "word": "sutra",
+      "part_of_speech": "prilog",
+      "definition": "Označava dan koji dolazi posle današnjeg dana.",
+      "example_sentence": "Sutra ću posetiti prijatelja."
+    },
+    "english": {
+      "word": "tomorrow",
+      "part_of_speech": "adverb",
+      "definition": "Indicates the day that comes after today.",
+      "example_sentence": "Tomorrow I will visit a friend."
+    }
+  }
+}

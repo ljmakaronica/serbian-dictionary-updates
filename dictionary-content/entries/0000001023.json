@@ -1,0 +1,23 @@
+{
+  "id": 1023,
+  "translation": {
+    "cyrillic": {
+      "word": "шутирати",
+      "part_of_speech": "глагол",
+      "definition": "Ударити нешто ногом.",
+      "example_sentence": "Шутирао је лопту ка голу."
+    },
+    "latin": {
+      "word": "šutirati",
+      "part_of_speech": "glagol",
+      "definition": "Udariti nešto nogom.",
+      "example_sentence": "Šutirao je loptu ka golu."
+    },
+    "english": {
+      "word": "kick",
+      "part_of_speech": "verb",
+      "definition": "To strike something with the foot.",
+      "example_sentence": "He kicked the ball toward the goal."
+    }
+  }
+}

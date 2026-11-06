@@ -1,0 +1,23 @@
+{
+  "id": 865,
+  "translation": {
+    "cyrillic": {
+      "word": "нити",
+      "part_of_speech": "везник",
+      "definition": "Везник којим се повезују одрични делови исказа, често у пару нити…нити.",
+      "example_sentence": "Он нити једе нити спава."
+    },
+    "latin": {
+      "word": "niti",
+      "part_of_speech": "veznik",
+      "definition": "Veznik kojim se povezuju odrični delovi iskaza, često u paru niti…niti.",
+      "example_sentence": "On niti jede niti spava."
+    },
+    "english": {
+      "word": "neither/nor",
+      "part_of_speech": "conjunction",
+      "definition": "A conjunction used to connect negative alternatives, commonly in neither…nor.",
+      "example_sentence": "He neither eats nor sleeps."
+    }
+  }
+}

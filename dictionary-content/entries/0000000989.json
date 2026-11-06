@@ -1,0 +1,23 @@
+{
+  "id": 989,
+  "translation": {
+    "cyrillic": {
+      "word": "молим",
+      "part_of_speech": "узвик",
+      "definition": "израз учтивости",
+      "example_sentence": "Молим те, помози ми."
+    },
+    "latin": {
+      "word": "molim",
+      "part_of_speech": "uzvik",
+      "definition": "izraz učtivosti",
+      "example_sentence": "Molim te, pomozi mi."
+    },
+    "english": {
+      "word": "please",
+      "part_of_speech": "interjection",
+      "definition": "expression of politeness",
+      "example_sentence": "Please help me."
+    }
+  }
+}

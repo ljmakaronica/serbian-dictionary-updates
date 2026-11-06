@@ -1,0 +1,23 @@
+{
+  "id": 1094,
+  "translation": {
+    "cyrillic": {
+      "word": "ли",
+      "part_of_speech": "речца",
+      "definition": "Речца за постављање питања на која се одговара са „да” или „не”.",
+      "example_sentence": "Да ли знаш?"
+    },
+    "latin": {
+      "word": "li",
+      "part_of_speech": "rečca",
+      "definition": "Rečca za postavljanje pitanja na koja se odgovara sa „da” ili „ne”.",
+      "example_sentence": "Da li znaš?"
+    },
+    "english": {
+      "word": "yes/no question particle",
+      "part_of_speech": "particle",
+      "definition": "A Serbian particle used to form yes/no questions; it has no single standalone English translation.",
+      "example_sentence": "Do you know?"
+    }
+  }
+}

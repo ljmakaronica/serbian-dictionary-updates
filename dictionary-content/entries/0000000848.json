@@ -1,0 +1,23 @@
+{
+  "id": 848,
+  "translation": {
+    "cyrillic": {
+      "word": "једноставно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је лак за разумевање или објашњење.",
+      "example_sentence": "Наставник једноставно објашњава решење."
+    },
+    "latin": {
+      "word": "jednostavno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je lak za razumevanje ili objašnjenje.",
+      "example_sentence": "Nastavnik jednostavno objašnjava rešenje."
+    },
+    "english": {
+      "word": "simply",
+      "part_of_speech": "adverb",
+      "definition": "In a plain or uncomplicated manner.",
+      "example_sentence": "The teacher explains the solution simply."
+    }
+  }
+}

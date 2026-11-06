@@ -1,0 +1,23 @@
+{
+  "id": 575,
+  "translation": {
+    "cyrillic": {
+      "word": "слушати",
+      "part_of_speech": "глагол",
+      "definition": "Пажљиво чути звукове.",
+      "example_sentence": "Волим да слушам музику."
+    },
+    "latin": {
+      "word": "slušati",
+      "part_of_speech": "glagol",
+      "definition": "Pažljivo čuti zvukove.",
+      "example_sentence": "Volim da slušam muziku."
+    },
+    "english": {
+      "word": "to listen",
+      "part_of_speech": "verb",
+      "definition": "To pay attention to sounds.",
+      "example_sentence": "I love to listen to music."
+    }
+  }
+}

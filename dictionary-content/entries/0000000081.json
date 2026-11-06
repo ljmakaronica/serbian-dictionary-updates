@@ -1,0 +1,23 @@
+{
+  "id": 81,
+  "translation": {
+    "cyrillic": {
+      "word": "близу",
+      "part_of_speech": "прилог",
+      "definition": "На малој удаљености или растојању.",
+      "example_sentence": "Продавница је близу наше куће."
+    },
+    "latin": {
+      "word": "blizu",
+      "part_of_speech": "prilog",
+      "definition": "Na maloj udaljenosti ili rastojanju.",
+      "example_sentence": "Prodavnica je blizu naše kuće."
+    },
+    "english": {
+      "word": "near",
+      "part_of_speech": "adverb",
+      "definition": "At a short distance or interval.",
+      "example_sentence": "The store is near our house."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 917,
+  "translation": {
+    "cyrillic": {
+      "word": "лево",
+      "part_of_speech": "прилог",
+      "definition": "Указује на правац супротан од десног.",
+      "example_sentence": "Скрени лево на семафору."
+    },
+    "latin": {
+      "word": "levo",
+      "part_of_speech": "prilog",
+      "definition": "Ukazuje na pravac suprotan od desnog.",
+      "example_sentence": "Skreni levo na semaforu."
+    },
+    "english": {
+      "word": "left",
+      "part_of_speech": "adverb",
+      "definition": "Indicates the direction opposite from right.",
+      "example_sentence": "Turn left at the traffic light."
+    }
+  }
+}

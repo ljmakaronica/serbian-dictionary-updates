@@ -1,0 +1,23 @@
+{
+  "id": 154,
+  "translation": {
+    "cyrillic": {
+      "word": "главни",
+      "part_of_speech": "придев",
+      "definition": "Најважнији или централни.",
+      "example_sentence": "Главни разлог за његов одлазак је посао."
+    },
+    "latin": {
+      "word": "glavni",
+      "part_of_speech": "pridev",
+      "definition": "Najvažniji ili centralni.",
+      "example_sentence": "Glavni razlog za njegov odlazak je posao."
+    },
+    "english": {
+      "word": "main",
+      "part_of_speech": "adjective",
+      "definition": "The most important or central.",
+      "example_sentence": "The main reason for his departure is work."
+    }
+  }
+}

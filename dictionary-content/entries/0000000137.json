@@ -1,0 +1,23 @@
+{
+  "id": 137,
+  "translation": {
+    "cyrillic": {
+      "word": "ватра",
+      "part_of_speech": "именица",
+      "definition": "Пламен који настаје сагоревањем.",
+      "example_sentence": "Ватра је грејала кампере током ноћи."
+    },
+    "latin": {
+      "word": "vatra",
+      "part_of_speech": "imenica",
+      "definition": "Plamen koji nastaje sagorevanjem.",
+      "example_sentence": "Vatra je grejala kampere tokom noći."
+    },
+    "english": {
+      "word": "fire",
+      "part_of_speech": "noun",
+      "definition": "Flames produced by burning.",
+      "example_sentence": "The fire kept the campers warm during the night."
+    }
+  }
+}

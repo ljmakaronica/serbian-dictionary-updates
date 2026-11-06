@@ -1,0 +1,23 @@
+{
+  "id": 780,
+  "translation": {
+    "cyrillic": {
+      "word": "напредовати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство кретања напред или унапређења.",
+      "example_sentence": "Она брзо напредује у каријери."
+    },
+    "latin": {
+      "word": "napredovati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo kretanja napred ili unapređenja.",
+      "example_sentence": "Ona brzo napreduje u karijeri."
+    },
+    "english": {
+      "word": "advance",
+      "part_of_speech": "verb",
+      "definition": "To move forward or make progress.",
+      "example_sentence": "She is advancing quickly in her career."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 11,
+  "translation": {
+    "cyrillic": {
+      "word": "антена",
+      "part_of_speech": "именица",
+      "definition": "Уређај за примање или емитовање радио или телевизијских сигнала.",
+      "example_sentence": "Морамо да померимо антену да бисмо добили бољи сигнал."
+    },
+    "latin": {
+      "word": "antena",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za primanje ili emitovanje radio ili televizijskih signala.",
+      "example_sentence": "Moramo da pomerimo antenu da bismo dobili bolji signal."
+    },
+    "english": {
+      "word": "antenna",
+      "part_of_speech": "noun",
+      "definition": "A device for receiving or transmitting radio or television signals.",
+      "example_sentence": "We need to move the antenna to get a better signal."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 424,
+  "translation": {
+    "cyrillic": {
+      "word": "трава",
+      "part_of_speech": "именица",
+      "definition": "Зелена биљка која расте на тлу.",
+      "example_sentence": "Трава је била мекана под ногама."
+    },
+    "latin": {
+      "word": "trava",
+      "part_of_speech": "imenica",
+      "definition": "Zelena biljka koja raste na tlu.",
+      "example_sentence": "Trava je bila mekana pod nogama."
+    },
+    "english": {
+      "word": "grass",
+      "part_of_speech": "noun",
+      "definition": "A green plant that grows on the ground.",
+      "example_sentence": "The grass was soft underfoot."
+    }
+  }
+}

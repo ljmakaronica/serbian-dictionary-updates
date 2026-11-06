@@ -1,0 +1,23 @@
+{
+  "id": 305,
+  "translation": {
+    "cyrillic": {
+      "word": "задовољство",
+      "part_of_speech": "именица",
+      "definition": "Осећај радости или испуњења.",
+      "example_sentence": "То је било велико задовољство."
+    },
+    "latin": {
+      "word": "zadovoljstvo",
+      "part_of_speech": "imenica",
+      "definition": "Osećaj radosti ili ispunjenja.",
+      "example_sentence": "To je bilo veliko zadovoljstvo."
+    },
+    "english": {
+      "word": "pleasure",
+      "part_of_speech": "noun",
+      "definition": "A feeling of joy or fulfillment.",
+      "example_sentence": "That was a great pleasure."
+    }
+  }
+}

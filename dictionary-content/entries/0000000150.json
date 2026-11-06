@@ -1,0 +1,23 @@
+{
+  "id": 150,
+  "translation": {
+    "cyrillic": {
+      "word": "високообразовани",
+      "part_of_speech": "придев",
+      "definition": "Који има висок ниво образовања.",
+      "example_sentence": "Високообразовани људи су често вођени у науци."
+    },
+    "latin": {
+      "word": "visokoobrazovani",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima visok nivo obrazovanja.",
+      "example_sentence": "Visokoobrazovani ljudi su često vođeni u nauci."
+    },
+    "english": {
+      "word": "highly educated",
+      "part_of_speech": "adjective",
+      "definition": "Having a high level of education.",
+      "example_sentence": "Highly educated people are often leaders in science."
+    }
+  }
+}

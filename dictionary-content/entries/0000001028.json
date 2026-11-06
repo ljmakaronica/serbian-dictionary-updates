@@ -1,0 +1,23 @@
+{
+  "id": 1028,
+  "translation": {
+    "cyrillic": {
+      "word": "куцати",
+      "part_of_speech": "глагол",
+      "definition": "Ударати о врата или површину да би се најавио долазак.",
+      "example_sentence": "Неко куца на врата."
+    },
+    "latin": {
+      "word": "kucati",
+      "part_of_speech": "glagol",
+      "definition": "Udarati o vrata ili površinu da bi se najavio dolazak.",
+      "example_sentence": "Neko kuca na vrata."
+    },
+    "english": {
+      "word": "knock",
+      "part_of_speech": "verb",
+      "definition": "To strike a door or surface to announce arrival.",
+      "example_sentence": "Someone is knocking on the door."
+    }
+  }
+}

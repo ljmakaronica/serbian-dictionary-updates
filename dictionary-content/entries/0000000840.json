@@ -1,0 +1,23 @@
+{
+  "id": 840,
+  "translation": {
+    "cyrillic": {
+      "word": "повремено",
+      "part_of_speech": "прилог",
+      "definition": "На начин који се дешава у одређеним временским интервалима.",
+      "example_sentence": "Они повремено организују састанке."
+    },
+    "latin": {
+      "word": "povremeno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji se dešava u određenim vremenskim intervalima.",
+      "example_sentence": "Oni povremeno organizuju sastanke."
+    },
+    "english": {
+      "word": "occasionally",
+      "part_of_speech": "adverb",
+      "definition": "At intervals; now and then.",
+      "example_sentence": "They occasionally organize meetings."
+    }
+  }
+}

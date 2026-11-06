@@ -1,0 +1,23 @@
+{
+  "id": 289,
+  "translation": {
+    "cyrillic": {
+      "word": "епоха",
+      "part_of_speech": "именица",
+      "definition": "Значајан период у историји.",
+      "example_sentence": "То је била нова епоха у развоју науке."
+    },
+    "latin": {
+      "word": "epoha",
+      "part_of_speech": "imenica",
+      "definition": "Značajan period u istoriji.",
+      "example_sentence": "To je bila nova epoha u razvoju nauke."
+    },
+    "english": {
+      "word": "epoch",
+      "part_of_speech": "noun",
+      "definition": "A significant period in history.",
+      "example_sentence": "It was a new epoch in scientific development."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 913,
+  "translation": {
+    "cyrillic": {
+      "word": "подне",
+      "part_of_speech": "именица",
+      "definition": "Средина дана, када је сунце највише на небу.",
+      "example_sentence": "У подне је највећа врућина."
+    },
+    "latin": {
+      "word": "podne",
+      "part_of_speech": "imenica",
+      "definition": "Sredina dana, kada je sunce najviše na nebu.",
+      "example_sentence": "U podne je najveća vrućina."
+    },
+    "english": {
+      "word": "noon",
+      "part_of_speech": "noun",
+      "definition": "The middle of the day, when the sun is highest in the sky.",
+      "example_sentence": "At noon it is the hottest."
+    }
+  }
+}

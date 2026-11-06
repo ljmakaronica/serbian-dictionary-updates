@@ -1,0 +1,23 @@
+{
+  "id": 964,
+  "translation": {
+    "cyrillic": {
+      "word": "наћи",
+      "part_of_speech": "глагол",
+      "definition": "открити нешто",
+      "example_sentence": "Нашао сам кључ."
+    },
+    "latin": {
+      "word": "naći",
+      "part_of_speech": "glagol",
+      "definition": "otkriti nešto",
+      "example_sentence": "Našao sam ključ."
+    },
+    "english": {
+      "word": "to find",
+      "part_of_speech": "verb",
+      "definition": "discover something",
+      "example_sentence": "I found the key."
+    }
+  }
+}

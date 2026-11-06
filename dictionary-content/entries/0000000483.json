@@ -1,0 +1,23 @@
+{
+  "id": 483,
+  "translation": {
+    "cyrillic": {
+      "word": "чвор",
+      "part_of_speech": "именица",
+      "definition": "Тачка где се везе или нити спајају.",
+      "example_sentence": "Чвор на конопцу је био чврст."
+    },
+    "latin": {
+      "word": "čvor",
+      "part_of_speech": "imenica",
+      "definition": "Tačka gde se veze ili niti spajaju.",
+      "example_sentence": "Čvor na konopcu je bio čvrst."
+    },
+    "english": {
+      "word": "knot",
+      "part_of_speech": "noun",
+      "definition": "A point where ropes or threads are tied together.",
+      "example_sentence": "The knot on the rope was tight."
+    }
+  }
+}

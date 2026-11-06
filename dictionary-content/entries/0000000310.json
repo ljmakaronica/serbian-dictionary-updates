@@ -1,0 +1,23 @@
+{
+  "id": 310,
+  "translation": {
+    "cyrillic": {
+      "word": "идеја",
+      "part_of_speech": "именица",
+      "definition": "Мисао или концепт који неко има.",
+      "example_sentence": "Имам одличну идеју за нови пројекат."
+    },
+    "latin": {
+      "word": "ideja",
+      "part_of_speech": "imenica",
+      "definition": "Misao ili koncept koji neko ima.",
+      "example_sentence": "Imam odličnu ideju za novi projekat."
+    },
+    "english": {
+      "word": "idea",
+      "part_of_speech": "noun",
+      "definition": "A thought or concept that someone has.",
+      "example_sentence": "I have a great idea for a new project."
+    }
+  }
+}

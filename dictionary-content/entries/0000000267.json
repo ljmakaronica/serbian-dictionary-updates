@@ -1,0 +1,23 @@
+{
+  "id": 267,
+  "translation": {
+    "cyrillic": {
+      "word": "еквивалент",
+      "part_of_speech": "именица",
+      "definition": "Нешто што има исту вредност или значење.",
+      "example_sentence": "Овај износ је еквивалент у локалној валути."
+    },
+    "latin": {
+      "word": "ekvivalent",
+      "part_of_speech": "imenica",
+      "definition": "Nešto što ima istu vrednost ili značenje.",
+      "example_sentence": "Ovaj iznos je ekvivalent u lokalnoj valuti."
+    },
+    "english": {
+      "word": "equivalent",
+      "part_of_speech": "noun",
+      "definition": "Something having the same value or meaning.",
+      "example_sentence": "This amount is the equivalent in local currency."
+    }
+  }
+}

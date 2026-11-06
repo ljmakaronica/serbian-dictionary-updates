@@ -1,0 +1,23 @@
+{
+  "id": 485,
+  "translation": {
+    "cyrillic": {
+      "word": "читати",
+      "part_of_speech": "глагол",
+      "definition": "Гледати и разумети писани текст.",
+      "example_sentence": "Волим да читам књиге."
+    },
+    "latin": {
+      "word": "čitati",
+      "part_of_speech": "glagol",
+      "definition": "Gledati i razumeti pisani tekst.",
+      "example_sentence": "Volim da čitam knjige."
+    },
+    "english": {
+      "word": "to read",
+      "part_of_speech": "verb",
+      "definition": "To look at and understand written text.",
+      "example_sentence": "I love to read books."
+    }
+  }
+}

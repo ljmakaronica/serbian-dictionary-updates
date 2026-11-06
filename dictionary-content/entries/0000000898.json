@@ -1,0 +1,23 @@
+{
+  "id": 898,
+  "translation": {
+    "cyrillic": {
+      "word": "без",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава одсуство нечега",
+      "example_sentence": "Кафа без шећера."
+    },
+    "latin": {
+      "word": "bez",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava odsustvo nečega",
+      "example_sentence": "Kafa bez šećera."
+    },
+    "english": {
+      "word": "without",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating absence of something",
+      "example_sentence": "Coffee without sugar."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 878,
+  "translation": {
+    "cyrillic": {
+      "word": "он",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица трећег лица једнине мушког рода",
+      "example_sentence": "Он ради у банци."
+    },
+    "latin": {
+      "word": "on",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica trećeg lica jednine muškog roda",
+      "example_sentence": "On radi u banci."
+    },
+    "english": {
+      "word": "he",
+      "part_of_speech": "pronoun",
+      "definition": "Third person singular masculine personal pronoun",
+      "example_sentence": "He works in a bank."
+    }
+  }
+}

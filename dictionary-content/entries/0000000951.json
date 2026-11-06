@@ -1,0 +1,23 @@
+{
+  "id": 951,
+  "translation": {
+    "cyrillic": {
+      "word": "ићи",
+      "part_of_speech": "глагол",
+      "definition": "кретати се од једног места до другог",
+      "example_sentence": "Идем кући."
+    },
+    "latin": {
+      "word": "ići",
+      "part_of_speech": "glagol",
+      "definition": "kretati se od jednog mesta do drugog",
+      "example_sentence": "Idem kući."
+    },
+    "english": {
+      "word": "to go",
+      "part_of_speech": "verb",
+      "definition": "move from one place to another",
+      "example_sentence": "I go home."
+    }
+  }
+}

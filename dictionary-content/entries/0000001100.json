@@ -1,0 +1,23 @@
+{
+  "id": 1100,
+  "translation": {
+    "cyrillic": {
+      "word": "ваљда",
+      "part_of_speech": "речца",
+      "definition": "Речца која изражава несигурност или претпоставку.",
+      "example_sentence": "Ваљда ће доћи."
+    },
+    "latin": {
+      "word": "valjda",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja izražava nesigurnost ili pretpostavku.",
+      "example_sentence": "Valjda će doći."
+    },
+    "english": {
+      "word": "probably",
+      "part_of_speech": "particle",
+      "definition": "A particle expressing uncertainty or assumption.",
+      "example_sentence": "He'll probably come."
+    }
+  }
+}

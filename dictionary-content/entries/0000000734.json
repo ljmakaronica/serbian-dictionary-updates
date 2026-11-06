@@ -1,0 +1,23 @@
+{
+  "id": 734,
+  "translation": {
+    "cyrillic": {
+      "word": "опростити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство ослобађања од негативних осећања.",
+      "example_sentence": "Она је опростила пријатељу."
+    },
+    "latin": {
+      "word": "oprostiti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo oslobađanja od negativnih osećanja.",
+      "example_sentence": "Ona je oprostila prijatelju."
+    },
+    "english": {
+      "word": "forgive",
+      "part_of_speech": "verb",
+      "definition": "To stop feeling angry or resentful toward someone.",
+      "example_sentence": "She forgave her friend."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 570,
+  "translation": {
+    "cyrillic": {
+      "word": "прозор",
+      "part_of_speech": "именица",
+      "definition": "Отвор у зиду кроз који улази светлост.",
+      "example_sentence": "Прозор је отворен."
+    },
+    "latin": {
+      "word": "prozor",
+      "part_of_speech": "imenica",
+      "definition": "Otvor u zidu kroz koji ulazi svetlost.",
+      "example_sentence": "Prozor je otvoren."
+    },
+    "english": {
+      "word": "window",
+      "part_of_speech": "noun",
+      "definition": "An opening in a wall that lets in light.",
+      "example_sentence": "The window is open."
+    }
+  }
+}

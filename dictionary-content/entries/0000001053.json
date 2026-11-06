@@ -1,0 +1,23 @@
+{
+  "id": 1053,
+  "translation": {
+    "cyrillic": {
+      "word": "питање",
+      "part_of_speech": "именица",
+      "definition": "Реченица којом се тражи информација.",
+      "example_sentence": "Поставио је питање."
+    },
+    "latin": {
+      "word": "pitanje",
+      "part_of_speech": "imenica",
+      "definition": "Rečenica kojom se traži informacija.",
+      "example_sentence": "Postavio je pitanje."
+    },
+    "english": {
+      "word": "question",
+      "part_of_speech": "noun",
+      "definition": "A sentence that seeks information.",
+      "example_sentence": "He asked a question."
+    }
+  }
+}

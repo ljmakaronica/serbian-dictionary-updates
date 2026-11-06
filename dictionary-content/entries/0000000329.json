@@ -1,0 +1,23 @@
+{
+  "id": 329,
+  "translation": {
+    "cyrillic": {
+      "word": "коњ",
+      "part_of_speech": "именица",
+      "definition": "Четвороножна животиња која се користи за јахање или вучу.",
+      "example_sentence": "Коњ је трчао по пољу."
+    },
+    "latin": {
+      "word": "konj",
+      "part_of_speech": "imenica",
+      "definition": "Četvoronožna životinja koja se koristi za jahanje ili vuču.",
+      "example_sentence": "Konj je trčao po polju."
+    },
+    "english": {
+      "word": "horse",
+      "part_of_speech": "noun",
+      "definition": "A four-legged animal used for riding or pulling.",
+      "example_sentence": "The horse was running in the field."
+    }
+  }
+}

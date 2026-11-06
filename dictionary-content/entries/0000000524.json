@@ -1,0 +1,23 @@
+{
+  "id": 524,
+  "translation": {
+    "cyrillic": {
+      "word": "дванаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 12.",
+      "example_sentence": "Имам дванаест јаја."
+    },
+    "latin": {
+      "word": "dvanaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 12.",
+      "example_sentence": "Imam dvanaest jaja."
+    },
+    "english": {
+      "word": "twelve",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 12.",
+      "example_sentence": "I have twelve eggs."
+    }
+  }
+}

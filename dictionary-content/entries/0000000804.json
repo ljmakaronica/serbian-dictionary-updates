@@ -1,0 +1,23 @@
+{
+  "id": 804,
+  "translation": {
+    "cyrillic": {
+      "word": "лагано",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је нежан и мек.",
+      "example_sentence": "Ветар дува лагано."
+    },
+    "latin": {
+      "word": "lagano",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je nežan i mekan.",
+      "example_sentence": "Vetar duva lagano."
+    },
+    "english": {
+      "word": "gently",
+      "part_of_speech": "adverb",
+      "definition": "In a soft and mild manner.",
+      "example_sentence": "The wind blows gently."
+    }
+  }
+}

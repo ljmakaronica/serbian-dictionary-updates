@@ -1,0 +1,23 @@
+{
+  "id": 68,
+  "translation": {
+    "cyrillic": {
+      "word": "акација",
+      "part_of_speech": "именица",
+      "definition": "Врста дрвета са жутим или белим цветовима.",
+      "example_sentence": "Акације су честе у топлим климатским подручјима."
+    },
+    "latin": {
+      "word": "akacija",
+      "part_of_speech": "imenica",
+      "definition": "Vrsta drveta sa žutim ili belim cvetovima.",
+      "example_sentence": "Akacije su česte u toplim klimatskim područjima."
+    },
+    "english": {
+      "word": "acacia",
+      "part_of_speech": "noun",
+      "definition": "A type of tree with yellow or white flowers.",
+      "example_sentence": "Acacias are common in warm climate regions."
+    }
+  }
+}

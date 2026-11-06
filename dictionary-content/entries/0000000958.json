@@ -1,0 +1,23 @@
+{
+  "id": 958,
+  "translation": {
+    "cyrillic": {
+      "word": "направити",
+      "part_of_speech": "глагол",
+      "definition": "створити нешто",
+      "example_sentence": "Направио сам торту."
+    },
+    "latin": {
+      "word": "napraviti",
+      "part_of_speech": "glagol",
+      "definition": "stvoriti nešto",
+      "example_sentence": "Napravio sam tortu."
+    },
+    "english": {
+      "word": "to make",
+      "part_of_speech": "verb",
+      "definition": "create something",
+      "example_sentence": "I made a cake."
+    }
+  }
+}

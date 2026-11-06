@@ -1,0 +1,23 @@
+{
+  "id": 119,
+  "translation": {
+    "cyrillic": {
+      "word": "бодљикав",
+      "part_of_speech": "придев",
+      "definition": "Који има оштре бодље или шиљке.",
+      "example_sentence": "Пази се, ружа је бодљикава."
+    },
+    "latin": {
+      "word": "bodljikav",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima oštre bodlje ili šiljke.",
+      "example_sentence": "Pazi se, ruža je bodljikava."
+    },
+    "english": {
+      "word": "thorny",
+      "part_of_speech": "adjective",
+      "definition": "Having sharp thorns or spikes.",
+      "example_sentence": "Be careful, the rose is thorny."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 672,
+  "translation": {
+    "cyrillic": {
+      "word": "пиће",
+      "part_of_speech": "именица",
+      "definition": "Течност намењена за пијење.",
+      "example_sentence": "Охлађено пиће је освежавајуће."
+    },
+    "latin": {
+      "word": "piće",
+      "part_of_speech": "imenica",
+      "definition": "Tečnost namenjena za pijenje.",
+      "example_sentence": "Ohlađeno piće je osvežavajuće."
+    },
+    "english": {
+      "word": "beverage",
+      "part_of_speech": "noun",
+      "definition": "A liquid intended for drinking.",
+      "example_sentence": "The chilled beverage is refreshing."
+    }
+  }
+}

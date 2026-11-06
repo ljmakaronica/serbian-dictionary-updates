@@ -1,0 +1,23 @@
+{
+  "id": 616,
+  "translation": {
+    "cyrillic": {
+      "word": "телевизор",
+      "part_of_speech": "именица",
+      "definition": "Уређај за гледање програма.",
+      "example_sentence": "Гледамо телевизор увече."
+    },
+    "latin": {
+      "word": "televizor",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za gledanje programa.",
+      "example_sentence": "Gledamo televizor uveče."
+    },
+    "english": {
+      "word": "television",
+      "part_of_speech": "noun",
+      "definition": "A device for watching programs.",
+      "example_sentence": "We watch television in the evening."
+    }
+  }
+}

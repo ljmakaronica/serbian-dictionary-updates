@@ -1,0 +1,23 @@
+{
+  "id": 984,
+  "translation": {
+    "cyrillic": {
+      "word": "шта",
+      "part_of_speech": "заменица",
+      "definition": "која ствар",
+      "example_sentence": "Шта је то?"
+    },
+    "latin": {
+      "word": "šta",
+      "part_of_speech": "zamenica",
+      "definition": "koja stvar",
+      "example_sentence": "Šta je to?"
+    },
+    "english": {
+      "word": "what",
+      "part_of_speech": "pronoun",
+      "definition": "which thing",
+      "example_sentence": "What is that?"
+    }
+  }
+}

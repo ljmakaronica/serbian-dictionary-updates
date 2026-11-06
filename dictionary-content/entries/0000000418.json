@@ -1,0 +1,23 @@
+{
+  "id": 418,
+  "translation": {
+    "cyrillic": {
+      "word": "сањати",
+      "part_of_speech": "глагол",
+      "definition": "Имати визије или мисли током спавања.",
+      "example_sentence": "Често сањам о летењу."
+    },
+    "latin": {
+      "word": "sanjati",
+      "part_of_speech": "glagol",
+      "definition": "Imati vizije ili misli tokom spavanja.",
+      "example_sentence": "Često sanjam o letenju."
+    },
+    "english": {
+      "word": "to dream",
+      "part_of_speech": "verb",
+      "definition": "To have visions or thoughts while sleeping.",
+      "example_sentence": "I often dream about flying."
+    }
+  }
+}

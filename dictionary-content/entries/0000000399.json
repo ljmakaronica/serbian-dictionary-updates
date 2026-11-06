@@ -1,0 +1,23 @@
+{
+  "id": 399,
+  "translation": {
+    "cyrillic": {
+      "word": "планина",
+      "part_of_speech": "именица",
+      "definition": "Висока копнена формација са стрмим странама.",
+      "example_sentence": "Планина је била прекривена снегом."
+    },
+    "latin": {
+      "word": "planina",
+      "part_of_speech": "imenica",
+      "definition": "Visoka kopnena formacija sa strmim stranama.",
+      "example_sentence": "Planina je bila prekrivena snegom."
+    },
+    "english": {
+      "word": "mountain",
+      "part_of_speech": "noun",
+      "definition": "A high land formation with steep sides.",
+      "example_sentence": "The mountain was covered in snow."
+    }
+  }
+}

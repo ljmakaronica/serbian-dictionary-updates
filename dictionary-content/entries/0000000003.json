@@ -1,0 +1,23 @@
+{
+  "id": 3,
+  "translation": {
+    "cyrillic": {
+      "word": "али",
+      "part_of_speech": "везник",
+      "definition": "Везник који означава супротност.",
+      "example_sentence": "Желео сам да дођем, али нисам могао."
+    },
+    "latin": {
+      "word": "ali",
+      "part_of_speech": "veznik",
+      "definition": "Veznik koji označava suprotnost.",
+      "example_sentence": "Želeo sam da dođem, ali nisam mogao."
+    },
+    "english": {
+      "word": "but",
+      "part_of_speech": "conjunction",
+      "definition": "A conjunction indicating strong contrast.",
+      "example_sentence": "I wanted to come, but I couldn't."
+    }
+  }
+}

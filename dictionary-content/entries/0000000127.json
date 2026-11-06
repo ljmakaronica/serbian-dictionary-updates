@@ -1,0 +1,23 @@
+{
+  "id": 127,
+  "translation": {
+    "cyrillic": {
+      "word": "висок",
+      "part_of_speech": "придев",
+      "definition": "Који има велику висину или узвишен.",
+      "example_sentence": "Планина је била висока и импресивна."
+    },
+    "latin": {
+      "word": "visok",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima veliku visinu ili uzvišen.",
+      "example_sentence": "Planina je bila visoka i impresivna."
+    },
+    "english": {
+      "word": "tall",
+      "part_of_speech": "adjective",
+      "definition": "Having great height or elevation.",
+      "example_sentence": "The mountain was tall and impressive."
+    }
+  }
+}

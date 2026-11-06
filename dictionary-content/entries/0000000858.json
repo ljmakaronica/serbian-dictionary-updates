@@ -1,0 +1,23 @@
+{
+  "id": 858,
+  "translation": {
+    "cyrillic": {
+      "word": "да",
+      "part_of_speech": "везник",
+      "definition": "Повезује главну и зависну реченицу.",
+      "example_sentence": "Мислим да је касно."
+    },
+    "latin": {
+      "word": "da",
+      "part_of_speech": "veznik",
+      "definition": "Povezuje glavnu i zavisnu rečenicu.",
+      "example_sentence": "Mislim da je kasno."
+    },
+    "english": {
+      "word": "that",
+      "part_of_speech": "conjunction",
+      "definition": "Connects main and dependent clauses.",
+      "example_sentence": "I think that it is late."
+    }
+  }
+}

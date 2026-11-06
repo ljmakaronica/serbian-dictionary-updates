@@ -1,0 +1,23 @@
+{
+  "id": 883,
+  "translation": {
+    "cyrillic": {
+      "word": "они",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица трећег лица множине мушког рода",
+      "example_sentence": "Они иду на посао."
+    },
+    "latin": {
+      "word": "oni",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica trećeg lica množine muškog roda",
+      "example_sentence": "Oni idu na posao."
+    },
+    "english": {
+      "word": "they",
+      "part_of_speech": "pronoun",
+      "definition": "Third person plural masculine/mixed personal pronoun",
+      "example_sentence": "They go to work."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 218,
+  "translation": {
+    "cyrillic": {
+      "word": "ђаволак",
+      "part_of_speech": "именица",
+      "definition": "Несташно, живахно дете.",
+      "example_sentence": "Тај мали ђаволак стално прави несташлуке."
+    },
+    "latin": {
+      "word": "đavolak",
+      "part_of_speech": "imenica",
+      "definition": "Nestašno, živahno dete.",
+      "example_sentence": "Taj mali đavolak stalno pravi nestašluke."
+    },
+    "english": {
+      "word": "little devil",
+      "part_of_speech": "noun",
+      "definition": "A mischievous, lively child.",
+      "example_sentence": "That little devil is always up to something."
+    }
+  }
+}

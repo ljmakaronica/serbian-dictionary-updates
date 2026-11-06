@@ -1,0 +1,23 @@
+{
+  "id": 293,
+  "translation": {
+    "cyrillic": {
+      "word": "жар",
+      "part_of_speech": "именица",
+      "definition": "Ужарени остаци дрвета или угља који горе без пламена.",
+      "example_sentence": "Жар је још увек сијао у огњишту."
+    },
+    "latin": {
+      "word": "žar",
+      "part_of_speech": "imenica",
+      "definition": "Užareni ostaci drveta ili uglja koji gore bez plamena.",
+      "example_sentence": "Žar je još uvek sijao u ognjištu."
+    },
+    "english": {
+      "word": "ember",
+      "part_of_speech": "noun",
+      "definition": "Glowing remains of wood or coal that burn without a flame.",
+      "example_sentence": "The embers were still glowing in the fireplace."
+    }
+  }
+}

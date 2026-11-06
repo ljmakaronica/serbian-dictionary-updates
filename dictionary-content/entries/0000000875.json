@@ -1,0 +1,23 @@
+{
+  "id": 875,
+  "translation": {
+    "cyrillic": {
+      "word": "пре него што",
+      "part_of_speech": "везник",
+      "definition": "Означава временски редослед.",
+      "example_sentence": "Јави се пре него што дођеш."
+    },
+    "latin": {
+      "word": "pre nego što",
+      "part_of_speech": "veznik",
+      "definition": "Označava vremenski redosled.",
+      "example_sentence": "Javi se pre nego što dođeš."
+    },
+    "english": {
+      "word": "before",
+      "part_of_speech": "conjunction",
+      "definition": "Indicates temporal sequence.",
+      "example_sentence": "Call before you come."
+    }
+  }
+}

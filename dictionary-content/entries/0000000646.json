@@ -1,0 +1,23 @@
+{
+  "id": 646,
+  "translation": {
+    "cyrillic": {
+      "word": "ученик",
+      "part_of_speech": "именица",
+      "definition": "Особа која стиче знање путем образовања.",
+      "example_sentence": "Ученик пажљиво слуша наставу."
+    },
+    "latin": {
+      "word": "učenik",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja stiče znanje putem obrazovanja.",
+      "example_sentence": "Učenik pažljivo sluša nastavu."
+    },
+    "english": {
+      "word": "student",
+      "part_of_speech": "noun",
+      "definition": "A person who acquires knowledge through education.",
+      "example_sentence": "The student listens carefully to the lesson."
+    }
+  }
+}

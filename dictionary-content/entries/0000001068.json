@@ -1,0 +1,23 @@
+{
+  "id": 1068,
+  "translation": {
+    "cyrillic": {
+      "word": "двориште",
+      "part_of_speech": "именица",
+      "definition": "Отворени простор око куће.",
+      "example_sentence": "Деца се играју у дворишту."
+    },
+    "latin": {
+      "word": "dvorište",
+      "part_of_speech": "imenica",
+      "definition": "Otvoreni prostor oko kuće.",
+      "example_sentence": "Deca se igraju u dvorištu."
+    },
+    "english": {
+      "word": "yard",
+      "part_of_speech": "noun",
+      "definition": "An open space around a house.",
+      "example_sentence": "The children play in the yard."
+    }
+  }
+}

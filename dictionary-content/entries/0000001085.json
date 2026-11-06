@@ -1,0 +1,23 @@
+{
+  "id": 1085,
+  "translation": {
+    "cyrillic": {
+      "word": "зебра",
+      "part_of_speech": "именица",
+      "definition": "Афричка животиња са црно-белим пругама.",
+      "example_sentence": "Видели смо зебру на сафарију."
+    },
+    "latin": {
+      "word": "zebra",
+      "part_of_speech": "imenica",
+      "definition": "Afrička životinja sa crno-belim prugama.",
+      "example_sentence": "Videli smo zebru na safariju."
+    },
+    "english": {
+      "word": "zebra",
+      "part_of_speech": "noun",
+      "definition": "An African animal with black and white stripes.",
+      "example_sentence": "We saw a zebra on the safari."
+    }
+  }
+}

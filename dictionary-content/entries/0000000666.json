@@ -1,0 +1,23 @@
+{
+  "id": 666,
+  "translation": {
+    "cyrillic": {
+      "word": "двор",
+      "part_of_speech": "именица",
+      "definition": "Спољна површина око дома за опуштање.",
+      "example_sentence": "Двор је уредно уређен са цвећем."
+    },
+    "latin": {
+      "word": "dvor",
+      "part_of_speech": "imenica",
+      "definition": "Spoljna površina oko doma za opuštanje.",
+      "example_sentence": "Dvor je uredno uređen sa cvećem."
+    },
+    "english": {
+      "word": "yard",
+      "part_of_speech": "noun",
+      "definition": "An outdoor area surrounding a house for relaxation.",
+      "example_sentence": "The yard is neatly arranged with flowers."
+    }
+  }
+}

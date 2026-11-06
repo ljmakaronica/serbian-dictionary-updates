@@ -1,0 +1,23 @@
+{
+  "id": 353,
+  "translation": {
+    "cyrillic": {
+      "word": "љубав",
+      "part_of_speech": "именица",
+      "definition": "Јака осећања наклоности према некоме.",
+      "example_sentence": "Љубав је најлепши осећај."
+    },
+    "latin": {
+      "word": "ljubav",
+      "part_of_speech": "imenica",
+      "definition": "Jaka osećanja naklonosti prema nekome.",
+      "example_sentence": "Ljubav je najlepši osećaj."
+    },
+    "english": {
+      "word": "love",
+      "part_of_speech": "noun",
+      "definition": "Strong feelings of affection towards someone.",
+      "example_sentence": "Love is the most beautiful feeling."
+    }
+  }
+}

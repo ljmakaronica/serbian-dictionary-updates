@@ -1,0 +1,23 @@
+{
+  "id": 443,
+  "translation": {
+    "cyrillic": {
+      "word": "унук",
+      "part_of_speech": "именица",
+      "definition": "Син детета у односу на бабу и деду.",
+      "example_sentence": "Мој унук је веома паметан."
+    },
+    "latin": {
+      "word": "unuk",
+      "part_of_speech": "imenica",
+      "definition": "Sin deteta u odnosu na baku i dedu.",
+      "example_sentence": "Moj unuk je veoma pametan."
+    },
+    "english": {
+      "word": "grandson",
+      "part_of_speech": "noun",
+      "definition": "The son of one's child in relation to grandparents.",
+      "example_sentence": "My grandson is very smart."
+    }
+  }
+}

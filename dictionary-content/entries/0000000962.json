@@ -1,0 +1,23 @@
+{
+  "id": 962,
+  "translation": {
+    "cyrillic": {
+      "word": "добити",
+      "part_of_speech": "глагол",
+      "definition": "примити нешто",
+      "example_sentence": "Добио сам поклон."
+    },
+    "latin": {
+      "word": "dobiti",
+      "part_of_speech": "glagol",
+      "definition": "primiti nešto",
+      "example_sentence": "Dobio sam poklon."
+    },
+    "english": {
+      "word": "to get",
+      "part_of_speech": "verb",
+      "definition": "receive something",
+      "example_sentence": "I got a gift."
+    }
+  }
+}

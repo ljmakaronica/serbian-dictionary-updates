@@ -1,0 +1,23 @@
+{
+  "id": 331,
+  "translation": {
+    "cyrillic": {
+      "word": "крушка",
+      "part_of_speech": "именица",
+      "definition": "Воће са слатким укусом и меким плодом.",
+      "example_sentence": "Крушка је била савршено зрела."
+    },
+    "latin": {
+      "word": "kruška",
+      "part_of_speech": "imenica",
+      "definition": "Voće sa slatkim ukusom i mekim plodom.",
+      "example_sentence": "Kruška je bila savršeno zrela."
+    },
+    "english": {
+      "word": "pear",
+      "part_of_speech": "noun",
+      "definition": "A fruit with a sweet taste and soft texture.",
+      "example_sentence": "The pear was perfectly ripe."
+    }
+  }
+}

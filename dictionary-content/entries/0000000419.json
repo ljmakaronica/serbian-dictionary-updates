@@ -1,0 +1,23 @@
+{
+  "id": 419,
+  "translation": {
+    "cyrillic": {
+      "word": "срце",
+      "part_of_speech": "именица",
+      "definition": "Орган који пумпа крв кроз тело.",
+      "example_sentence": "Његово срце је било пуно љубави."
+    },
+    "latin": {
+      "word": "srce",
+      "part_of_speech": "imenica",
+      "definition": "Organ koji pumpa krv kroz telo.",
+      "example_sentence": "Njegovo srce je bilo puno ljubavi."
+    },
+    "english": {
+      "word": "heart",
+      "part_of_speech": "noun",
+      "definition": "The organ that pumps blood through the body.",
+      "example_sentence": "His heart was full of love."
+    }
+  }
+}

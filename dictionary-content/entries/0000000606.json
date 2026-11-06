@@ -1,0 +1,23 @@
+{
+  "id": 606,
+  "translation": {
+    "cyrillic": {
+      "word": "жена",
+      "part_of_speech": "именица",
+      "definition": "Супруга; жена са којом је неко у браку.",
+      "example_sentence": "Моја жена је учитељица."
+    },
+    "latin": {
+      "word": "žena",
+      "part_of_speech": "imenica",
+      "definition": "Supruga; žena sa kojom je neko u braku.",
+      "example_sentence": "Moja žena je učiteljica."
+    },
+    "english": {
+      "word": "wife",
+      "part_of_speech": "noun",
+      "definition": "A woman in relation to the person she is married to.",
+      "example_sentence": "My wife is a teacher."
+    }
+  }
+}

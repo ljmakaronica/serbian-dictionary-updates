@@ -1,0 +1,23 @@
+{
+  "id": 892,
+  "translation": {
+    "cyrillic": {
+      "word": "са",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава заједништво или средство",
+      "example_sentence": "Идем са пријатељем."
+    },
+    "latin": {
+      "word": "sa",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava zajedništvo ili sredstvo",
+      "example_sentence": "Idem sa prijateljem."
+    },
+    "english": {
+      "word": "with",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating accompaniment or means",
+      "example_sentence": "I am going with a friend."
+    }
+  }
+}

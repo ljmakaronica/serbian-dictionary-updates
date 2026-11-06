@@ -1,0 +1,23 @@
+{
+  "id": 535,
+  "translation": {
+    "cyrillic": {
+      "word": "педесет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 50.",
+      "example_sentence": "Имам педесет бомбона."
+    },
+    "latin": {
+      "word": "pedeset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 50.",
+      "example_sentence": "Imam pedeset bombona."
+    },
+    "english": {
+      "word": "fifty",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 50.",
+      "example_sentence": "I have fifty candies."
+    }
+  }
+}

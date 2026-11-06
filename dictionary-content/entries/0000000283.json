@@ -1,0 +1,23 @@
+{
+  "id": 283,
+  "translation": {
+    "cyrillic": {
+      "word": "етапа",
+      "part_of_speech": "именица",
+      "definition": "Фаза или период у неком процесу.",
+      "example_sentence": "Ово је последња етапа пројекта."
+    },
+    "latin": {
+      "word": "etapa",
+      "part_of_speech": "imenica",
+      "definition": "Faza ili period u nekom procesu.",
+      "example_sentence": "Ovo je poslednja etapa projekta."
+    },
+    "english": {
+      "word": "stage",
+      "part_of_speech": "noun",
+      "definition": "A phase or period in a process.",
+      "example_sentence": "This is the final stage of the project."
+    }
+  }
+}

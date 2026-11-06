@@ -1,0 +1,23 @@
+{
+  "id": 543,
+  "translation": {
+    "cyrillic": {
+      "word": "милијарда",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 1000000000.",
+      "example_sentence": "Имам милијарду бомбона."
+    },
+    "latin": {
+      "word": "milijarda",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 1000000000.",
+      "example_sentence": "Imam milijardu bombona."
+    },
+    "english": {
+      "word": "billion",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 1,000,000,000.",
+      "example_sentence": "I have a billion candies."
+    }
+  }
+}

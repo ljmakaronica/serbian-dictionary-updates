@@ -1,0 +1,23 @@
+{
+  "id": 28,
+  "translation": {
+    "cyrillic": {
+      "word": "аутоматизација",
+      "part_of_speech": "именица",
+      "definition": "Коришћење машина или технологије за обављање задатака.",
+      "example_sentence": "Аутоматизација је смањила потребу за ручним радом."
+    },
+    "latin": {
+      "word": "automatizacija",
+      "part_of_speech": "imenica",
+      "definition": "Korišćenje mašina ili tehnologije za obavljanje zadataka.",
+      "example_sentence": "Automatizacija je smanjila potrebu za ručnim radom."
+    },
+    "english": {
+      "word": "automation",
+      "part_of_speech": "noun",
+      "definition": "The use of machines or technology to perform tasks.",
+      "example_sentence": "Automation has reduced the need for manual labor."
+    }
+  }
+}

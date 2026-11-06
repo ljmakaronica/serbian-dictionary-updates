@@ -1,0 +1,23 @@
+{
+  "id": 400,
+  "translation": {
+    "cyrillic": {
+      "word": "писати",
+      "part_of_speech": "глагол",
+      "definition": "Креирати текст или речи на папиру или екрану.",
+      "example_sentence": "Волим да пишем приче."
+    },
+    "latin": {
+      "word": "pisati",
+      "part_of_speech": "glagol",
+      "definition": "Kreirati tekst ili reči na papiru ili ekranu.",
+      "example_sentence": "Volim da pišem priče."
+    },
+    "english": {
+      "word": "to write",
+      "part_of_speech": "verb",
+      "definition": "To create text or words on paper or a screen.",
+      "example_sentence": "I love to write stories."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 340,
+  "translation": {
+    "cyrillic": {
+      "word": "књижевност",
+      "part_of_speech": "именица",
+      "definition": "Уметност писања и књижевних дела.",
+      "example_sentence": "Српска књижевност је богата и разноврсна."
+    },
+    "latin": {
+      "word": "književnost",
+      "part_of_speech": "imenica",
+      "definition": "Umetnost pisanja i književnih dela.",
+      "example_sentence": "Srpska književnost je bogata i raznovrsna."
+    },
+    "english": {
+      "word": "literature",
+      "part_of_speech": "noun",
+      "definition": "The art of writing and literary works.",
+      "example_sentence": "Serbian literature is rich and diverse."
+    }
+  }
+}

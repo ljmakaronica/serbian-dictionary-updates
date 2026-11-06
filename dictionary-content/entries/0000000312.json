@@ -1,0 +1,23 @@
+{
+  "id": 312,
+  "translation": {
+    "cyrillic": {
+      "word": "инспирација",
+      "part_of_speech": "именица",
+      "definition": "Процес који води ка стварању нових идеја.",
+      "example_sentence": "Њен рад ми даје инспирацију за нове пројекте."
+    },
+    "latin": {
+      "word": "inspiracija",
+      "part_of_speech": "imenica",
+      "definition": "Proces koji vodi ka stvaranju novih ideja.",
+      "example_sentence": "Njen rad mi daje inspiraciju za nove projekte."
+    },
+    "english": {
+      "word": "inspiration",
+      "part_of_speech": "noun",
+      "definition": "The process that leads to the creation of new ideas.",
+      "example_sentence": "Her work gives me inspiration for new projects."
+    }
+  }
+}

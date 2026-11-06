@@ -1,0 +1,23 @@
+{
+  "id": 1034,
+  "translation": {
+    "cyrillic": {
+      "word": "пољубац",
+      "part_of_speech": "именица",
+      "definition": "Додир уснама као знак наклоности.",
+      "example_sentence": "Дала му је пољубац на образ."
+    },
+    "latin": {
+      "word": "poljubac",
+      "part_of_speech": "imenica",
+      "definition": "Dodir usnama kao znak naklonosti.",
+      "example_sentence": "Dala mu je poljubac na obraz."
+    },
+    "english": {
+      "word": "kiss",
+      "part_of_speech": "noun",
+      "definition": "A touch with the lips as a sign of affection.",
+      "example_sentence": "She gave him a kiss on the cheek."
+    }
+  }
+}

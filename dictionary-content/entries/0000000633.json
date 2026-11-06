@@ -1,0 +1,23 @@
+{
+  "id": 633,
+  "translation": {
+    "cyrillic": {
+      "word": "месо",
+      "part_of_speech": "именица",
+      "definition": "Јестиво ткиво животиња.",
+      "example_sentence": "Месо је главни оброк."
+    },
+    "latin": {
+      "word": "meso",
+      "part_of_speech": "imenica",
+      "definition": "Jestivo tkivo životinja.",
+      "example_sentence": "Meso je glavni obrok."
+    },
+    "english": {
+      "word": "meat",
+      "part_of_speech": "noun",
+      "definition": "Edible tissue of animals.",
+      "example_sentence": "Meat is the main course."
+    }
+  }
+}

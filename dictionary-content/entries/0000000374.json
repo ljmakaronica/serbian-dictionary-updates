@@ -1,0 +1,23 @@
+{
+  "id": 374,
+  "translation": {
+    "cyrillic": {
+      "word": "напомена",
+      "part_of_speech": "именица",
+      "definition": "Кратак коментар или објашњење.",
+      "example_sentence": "Додао сам напомену у документ."
+    },
+    "latin": {
+      "word": "napomena",
+      "part_of_speech": "imenica",
+      "definition": "Kratak komentar ili objašnjenje.",
+      "example_sentence": "Dodao sam napomenu u dokument."
+    },
+    "english": {
+      "word": "note",
+      "part_of_speech": "noun",
+      "definition": "A short comment or explanation.",
+      "example_sentence": "I added a note to the document."
+    }
+  }
+}

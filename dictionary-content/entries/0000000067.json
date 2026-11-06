@@ -1,0 +1,23 @@
+{
+  "id": 67,
+  "translation": {
+    "cyrillic": {
+      "word": "азил",
+      "part_of_speech": "именица",
+      "definition": "Заштита и уточиште за особу која је изложена прогону.",
+      "example_sentence": "Тражили су азил у другој земљи због политичког прогона."
+    },
+    "latin": {
+      "word": "azil",
+      "part_of_speech": "imenica",
+      "definition": "Zaštita i utočište za osobu koja je izložena progonu.",
+      "example_sentence": "Tražili su azil u drugoj zemlji zbog političkog progona."
+    },
+    "english": {
+      "word": "asylum",
+      "part_of_speech": "noun",
+      "definition": "Protection and refuge for a person facing persecution.",
+      "example_sentence": "They sought asylum in another country due to political persecution."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1066,
+  "translation": {
+    "cyrillic": {
+      "word": "ред",
+      "part_of_speech": "именица",
+      "definition": "Линија људи који чекају.",
+      "example_sentence": "Стајао је у реду."
+    },
+    "latin": {
+      "word": "red",
+      "part_of_speech": "imenica",
+      "definition": "Linija ljudi koji čekaju.",
+      "example_sentence": "Stajao je u redu."
+    },
+    "english": {
+      "word": "queue",
+      "part_of_speech": "noun",
+      "definition": "A line of people waiting.",
+      "example_sentence": "He stood in the queue."
+    }
+  }
+}

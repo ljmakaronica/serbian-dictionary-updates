@@ -1,0 +1,23 @@
+{
+  "id": 715,
+  "translation": {
+    "cyrillic": {
+      "word": "откривати",
+      "part_of_speech": "глагол",
+      "definition": "Пронаћи или уочити нешто ново.",
+      "example_sentence": "Истраживачи откривају древне артефакте."
+    },
+    "latin": {
+      "word": "otkrivati",
+      "part_of_speech": "glagol",
+      "definition": "Pronaći ili uočiti nešto novo.",
+      "example_sentence": "Istraživači otkrivaju drevne artefakte."
+    },
+    "english": {
+      "word": "discover",
+      "part_of_speech": "verb",
+      "definition": "To find or notice something new.",
+      "example_sentence": "Researchers discover ancient artifacts."
+    }
+  }
+}

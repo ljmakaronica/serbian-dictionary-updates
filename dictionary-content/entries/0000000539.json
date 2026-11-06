@@ -1,0 +1,23 @@
+{
+  "id": 539,
+  "translation": {
+    "cyrillic": {
+      "word": "деведесет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 90.",
+      "example_sentence": "Имам деведесет оловака."
+    },
+    "latin": {
+      "word": "devedeset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 90.",
+      "example_sentence": "Imam devedeset olovaka."
+    },
+    "english": {
+      "word": "ninety",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 90.",
+      "example_sentence": "I have ninety pencils."
+    }
+  }
+}

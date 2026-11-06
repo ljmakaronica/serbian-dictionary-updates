@@ -1,0 +1,23 @@
+{
+  "id": 457,
+  "translation": {
+    "cyrillic": {
+      "word": "хвала",
+      "part_of_speech": "узвик",
+      "definition": "Реч захвалности.",
+      "example_sentence": "Хвала на помоћи."
+    },
+    "latin": {
+      "word": "hvala",
+      "part_of_speech": "uzvik",
+      "definition": "Reč zahvalnosti.",
+      "example_sentence": "Hvala na pomoći."
+    },
+    "english": {
+      "word": "thank you",
+      "part_of_speech": "interjection",
+      "definition": "An expression of gratitude.",
+      "example_sentence": "Thank you for your help."
+    }
+  }
+}

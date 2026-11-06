@@ -1,0 +1,23 @@
+{
+  "id": 1090,
+  "translation": {
+    "cyrillic": {
+      "word": "цинк",
+      "part_of_speech": "именица",
+      "definition": "Метални хемијски елемент.",
+      "example_sentence": "Цинк се користи за заштиту од корозије."
+    },
+    "latin": {
+      "word": "cink",
+      "part_of_speech": "imenica",
+      "definition": "Metalni hemijski element.",
+      "example_sentence": "Cink se koristi za zaštitu od korozije."
+    },
+    "english": {
+      "word": "zinc",
+      "part_of_speech": "noun",
+      "definition": "A metallic chemical element.",
+      "example_sentence": "Zinc is used for corrosion protection."
+    }
+  }
+}

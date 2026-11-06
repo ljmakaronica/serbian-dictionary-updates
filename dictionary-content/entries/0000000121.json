@@ -1,0 +1,23 @@
+{
+  "id": 121,
+  "translation": {
+    "cyrillic": {
+      "word": "бројати",
+      "part_of_speech": "глагол",
+      "definition": "Одређивати количину нечега набрајањем.",
+      "example_sentence": "Деца уче да бројају до сто."
+    },
+    "latin": {
+      "word": "brojati",
+      "part_of_speech": "glagol",
+      "definition": "Određivati količinu nečega nabrajanjem.",
+      "example_sentence": "Deca uče da brojaju do sto."
+    },
+    "english": {
+      "word": "count",
+      "part_of_speech": "verb",
+      "definition": "To determine the quantity of something by enumeration.",
+      "example_sentence": "Children are learning to count to one hundred."
+    }
+  }
+}

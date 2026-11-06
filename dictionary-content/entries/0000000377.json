@@ -1,0 +1,23 @@
+{
+  "id": 377,
+  "translation": {
+    "cyrillic": {
+      "word": "напред",
+      "part_of_speech": "прилог",
+      "definition": "У смеру кретања или напретка.",
+      "example_sentence": "Иди напред и не одустај!"
+    },
+    "latin": {
+      "word": "napred",
+      "part_of_speech": "prilog",
+      "definition": "U smeru kretanja ili napretka.",
+      "example_sentence": "Idi napred i ne odustaj!"
+    },
+    "english": {
+      "word": "forward",
+      "part_of_speech": "adverb",
+      "definition": "In the direction of movement or progress.",
+      "example_sentence": "Go forward and don't give up!"
+    }
+  }
+}

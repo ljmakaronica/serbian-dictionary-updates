@@ -1,0 +1,23 @@
+{
+  "id": 911,
+  "translation": {
+    "cyrillic": {
+      "word": "посао",
+      "part_of_speech": "именица",
+      "definition": "Активност којом се стиче зарада или обавља неки задатак.",
+      "example_sentence": "Волим свој посао."
+    },
+    "latin": {
+      "word": "posao",
+      "part_of_speech": "imenica",
+      "definition": "Aktivnost kojom se stiče zarada ili obavlja neki zadatak.",
+      "example_sentence": "Volim svoj posao."
+    },
+    "english": {
+      "word": "job",
+      "part_of_speech": "noun",
+      "definition": "An activity by which one earns money or performs a task.",
+      "example_sentence": "I love my job."
+    }
+  }
+}

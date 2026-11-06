@@ -1,0 +1,23 @@
+{
+  "id": 589,
+  "translation": {
+    "cyrillic": {
+      "word": "зрно грожђа",
+      "part_of_speech": "именица",
+      "definition": "Један плод из грозда винове лозе.",
+      "example_sentence": "Појео је једно зрно грожђа."
+    },
+    "latin": {
+      "word": "zrno grožđa",
+      "part_of_speech": "imenica",
+      "definition": "Jedan plod iz grozda vinove loze.",
+      "example_sentence": "Pojeo je jedno zrno grožđa."
+    },
+    "english": {
+      "word": "grape",
+      "part_of_speech": "noun",
+      "definition": "One of the small fruits in a bunch growing on a vine.",
+      "example_sentence": "He ate one grape."
+    }
+  }
+}

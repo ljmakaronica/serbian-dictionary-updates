@@ -1,0 +1,23 @@
+{
+  "id": 416,
+  "translation": {
+    "cyrillic": {
+      "word": "сатница",
+      "part_of_speech": "именица",
+      "definition": "Распоред времена за одређене активности.",
+      "example_sentence": "Сатница наставе је била строга."
+    },
+    "latin": {
+      "word": "satnica",
+      "part_of_speech": "imenica",
+      "definition": "Raspored vremena za određene aktivnosti.",
+      "example_sentence": "Satnica nastave je bila stroga."
+    },
+    "english": {
+      "word": "schedule",
+      "part_of_speech": "noun",
+      "definition": "A timetable for specific activities.",
+      "example_sentence": "The class schedule was strict."
+    }
+  }
+}

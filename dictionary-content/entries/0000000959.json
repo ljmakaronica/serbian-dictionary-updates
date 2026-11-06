@@ -1,0 +1,23 @@
+{
+  "id": 959,
+  "translation": {
+    "cyrillic": {
+      "word": "рећи",
+      "part_of_speech": "глагол",
+      "definition": "изговорити речи",
+      "example_sentence": "Рекао је да долази сутра."
+    },
+    "latin": {
+      "word": "reći",
+      "part_of_speech": "glagol",
+      "definition": "izgovoriti reči",
+      "example_sentence": "Rekao je da dolazi sutra."
+    },
+    "english": {
+      "word": "to say",
+      "part_of_speech": "verb",
+      "definition": "speak words",
+      "example_sentence": "He said he was coming tomorrow."
+    }
+  }
+}

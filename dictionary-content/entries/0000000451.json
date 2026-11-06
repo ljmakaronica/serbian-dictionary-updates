@@ -1,0 +1,23 @@
+{
+  "id": 451,
+  "translation": {
+    "cyrillic": {
+      "word": "фармер",
+      "part_of_speech": "именица",
+      "definition": "Особа која се бави пољопривредом.",
+      "example_sentence": "Фармер је узгајао пшеницу."
+    },
+    "latin": {
+      "word": "farmer",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja se bavi poljoprivredom.",
+      "example_sentence": "Farmer je uzgajao pšenicu."
+    },
+    "english": {
+      "word": "farmer",
+      "part_of_speech": "noun",
+      "definition": "A person who engages in agriculture.",
+      "example_sentence": "The farmer grew wheat."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 598,
+  "translation": {
+    "cyrillic": {
+      "word": "купити",
+      "part_of_speech": "глагол",
+      "definition": "Добити нешто у замену за новац.",
+      "example_sentence": "Купио сам нове ципеле."
+    },
+    "latin": {
+      "word": "kupiti",
+      "part_of_speech": "glagol",
+      "definition": "Dobiti nešto u zamenu za novac.",
+      "example_sentence": "Kupio sam nove cipele."
+    },
+    "english": {
+      "word": "to buy",
+      "part_of_speech": "verb",
+      "definition": "To obtain something in exchange for money.",
+      "example_sentence": "I bought new shoes."
+    }
+  }
+}

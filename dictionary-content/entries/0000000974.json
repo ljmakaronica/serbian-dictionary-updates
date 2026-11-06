@@ -1,0 +1,23 @@
+{
+  "id": 974,
+  "translation": {
+    "cyrillic": {
+      "word": "тело",
+      "part_of_speech": "именица",
+      "definition": "физички део особе",
+      "example_sentence": "Моје тело је здраво."
+    },
+    "latin": {
+      "word": "telo",
+      "part_of_speech": "imenica",
+      "definition": "fizički deo osobe",
+      "example_sentence": "Moje telo je zdravo."
+    },
+    "english": {
+      "word": "body",
+      "part_of_speech": "noun",
+      "definition": "physical part of person",
+      "example_sentence": "My body is healthy."
+    }
+  }
+}

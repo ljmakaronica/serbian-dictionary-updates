@@ -1,0 +1,23 @@
+{
+  "id": 415,
+  "translation": {
+    "cyrillic": {
+      "word": "снег",
+      "part_of_speech": "именица",
+      "definition": "Падавина у облику ледених кристала.",
+      "example_sentence": "Снег је прекрио цео град."
+    },
+    "latin": {
+      "word": "sneg",
+      "part_of_speech": "imenica",
+      "definition": "Padavina u obliku ledenih kristala.",
+      "example_sentence": "Sneg je prekrio ceo grad."
+    },
+    "english": {
+      "word": "snow",
+      "part_of_speech": "noun",
+      "definition": "Precipitation in the form of ice crystals.",
+      "example_sentence": "Snow covered the entire city."
+    }
+  }
+}

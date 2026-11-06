@@ -1,0 +1,23 @@
+{
+  "id": 765,
+  "translation": {
+    "cyrillic": {
+      "word": "комуницирати",
+      "part_of_speech": "глагол",
+      "definition": "Размењивати информације или идеје са другима.",
+      "example_sentence": "Они комуницирају путем телефона."
+    },
+    "latin": {
+      "word": "komunicirati",
+      "part_of_speech": "glagol",
+      "definition": "Razmenjivati informacije ili ideje sa drugima.",
+      "example_sentence": "Oni komuniciraju putem telefona."
+    },
+    "english": {
+      "word": "communicate",
+      "part_of_speech": "verb",
+      "definition": "To share or exchange information, news, or ideas.",
+      "example_sentence": "They communicate by phone."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 175,
+  "translation": {
+    "cyrillic": {
+      "word": "гурати",
+      "part_of_speech": "глагол",
+      "definition": "Присилити нешто да се помери.",
+      "example_sentence": "Гурао је врата да их отвори."
+    },
+    "latin": {
+      "word": "gurati",
+      "part_of_speech": "glagol",
+      "definition": "Prisiliti nešto da se pomeri.",
+      "example_sentence": "Gurao je vrata da ih otvori."
+    },
+    "english": {
+      "word": "to push",
+      "part_of_speech": "verb",
+      "definition": "To force something to move.",
+      "example_sentence": "He pushed the door to open it."
+    }
+  }
+}

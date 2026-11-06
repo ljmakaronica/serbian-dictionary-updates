@@ -1,0 +1,23 @@
+{
+  "id": 739,
+  "translation": {
+    "cyrillic": {
+      "word": "мрзети",
+      "part_of_speech": "глагол",
+      "definition": "Дејство изражавања снажне антипатије.",
+      "example_sentence": "Он мрзи неправду."
+    },
+    "latin": {
+      "word": "mrzeti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo izražavanja snažne antipatije.",
+      "example_sentence": "On mrzi nepravdu."
+    },
+    "english": {
+      "word": "hate",
+      "part_of_speech": "verb",
+      "definition": "To feel intense or passionate dislike for.",
+      "example_sentence": "He hates injustice."
+    }
+  }
+}

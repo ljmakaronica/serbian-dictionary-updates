@@ -1,0 +1,23 @@
+{
+  "id": 180,
+  "translation": {
+    "cyrillic": {
+      "word": "гост",
+      "part_of_speech": "именица",
+      "definition": "Особа која је позвана у посету или на неки догађај.",
+      "example_sentence": "Гост је стигао на вечеру."
+    },
+    "latin": {
+      "word": "gost",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja je pozvana u posetu ili na neki događaj.",
+      "example_sentence": "Gost je stigao na večeru."
+    },
+    "english": {
+      "word": "guest",
+      "part_of_speech": "noun",
+      "definition": "A person invited to visit or attend an event.",
+      "example_sentence": "The guest has arrived for dinner."
+    }
+  }
+}

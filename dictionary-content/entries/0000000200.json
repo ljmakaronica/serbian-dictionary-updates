@@ -1,0 +1,23 @@
+{
+  "id": 200,
+  "translation": {
+    "cyrillic": {
+      "word": "друштво",
+      "part_of_speech": "именица",
+      "definition": "Група људи која се дружи, пријатељи.",
+      "example_sentence": "Ишао сам са својим друштвом на вечеру."
+    },
+    "latin": {
+      "word": "društvo",
+      "part_of_speech": "imenica",
+      "definition": "Grupa ljudi koja se druži, prijatelji.",
+      "example_sentence": "Išao sam sa svojim društvom na večeru."
+    },
+    "english": {
+      "word": "friends",
+      "part_of_speech": "noun",
+      "definition": "A group of people who socialize together, friends.",
+      "example_sentence": "I went to dinner with my friends."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 214,
+  "translation": {
+    "cyrillic": {
+      "word": "ђон",
+      "part_of_speech": "именица",
+      "definition": "Доњи део ципеле који додирује земљу.",
+      "example_sentence": "Ђон на ципелама се истрошио."
+    },
+    "latin": {
+      "word": "đon",
+      "part_of_speech": "imenica",
+      "definition": "Donji deo cipele koji dodiruje zemlju.",
+      "example_sentence": "Đon na cipelama se istrošio."
+    },
+    "english": {
+      "word": "sole",
+      "part_of_speech": "noun",
+      "definition": "The bottom part of a shoe that touches the ground.",
+      "example_sentence": "The soles of the shoes are worn out."
+    }
+  }
+}

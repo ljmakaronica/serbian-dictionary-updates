@@ -1,0 +1,23 @@
+{
+  "id": 568,
+  "translation": {
+    "cyrillic": {
+      "word": "сто",
+      "part_of_speech": "именица",
+      "definition": "Намештај са равном површином за стављање ствари.",
+      "example_sentence": "Књига је на столу."
+    },
+    "latin": {
+      "word": "sto",
+      "part_of_speech": "imenica",
+      "definition": "Nameštaj sa ravnom površinom za stavljanje stvari.",
+      "example_sentence": "Knjiga je na stolu."
+    },
+    "english": {
+      "word": "table",
+      "part_of_speech": "noun",
+      "definition": "A piece of furniture with a flat surface for placing things.",
+      "example_sentence": "The book is on the table."
+    }
+  }
+}

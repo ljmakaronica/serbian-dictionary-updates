@@ -1,0 +1,23 @@
+{
+  "id": 1062,
+  "translation": {
+    "cyrillic": {
+      "word": "карантин",
+      "part_of_speech": "именица",
+      "definition": "Изолација због болести.",
+      "example_sentence": "Били су у карантину две недеље."
+    },
+    "latin": {
+      "word": "karantin",
+      "part_of_speech": "imenica",
+      "definition": "Izolacija zbog bolesti.",
+      "example_sentence": "Bili su u karantinu dve nedelje."
+    },
+    "english": {
+      "word": "quarantine",
+      "part_of_speech": "noun",
+      "definition": "Isolation due to illness.",
+      "example_sentence": "They were in quarantine for two weeks."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 241,
+  "translation": {
+    "cyrillic": {
+      "word": "ескалатор",
+      "part_of_speech": "именица",
+      "definition": "Покретне степенице које превозе људе између спратова.",
+      "example_sentence": "Узели смо ескалатор до другог спрата."
+    },
+    "latin": {
+      "word": "eskalator",
+      "part_of_speech": "imenica",
+      "definition": "Pokretne stepenice koje prevoze ljude između spratova.",
+      "example_sentence": "Uzeli smo eskalator do drugog sprata."
+    },
+    "english": {
+      "word": "escalator",
+      "part_of_speech": "noun",
+      "definition": "Moving stairs that transport people between floors.",
+      "example_sentence": "We took the escalator to the second floor."
+    }
+  }
+}

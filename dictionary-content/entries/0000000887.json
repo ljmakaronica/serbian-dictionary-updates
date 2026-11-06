@@ -1,0 +1,23 @@
+{
+  "id": 887,
+  "translation": {
+    "cyrillic": {
+      "word": "наш",
+      "part_of_speech": "заменица",
+      "definition": "Присвојна заменица првог лица множине",
+      "example_sentence": "Ово је наш дом."
+    },
+    "latin": {
+      "word": "naš",
+      "part_of_speech": "zamenica",
+      "definition": "Prisvojna zamenica prvog lica množine",
+      "example_sentence": "Ovo je naš dom."
+    },
+    "english": {
+      "word": "our",
+      "part_of_speech": "pronoun",
+      "definition": "First person plural possessive pronoun",
+      "example_sentence": "This is our home."
+    }
+  }
+}

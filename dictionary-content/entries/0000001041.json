@@ -1,0 +1,23 @@
+{
+  "id": 1041,
+  "translation": {
+    "cyrillic": {
+      "word": "универзум",
+      "part_of_speech": "именица",
+      "definition": "Сав простор и све што постоји.",
+      "example_sentence": "Истражују тајне универзума."
+    },
+    "latin": {
+      "word": "univerzum",
+      "part_of_speech": "imenica",
+      "definition": "Sav prostor i sve što postoji.",
+      "example_sentence": "Istražuju tajne univerzuma."
+    },
+    "english": {
+      "word": "universe",
+      "part_of_speech": "noun",
+      "definition": "All of space and everything that exists.",
+      "example_sentence": "They explore the mysteries of the universe."
+    }
+  }
+}

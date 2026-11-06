@@ -1,0 +1,23 @@
+{
+  "id": 1065,
+  "translation": {
+    "cyrillic": {
+      "word": "потрага",
+      "part_of_speech": "именица",
+      "definition": "Акција тражења нечега важног.",
+      "example_sentence": "Отишли су у потрагу за благом."
+    },
+    "latin": {
+      "word": "potraga",
+      "part_of_speech": "imenica",
+      "definition": "Akcija traženja nečega važnog.",
+      "example_sentence": "Otišli su u potragu za blagom."
+    },
+    "english": {
+      "word": "quest",
+      "part_of_speech": "noun",
+      "definition": "An action of searching for something important.",
+      "example_sentence": "They went on a quest for treasure."
+    }
+  }
+}

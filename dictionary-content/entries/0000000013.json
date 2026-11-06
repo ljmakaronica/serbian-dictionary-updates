@@ -1,0 +1,23 @@
+{
+  "id": 13,
+  "translation": {
+    "cyrillic": {
+      "word": "афрички",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на Африку или потиче из Африке.",
+      "example_sentence": "Афрички слонови су највећи копнени сисари."
+    },
+    "latin": {
+      "word": "afrički",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na Afriku ili potiče iz Afrike.",
+      "example_sentence": "Afrički slonovi su najveći kopneni sisari."
+    },
+    "english": {
+      "word": "African",
+      "part_of_speech": "adjective",
+      "definition": "Relating to or originating from Africa.",
+      "example_sentence": "African elephants are the largest land mammals."
+    }
+  }
+}

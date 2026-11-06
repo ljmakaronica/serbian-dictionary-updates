@@ -1,0 +1,23 @@
+{
+  "id": 1106,
+  "translation": {
+    "cyrillic": {
+      "word": "девојчица",
+      "part_of_speech": "именица",
+      "definition": "Млада женска особа, дете.",
+      "example_sentence": "Девојчица је трчала по парку."
+    },
+    "latin": {
+      "word": "devojčica",
+      "part_of_speech": "imenica",
+      "definition": "Mlada ženska osoba, dete.",
+      "example_sentence": "Devojčica je trčala po parku."
+    },
+    "english": {
+      "word": "girl",
+      "part_of_speech": "noun",
+      "definition": "A young female, a child.",
+      "example_sentence": "The girl was running in the park."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 501,
+  "translation": {
+    "cyrillic": {
+      "word": "шпијун",
+      "part_of_speech": "именица",
+      "definition": "Особа која тајно прикупља информације.",
+      "example_sentence": "Шпијун је био ухваћен у акцији."
+    },
+    "latin": {
+      "word": "špijun",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja tajno prikuplja informacije.",
+      "example_sentence": "Špijun je bio uhvaćen u akciji."
+    },
+    "english": {
+      "word": "spy",
+      "part_of_speech": "noun",
+      "definition": "A person who secretly gathers information.",
+      "example_sentence": "The spy was caught in action."
+    }
+  }
+}

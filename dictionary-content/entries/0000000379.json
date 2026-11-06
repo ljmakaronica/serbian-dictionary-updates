@@ -1,0 +1,23 @@
+{
+  "id": 379,
+  "translation": {
+    "cyrillic": {
+      "word": "њој",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица за треће лице женског рода (датив).",
+      "example_sentence": "Рекао сам њој да дође."
+    },
+    "latin": {
+      "word": "njoj",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica za treće lice ženskog roda (dativ).",
+      "example_sentence": "Rekao sam njoj da dođe."
+    },
+    "english": {
+      "word": "to her",
+      "part_of_speech": "pronoun",
+      "definition": "Personal pronoun for the third person feminine (dative).",
+      "example_sentence": "I told her to come."
+    }
+  }
+}

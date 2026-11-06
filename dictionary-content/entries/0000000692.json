@@ -1,0 +1,23 @@
+{
+  "id": 692,
+  "translation": {
+    "cyrillic": {
+      "word": "образовање",
+      "part_of_speech": "именица",
+      "definition": "Процес стицања знања и вештина кроз учење и наставу.",
+      "example_sentence": "Образовање је кључ за будућност."
+    },
+    "latin": {
+      "word": "obrazovanje",
+      "part_of_speech": "imenica",
+      "definition": "Proces sticanja znanja i veština kroz učenje i nastavu.",
+      "example_sentence": "Obrazovanje je ključ za budućnost."
+    },
+    "english": {
+      "word": "education",
+      "part_of_speech": "noun",
+      "definition": "The process of acquiring knowledge and skills through learning and teaching.",
+      "example_sentence": "Education is the key to the future."
+    }
+  }
+}

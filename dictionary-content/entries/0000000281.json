@@ -1,0 +1,23 @@
+{
+  "id": 281,
+  "translation": {
+    "cyrillic": {
+      "word": "експерт",
+      "part_of_speech": "именица",
+      "definition": "Стручњак у одређеној области.",
+      "example_sentence": "Он је експерт за међународно право."
+    },
+    "latin": {
+      "word": "ekspert",
+      "part_of_speech": "imenica",
+      "definition": "Stručnjak u određenoj oblasti.",
+      "example_sentence": "On je ekspert za međunarodno pravo."
+    },
+    "english": {
+      "word": "expert",
+      "part_of_speech": "noun",
+      "definition": "A specialist in a particular field.",
+      "example_sentence": "He is an expert in international law."
+    }
+  }
+}

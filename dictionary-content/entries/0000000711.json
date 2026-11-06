@@ -1,0 +1,23 @@
+{
+  "id": 711,
+  "translation": {
+    "cyrillic": {
+      "word": "возити",
+      "part_of_speech": "глагол",
+      "definition": "Контролисање возила ради превоза.",
+      "example_sentence": "Она вози аутомобил свакодневно."
+    },
+    "latin": {
+      "word": "voziti",
+      "part_of_speech": "glagol",
+      "definition": "Kontrolisanje vozila radi prevoza.",
+      "example_sentence": "Ona vozi automobil svakodnevno."
+    },
+    "english": {
+      "word": "drive",
+      "part_of_speech": "verb",
+      "definition": "To operate and control a vehicle.",
+      "example_sentence": "She drives a car every day."
+    }
+  }
+}

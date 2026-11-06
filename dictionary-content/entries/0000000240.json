@@ -1,0 +1,23 @@
+{
+  "id": 240,
+  "translation": {
+    "cyrillic": {
+      "word": "евро",
+      "part_of_speech": "именица",
+      "definition": "Заједничка валута земаља еврозоне.",
+      "example_sentence": "Цена је десет евра."
+    },
+    "latin": {
+      "word": "evro",
+      "part_of_speech": "imenica",
+      "definition": "Zajednička valuta zemalja evrozone.",
+      "example_sentence": "Cena je deset evra."
+    },
+    "english": {
+      "word": "euro",
+      "part_of_speech": "noun",
+      "definition": "The shared currency of the countries in the euro area.",
+      "example_sentence": "The price is ten euros."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 788,
+  "translation": {
+    "cyrillic": {
+      "word": "саставити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство уређивања делова у целину.",
+      "example_sentence": "Песник је саставио нову песму."
+    },
+    "latin": {
+      "word": "sastaviti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo uređivanja delova u celinu.",
+      "example_sentence": "Pesnik je sastavio novu pesmu."
+    },
+    "english": {
+      "word": "compose",
+      "part_of_speech": "verb",
+      "definition": "To create by putting together parts.",
+      "example_sentence": "The poet composed a new poem."
+    }
+  }
+}

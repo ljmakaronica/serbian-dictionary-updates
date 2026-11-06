@@ -1,0 +1,23 @@
+{
+  "id": 751,
+  "translation": {
+    "cyrillic": {
+      "word": "мерити",
+      "part_of_speech": "глагол",
+      "definition": "Одредити количину, дужину или вредност нечега.",
+      "example_sentence": "Он мери температуру у соби."
+    },
+    "latin": {
+      "word": "meriti",
+      "part_of_speech": "glagol",
+      "definition": "Odrediti količinu, dužinu ili vrednost nečega.",
+      "example_sentence": "On meri temperaturu u sobi."
+    },
+    "english": {
+      "word": "measure",
+      "part_of_speech": "verb",
+      "definition": "To determine the size, amount, or value of something.",
+      "example_sentence": "He is measuring the temperature in the room."
+    }
+  }
+}

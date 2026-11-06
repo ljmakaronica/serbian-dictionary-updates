@@ -1,0 +1,23 @@
+{
+  "id": 972,
+  "translation": {
+    "cyrillic": {
+      "word": "ухо",
+      "part_of_speech": "именица",
+      "definition": "орган за слух",
+      "example_sentence": "Чујем ухом."
+    },
+    "latin": {
+      "word": "uho",
+      "part_of_speech": "imenica",
+      "definition": "organ za sluh",
+      "example_sentence": "Čujem uhom."
+    },
+    "english": {
+      "word": "ear",
+      "part_of_speech": "noun",
+      "definition": "organ for hearing",
+      "example_sentence": "I hear with my ear."
+    }
+  }
+}

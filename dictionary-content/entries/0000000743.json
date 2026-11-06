@@ -1,0 +1,23 @@
+{
+  "id": 743,
+  "translation": {
+    "cyrillic": {
+      "word": "замолити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство љубазног тражења нечега.",
+      "example_sentence": "Она је замолила наставника за помоћ."
+    },
+    "latin": {
+      "word": "zamoliti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo ljubaznog traženja nečega.",
+      "example_sentence": "Ona je zamolila nastavnika za pomoć."
+    },
+    "english": {
+      "word": "request",
+      "part_of_speech": "verb",
+      "definition": "To ask for something formally or politely.",
+      "example_sentence": "She asked the teacher for help."
+    }
+  }
+}

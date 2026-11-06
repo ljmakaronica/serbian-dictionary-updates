@@ -1,0 +1,23 @@
+{
+  "id": 169,
+  "translation": {
+    "cyrillic": {
+      "word": "глас",
+      "part_of_speech": "именица",
+      "definition": "Звук који човек производи гласним жицама, нарочито при говору или певању.",
+      "example_sentence": "Њен глас је био веома миран."
+    },
+    "latin": {
+      "word": "glas",
+      "part_of_speech": "imenica",
+      "definition": "Zvuk koji čovek proizvodi glasnim žicama, naročito pri govoru ili pevanju.",
+      "example_sentence": "Njen glas je bio veoma miran."
+    },
+    "english": {
+      "word": "voice",
+      "part_of_speech": "noun",
+      "definition": "Sound produced by the human vocal cords, especially when speaking or singing.",
+      "example_sentence": "Her voice was very calm."
+    }
+  }
+}

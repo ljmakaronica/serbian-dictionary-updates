@@ -1,0 +1,23 @@
+{
+  "id": 143,
+  "translation": {
+    "cyrillic": {
+      "word": "визија",
+      "part_of_speech": "именица",
+      "definition": "Ментална слика или идеја о будућности.",
+      "example_sentence": "Његова визија за компанију је била инспиративна."
+    },
+    "latin": {
+      "word": "vizija",
+      "part_of_speech": "imenica",
+      "definition": "Mentalna slika ili ideja o budućnosti.",
+      "example_sentence": "Njegova vizija za kompaniju je bila inspirativna."
+    },
+    "english": {
+      "word": "vision",
+      "part_of_speech": "noun",
+      "definition": "A mental image or idea about the future.",
+      "example_sentence": "His vision for the company was inspiring."
+    }
+  }
+}

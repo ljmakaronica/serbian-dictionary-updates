@@ -1,0 +1,23 @@
+{
+  "id": 872,
+  "translation": {
+    "cyrillic": {
+      "word": "нити...нити",
+      "part_of_speech": "везник",
+      "definition": "Пар везника којим се одричу обе наведене могућности.",
+      "example_sentence": "Он нити једе нити спава."
+    },
+    "latin": {
+      "word": "niti...niti",
+      "part_of_speech": "veznik",
+      "definition": "Par veznika kojim se odriču obe navedene mogućnosti.",
+      "example_sentence": "On niti jede niti spava."
+    },
+    "english": {
+      "word": "neither...nor",
+      "part_of_speech": "conjunction",
+      "definition": "A pair of conjunctions indicating that neither of two alternatives applies.",
+      "example_sentence": "He neither eats nor sleeps."
+    }
+  }
+}

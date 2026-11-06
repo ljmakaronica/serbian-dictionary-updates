@@ -1,0 +1,23 @@
+{
+  "id": 659,
+  "translation": {
+    "cyrillic": {
+      "word": "уметник",
+      "part_of_speech": "именица",
+      "definition": "Особа која ствара или изводи уметничка дела.",
+      "example_sentence": "Уметник изражава емоције бојама."
+    },
+    "latin": {
+      "word": "umetnik",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja stvara ili izvodi umetnička dela.",
+      "example_sentence": "Umetnik izražava emocije bojama."
+    },
+    "english": {
+      "word": "artist",
+      "part_of_speech": "noun",
+      "definition": "A person who creates or performs works of art.",
+      "example_sentence": "The artist expresses emotions through colors."
+    }
+  }
+}

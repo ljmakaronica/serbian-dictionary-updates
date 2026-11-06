@@ -1,0 +1,23 @@
+{
+  "id": 738,
+  "translation": {
+    "cyrillic": {
+      "word": "волети",
+      "part_of_speech": "глагол",
+      "definition": "Дејство изражавања снажне привржености.",
+      "example_sentence": "Она воли своју породицу."
+    },
+    "latin": {
+      "word": "voleti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo izražavanja snažne privrženosti.",
+      "example_sentence": "Ona voli svoju porodicu."
+    },
+    "english": {
+      "word": "love",
+      "part_of_speech": "verb",
+      "definition": "To feel deep affection for someone.",
+      "example_sentence": "She loves her family."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 774,
+  "translation": {
+    "cyrillic": {
+      "word": "плести",
+      "part_of_speech": "глагол",
+      "definition": "Правити одевни предмет или тканину повезивањем петљи од предива помоћу игала.",
+      "example_sentence": "Она плете вунену капу."
+    },
+    "latin": {
+      "word": "plesti",
+      "part_of_speech": "glagol",
+      "definition": "Praviti odevni predmet ili tkaninu povezivanjem petlji od prediva pomoću igala.",
+      "example_sentence": "Ona plete vunenu kapu."
+    },
+    "english": {
+      "word": "knit",
+      "part_of_speech": "verb",
+      "definition": "To make clothing or fabric by forming connected loops of yarn with needles.",
+      "example_sentence": "She is knitting a woolen hat."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 621,
+  "translation": {
+    "cyrillic": {
+      "word": "судопера",
+      "part_of_speech": "именица",
+      "definition": "Уређај за прање посуђа.",
+      "example_sentence": "Перем посуђе у судопери."
+    },
+    "latin": {
+      "word": "sudopera",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za pranje posuđa.",
+      "example_sentence": "Perem posuđe u sudoperi."
+    },
+    "english": {
+      "word": "sink",
+      "part_of_speech": "noun",
+      "definition": "A device for washing dishes.",
+      "example_sentence": "I wash dishes in the sink."
+    }
+  }
+}

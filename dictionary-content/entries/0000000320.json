@@ -1,0 +1,23 @@
+{
+  "id": 320,
+  "translation": {
+    "cyrillic": {
+      "word": "јахати",
+      "part_of_speech": "глагол",
+      "definition": "Возити се на коњу.",
+      "example_sentence": "Волим да јашем по планинама."
+    },
+    "latin": {
+      "word": "jahati",
+      "part_of_speech": "glagol",
+      "definition": "Voziti se na konju.",
+      "example_sentence": "Volim da jašem po planinama."
+    },
+    "english": {
+      "word": "to ride",
+      "part_of_speech": "verb",
+      "definition": "To sit on and control a horse.",
+      "example_sentence": "I love riding in the mountains."
+    }
+  }
+}

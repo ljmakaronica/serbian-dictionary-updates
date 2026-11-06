@@ -1,0 +1,23 @@
+{
+  "id": 657,
+  "translation": {
+    "cyrillic": {
+      "word": "опера",
+      "part_of_speech": "именица",
+      "definition": "Музичко-сценско дело у коме се улоге претежно певају уз инструменталну пратњу.",
+      "example_sentence": "Опера је привукла елегантну публику."
+    },
+    "latin": {
+      "word": "opera",
+      "part_of_speech": "imenica",
+      "definition": "Muzičko-scensko delo u kome se uloge pretežno pevaju uz instrumentalnu pratnju.",
+      "example_sentence": "Opera je privukla elegantnu publiku."
+    },
+    "english": {
+      "word": "opera",
+      "part_of_speech": "noun",
+      "definition": "A dramatic work in which the roles are mainly sung with instrumental accompaniment.",
+      "example_sentence": "The opera attracted an elegant audience."
+    }
+  }
+}

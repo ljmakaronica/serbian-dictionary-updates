@@ -1,0 +1,23 @@
+{
+  "id": 460,
+  "translation": {
+    "cyrillic": {
+      "word": "хоби",
+      "part_of_speech": "именица",
+      "definition": "Активност за забаву у слободно време.",
+      "example_sentence": "Сликарство је мој хоби."
+    },
+    "latin": {
+      "word": "hobi",
+      "part_of_speech": "imenica",
+      "definition": "Aktivnost za zabavu u slobodno vreme.",
+      "example_sentence": "Slikarstvo je moj hobi."
+    },
+    "english": {
+      "word": "hobby",
+      "part_of_speech": "noun",
+      "definition": "An activity done for enjoyment during leisure time.",
+      "example_sentence": "Painting is my hobby."
+    }
+  }
+}

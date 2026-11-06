@@ -1,0 +1,23 @@
+{
+  "id": 963,
+  "translation": {
+    "cyrillic": {
+      "word": "ставити",
+      "part_of_speech": "глагол",
+      "definition": "поставити на место",
+      "example_sentence": "Стави књигу на сто."
+    },
+    "latin": {
+      "word": "staviti",
+      "part_of_speech": "glagol",
+      "definition": "postaviti na mesto",
+      "example_sentence": "Stavi knjigu na sto."
+    },
+    "english": {
+      "word": "to put",
+      "part_of_speech": "verb",
+      "definition": "place in position",
+      "example_sentence": "Put the book on the table."
+    }
+  }
+}

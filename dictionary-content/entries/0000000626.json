@@ -1,0 +1,23 @@
+{
+  "id": 626,
+  "translation": {
+    "cyrillic": {
+      "word": "скакати",
+      "part_of_speech": "глагол",
+      "definition": "Кретати се у ваздуху одскочивши од земље.",
+      "example_sentence": "Деца воле да скачу."
+    },
+    "latin": {
+      "word": "skakati",
+      "part_of_speech": "glagol",
+      "definition": "Kretati se u vazduhu odskokom od zemlje.",
+      "example_sentence": "Deca vole da skaču."
+    },
+    "english": {
+      "word": "to jump",
+      "part_of_speech": "verb",
+      "definition": "To propel oneself into the air.",
+      "example_sentence": "Children love to jump."
+    }
+  }
+}

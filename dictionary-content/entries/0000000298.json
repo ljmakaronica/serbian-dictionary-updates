@@ -1,0 +1,23 @@
+{
+  "id": 298,
+  "translation": {
+    "cyrillic": {
+      "word": "заједно",
+      "part_of_speech": "прилог",
+      "definition": "Својство које указује на радњу коју раде две или више особа.",
+      "example_sentence": "Радимо заједно на пројекту."
+    },
+    "latin": {
+      "word": "zajedno",
+      "part_of_speech": "prilog",
+      "definition": "Svojstvo koje ukazuje na radnju koju rade dve ili više osoba.",
+      "example_sentence": "Radimo zajedno na projektu."
+    },
+    "english": {
+      "word": "together",
+      "part_of_speech": "adverb",
+      "definition": "Indicates action performed by two or more people.",
+      "example_sentence": "We are working together on the project."
+    }
+  }
+}

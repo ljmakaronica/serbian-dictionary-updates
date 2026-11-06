@@ -1,0 +1,23 @@
+{
+  "id": 431,
+  "translation": {
+    "cyrillic": {
+      "word": "чело",
+      "part_of_speech": "именица",
+      "definition": "Део лица изнад обрва и испод косе.",
+      "example_sentence": "Чело му је било прекривено знојем."
+    },
+    "latin": {
+      "word": "čelo",
+      "part_of_speech": "imenica",
+      "definition": "Deo lica iznad obrva i ispod kose.",
+      "example_sentence": "Čelo mu je bilo prekriveno znojem."
+    },
+    "english": {
+      "word": "forehead",
+      "part_of_speech": "noun",
+      "definition": "The part of the face above the eyebrows and below the hairline.",
+      "example_sentence": "His forehead was covered in sweat."
+    }
+  }
+}

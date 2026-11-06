@@ -1,0 +1,23 @@
+{
+  "id": 904,
+  "translation": {
+    "cyrillic": {
+      "word": "лепо",
+      "part_of_speech": "прилог",
+      "definition": "Прилог који означава радњу извршену на естетски пријатан начин",
+      "example_sentence": "Она лепо пева."
+    },
+    "latin": {
+      "word": "lepo",
+      "part_of_speech": "prilog",
+      "definition": "Prilog koji označava radnju izvršenu na estetski prijatan način",
+      "example_sentence": "Ona lepo peva."
+    },
+    "english": {
+      "word": "beautifully",
+      "part_of_speech": "adverb",
+      "definition": "Adverb indicating action performed in an aesthetically pleasing way",
+      "example_sentence": "She sings beautifully."
+    }
+  }
+}

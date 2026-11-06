@@ -1,0 +1,23 @@
+{
+  "id": 871,
+  "translation": {
+    "cyrillic": {
+      "word": "чим",
+      "part_of_speech": "везник",
+      "definition": "Означава непосредну временску везу.",
+      "example_sentence": "Чим дођем, јавићу се."
+    },
+    "latin": {
+      "word": "čim",
+      "part_of_speech": "veznik",
+      "definition": "Označava neposrednu vremensku vezu.",
+      "example_sentence": "Čim dođem, javiću se."
+    },
+    "english": {
+      "word": "as soon as",
+      "part_of_speech": "conjunction",
+      "definition": "Indicates immediate temporal connection.",
+      "example_sentence": "As soon as I arrive, I will call."
+    }
+  }
+}

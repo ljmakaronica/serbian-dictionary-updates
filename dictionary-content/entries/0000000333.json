@@ -1,0 +1,23 @@
+{
+  "id": 333,
+  "translation": {
+    "cyrillic": {
+      "word": "кључ",
+      "part_of_speech": "именица",
+      "definition": "Предмет који се користи за отварање или затварање браве.",
+      "example_sentence": "Изгубио сам кључ од стана."
+    },
+    "latin": {
+      "word": "ključ",
+      "part_of_speech": "imenica",
+      "definition": "Predmet koji se koristi za otvaranje ili zatvaranje brave.",
+      "example_sentence": "Izgubio sam ključ od stana."
+    },
+    "english": {
+      "word": "key",
+      "part_of_speech": "noun",
+      "definition": "An object used to open or close a lock.",
+      "example_sentence": "I lost the key to my apartment."
+    }
+  }
+}

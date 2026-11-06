@@ -1,0 +1,23 @@
+{
+  "id": 1042,
+  "translation": {
+    "cyrillic": {
+      "word": "откључати",
+      "part_of_speech": "глагол",
+      "definition": "Отворити браву помоћу кључа.",
+      "example_sentence": "Откључао је врата куће."
+    },
+    "latin": {
+      "word": "otključati",
+      "part_of_speech": "glagol",
+      "definition": "Otvoriti bravu pomoću ključa.",
+      "example_sentence": "Otključao je vrata kuće."
+    },
+    "english": {
+      "word": "unlock",
+      "part_of_speech": "verb",
+      "definition": "To open a lock with a key.",
+      "example_sentence": "He unlocked the door to the house."
+    }
+  }
+}

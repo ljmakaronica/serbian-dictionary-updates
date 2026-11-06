@@ -1,0 +1,23 @@
+{
+  "id": 970,
+  "translation": {
+    "cyrillic": {
+      "word": "причати",
+      "part_of_speech": "глагол",
+      "definition": "саопштити информацију",
+      "example_sentence": "Причај ми причу."
+    },
+    "latin": {
+      "word": "pričati",
+      "part_of_speech": "glagol",
+      "definition": "saopštiti informaciju",
+      "example_sentence": "Pričaj mi priču."
+    },
+    "english": {
+      "word": "to tell",
+      "part_of_speech": "verb",
+      "definition": "communicate information",
+      "example_sentence": "Tell me a story."
+    }
+  }
+}

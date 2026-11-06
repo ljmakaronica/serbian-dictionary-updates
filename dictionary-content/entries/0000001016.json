@@ -1,0 +1,23 @@
+{
+  "id": 1016,
+  "translation": {
+    "cyrillic": {
+      "word": "тегла",
+      "part_of_speech": "именица",
+      "definition": "Стаклена посуда са поклопцем која се користи за чување хране.",
+      "example_sentence": "Отворила је теглу меда."
+    },
+    "latin": {
+      "word": "tegla",
+      "part_of_speech": "imenica",
+      "definition": "Staklena posuda sa poklopcem koja se koristi za čuvanje hrane.",
+      "example_sentence": "Otvorila je teglu meda."
+    },
+    "english": {
+      "word": "jar",
+      "part_of_speech": "noun",
+      "definition": "A glass container with a lid used for storing food.",
+      "example_sentence": "She opened a jar of honey."
+    }
+  }
+}

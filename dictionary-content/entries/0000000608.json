@@ -1,0 +1,23 @@
+{
+  "id": 608,
+  "translation": {
+    "cyrillic": {
+      "word": "син",
+      "part_of_speech": "именица",
+      "definition": "Мушко дете.",
+      "example_sentence": "Мој син похађа школу."
+    },
+    "latin": {
+      "word": "sin",
+      "part_of_speech": "imenica",
+      "definition": "Muško dete.",
+      "example_sentence": "Moj sin pohađa školu."
+    },
+    "english": {
+      "word": "son",
+      "part_of_speech": "noun",
+      "definition": "A male child.",
+      "example_sentence": "My son attends school."
+    }
+  }
+}

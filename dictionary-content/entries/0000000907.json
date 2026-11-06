@@ -1,0 +1,23 @@
+{
+  "id": 907,
+  "translation": {
+    "cyrillic": {
+      "word": "гласно",
+      "part_of_speech": "прилог",
+      "definition": "Прилог који означава радњу извршену са високим нивоом звука",
+      "example_sentence": "Он гласно прича."
+    },
+    "latin": {
+      "word": "glasno",
+      "part_of_speech": "prilog",
+      "definition": "Prilog koji označava radnju izvršenu sa visokim nivoom zvuka",
+      "example_sentence": "On glasno priča."
+    },
+    "english": {
+      "word": "loudly",
+      "part_of_speech": "adverb",
+      "definition": "Adverb indicating action performed with high volume",
+      "example_sentence": "He talks loudly."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 586,
+  "translation": {
+    "cyrillic": {
+      "word": "спор",
+      "part_of_speech": "придев",
+      "definition": "Креће се малом брзином.",
+      "example_sentence": "Овај воз је спор."
+    },
+    "latin": {
+      "word": "spor",
+      "part_of_speech": "pridev",
+      "definition": "Kreće se malom brzinom.",
+      "example_sentence": "Ovaj voz je spor."
+    },
+    "english": {
+      "word": "slow",
+      "part_of_speech": "adjective",
+      "definition": "Moving or capable of moving at low speed.",
+      "example_sentence": "This train is slow."
+    }
+  }
+}

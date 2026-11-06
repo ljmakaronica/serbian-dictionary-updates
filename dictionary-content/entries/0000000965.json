@@ -1,0 +1,23 @@
+{
+  "id": 965,
+  "translation": {
+    "cyrillic": {
+      "word": "користити",
+      "part_of_speech": "глагол",
+      "definition": "употребљавати",
+      "example_sentence": "Користим компјутер."
+    },
+    "latin": {
+      "word": "koristiti",
+      "part_of_speech": "glagol",
+      "definition": "upotrebljavati",
+      "example_sentence": "Koristim kompjuter."
+    },
+    "english": {
+      "word": "to use",
+      "part_of_speech": "verb",
+      "definition": "employ for purpose",
+      "example_sentence": "I use the computer."
+    }
+  }
+}

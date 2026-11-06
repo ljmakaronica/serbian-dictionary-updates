@@ -1,0 +1,23 @@
+{
+  "id": 1064,
+  "translation": {
+    "cyrillic": {
+      "word": "дрхтати",
+      "part_of_speech": "глагол",
+      "definition": "Трести се од страха или хладноће.",
+      "example_sentence": "Дрхтао је од хладноће."
+    },
+    "latin": {
+      "word": "drhtati",
+      "part_of_speech": "glagol",
+      "definition": "Tresti se od straha ili hladnoće.",
+      "example_sentence": "Drhtao je od hladnoće."
+    },
+    "english": {
+      "word": "quiver",
+      "part_of_speech": "verb",
+      "definition": "To shake from fear or cold.",
+      "example_sentence": "He quivered from the cold."
+    }
+  }
+}

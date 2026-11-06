@@ -1,0 +1,23 @@
+{
+  "id": 1012,
+  "translation": {
+    "cyrillic": {
+      "word": "комби",
+      "part_of_speech": "именица",
+      "definition": "Возило за превоз људи или робе.",
+      "example_sentence": "Превози намештај комбијем."
+    },
+    "latin": {
+      "word": "kombi",
+      "part_of_speech": "imenica",
+      "definition": "Vozilo za prevoz ljudi ili robe.",
+      "example_sentence": "Prevozi nameštaj kombijem."
+    },
+    "english": {
+      "word": "van",
+      "part_of_speech": "noun",
+      "definition": "A vehicle for transporting people or goods.",
+      "example_sentence": "He transports furniture in a van."
+    }
+  }
+}

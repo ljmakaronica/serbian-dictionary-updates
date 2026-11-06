@@ -1,0 +1,23 @@
+{
+  "id": 248,
+  "translation": {
+    "cyrillic": {
+      "word": "експедиција",
+      "part_of_speech": "именица",
+      "definition": "Организовано путовање са одређеним циљем.",
+      "example_sentence": "Експедиција је кренула према врху планине."
+    },
+    "latin": {
+      "word": "ekspedicija",
+      "part_of_speech": "imenica",
+      "definition": "Organizovano putovanje sa određenim ciljem.",
+      "example_sentence": "Ekspedicija je krenula prema vrhu planine."
+    },
+    "english": {
+      "word": "expedition",
+      "part_of_speech": "noun",
+      "definition": "An organized journey with a specific purpose.",
+      "example_sentence": "The expedition set out towards the mountain peak."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 388,
+  "translation": {
+    "cyrillic": {
+      "word": "осмех",
+      "part_of_speech": "именица",
+      "definition": "Израз лица који показује срећу или задовољство.",
+      "example_sentence": "Њен осмех је био заразан."
+    },
+    "latin": {
+      "word": "osmeh",
+      "part_of_speech": "imenica",
+      "definition": "Izraz lica koji pokazuje sreću ili zadovoljstvo.",
+      "example_sentence": "Njen osmeh je bio zarazan."
+    },
+    "english": {
+      "word": "smile",
+      "part_of_speech": "noun",
+      "definition": "A facial expression showing happiness or pleasure.",
+      "example_sentence": "Her smile was contagious."
+    }
+  }
+}

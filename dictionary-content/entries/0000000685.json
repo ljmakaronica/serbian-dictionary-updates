@@ -1,0 +1,23 @@
+{
+  "id": 685,
+  "translation": {
+    "cyrillic": {
+      "word": "однос",
+      "part_of_speech": "именица",
+      "definition": "Веза или интеракција између две или више особа.",
+      "example_sentence": "Добар однос је кључ успешне сарадње."
+    },
+    "latin": {
+      "word": "odnos",
+      "part_of_speech": "imenica",
+      "definition": "Veza ili interakcija između dve ili više osoba.",
+      "example_sentence": "Dobar odnos je ključ uspešne saradnje."
+    },
+    "english": {
+      "word": "relationship",
+      "part_of_speech": "noun",
+      "definition": "A connection or interaction between two or more individuals.",
+      "example_sentence": "A good relationship is key to successful collaboration."
+    }
+  }
+}

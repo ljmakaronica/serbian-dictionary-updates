@@ -1,0 +1,23 @@
+{
+  "id": 750,
+  "translation": {
+    "cyrillic": {
+      "word": "кренути",
+      "part_of_speech": "глагол",
+      "definition": "Почети неку радњу или активност.",
+      "example_sentence": "Он је кренуо на пут рано ујутру."
+    },
+    "latin": {
+      "word": "krenuti",
+      "part_of_speech": "glagol",
+      "definition": "Početi neku radnju ili aktivnost.",
+      "example_sentence": "On je krenuo na put rano ujutru."
+    },
+    "english": {
+      "word": "start",
+      "part_of_speech": "verb",
+      "definition": "To begin an action or activity.",
+      "example_sentence": "He started his journey early in the morning."
+    }
+  }
+}

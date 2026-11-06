@@ -1,0 +1,23 @@
+{
+  "id": 244,
+  "translation": {
+    "cyrillic": {
+      "word": "епицентар",
+      "part_of_speech": "именица",
+      "definition": "Централна тачка неког догађаја или појаве.",
+      "example_sentence": "Град је био епицентар епидемије."
+    },
+    "latin": {
+      "word": "epicentar",
+      "part_of_speech": "imenica",
+      "definition": "Centralna tačka nekog događaja ili pojave.",
+      "example_sentence": "Grad je bio epicentar epidemije."
+    },
+    "english": {
+      "word": "epicenter",
+      "part_of_speech": "noun",
+      "definition": "The central point of an event or phenomenon.",
+      "example_sentence": "The city was the epicenter of the epidemic."
+    }
+  }
+}

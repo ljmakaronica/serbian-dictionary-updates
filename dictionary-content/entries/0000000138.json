@@ -1,0 +1,23 @@
+{
+  "id": 138,
+  "translation": {
+    "cyrillic": {
+      "word": "веза",
+      "part_of_speech": "именица",
+      "definition": "Однос или повезаност између људи или ствари.",
+      "example_sentence": "Постоји јака веза између браће и сестара."
+    },
+    "latin": {
+      "word": "veza",
+      "part_of_speech": "imenica",
+      "definition": "Odnos ili povezanost između ljudi ili stvari.",
+      "example_sentence": "Postoji jaka veza između braće i sestara."
+    },
+    "english": {
+      "word": "connection",
+      "part_of_speech": "noun",
+      "definition": "A relationship or link between people or things.",
+      "example_sentence": "There is a strong connection between siblings."
+    }
+  }
+}

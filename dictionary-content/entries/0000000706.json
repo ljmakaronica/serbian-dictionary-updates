@@ -1,0 +1,23 @@
+{
+  "id": 706,
+  "translation": {
+    "cyrillic": {
+      "word": "осетити",
+      "part_of_speech": "глагол",
+      "definition": "Примати физичке или емоционалне утиске.",
+      "example_sentence": "Она осећа хладноћу ветра."
+    },
+    "latin": {
+      "word": "osetiti",
+      "part_of_speech": "glagol",
+      "definition": "Primati fizičke ili emocionalne utiske.",
+      "example_sentence": "Ona oseća hladnoću vetra."
+    },
+    "english": {
+      "word": "feel",
+      "part_of_speech": "verb",
+      "definition": "To perceive physical or emotional sensations.",
+      "example_sentence": "She feels the cold of the wind."
+    }
+  }
+}

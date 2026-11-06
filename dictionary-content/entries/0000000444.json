@@ -1,0 +1,23 @@
+{
+  "id": 444,
+  "translation": {
+    "cyrillic": {
+      "word": "фудбал",
+      "part_of_speech": "именица",
+      "definition": "Тимски спорт са лоптом који се игра ногама.",
+      "example_sentence": "Фудбал је најпопуларнији спорт на свету."
+    },
+    "latin": {
+      "word": "fudbal",
+      "part_of_speech": "imenica",
+      "definition": "Timski sport sa loptom koji se igra nogama.",
+      "example_sentence": "Fudbal je najpopularniji sport na svetu."
+    },
+    "english": {
+      "word": "soccer",
+      "part_of_speech": "noun",
+      "definition": "A team sport played with a ball using the feet.",
+      "example_sentence": "Soccer is the most popular sport in the world."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 649,
+  "translation": {
+    "cyrillic": {
+      "word": "телевизија",
+      "part_of_speech": "именица",
+      "definition": "Медиј за пренос и приказивање покретних слика и звука.",
+      "example_sentence": "На телевизији се сваке вечери приказују вести."
+    },
+    "latin": {
+      "word": "televizija",
+      "part_of_speech": "imenica",
+      "definition": "Medij za prenos i prikazivanje pokretnih slika i zvuka.",
+      "example_sentence": "Na televiziji se svake večeri prikazuju vesti."
+    },
+    "english": {
+      "word": "television",
+      "part_of_speech": "noun",
+      "definition": "A medium for transmitting and showing moving images and sound.",
+      "example_sentence": "The news is shown on television every evening."
+    }
+  }
+}

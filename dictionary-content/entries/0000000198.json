@@ -1,0 +1,23 @@
+{
+  "id": 198,
+  "translation": {
+    "cyrillic": {
+      "word": "део",
+      "part_of_speech": "именица",
+      "definition": "Одређени део нечега.",
+      "example_sentence": "Тиме ћемо завршити део пројекта."
+    },
+    "latin": {
+      "word": "deo",
+      "part_of_speech": "imenica",
+      "definition": "Određeni deo nečega.",
+      "example_sentence": "Time ćemo završiti deo projekta."
+    },
+    "english": {
+      "word": "part",
+      "part_of_speech": "noun",
+      "definition": "A specific portion of something.",
+      "example_sentence": "This will finish a part of the project."
+    }
+  }
+}

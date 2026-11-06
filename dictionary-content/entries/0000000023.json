@@ -1,0 +1,23 @@
+{
+  "id": 23,
+  "translation": {
+    "cyrillic": {
+      "word": "агенција",
+      "part_of_speech": "именица",
+      "definition": "Организација која пружа одређене услуге.",
+      "example_sentence": "Отишао сам у туристичку агенцију да резервишем пут."
+    },
+    "latin": {
+      "word": "agencija",
+      "part_of_speech": "imenica",
+      "definition": "Organizacija koja pruža određene usluge.",
+      "example_sentence": "Otišao sam u turističku agenciju da rezervišem put."
+    },
+    "english": {
+      "word": "agency",
+      "part_of_speech": "noun",
+      "definition": "An organization providing specific services.",
+      "example_sentence": "I went to the travel agency to book a trip."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 295,
+  "translation": {
+    "cyrillic": {
+      "word": "журка",
+      "part_of_speech": "именица",
+      "definition": "Забава или прослава.",
+      "example_sentence": "Била је забавна журка."
+    },
+    "latin": {
+      "word": "žurka",
+      "part_of_speech": "imenica",
+      "definition": "Zabava ili proslava.",
+      "example_sentence": "Bila je zabavna žurka."
+    },
+    "english": {
+      "word": "party",
+      "part_of_speech": "noun",
+      "definition": "A celebration or gathering.",
+      "example_sentence": "It was a fun party."
+    }
+  }
+}

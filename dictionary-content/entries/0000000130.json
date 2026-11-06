@@ -1,0 +1,23 @@
+{
+  "id": 130,
+  "translation": {
+    "cyrillic": {
+      "word": "виолина",
+      "part_of_speech": "именица",
+      "definition": "Гудачки инструмент са четири жице.",
+      "example_sentence": "Она свира виолину од своје шесте године."
+    },
+    "latin": {
+      "word": "violina",
+      "part_of_speech": "imenica",
+      "definition": "Gudački instrument sa četiri žice.",
+      "example_sentence": "Ona svira violinu od svoje šeste godine."
+    },
+    "english": {
+      "word": "violin",
+      "part_of_speech": "noun",
+      "definition": "A string instrument with four strings.",
+      "example_sentence": "She has been playing the violin since she was six."
+    }
+  }
+}

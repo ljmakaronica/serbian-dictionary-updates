@@ -1,0 +1,23 @@
+{
+  "id": 152,
+  "translation": {
+    "cyrillic": {
+      "word": "година",
+      "part_of_speech": "именица",
+      "definition": "Период од дванаест месеци.",
+      "example_sentence": "Ова година је била пуна изазова."
+    },
+    "latin": {
+      "word": "godina",
+      "part_of_speech": "imenica",
+      "definition": "Period od dvanaest meseci.",
+      "example_sentence": "Ova godina je bila puna izazova."
+    },
+    "english": {
+      "word": "year",
+      "part_of_speech": "noun",
+      "definition": "A period of twelve months.",
+      "example_sentence": "This year has been full of challenges."
+    }
+  }
+}

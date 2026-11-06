@@ -1,0 +1,23 @@
+{
+  "id": 1033,
+  "translation": {
+    "cyrillic": {
+      "word": "килограм",
+      "part_of_speech": "именица",
+      "definition": "Основна јединица масе у Међународном систему јединица; једнака је хиљади грама.",
+      "example_sentence": "Купио је три килограма јабука."
+    },
+    "latin": {
+      "word": "kilogram",
+      "part_of_speech": "imenica",
+      "definition": "Osnovna jedinica mase u Međunarodnom sistemu jedinica; jednaka je hiljadi grama.",
+      "example_sentence": "Kupio je tri kilograma jabuka."
+    },
+    "english": {
+      "word": "kilogram",
+      "part_of_speech": "noun",
+      "definition": "The SI base unit of mass, equal to one thousand grams.",
+      "example_sentence": "He bought three kilograms of apples."
+    }
+  }
+}

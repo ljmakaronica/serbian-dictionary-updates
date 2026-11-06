@@ -1,0 +1,23 @@
+{
+  "id": 257,
+  "translation": {
+    "cyrillic": {
+      "word": "ергела",
+      "part_of_speech": "именица",
+      "definition": "Место где се узгајају коњи.",
+      "example_sentence": "Посетили смо ергелу липицанера."
+    },
+    "latin": {
+      "word": "ergela",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde se uzgajaju konji.",
+      "example_sentence": "Posetili smo ergelu lipicanera."
+    },
+    "english": {
+      "word": "stud farm",
+      "part_of_speech": "noun",
+      "definition": "A place where horses are bred.",
+      "example_sentence": "We visited the Lipizzan stud farm."
+    }
+  }
+}

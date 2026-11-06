@@ -1,0 +1,23 @@
+{
+  "id": 251,
+  "translation": {
+    "cyrillic": {
+      "word": "ескадрила",
+      "part_of_speech": "именица",
+      "definition": "Војна јединица састављена од авиона.",
+      "example_sentence": "Ескадрила је полетела у зору."
+    },
+    "latin": {
+      "word": "eskadrila",
+      "part_of_speech": "imenica",
+      "definition": "Vojna jedinica sastavljena od aviona.",
+      "example_sentence": "Eskadrila je poletela u zoru."
+    },
+    "english": {
+      "word": "squadron",
+      "part_of_speech": "noun",
+      "definition": "A military unit composed of aircraft.",
+      "example_sentence": "The squadron took off at dawn."
+    }
+  }
+}

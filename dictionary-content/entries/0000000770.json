@@ -1,0 +1,23 @@
+{
+  "id": 770,
+  "translation": {
+    "cyrillic": {
+      "word": "критиковати",
+      "part_of_speech": "глагол",
+      "definition": "Изразити негативно мишљење о нечему.",
+      "example_sentence": "Он критикује филм због слабе приче."
+    },
+    "latin": {
+      "word": "kritikovati",
+      "part_of_speech": "glagol",
+      "definition": "Izraziti negativno mišljenje o nečemu.",
+      "example_sentence": "On kritikuje film zbog slabe priče."
+    },
+    "english": {
+      "word": "criticize",
+      "part_of_speech": "verb",
+      "definition": "To express disapproval or find fault with.",
+      "example_sentence": "He criticizes the film for its weak plot."
+    }
+  }
+}

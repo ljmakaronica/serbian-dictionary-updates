@@ -1,0 +1,23 @@
+{
+  "id": 371,
+  "translation": {
+    "cyrillic": {
+      "word": "ноћ",
+      "part_of_speech": "именица",
+      "definition": "Време када је Сунце зашло и влада мрак.",
+      "example_sentence": "Ноћ је била мирна и тиха."
+    },
+    "latin": {
+      "word": "noć",
+      "part_of_speech": "imenica",
+      "definition": "Vreme kada je Sunce zašlo i vlada mrak.",
+      "example_sentence": "Noć je bila mirna i tiha."
+    },
+    "english": {
+      "word": "night",
+      "part_of_speech": "noun",
+      "definition": "The time when the Sun has set and darkness prevails.",
+      "example_sentence": "The night was calm and quiet."
+    }
+  }
+}

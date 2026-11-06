@@ -1,0 +1,23 @@
+{
+  "id": 795,
+  "translation": {
+    "cyrillic": {
+      "word": "склопити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство састављања делова у целину.",
+      "example_sentence": "Техничари су склопили нови уређај."
+    },
+    "latin": {
+      "word": "sklopiti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo sastavljanja delova u celinu.",
+      "example_sentence": "Tehničari su sklopili novi uređaj."
+    },
+    "english": {
+      "word": "assemble",
+      "part_of_speech": "verb",
+      "definition": "To put together from separate parts.",
+      "example_sentence": "The technicians assembled the new device."
+    }
+  }
+}

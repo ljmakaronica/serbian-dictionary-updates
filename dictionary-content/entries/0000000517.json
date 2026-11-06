@@ -1,0 +1,23 @@
+{
+  "id": 517,
+  "translation": {
+    "cyrillic": {
+      "word": "пет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 5.",
+      "example_sentence": "Имам пет јабука."
+    },
+    "latin": {
+      "word": "pet",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 5.",
+      "example_sentence": "Imam pet jabuka."
+    },
+    "english": {
+      "word": "five",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 5.",
+      "example_sentence": "I have five apples."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 638,
+  "translation": {
+    "cyrillic": {
+      "word": "салата",
+      "part_of_speech": "именица",
+      "definition": "Хладна јела од сировог поврћа.",
+      "example_sentence": "Салата је освежавајућа."
+    },
+    "latin": {
+      "word": "salata",
+      "part_of_speech": "imenica",
+      "definition": "Hladna jela od sirovog povrća.",
+      "example_sentence": "Salata je osvežavajuća."
+    },
+    "english": {
+      "word": "salad",
+      "part_of_speech": "noun",
+      "definition": "A cold dish of raw vegetables.",
+      "example_sentence": "Salad is refreshing."
+    }
+  }
+}

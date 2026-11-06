@@ -1,0 +1,23 @@
+{
+  "id": 567,
+  "translation": {
+    "cyrillic": {
+      "word": "пас",
+      "part_of_speech": "именица",
+      "definition": "Домаћа животиња која лаје.",
+      "example_sentence": "Мој пас је веома љубазан."
+    },
+    "latin": {
+      "word": "pas",
+      "part_of_speech": "imenica",
+      "definition": "Domaća životinja koja laje.",
+      "example_sentence": "Moj pas je veoma ljubazan."
+    },
+    "english": {
+      "word": "dog",
+      "part_of_speech": "noun",
+      "definition": "A domestic animal that barks.",
+      "example_sentence": "My dog is very friendly."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 597,
+  "translation": {
+    "cyrillic": {
+      "word": "прати",
+      "part_of_speech": "глагол",
+      "definition": "Чистити нешто користећи воду и сапун.",
+      "example_sentence": "Перем веш у машини."
+    },
+    "latin": {
+      "word": "prati",
+      "part_of_speech": "glagol",
+      "definition": "Čistiti nešto koristeći vodu i sapun.",
+      "example_sentence": "Perem veš u mašini."
+    },
+    "english": {
+      "word": "to wash",
+      "part_of_speech": "verb",
+      "definition": "To clean something using water and soap.",
+      "example_sentence": "I wash clothes in the machine."
+    }
+  }
+}

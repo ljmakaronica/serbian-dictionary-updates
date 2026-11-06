@@ -1,0 +1,23 @@
+{
+  "id": 380,
+  "translation": {
+    "cyrillic": {
+      "word": "њен",
+      "part_of_speech": "придев",
+      "definition": "Посесивни придев за треће лице женског рода.",
+      "example_sentence": "Њен пас је веома паметан."
+    },
+    "latin": {
+      "word": "njen",
+      "part_of_speech": "pridev",
+      "definition": "Posesivni pridev za treće lice ženskog roda.",
+      "example_sentence": "Njen pas je veoma pametan."
+    },
+    "english": {
+      "word": "her",
+      "part_of_speech": "adjective",
+      "definition": "Possessive adjective for the third person feminine.",
+      "example_sentence": "Her dog is very smart."
+    }
+  }
+}

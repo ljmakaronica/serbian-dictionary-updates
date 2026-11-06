@@ -1,0 +1,23 @@
+{
+  "id": 372,
+  "translation": {
+    "cyrillic": {
+      "word": "наука",
+      "part_of_speech": "именица",
+      "definition": "Систематско проучавање природе и друштва.",
+      "example_sentence": "Наука је кључ за разумевање света."
+    },
+    "latin": {
+      "word": "nauka",
+      "part_of_speech": "imenica",
+      "definition": "Sistematsko proučavanje prirode i društva.",
+      "example_sentence": "Nauka je ključ za razumevanje sveta."
+    },
+    "english": {
+      "word": "science",
+      "part_of_speech": "noun",
+      "definition": "The systematic study of nature and society.",
+      "example_sentence": "Science is the key to understanding the world."
+    }
+  }
+}

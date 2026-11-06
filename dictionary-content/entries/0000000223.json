@@ -1,0 +1,23 @@
+{
+  "id": 223,
+  "translation": {
+    "cyrillic": {
+      "word": "ђаво",
+      "part_of_speech": "именица",
+      "definition": "Натприродно биће које представља зло; Сатана, враг; фигуративно: несташна или лукава особа.",
+      "example_sentence": "Народне приче често говоре о ђаволу и његовим искушењима."
+    },
+    "latin": {
+      "word": "đavo",
+      "part_of_speech": "imenica",
+      "definition": "Natprirodno biće koje predstavlja zlo; Satana, vrag; figurativno: nestašna ili lukava osoba.",
+      "example_sentence": "Narodne priče često govore o đavolu i njegovim iskušenjima."
+    },
+    "english": {
+      "word": "devil",
+      "part_of_speech": "noun",
+      "definition": "A supernatural being representing evil; Satan, demon; figuratively: a mischievous or cunning person.",
+      "example_sentence": "Folk tales often speak of the devil and his temptations."
+    }
+  }
+}

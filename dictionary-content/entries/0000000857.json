@@ -1,0 +1,23 @@
+{
+  "id": 857,
+  "translation": {
+    "cyrillic": {
+      "word": "јер",
+      "part_of_speech": "везник",
+      "definition": "Објашњава разлог.",
+      "example_sentence": "Учим јер желим да знам."
+    },
+    "latin": {
+      "word": "jer",
+      "part_of_speech": "veznik",
+      "definition": "Objašnjava razlog.",
+      "example_sentence": "Učim jer želim da znam."
+    },
+    "english": {
+      "word": "because",
+      "part_of_speech": "conjunction",
+      "definition": "Explains reason.",
+      "example_sentence": "I study because I want to know."
+    }
+  }
+}

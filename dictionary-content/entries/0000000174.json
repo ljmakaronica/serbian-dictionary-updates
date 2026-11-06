@@ -1,0 +1,23 @@
+{
+  "id": 174,
+  "translation": {
+    "cyrillic": {
+      "word": "градити",
+      "part_of_speech": "глагол",
+      "definition": "Правити неку зграду или објекат.",
+      "example_sentence": "Они су почели да граде нову зграду."
+    },
+    "latin": {
+      "word": "graditi",
+      "part_of_speech": "glagol",
+      "definition": "Praviti neku zgradu ili objekat.",
+      "example_sentence": "Oni su počeli da grade novu zgradu."
+    },
+    "english": {
+      "word": "to build",
+      "part_of_speech": "verb",
+      "definition": "To construct a building or structure.",
+      "example_sentence": "They started building a new building."
+    }
+  }
+}

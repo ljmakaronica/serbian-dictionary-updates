@@ -1,0 +1,23 @@
+{
+  "id": 1096,
+  "translation": {
+    "cyrillic": {
+      "word": "нека",
+      "part_of_speech": "речца",
+      "definition": "Речца која изражава дозволу или жељу.",
+      "example_sentence": "Нека иде!"
+    },
+    "latin": {
+      "word": "neka",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja izražava dozvolu ili želju.",
+      "example_sentence": "Neka ide!"
+    },
+    "english": {
+      "word": "let",
+      "part_of_speech": "particle",
+      "definition": "A particle expressing permission or wish.",
+      "example_sentence": "Let him go!"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 209,
+  "translation": {
+    "cyrillic": {
+      "word": "дечак",
+      "part_of_speech": "именица",
+      "definition": "Млади мушкарац, дете.",
+      "example_sentence": "Дечак је трчао по парку."
+    },
+    "latin": {
+      "word": "dečak",
+      "part_of_speech": "imenica",
+      "definition": "Mladi muškarac, dete.",
+      "example_sentence": "Dečak je trčao po parku."
+    },
+    "english": {
+      "word": "boy",
+      "part_of_speech": "noun",
+      "definition": "A young male, a child.",
+      "example_sentence": "The boy was running in the park."
+    }
+  }
+}

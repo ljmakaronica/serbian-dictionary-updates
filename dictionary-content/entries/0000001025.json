@@ -1,0 +1,23 @@
+{
+  "id": 1025,
+  "translation": {
+    "cyrillic": {
+      "word": "кухиња",
+      "part_of_speech": "именица",
+      "definition": "Просторија у којој се припрема храна.",
+      "example_sentence": "Кувала је ручак у кухињи."
+    },
+    "latin": {
+      "word": "kuhinja",
+      "part_of_speech": "imenica",
+      "definition": "Prostorija u kojoj se priprema hrana.",
+      "example_sentence": "Kuvala je ručak u kuhinji."
+    },
+    "english": {
+      "word": "kitchen",
+      "part_of_speech": "noun",
+      "definition": "A room where food is prepared.",
+      "example_sentence": "She cooked lunch in the kitchen."
+    }
+  }
+}

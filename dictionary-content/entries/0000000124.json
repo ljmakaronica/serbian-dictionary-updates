@@ -1,0 +1,23 @@
+{
+  "id": 124,
+  "translation": {
+    "cyrillic": {
+      "word": "весео",
+      "part_of_speech": "придев",
+      "definition": "Који показује осећај среће или задовољства.",
+      "example_sentence": "Деца су била весела док су играла у парку."
+    },
+    "latin": {
+      "word": "veseo",
+      "part_of_speech": "pridev",
+      "definition": "Koji pokazuje osećaj sreće ili zadovoljstva.",
+      "example_sentence": "Deca su bila vesela dok su igrala u parku."
+    },
+    "english": {
+      "word": "cheerful",
+      "part_of_speech": "adjective",
+      "definition": "Showing a feeling of happiness or satisfaction.",
+      "example_sentence": "The children were cheerful while playing in the park."
+    }
+  }
+}

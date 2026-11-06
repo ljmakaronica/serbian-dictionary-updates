@@ -1,0 +1,23 @@
+{
+  "id": 725,
+  "translation": {
+    "cyrillic": {
+      "word": "одушевљавати",
+      "part_of_speech": "глагол",
+      "definition": "Изазивати велико задовољство или одушевљење.",
+      "example_sentence": "Представа одушевљава публику."
+    },
+    "latin": {
+      "word": "oduševljavati",
+      "part_of_speech": "glagol",
+      "definition": "Izazivati veliko zadovoljstvo ili oduševljenje.",
+      "example_sentence": "Predstava oduševljava publiku."
+    },
+    "english": {
+      "word": "delight",
+      "part_of_speech": "verb",
+      "definition": "To give someone great pleasure or enjoyment.",
+      "example_sentence": "The performance delights the audience."
+    }
+  }
+}

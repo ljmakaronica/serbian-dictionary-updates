@@ -1,0 +1,23 @@
+{
+  "id": 574,
+  "translation": {
+    "cyrillic": {
+      "word": "говорити",
+      "part_of_speech": "глагол",
+      "definition": "Комуницирати гласом.",
+      "example_sentence": "Говорим српски."
+    },
+    "latin": {
+      "word": "govoriti",
+      "part_of_speech": "glagol",
+      "definition": "Komunicirati glasom.",
+      "example_sentence": "Govorim srpski."
+    },
+    "english": {
+      "word": "to speak",
+      "part_of_speech": "verb",
+      "definition": "To communicate using voice.",
+      "example_sentence": "I speak Serbian."
+    }
+  }
+}

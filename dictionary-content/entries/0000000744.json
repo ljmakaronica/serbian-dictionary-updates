@@ -1,0 +1,23 @@
+{
+  "id": 744,
+  "translation": {
+    "cyrillic": {
+      "word": "игнорисати",
+      "part_of_speech": "глагол",
+      "definition": "Свесно не обраћати пажњу на некога или нешто.",
+      "example_sentence": "Он игнорише савете пријатеља."
+    },
+    "latin": {
+      "word": "ignorisati",
+      "part_of_speech": "glagol",
+      "definition": "Svesno ne obraćati pažnju na nekoga ili nešto.",
+      "example_sentence": "On ignoriše savete prijatelja."
+    },
+    "english": {
+      "word": "ignore",
+      "part_of_speech": "verb",
+      "definition": "To deliberately pay no attention to someone or something.",
+      "example_sentence": "He ignores his friends’ advice."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 760,
+  "translation": {
+    "cyrillic": {
+      "word": "спојити",
+      "part_of_speech": "глагол",
+      "definition": "Повезати два или више дела у целину.",
+      "example_sentence": "Инжењер је спојио делове механизма."
+    },
+    "latin": {
+      "word": "spojiti",
+      "part_of_speech": "glagol",
+      "definition": "Povezati dva ili više dela u celinu.",
+      "example_sentence": "Inženjer je spojio delove mehanizma."
+    },
+    "english": {
+      "word": "join",
+      "part_of_speech": "verb",
+      "definition": "To connect or link together.",
+      "example_sentence": "The engineer joined the parts of the mechanism."
+    }
+  }
+}

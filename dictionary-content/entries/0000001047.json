@@ -1,0 +1,23 @@
+{
+  "id": 1047,
+  "translation": {
+    "cyrillic": {
+      "word": "употреба",
+      "part_of_speech": "именица",
+      "definition": "Коришћење нечега у одређену сврху.",
+      "example_sentence": "Забрањена је употреба мобилних телефона."
+    },
+    "latin": {
+      "word": "upotreba",
+      "part_of_speech": "imenica",
+      "definition": "Korišćenje nečega u određenu svrhu.",
+      "example_sentence": "Zabranjena je upotreba mobilnih telefona."
+    },
+    "english": {
+      "word": "use",
+      "part_of_speech": "noun",
+      "definition": "The use of something for a specific purpose.",
+      "example_sentence": "The use of mobile phones is prohibited."
+    }
+  }
+}

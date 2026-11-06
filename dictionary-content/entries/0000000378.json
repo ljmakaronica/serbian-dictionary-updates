@@ -1,0 +1,23 @@
+{
+  "id": 378,
+  "translation": {
+    "cyrillic": {
+      "word": "њушка",
+      "part_of_speech": "именица",
+      "definition": "Нос животиње, посебно пса.",
+      "example_sentence": "Пас је њушком тражио храну."
+    },
+    "latin": {
+      "word": "njuška",
+      "part_of_speech": "imenica",
+      "definition": "Nos životinje, posebno psa.",
+      "example_sentence": "Pas je njuškom tražio hranu."
+    },
+    "english": {
+      "word": "snout",
+      "part_of_speech": "noun",
+      "definition": "The nose of an animal, especially a dog.",
+      "example_sentence": "The dog was searching for food with its snout."
+    }
+  }
+}

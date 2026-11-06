@@ -1,0 +1,23 @@
+{
+  "id": 272,
+  "translation": {
+    "cyrillic": {
+      "word": "етнолог",
+      "part_of_speech": "именица",
+      "definition": "Научник који проучава културе и обичаје народа.",
+      "example_sentence": "Етнолог је истраживао племенске обичаје."
+    },
+    "latin": {
+      "word": "etnolog",
+      "part_of_speech": "imenica",
+      "definition": "Naučnik koji proučava kulture i običaje naroda.",
+      "example_sentence": "Etnolog je istraživao plemenske običaje."
+    },
+    "english": {
+      "word": "ethnologist",
+      "part_of_speech": "noun",
+      "definition": "A scientist who studies cultures and customs of peoples.",
+      "example_sentence": "The ethnologist researched tribal customs."
+    }
+  }
+}

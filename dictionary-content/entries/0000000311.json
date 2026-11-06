@@ -1,0 +1,23 @@
+{
+  "id": 311,
+  "translation": {
+    "cyrillic": {
+      "word": "имплементација",
+      "part_of_speech": "именица",
+      "definition": "Процес увођења или примене нечег у праксу.",
+      "example_sentence": "Имплементација новог софтвера је успешна."
+    },
+    "latin": {
+      "word": "implementacija",
+      "part_of_speech": "imenica",
+      "definition": "Proces uvođenja ili primene nečeg u praksu.",
+      "example_sentence": "Implementacija novog softvera je uspešna."
+    },
+    "english": {
+      "word": "implementation",
+      "part_of_speech": "noun",
+      "definition": "The process of introducing or applying something in practice.",
+      "example_sentence": "The implementation of the new software is successful."
+    }
+  }
+}

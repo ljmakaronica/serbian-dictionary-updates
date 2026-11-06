@@ -1,0 +1,23 @@
+{
+  "id": 614,
+  "translation": {
+    "cyrillic": {
+      "word": "унуци",
+      "part_of_speech": "именица",
+      "definition": "Деца једног детета.",
+      "example_sentence": "Моји унуци су ми највећа радост."
+    },
+    "latin": {
+      "word": "unuci",
+      "part_of_speech": "imenica",
+      "definition": "Deca jednog deteta.",
+      "example_sentence": "Moji unuci su mi najveća radost."
+    },
+    "english": {
+      "word": "grandchildren",
+      "part_of_speech": "noun",
+      "definition": "The children of one’s child.",
+      "example_sentence": "My grandchildren are my greatest joy."
+    }
+  }
+}

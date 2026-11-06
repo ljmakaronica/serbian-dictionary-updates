@@ -1,0 +1,23 @@
+{
+  "id": 280,
+  "translation": {
+    "cyrillic": {
+      "word": "ексцентрик",
+      "part_of_speech": "именица",
+      "definition": "Особа необичног понашања или навика.",
+      "example_sentence": "Познат је као локални ексцентрик."
+    },
+    "latin": {
+      "word": "ekscentrik",
+      "part_of_speech": "imenica",
+      "definition": "Osoba neobičnog ponašanja ili navika.",
+      "example_sentence": "Poznat je kao lokalni ekscentrik."
+    },
+    "english": {
+      "word": "eccentric",
+      "part_of_speech": "noun",
+      "definition": "A person with unusual behavior or habits.",
+      "example_sentence": "He is known as the local eccentric."
+    }
+  }
+}

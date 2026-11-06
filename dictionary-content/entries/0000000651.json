@@ -1,0 +1,23 @@
+{
+  "id": 651,
+  "translation": {
+    "cyrillic": {
+      "word": "аутобус",
+      "part_of_speech": "именица",
+      "definition": "Јавно превозно средство са великим капацитетом.",
+      "example_sentence": "Аутобус стиже на станицу на време."
+    },
+    "latin": {
+      "word": "autobus",
+      "part_of_speech": "imenica",
+      "definition": "Javno prevozno sredstvo sa velikim kapacitetom.",
+      "example_sentence": "Autobus stiže na stanicu na vreme."
+    },
+    "english": {
+      "word": "bus",
+      "part_of_speech": "noun",
+      "definition": "A public transport vehicle with large capacity.",
+      "example_sentence": "The bus arrives at the station on time."
+    }
+  }
+}

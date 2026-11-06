@@ -1,0 +1,23 @@
+{
+  "id": 762,
+  "translation": {
+    "cyrillic": {
+      "word": "израчунати",
+      "part_of_speech": "глагол",
+      "definition": "Одредити вредност помоћу рачунских операција.",
+      "example_sentence": "Он је израчунао укупан износ."
+    },
+    "latin": {
+      "word": "izračunati",
+      "part_of_speech": "glagol",
+      "definition": "Odrediti vrednost pomoću računskih operacija.",
+      "example_sentence": "On je izračunao ukupan iznos."
+    },
+    "english": {
+      "word": "calculate",
+      "part_of_speech": "verb",
+      "definition": "To find a value using mathematical operations.",
+      "example_sentence": "He calculated the total amount."
+    }
+  }
+}

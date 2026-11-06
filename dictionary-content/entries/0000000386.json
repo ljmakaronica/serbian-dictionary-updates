@@ -1,0 +1,23 @@
+{
+  "id": 386,
+  "translation": {
+    "cyrillic": {
+      "word": "око",
+      "part_of_speech": "именица",
+      "definition": "Орган за вид.",
+      "example_sentence": "Његово око је било упаљено."
+    },
+    "latin": {
+      "word": "oko",
+      "part_of_speech": "imenica",
+      "definition": "Organ za vid.",
+      "example_sentence": "Njegovo oko je bilo upaljeno."
+    },
+    "english": {
+      "word": "eye",
+      "part_of_speech": "noun",
+      "definition": "The organ for sight.",
+      "example_sentence": "His eye was inflamed."
+    }
+  }
+}

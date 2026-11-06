@@ -1,0 +1,23 @@
+{
+  "id": 426,
+  "translation": {
+    "cyrillic": {
+      "word": "тишина",
+      "part_of_speech": "именица",
+      "definition": "Одсуство звука или буке.",
+      "example_sentence": "Тишина у соби је била непријатна."
+    },
+    "latin": {
+      "word": "tišina",
+      "part_of_speech": "imenica",
+      "definition": "Odsustvo zvuka ili buke.",
+      "example_sentence": "Tišina u sobi je bila neprijatna."
+    },
+    "english": {
+      "word": "silence",
+      "part_of_speech": "noun",
+      "definition": "The absence of sound or noise.",
+      "example_sentence": "The silence in the room was uncomfortable."
+    }
+  }
+}

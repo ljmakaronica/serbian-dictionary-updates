@@ -1,0 +1,23 @@
+{
+  "id": 393,
+  "translation": {
+    "cyrillic": {
+      "word": "песма",
+      "part_of_speech": "именица",
+      "definition": "Музичко дело са текстом.",
+      "example_sentence": "Њена омиљена песма је на радију."
+    },
+    "latin": {
+      "word": "pesma",
+      "part_of_speech": "imenica",
+      "definition": "Muzičko delo sa tekstom.",
+      "example_sentence": "Njena omiljena pesma je na radiju."
+    },
+    "english": {
+      "word": "song",
+      "part_of_speech": "noun",
+      "definition": "A musical piece with lyrics.",
+      "example_sentence": "Her favorite song is on the radio."
+    }
+  }
+}

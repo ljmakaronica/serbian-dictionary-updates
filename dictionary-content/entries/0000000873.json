@@ -1,0 +1,23 @@
+{
+  "id": 873,
+  "translation": {
+    "cyrillic": {
+      "word": "већ",
+      "part_of_speech": "везник",
+      "definition": "Изражава супротност са претходном негацијом.",
+      "example_sentence": "Није црвено већ плаво."
+    },
+    "latin": {
+      "word": "već",
+      "part_of_speech": "veznik",
+      "definition": "Izražava suprotnost sa prethodnom negacijom.",
+      "example_sentence": "Nije crveno već plavo."
+    },
+    "english": {
+      "word": "but rather",
+      "part_of_speech": "conjunction",
+      "definition": "Expresses contrast with previous negation.",
+      "example_sentence": "It is not red but rather blue."
+    }
+  }
+}

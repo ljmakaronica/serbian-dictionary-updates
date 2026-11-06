@@ -1,0 +1,23 @@
+{
+  "id": 455,
+  "translation": {
+    "cyrillic": {
+      "word": "хлеб",
+      "part_of_speech": "именица",
+      "definition": "Пекарски производ од теста, обично направљеног од брашна и воде.",
+      "example_sentence": "Сваког дана купујем свеж хлеб."
+    },
+    "latin": {
+      "word": "hleb",
+      "part_of_speech": "imenica",
+      "definition": "Pekarski proizvod od testa, obično napravljenog od brašna i vode.",
+      "example_sentence": "Svakog dana kupujem svež hleb."
+    },
+    "english": {
+      "word": "bread",
+      "part_of_speech": "noun",
+      "definition": "A baked food made from dough, usually based on flour and water.",
+      "example_sentence": "I buy fresh bread every day."
+    }
+  }
+}

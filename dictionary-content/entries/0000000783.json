@@ -1,0 +1,23 @@
+{
+  "id": 783,
+  "translation": {
+    "cyrillic": {
+      "word": "увећати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство повећања количине или интензитета нечега.",
+      "example_sentence": "Фирма је увећала производњу."
+    },
+    "latin": {
+      "word": "uvećati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo povećanja količine ili intenziteta nečega.",
+      "example_sentence": "Firma je uvećala proizvodnju."
+    },
+    "english": {
+      "word": "increase",
+      "part_of_speech": "verb",
+      "definition": "To make something larger or more in amount.",
+      "example_sentence": "The company increased production."
+    }
+  }
+}

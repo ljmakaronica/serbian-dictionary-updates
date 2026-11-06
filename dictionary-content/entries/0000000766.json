@@ -1,0 +1,23 @@
+{
+  "id": 766,
+  "translation": {
+    "cyrillic": {
+      "word": "прегледати",
+      "part_of_speech": "глагол",
+      "definition": "Поново посматрати или анализирати нешто.",
+      "example_sentence": "Она је прегледала извештај пре састанка."
+    },
+    "latin": {
+      "word": "pregledati",
+      "part_of_speech": "glagol",
+      "definition": "Ponovo posmatrati ili analizirati nešto.",
+      "example_sentence": "Ona je pregledala izveštaj pre sastanka."
+    },
+    "english": {
+      "word": "review",
+      "part_of_speech": "verb",
+      "definition": "To examine or assess something again.",
+      "example_sentence": "She reviewed the report before the meeting."
+    }
+  }
+}

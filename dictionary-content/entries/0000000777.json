@@ -1,0 +1,23 @@
+{
+  "id": 777,
+  "translation": {
+    "cyrillic": {
+      "word": "објавити",
+      "part_of_speech": "глагол",
+      "definition": "Учини нешто доступним јавности.",
+      "example_sentence": "Они су објавили нови чланак у часопису."
+    },
+    "latin": {
+      "word": "objaviti",
+      "part_of_speech": "glagol",
+      "definition": "Učiniti nešto dostupnim javnosti.",
+      "example_sentence": "Oni su objavili novi članak u časopisu."
+    },
+    "english": {
+      "word": "publish",
+      "part_of_speech": "verb",
+      "definition": "To make information available to the public.",
+      "example_sentence": "They published a new article in the magazine."
+    }
+  }
+}

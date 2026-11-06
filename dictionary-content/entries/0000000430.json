@@ -1,0 +1,23 @@
+{
+  "id": 430,
+  "translation": {
+    "cyrillic": {
+      "word": "тачно",
+      "part_of_speech": "прилог",
+      "definition": "На исправан или тачан начин.",
+      "example_sentence": "Тачно је одговорила на питање."
+    },
+    "latin": {
+      "word": "tačno",
+      "part_of_speech": "prilog",
+      "definition": "Na ispravan ili tačan način.",
+      "example_sentence": "Tačno je odgovorila na pitanje."
+    },
+    "english": {
+      "word": "correctly",
+      "part_of_speech": "adverb",
+      "definition": "In a correct or accurate manner.",
+      "example_sentence": "She answered the question correctly."
+    }
+  }
+}

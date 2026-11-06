@@ -1,0 +1,23 @@
+{
+  "id": 852,
+  "translation": {
+    "cyrillic": {
+      "word": "искрено",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је истинит и од срца.",
+      "example_sentence": "Она искрено захваљује свима."
+    },
+    "latin": {
+      "word": "iskreno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je istinit i od srca.",
+      "example_sentence": "Ona iskreno zahvaljuje svima."
+    },
+    "english": {
+      "word": "sincerely",
+      "part_of_speech": "adverb",
+      "definition": "In a genuine and heartfelt manner.",
+      "example_sentence": "She sincerely thanks everyone."
+    }
+  }
+}

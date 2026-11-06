@@ -1,0 +1,23 @@
+{
+  "id": 469,
+  "translation": {
+    "cyrillic": {
+      "word": "цвет",
+      "part_of_speech": "именица",
+      "definition": "Део биљке који производи семе и често има лепе боје.",
+      "example_sentence": "Цвет је цветао у пролеће."
+    },
+    "latin": {
+      "word": "cvet",
+      "part_of_speech": "imenica",
+      "definition": "Deo biljke koji proizvodi seme i često ima lepe boje.",
+      "example_sentence": "Cvet je cvetao u proleće."
+    },
+    "english": {
+      "word": "flower",
+      "part_of_speech": "noun",
+      "definition": "The part of a plant that produces seeds and often has beautiful colors.",
+      "example_sentence": "The flower bloomed in spring."
+    }
+  }
+}

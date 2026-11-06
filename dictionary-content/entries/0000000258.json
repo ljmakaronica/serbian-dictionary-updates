@@ -1,0 +1,23 @@
+{
+  "id": 258,
+  "translation": {
+    "cyrillic": {
+      "word": "еластичан",
+      "part_of_speech": "придев",
+      "definition": "Који се може растегнути и вратити у првобитни облик.",
+      "example_sentence": "Овај материјал је веома еластичан."
+    },
+    "latin": {
+      "word": "elastičan",
+      "part_of_speech": "pridev",
+      "definition": "Koji se može rastegnuti i vratiti u prvobitni oblik.",
+      "example_sentence": "Ovaj materijal je veoma elastičan."
+    },
+    "english": {
+      "word": "elastic",
+      "part_of_speech": "adjective",
+      "definition": "Able to stretch and return to original shape.",
+      "example_sentence": "This material is very elastic."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 683,
+  "translation": {
+    "cyrillic": {
+      "word": "инжењер",
+      "part_of_speech": "именица",
+      "definition": "Стручњак за пројектовање и изградњу.",
+      "example_sentence": "Инжењер је надгледао изградњу моста."
+    },
+    "latin": {
+      "word": "inženjer",
+      "part_of_speech": "imenica",
+      "definition": "Stručnjak za projektovanje i izgradnju.",
+      "example_sentence": "Inženjer je nadgledao izgradnju mosta."
+    },
+    "english": {
+      "word": "engineer",
+      "part_of_speech": "noun",
+      "definition": "A specialist in designing and building.",
+      "example_sentence": "The engineer oversaw the construction of the bridge."
+    }
+  }
+}

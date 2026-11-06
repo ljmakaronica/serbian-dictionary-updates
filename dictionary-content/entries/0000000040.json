@@ -1,0 +1,23 @@
+{
+  "id": 40,
+  "translation": {
+    "cyrillic": {
+      "word": "апотека",
+      "part_of_speech": "именица",
+      "definition": "Продавница где се продају лекови и медицински производи.",
+      "example_sentence": "Морам да одем у апотеку да купим лекове."
+    },
+    "latin": {
+      "word": "apoteka",
+      "part_of_speech": "imenica",
+      "definition": "Prodavnica gde se prodaju lekovi i medicinski proizvodi.",
+      "example_sentence": "Moram da odem u apoteku da kupim lekove."
+    },
+    "english": {
+      "word": "pharmacy",
+      "part_of_speech": "noun",
+      "definition": "A store where medicines and medical products are sold.",
+      "example_sentence": "I need to go to the pharmacy to buy some medicine."
+    }
+  }
+}

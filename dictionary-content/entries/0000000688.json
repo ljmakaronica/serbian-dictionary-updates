@@ -1,0 +1,23 @@
+{
+  "id": 688,
+  "translation": {
+    "cyrillic": {
+      "word": "лука",
+      "part_of_speech": "именица",
+      "definition": "Уређено место уз обалу где бродови могу да пристану.",
+      "example_sentence": "Брод је упловио у луку."
+    },
+    "latin": {
+      "word": "luka",
+      "part_of_speech": "imenica",
+      "definition": "Uređeno mesto uz obalu gde brodovi mogu da pristanu.",
+      "example_sentence": "Brod je uplovio u luku."
+    },
+    "english": {
+      "word": "harbor",
+      "part_of_speech": "noun",
+      "definition": "A developed area on a coast or riverbank where ships can dock.",
+      "example_sentence": "The ship entered the harbor."
+    }
+  }
+}

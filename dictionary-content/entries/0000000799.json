@@ -1,0 +1,23 @@
+{
+  "id": 799,
+  "translation": {
+    "cyrillic": {
+      "word": "подржати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство пружања помоћи или подршке некоме.",
+      "example_sentence": "Пријатељи су подржали њену одлуку."
+    },
+    "latin": {
+      "word": "podržati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo pružanja pomoći ili podrške nekom.",
+      "example_sentence": "Prijatelji su podržali njenu odluku."
+    },
+    "english": {
+      "word": "support",
+      "part_of_speech": "verb",
+      "definition": "To give assistance or backing.",
+      "example_sentence": "Her friends supported her decision."
+    }
+  }
+}

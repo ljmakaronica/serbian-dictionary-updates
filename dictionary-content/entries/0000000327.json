@@ -1,0 +1,23 @@
+{
+  "id": 327,
+  "translation": {
+    "cyrillic": {
+      "word": "јагње",
+      "part_of_speech": "именица",
+      "definition": "Младунче овце.",
+      "example_sentence": "Јагње је играло у пољу."
+    },
+    "latin": {
+      "word": "jagnje",
+      "part_of_speech": "imenica",
+      "definition": "Mladunče ovce.",
+      "example_sentence": "Jagnje je igralo u polju."
+    },
+    "english": {
+      "word": "lamb",
+      "part_of_speech": "noun",
+      "definition": "A young sheep.",
+      "example_sentence": "The lamb was playing in the field."
+    }
+  }
+}

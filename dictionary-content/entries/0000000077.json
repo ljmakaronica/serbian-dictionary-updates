@@ -1,0 +1,23 @@
+{
+  "id": 77,
+  "translation": {
+    "cyrillic": {
+      "word": "болница",
+      "part_of_speech": "именица",
+      "definition": "Установа за лечење и негу болесних људи.",
+      "example_sentence": "Нова болница је отворена прошлог месеца."
+    },
+    "latin": {
+      "word": "bolnica",
+      "part_of_speech": "imenica",
+      "definition": "Ustanova za lečenje i negu bolesnih ljudi.",
+      "example_sentence": "Nova bolnica je otvorena prošlog meseca."
+    },
+    "english": {
+      "word": "hospital",
+      "part_of_speech": "noun",
+      "definition": "An institution for treating and caring for sick people.",
+      "example_sentence": "The new hospital opened last month."
+    }
+  }
+}

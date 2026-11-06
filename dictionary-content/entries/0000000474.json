@@ -1,0 +1,23 @@
+{
+  "id": 474,
+  "translation": {
+    "cyrillic": {
+      "word": "црта",
+      "part_of_speech": "именица",
+      "definition": "Танка линија нацртана на површини.",
+      "example_sentence": "Црта је била права и тачна."
+    },
+    "latin": {
+      "word": "crta",
+      "part_of_speech": "imenica",
+      "definition": "Tanka linija nacrtana na površini.",
+      "example_sentence": "Crta je bila prava i tačna."
+    },
+    "english": {
+      "word": "line",
+      "part_of_speech": "noun",
+      "definition": "A thin mark drawn on a surface.",
+      "example_sentence": "The line was straight and precise."
+    }
+  }
+}

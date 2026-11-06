@@ -1,0 +1,23 @@
+{
+  "id": 233,
+  "translation": {
+    "cyrillic": {
+      "word": "ехо",
+      "part_of_speech": "именица",
+      "definition": "Одјек звука који се одбија од површине.",
+      "example_sentence": "Могли смо чути ехо наших гласова у пећини."
+    },
+    "latin": {
+      "word": "eho",
+      "part_of_speech": "imenica",
+      "definition": "Odjek zvuka koji se odbija od površine.",
+      "example_sentence": "Mogli smo čuti eho naših glasova u pećini."
+    },
+    "english": {
+      "word": "echo",
+      "part_of_speech": "noun",
+      "definition": "A sound reflection that bounces off a surface.",
+      "example_sentence": "We could hear the echo of our voices in the cave."
+    }
+  }
+}

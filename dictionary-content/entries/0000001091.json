@@ -1,0 +1,23 @@
+{
+  "id": 1091,
+  "translation": {
+    "cyrillic": {
+      "word": "зодијак",
+      "part_of_speech": "именица",
+      "definition": "Појас на небу подељен на дванаест знакова.",
+      "example_sentence": "Мој знак зодијака је Лав."
+    },
+    "latin": {
+      "word": "zodijak",
+      "part_of_speech": "imenica",
+      "definition": "Pojas na nebu podeljen na dvanaest znakova.",
+      "example_sentence": "Moj znak zodijaka je Lav."
+    },
+    "english": {
+      "word": "zodiac",
+      "part_of_speech": "noun",
+      "definition": "A belt in the sky divided into twelve signs.",
+      "example_sentence": "My zodiac sign is Leo."
+    }
+  }
+}

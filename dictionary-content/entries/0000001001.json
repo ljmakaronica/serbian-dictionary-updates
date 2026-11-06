@@ -1,0 +1,23 @@
+{
+  "id": 1001,
+  "translation": {
+    "cyrillic": {
+      "word": "питање",
+      "part_of_speech": "именица",
+      "definition": "упит за информацију",
+      "example_sentence": "Имам питање."
+    },
+    "latin": {
+      "word": "pitanje",
+      "part_of_speech": "imenica",
+      "definition": "upit za informaciju",
+      "example_sentence": "Imam pitanje."
+    },
+    "english": {
+      "word": "question",
+      "part_of_speech": "noun",
+      "definition": "inquiry for information",
+      "example_sentence": "I have a question."
+    }
+  }
+}

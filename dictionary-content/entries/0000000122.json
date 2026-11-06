@@ -1,0 +1,23 @@
+{
+  "id": 122,
+  "translation": {
+    "cyrillic": {
+      "word": "ваздух",
+      "part_of_speech": "именица",
+      "definition": "Гасовита смеша која чини атмосферу Земље.",
+      "example_sentence": "Ваздух у планинама је свеж и чист."
+    },
+    "latin": {
+      "word": "vazduh",
+      "part_of_speech": "imenica",
+      "definition": "Gasovita smeša koja čini atmosferu Zemlje.",
+      "example_sentence": "Vazduh u planinama je svež i čist."
+    },
+    "english": {
+      "word": "air",
+      "part_of_speech": "noun",
+      "definition": "The gaseous mixture that makes up Earth's atmosphere.",
+      "example_sentence": "The air in the mountains is fresh and clean."
+    }
+  }
+}

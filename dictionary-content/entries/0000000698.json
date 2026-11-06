@@ -1,0 +1,23 @@
+{
+  "id": 698,
+  "translation": {
+    "cyrillic": {
+      "word": "осветљење",
+      "part_of_speech": "именица",
+      "definition": "Систем или процес обезбеђивања светлости.",
+      "example_sentence": "Осветљење у просторији је идеално."
+    },
+    "latin": {
+      "word": "osvetljenje",
+      "part_of_speech": "imenica",
+      "definition": "Sistem ili proces obezbeđivanja svetlosti.",
+      "example_sentence": "Osvetljenje u prostoriji je idealno."
+    },
+    "english": {
+      "word": "lighting",
+      "part_of_speech": "noun",
+      "definition": "A system or process of providing light.",
+      "example_sentence": "The lighting in the room is perfect."
+    }
+  }
+}

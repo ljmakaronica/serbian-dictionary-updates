@@ -1,0 +1,23 @@
+{
+  "id": 956,
+  "translation": {
+    "cyrillic": {
+      "word": "дати",
+      "part_of_speech": "глагол",
+      "definition": "предати некоме",
+      "example_sentence": "Дај ми књигу."
+    },
+    "latin": {
+      "word": "dati",
+      "part_of_speech": "glagol",
+      "definition": "predati nekome",
+      "example_sentence": "Daj mi knjigu."
+    },
+    "english": {
+      "word": "to give",
+      "part_of_speech": "verb",
+      "definition": "hand over to someone",
+      "example_sentence": "Give me the book."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 473,
+  "translation": {
+    "cyrillic": {
+      "word": "центар",
+      "part_of_speech": "именица",
+      "definition": "Средишњи део нечега или главна тачка.",
+      "example_sentence": "Центар града је био живописан."
+    },
+    "latin": {
+      "word": "centar",
+      "part_of_speech": "imenica",
+      "definition": "Središnji deo nečega ili glavna tačka.",
+      "example_sentence": "Centar grada je bio živopisan."
+    },
+    "english": {
+      "word": "center",
+      "part_of_speech": "noun",
+      "definition": "The middle part of something or the main point.",
+      "example_sentence": "The city center was vibrant."
+    }
+  }
+}

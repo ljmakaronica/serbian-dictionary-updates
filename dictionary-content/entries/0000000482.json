@@ -1,0 +1,23 @@
+{
+  "id": 482,
+  "translation": {
+    "cyrillic": {
+      "word": "чудо",
+      "part_of_speech": "именица",
+      "definition": "Нешто невероватно или необјашњиво.",
+      "example_sentence": "Опоравак је био право чудо."
+    },
+    "latin": {
+      "word": "čudo",
+      "part_of_speech": "imenica",
+      "definition": "Nešto neverovatno ili neobjašnjivo.",
+      "example_sentence": "Oporavak je bio pravo čudo."
+    },
+    "english": {
+      "word": "miracle",
+      "part_of_speech": "noun",
+      "definition": "Something incredible or unexplainable.",
+      "example_sentence": "The recovery was a true miracle."
+    }
+  }
+}

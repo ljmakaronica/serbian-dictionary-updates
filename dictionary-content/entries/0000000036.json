@@ -1,0 +1,23 @@
+{
+  "id": 36,
+  "translation": {
+    "cyrillic": {
+      "word": "аутошкола",
+      "part_of_speech": "именица",
+      "definition": "Установа за учење вожње аутомобила.",
+      "example_sentence": "Уписан сам у аутошколу да научим да возим."
+    },
+    "latin": {
+      "word": "autoškola",
+      "part_of_speech": "imenica",
+      "definition": "Ustanova za učenje vožnje automobila.",
+      "example_sentence": "Upisan sam u autoškolu da naučim da vozim."
+    },
+    "english": {
+      "word": "driving school",
+      "part_of_speech": "noun",
+      "definition": "An institution for learning to drive a car.",
+      "example_sentence": "I enrolled in a driving school to learn how to drive."
+    }
+  }
+}

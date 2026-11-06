@@ -1,0 +1,23 @@
+{
+  "id": 250,
+  "translation": {
+    "cyrillic": {
+      "word": "епрувета",
+      "part_of_speech": "именица",
+      "definition": "Стаклена цев која се користи у лабораторији.",
+      "example_sentence": "Научник је сипао течност у епрувету."
+    },
+    "latin": {
+      "word": "epruveta",
+      "part_of_speech": "imenica",
+      "definition": "Staklena cev koja se koristi u laboratoriji.",
+      "example_sentence": "Naučnik je sipao tečnost u epruvetu."
+    },
+    "english": {
+      "word": "test tube",
+      "part_of_speech": "noun",
+      "definition": "A glass tube used in laboratory work.",
+      "example_sentence": "The scientist poured the liquid into the test tube."
+    }
+  }
+}

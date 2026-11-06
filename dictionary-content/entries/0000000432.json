@@ -1,0 +1,23 @@
+{
+  "id": 432,
+  "translation": {
+    "cyrillic": {
+      "word": "ћерка",
+      "part_of_speech": "именица",
+      "definition": "Женско дете у односу на родитеље.",
+      "example_sentence": "Њена ћерка је била веома паметна."
+    },
+    "latin": {
+      "word": "ćerka",
+      "part_of_speech": "imenica",
+      "definition": "Žensko dete u odnosu na roditelje.",
+      "example_sentence": "Njena ćerka je bila veoma pametna."
+    },
+    "english": {
+      "word": "daughter",
+      "part_of_speech": "noun",
+      "definition": "A female child in relation to her parents.",
+      "example_sentence": "Her daughter was very smart."
+    }
+  }
+}

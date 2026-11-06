@@ -1,0 +1,23 @@
+{
+  "id": 817,
+  "translation": {
+    "cyrillic": {
+      "word": "у основи",
+      "part_of_speech": "прилог",
+      "definition": "Када се нешто сведе на суштину или најважније чињенице.",
+      "example_sentence": "У основи, сви су сагласни."
+    },
+    "latin": {
+      "word": "u osnovi",
+      "part_of_speech": "prilog",
+      "definition": "Kada se nešto svede na suštinu ili najvažnije činjenice.",
+      "example_sentence": "U osnovi, svi su saglasni."
+    },
+    "english": {
+      "word": "basically",
+      "part_of_speech": "adverb",
+      "definition": "Considering the essential or most important facts.",
+      "example_sentence": "Basically, everyone agrees."
+    }
+  }
+}

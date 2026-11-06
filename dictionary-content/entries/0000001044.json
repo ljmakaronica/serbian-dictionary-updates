@@ -1,0 +1,23 @@
+{
+  "id": 1044,
+  "translation": {
+    "cyrillic": {
+      "word": "на спрату",
+      "part_of_speech": "прилог",
+      "definition": "На вишем нивоу зграде.",
+      "example_sentence": "Спаваћа соба је на спрату."
+    },
+    "latin": {
+      "word": "na spratu",
+      "part_of_speech": "prilog",
+      "definition": "Na višem nivou zgrade.",
+      "example_sentence": "Spavaća soba je na spratu."
+    },
+    "english": {
+      "word": "upstairs",
+      "part_of_speech": "adverb",
+      "definition": "On a higher level of a building.",
+      "example_sentence": "The bedroom is upstairs."
+    }
+  }
+}

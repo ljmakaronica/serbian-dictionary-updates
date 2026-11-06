@@ -1,0 +1,23 @@
+{
+  "id": 224,
+  "translation": {
+    "cyrillic": {
+      "word": "ђубретар",
+      "part_of_speech": "именица",
+      "definition": "Особа која сакупља и односи ђубре.",
+      "example_sentence": "Ђубретар долази сваког јутра."
+    },
+    "latin": {
+      "word": "đubretar",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja sakuplja i odnosi đubre.",
+      "example_sentence": "Đubretar dolazi svakog jutra."
+    },
+    "english": {
+      "word": "garbage collector",
+      "part_of_speech": "noun",
+      "definition": "A person who collects and removes garbage.",
+      "example_sentence": "The garbage collector comes every morning."
+    }
+  }
+}

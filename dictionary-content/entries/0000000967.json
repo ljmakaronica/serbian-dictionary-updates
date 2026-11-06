@@ -1,0 +1,23 @@
+{
+  "id": 967,
+  "translation": {
+    "cyrillic": {
+      "word": "звати",
+      "part_of_speech": "глагол",
+      "definition": "позвати гласно",
+      "example_sentence": "Зовем те!"
+    },
+    "latin": {
+      "word": "zvati",
+      "part_of_speech": "glagol",
+      "definition": "pozvati glasno",
+      "example_sentence": "Zovem te!"
+    },
+    "english": {
+      "word": "to call",
+      "part_of_speech": "verb",
+      "definition": "summon loudly",
+      "example_sentence": "I call you!"
+    }
+  }
+}

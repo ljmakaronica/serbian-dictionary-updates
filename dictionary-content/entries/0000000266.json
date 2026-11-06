@@ -1,0 +1,23 @@
+{
+  "id": 266,
+  "translation": {
+    "cyrillic": {
+      "word": "експонат",
+      "part_of_speech": "именица",
+      "definition": "Предмет који се излаже у музеју или на изложби.",
+      "example_sentence": "Овај експонат је из римског периода."
+    },
+    "latin": {
+      "word": "eksponat",
+      "part_of_speech": "imenica",
+      "definition": "Predmet koji se izlaže u muzeju ili na izložbi.",
+      "example_sentence": "Ovaj eksponat je iz rimskog perioda."
+    },
+    "english": {
+      "word": "exhibit",
+      "part_of_speech": "noun",
+      "definition": "An object displayed in a museum or exhibition.",
+      "example_sentence": "This exhibit is from the Roman period."
+    }
+  }
+}

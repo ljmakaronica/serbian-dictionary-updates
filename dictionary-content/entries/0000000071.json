@@ -1,0 +1,23 @@
+{
+  "id": 71,
+  "translation": {
+    "cyrillic": {
+      "word": "акушерка",
+      "part_of_speech": "именица",
+      "definition": "Медицинска сестра специјализована за порођај.",
+      "example_sentence": "Акушерка је помогла мајци током порођаја."
+    },
+    "latin": {
+      "word": "akušerka",
+      "part_of_speech": "imenica",
+      "definition": "Medicinska sestra specijalizovana za porođaj.",
+      "example_sentence": "Akušerka je pomogla majci tokom porođaja."
+    },
+    "english": {
+      "word": "midwife",
+      "part_of_speech": "noun",
+      "definition": "A nurse specialized in childbirth.",
+      "example_sentence": "The midwife assisted the mother during delivery."
+    }
+  }
+}

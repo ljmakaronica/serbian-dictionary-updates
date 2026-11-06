@@ -1,0 +1,23 @@
+{
+  "id": 929,
+  "translation": {
+    "cyrillic": {
+      "word": "време",
+      "part_of_speech": "именица",
+      "definition": "тренутак или период",
+      "example_sentence": "Немам времена сада."
+    },
+    "latin": {
+      "word": "vreme",
+      "part_of_speech": "imenica",
+      "definition": "trenutak ili period",
+      "example_sentence": "Nemam vremena sada."
+    },
+    "english": {
+      "word": "time",
+      "part_of_speech": "noun",
+      "definition": "moment or period",
+      "example_sentence": "I have no time now."
+    }
+  }
+}

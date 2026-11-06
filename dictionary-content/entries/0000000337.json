@@ -1,0 +1,23 @@
+{
+  "id": 337,
+  "translation": {
+    "cyrillic": {
+      "word": "краљ",
+      "part_of_speech": "именица",
+      "definition": "Монарх који влада краљевством.",
+      "example_sentence": "Краљ је био познат по својој мудрости."
+    },
+    "latin": {
+      "word": "kralj",
+      "part_of_speech": "imenica",
+      "definition": "Monarh koji vlada kraljevstvom.",
+      "example_sentence": "Kralj je bio poznat po svojoj mudrosti."
+    },
+    "english": {
+      "word": "king",
+      "part_of_speech": "noun",
+      "definition": "A monarch who rules a kingdom.",
+      "example_sentence": "The king was known for his wisdom."
+    }
+  }
+}

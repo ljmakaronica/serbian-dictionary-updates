@@ -1,0 +1,23 @@
+{
+  "id": 669,
+  "translation": {
+    "cyrillic": {
+      "word": "сећање",
+      "part_of_speech": "именица",
+      "definition": "Представа о догађају или доживљају из прошлости која се задржала у памћењу.",
+      "example_sentence": "Сећање на детинство је драгоцено."
+    },
+    "latin": {
+      "word": "sećanje",
+      "part_of_speech": "imenica",
+      "definition": "Predstava o događaju ili doživljaju iz prošlosti koja se zadržala u pamćenju.",
+      "example_sentence": "Sećanje na detinjstvo je dragoceno."
+    },
+    "english": {
+      "word": "memory",
+      "part_of_speech": "noun",
+      "definition": "A recollection of an event or experience from the past.",
+      "example_sentence": "Memory of childhood is precious."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 980,
+  "translation": {
+    "cyrillic": {
+      "word": "прав",
+      "part_of_speech": "придев",
+      "definition": "тачан",
+      "example_sentence": "То је права адреса."
+    },
+    "latin": {
+      "word": "prav",
+      "part_of_speech": "pridev",
+      "definition": "tačan",
+      "example_sentence": "To je prava adresa."
+    },
+    "english": {
+      "word": "right",
+      "part_of_speech": "adjective",
+      "definition": "correct",
+      "example_sentence": "That is the right address."
+    }
+  }
+}

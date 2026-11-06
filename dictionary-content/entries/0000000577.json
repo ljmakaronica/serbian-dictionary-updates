@@ -1,0 +1,23 @@
+{
+  "id": 577,
+  "translation": {
+    "cyrillic": {
+      "word": "велик",
+      "part_of_speech": "придев",
+      "definition": "Великих размера или обима.",
+      "example_sentence": "Ова кућа је веома велика."
+    },
+    "latin": {
+      "word": "velik",
+      "part_of_speech": "pridev",
+      "definition": "Velikih razmera ili obima.",
+      "example_sentence": "Ova kuća je veoma velika."
+    },
+    "english": {
+      "word": "big",
+      "part_of_speech": "adjective",
+      "definition": "Large in size or extent.",
+      "example_sentence": "This house is very big."
+    }
+  }
+}

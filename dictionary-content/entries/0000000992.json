@@ -1,0 +1,23 @@
+{
+  "id": 992,
+  "translation": {
+    "cyrillic": {
+      "word": "довиђења",
+      "part_of_speech": "узвик",
+      "definition": "поздрав на растанку",
+      "example_sentence": "Довиђења! Видимо се."
+    },
+    "latin": {
+      "word": "doviđenja",
+      "part_of_speech": "uzvik",
+      "definition": "pozdrav na rastanku",
+      "example_sentence": "Doviđenja! Vidimo se."
+    },
+    "english": {
+      "word": "goodbye",
+      "part_of_speech": "interjection",
+      "definition": "parting greeting",
+      "example_sentence": "Goodbye! See you."
+    }
+  }
+}

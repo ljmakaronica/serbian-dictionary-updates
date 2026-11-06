@@ -1,0 +1,23 @@
+{
+  "id": 338,
+  "translation": {
+    "cyrillic": {
+      "word": "круна",
+      "part_of_speech": "именица",
+      "definition": "Симболични украс који носи владар.",
+      "example_sentence": "Круна је била израђена од злата и драгуља."
+    },
+    "latin": {
+      "word": "kruna",
+      "part_of_speech": "imenica",
+      "definition": "Simbolični ukras koji nosi vladar.",
+      "example_sentence": "Kruna je bila izrađena od zlata i dragulja."
+    },
+    "english": {
+      "word": "crown",
+      "part_of_speech": "noun",
+      "definition": "A symbolic ornament worn by a ruler.",
+      "example_sentence": "The crown was made of gold and jewels."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 931,
+  "translation": {
+    "cyrillic": {
+      "word": "музика",
+      "part_of_speech": "именица",
+      "definition": "звучна уметност",
+      "example_sentence": "Слушам музику сваки дан."
+    },
+    "latin": {
+      "word": "muzika",
+      "part_of_speech": "imenica",
+      "definition": "zvučna umetnost",
+      "example_sentence": "Slušam muziku svaki dan."
+    },
+    "english": {
+      "word": "music",
+      "part_of_speech": "noun",
+      "definition": "art of sound",
+      "example_sentence": "I listen to music every day."
+    }
+  }
+}

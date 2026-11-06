@@ -1,0 +1,23 @@
+{
+  "id": 675,
+  "translation": {
+    "cyrillic": {
+      "word": "историја",
+      "part_of_speech": "именица",
+      "definition": "Запис прошлости и догађаја.",
+      "example_sentence": "Историја нам говори о старим временима."
+    },
+    "latin": {
+      "word": "istorija",
+      "part_of_speech": "imenica",
+      "definition": "Zapis prošlosti i događaja.",
+      "example_sentence": "Istorija nam govori o starim vremenima."
+    },
+    "english": {
+      "word": "history",
+      "part_of_speech": "noun",
+      "definition": "The record of past events.",
+      "example_sentence": "History tells us about old times."
+    }
+  }
+}

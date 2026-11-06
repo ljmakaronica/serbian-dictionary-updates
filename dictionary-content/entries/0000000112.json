@@ -1,0 +1,23 @@
+{
+  "id": 112,
+  "translation": {
+    "cyrillic": {
+      "word": "буђење",
+      "part_of_speech": "именица",
+      "definition": "Процес преласка из сна у будно стање.",
+      "example_sentence": "Буђење рано ујутру ми тешко пада."
+    },
+    "latin": {
+      "word": "buđenje",
+      "part_of_speech": "imenica",
+      "definition": "Proces prelaska iz sna u budno stanje.",
+      "example_sentence": "Buđenje rano ujutru mi teško pada."
+    },
+    "english": {
+      "word": "awakening",
+      "part_of_speech": "noun",
+      "definition": "The process of transitioning from sleep to wakefulness.",
+      "example_sentence": "Early morning awakening is difficult for me."
+    }
+  }
+}

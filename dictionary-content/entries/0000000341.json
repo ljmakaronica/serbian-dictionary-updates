@@ -1,0 +1,23 @@
+{
+  "id": 341,
+  "translation": {
+    "cyrillic": {
+      "word": "књижара",
+      "part_of_speech": "именица",
+      "definition": "Продавница у којој се продају књиге.",
+      "example_sentence": "У књижари сам купио нови роман."
+    },
+    "latin": {
+      "word": "knjižara",
+      "part_of_speech": "imenica",
+      "definition": "Prodavnica u kojoj se prodaju knjige.",
+      "example_sentence": "U knjižari sam kupio novi roman."
+    },
+    "english": {
+      "word": "bookstore",
+      "part_of_speech": "noun",
+      "definition": "A store where books are sold.",
+      "example_sentence": "I bought a new novel at the bookstore."
+    }
+  }
+}

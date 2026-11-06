@@ -1,0 +1,23 @@
+{
+  "id": 50,
+  "translation": {
+    "cyrillic": {
+      "word": "аутистичан",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на аутизам или има особине аутизма.",
+      "example_sentence": "Аутистична деца имају посебне потребе у образовању."
+    },
+    "latin": {
+      "word": "autističan",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na autizam ili ima osobine autizma.",
+      "example_sentence": "Autistična deca imaju posebne potrebe u obrazovanju."
+    },
+    "english": {
+      "word": "autistic",
+      "part_of_speech": "adjective",
+      "definition": "Relating to autism or having characteristics of autism.",
+      "example_sentence": "Autistic children have special educational needs."
+    }
+  }
+}

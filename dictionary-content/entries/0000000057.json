@@ -1,0 +1,23 @@
+{
+  "id": 57,
+  "translation": {
+    "cyrillic": {
+      "word": "авантура",
+      "part_of_speech": "именица",
+      "definition": "Неочекивано или узбудљиво искуство.",
+      "example_sentence": "Њихов пут по Јужној Америци био је права авантура."
+    },
+    "latin": {
+      "word": "avantura",
+      "part_of_speech": "imenica",
+      "definition": "Neočekivano ili uzbudljivo iskustvo.",
+      "example_sentence": "Njihov put po Južnoj Americi bio je prava avantura."
+    },
+    "english": {
+      "word": "adventure",
+      "part_of_speech": "noun",
+      "definition": "An unexpected or exciting experience.",
+      "example_sentence": "Their trip through South America was a real adventure."
+    }
+  }
+}

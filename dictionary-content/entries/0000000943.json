@@ -1,0 +1,23 @@
+{
+  "id": 943,
+  "translation": {
+    "cyrillic": {
+      "word": "млад",
+      "part_of_speech": "придев",
+      "definition": "у раним годинама",
+      "example_sentence": "Она је млада девојка."
+    },
+    "latin": {
+      "word": "mlad",
+      "part_of_speech": "pridev",
+      "definition": "u ranim godinama",
+      "example_sentence": "Ona je mlada devojka."
+    },
+    "english": {
+      "word": "young",
+      "part_of_speech": "adjective",
+      "definition": "in early years",
+      "example_sentence": "She is a young girl."
+    }
+  }
+}

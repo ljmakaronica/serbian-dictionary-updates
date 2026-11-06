@@ -1,0 +1,23 @@
+{
+  "id": 227,
+  "translation": {
+    "cyrillic": {
+      "word": "европа",
+      "part_of_speech": "именица",
+      "definition": "Континент који се налази северно од Медитерана.",
+      "example_sentence": "Многе земље у Европи су чланице Европске уније."
+    },
+    "latin": {
+      "word": "evropa",
+      "part_of_speech": "imenica",
+      "definition": "Kontinent koji se nalazi severno od Mediterana.",
+      "example_sentence": "Mnoge zemlje u Evropi su članice Evropske unije."
+    },
+    "english": {
+      "word": "Europe",
+      "part_of_speech": "noun",
+      "definition": "The continent located north of the Mediterranean.",
+      "example_sentence": "Many countries in Europe are members of the European Union."
+    }
+  }
+}

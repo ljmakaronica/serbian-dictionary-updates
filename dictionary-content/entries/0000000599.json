@@ -1,0 +1,23 @@
+{
+  "id": 599,
+  "translation": {
+    "cyrillic": {
+      "word": "продати",
+      "part_of_speech": "глагол",
+      "definition": "Дати нешто у замену за новац.",
+      "example_sentence": "Продао сам свој стари аутомобил."
+    },
+    "latin": {
+      "word": "prodati",
+      "part_of_speech": "glagol",
+      "definition": "Dati nešto u zamenu za novac.",
+      "example_sentence": "Prodao sam svoj stari automobil."
+    },
+    "english": {
+      "word": "to sell",
+      "part_of_speech": "verb",
+      "definition": "To give something in exchange for money.",
+      "example_sentence": "I sold my old car."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 375,
+  "translation": {
+    "cyrillic": {
+      "word": "навика",
+      "part_of_speech": "именица",
+      "definition": "Понашање које се понавља и постаје уобичајено.",
+      "example_sentence": "Пушење је лоша навика."
+    },
+    "latin": {
+      "word": "navika",
+      "part_of_speech": "imenica",
+      "definition": "Ponašanje koje se ponavlja i postaje uobičajeno.",
+      "example_sentence": "Pušenje je loša navika."
+    },
+    "english": {
+      "word": "habit",
+      "part_of_speech": "noun",
+      "definition": "A behavior that is repeated and becomes usual.",
+      "example_sentence": "Smoking is a bad habit."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 439,
+  "translation": {
+    "cyrillic": {
+      "word": "учење",
+      "part_of_speech": "именица",
+      "definition": "Процес стицања знања или вештина.",
+      "example_sentence": "Учење је кључ успеха."
+    },
+    "latin": {
+      "word": "učenje",
+      "part_of_speech": "imenica",
+      "definition": "Proces sticanja znanja ili veština.",
+      "example_sentence": "Učenje je ključ uspeha."
+    },
+    "english": {
+      "word": "learning",
+      "part_of_speech": "noun",
+      "definition": "The process of acquiring knowledge or skills.",
+      "example_sentence": "Learning is the key to success."
+    }
+  }
+}

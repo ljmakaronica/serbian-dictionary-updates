@@ -1,0 +1,23 @@
+{
+  "id": 623,
+  "translation": {
+    "cyrillic": {
+      "word": "вентилатор",
+      "part_of_speech": "именица",
+      "definition": "Уређај за стварање ветра.",
+      "example_sentence": "Користим вентилатор у лето."
+    },
+    "latin": {
+      "word": "ventilator",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za stvaranje vetra.",
+      "example_sentence": "Koristim ventilator u leto."
+    },
+    "english": {
+      "word": "fan",
+      "part_of_speech": "noun",
+      "definition": "A device for creating airflow.",
+      "example_sentence": "I use a fan in the summer."
+    }
+  }
+}

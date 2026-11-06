@@ -1,0 +1,23 @@
+{
+  "id": 544,
+  "translation": {
+    "cyrillic": {
+      "word": "први",
+      "part_of_speech": "придев",
+      "definition": "Који по реду долази пре свих осталих.",
+      "example_sentence": "Он је први у реду."
+    },
+    "latin": {
+      "word": "prvi",
+      "part_of_speech": "pridev",
+      "definition": "Koji po redu dolazi pre svih ostalih.",
+      "example_sentence": "On je prvi u redu."
+    },
+    "english": {
+      "word": "first",
+      "part_of_speech": "adjective",
+      "definition": "Coming before all others in order.",
+      "example_sentence": "He is first in line."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 645,
+  "translation": {
+    "cyrillic": {
+      "word": "учитељ",
+      "part_of_speech": "именица",
+      "definition": "Особа која предаје знање у образовним институцијама.",
+      "example_sentence": "Учитељ објашњава нови концепт."
+    },
+    "latin": {
+      "word": "učitelj",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja prenosi znanje u obrazovnim institucijama.",
+      "example_sentence": "Učitelj objašnjava novi koncept."
+    },
+    "english": {
+      "word": "teacher",
+      "part_of_speech": "noun",
+      "definition": "A person who imparts knowledge in educational institutions.",
+      "example_sentence": "The teacher explains a new concept."
+    }
+  }
+}

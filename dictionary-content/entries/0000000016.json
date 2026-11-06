@@ -1,0 +1,23 @@
+{
+  "id": 16,
+  "translation": {
+    "cyrillic": {
+      "word": "африканац",
+      "part_of_speech": "именица",
+      "definition": "Особа која је пореклом из Африке или живи у Африци.",
+      "example_sentence": "Упознао сам африканца који студира медицину."
+    },
+    "latin": {
+      "word": "afrikanac",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja je poreklom iz Afrike ili živi u Africi.",
+      "example_sentence": "Upoznao sam afrikanca koji studira medicinu."
+    },
+    "english": {
+      "word": "African",
+      "part_of_speech": "noun",
+      "definition": "A person who is from Africa or lives in Africa.",
+      "example_sentence": "I met an African who studies medicine."
+    }
+  }
+}

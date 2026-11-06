@@ -1,0 +1,23 @@
+{
+  "id": 134,
+  "translation": {
+    "cyrillic": {
+      "word": "врста",
+      "part_of_speech": "именица",
+      "definition": "Категорија или тип нечега.",
+      "example_sentence": "Ова врста дрвета расте брзо."
+    },
+    "latin": {
+      "word": "vrsta",
+      "part_of_speech": "imenica",
+      "definition": "Kategorija ili tip nečega.",
+      "example_sentence": "Ova vrsta drveta raste brzo."
+    },
+    "english": {
+      "word": "type",
+      "part_of_speech": "noun",
+      "definition": "A category or kind of something.",
+      "example_sentence": "This type of tree grows quickly."
+    }
+  }
+}

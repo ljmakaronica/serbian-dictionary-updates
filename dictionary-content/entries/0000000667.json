@@ -1,0 +1,23 @@
+{
+  "id": 667,
+  "translation": {
+    "cyrillic": {
+      "word": "језик",
+      "part_of_speech": "именица",
+      "definition": "Систем комуникације који се састоји од речи и правила.",
+      "example_sentence": "Мој језик је српски."
+    },
+    "latin": {
+      "word": "jezik",
+      "part_of_speech": "imenica",
+      "definition": "Sistem komunikacije koji se sastoji od reči i pravila.",
+      "example_sentence": "Moj jezik je srpski."
+    },
+    "english": {
+      "word": "language",
+      "part_of_speech": "noun",
+      "definition": "A system of communication made up of words and rules.",
+      "example_sentence": "My native language is Serbian."
+    }
+  }
+}

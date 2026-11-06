@@ -1,0 +1,23 @@
+{
+  "id": 563,
+  "translation": {
+    "cyrillic": {
+      "word": "играти",
+      "part_of_speech": "глагол",
+      "definition": "Кретати се у ритму музике.",
+      "example_sentence": "Волим да играм на журкама."
+    },
+    "latin": {
+      "word": "igrati",
+      "part_of_speech": "glagol",
+      "definition": "Kretati se u ritmu muzike.",
+      "example_sentence": "Volim da igram na žurkama."
+    },
+    "english": {
+      "word": "to dance",
+      "part_of_speech": "verb",
+      "definition": "To move rhythmically to music.",
+      "example_sentence": "I love to dance at parties."
+    }
+  }
+}

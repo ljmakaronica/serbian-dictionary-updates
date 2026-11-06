@@ -1,0 +1,23 @@
+{
+  "id": 719,
+  "translation": {
+    "cyrillic": {
+      "word": "сматрати",
+      "part_of_speech": "глагол",
+      "definition": "Размишљање и процена нечега пре закључка.",
+      "example_sentence": "Она сматра да је то добра идеја."
+    },
+    "latin": {
+      "word": "smatrati",
+      "part_of_speech": "glagol",
+      "definition": "Razmišljanje i procena nečega pre zaključka.",
+      "example_sentence": "Ona smatra da je to dobra ideja."
+    },
+    "english": {
+      "word": "consider",
+      "part_of_speech": "verb",
+      "definition": "To think about something carefully before concluding.",
+      "example_sentence": "She considers it a good idea."
+    }
+  }
+}

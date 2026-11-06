@@ -1,0 +1,23 @@
+{
+  "id": 843,
+  "translation": {
+    "cyrillic": {
+      "word": "дуго",
+      "part_of_speech": "прилог",
+      "definition": "На начин који траје дуже време.",
+      "example_sentence": "Она дуго размишља пре него што донесе одлуку."
+    },
+    "latin": {
+      "word": "dugo",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji traje duže vreme.",
+      "example_sentence": "Ona dugo razmišlja pre nego što donese odluku."
+    },
+    "english": {
+      "word": "long",
+      "part_of_speech": "adverb",
+      "definition": "For an extended period of time.",
+      "example_sentence": "She thinks for a long time before making a decision."
+    }
+  }
+}

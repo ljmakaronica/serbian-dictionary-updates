@@ -1,0 +1,23 @@
+{
+  "id": 996,
+  "translation": {
+    "cyrillic": {
+      "word": "до",
+      "part_of_speech": "предлог",
+      "definition": "ка месту или особи",
+      "example_sentence": "Идем до куће."
+    },
+    "latin": {
+      "word": "do",
+      "part_of_speech": "predlog",
+      "definition": "ka mestu ili osobi",
+      "example_sentence": "Idem do kuće."
+    },
+    "english": {
+      "word": "to",
+      "part_of_speech": "preposition",
+      "definition": "toward place or person",
+      "example_sentence": "I go to the house."
+    }
+  }
+}

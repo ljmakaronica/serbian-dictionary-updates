@@ -1,0 +1,23 @@
+{
+  "id": 969,
+  "translation": {
+    "cyrillic": {
+      "word": "питати",
+      "part_of_speech": "глагол",
+      "definition": "поставити питање",
+      "example_sentence": "Питам га."
+    },
+    "latin": {
+      "word": "pitati",
+      "part_of_speech": "glagol",
+      "definition": "postaviti pitanje",
+      "example_sentence": "Pitam ga."
+    },
+    "english": {
+      "word": "to ask",
+      "part_of_speech": "verb",
+      "definition": "pose a question",
+      "example_sentence": "I ask him."
+    }
+  }
+}

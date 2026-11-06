@@ -1,0 +1,23 @@
+{
+  "id": 815,
+  "translation": {
+    "cyrillic": {
+      "word": "јасно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је лак за разумевање.",
+      "example_sentence": "Она јасно објашњава своје идеје."
+    },
+    "latin": {
+      "word": "jasno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je lak za razumevanje.",
+      "example_sentence": "Ona jasno objašnjava svoje ideje."
+    },
+    "english": {
+      "word": "clearly",
+      "part_of_speech": "adverb",
+      "definition": "In a way that is easy to perceive or understand.",
+      "example_sentence": "She explains her ideas clearly."
+    }
+  }
+}

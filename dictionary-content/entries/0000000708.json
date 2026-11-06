@@ -1,0 +1,23 @@
+{
+  "id": 708,
+  "translation": {
+    "cyrillic": {
+      "word": "разговарати",
+      "part_of_speech": "глагол",
+      "definition": "Узастопна размена речи.",
+      "example_sentence": "Пријатељи разговарају у кафани."
+    },
+    "latin": {
+      "word": "razgovarati",
+      "part_of_speech": "glagol",
+      "definition": "Uzastopna razmena reči.",
+      "example_sentence": "Prijatelji razgovaraju u kafani."
+    },
+    "english": {
+      "word": "converse",
+      "part_of_speech": "verb",
+      "definition": "To exchange conversation.",
+      "example_sentence": "Friends converse at the cafe."
+    }
+  }
+}

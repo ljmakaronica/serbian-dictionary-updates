@@ -1,0 +1,23 @@
+{
+  "id": 448,
+  "translation": {
+    "cyrillic": {
+      "word": "фарба",
+      "part_of_speech": "именица",
+      "definition": "Супстанца која се користи за бојење.",
+      "example_sentence": "Купио сам фарбу за рестаурацију намештаја."
+    },
+    "latin": {
+      "word": "farba",
+      "part_of_speech": "imenica",
+      "definition": "Supstanca koja se koristi za bojenje.",
+      "example_sentence": "Kupio sam farbu za restauraciju nameštaja."
+    },
+    "english": {
+      "word": "paint",
+      "part_of_speech": "noun",
+      "definition": "A substance used for coloring.",
+      "example_sentence": "I bought paint to restore the furniture."
+    }
+  }
+}

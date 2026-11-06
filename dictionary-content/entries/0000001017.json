@@ -1,0 +1,23 @@
+{
+  "id": 1017,
+  "translation": {
+    "cyrillic": {
+      "word": "сок",
+      "part_of_speech": "именица",
+      "definition": "Течност која се добија из воћа или поврћа.",
+      "example_sentence": "Пије поморанџин сок."
+    },
+    "latin": {
+      "word": "sok",
+      "part_of_speech": "imenica",
+      "definition": "Tečnost koja se dobija iz voća ili povrća.",
+      "example_sentence": "Pije pomorandžin sok."
+    },
+    "english": {
+      "word": "juice",
+      "part_of_speech": "noun",
+      "definition": "Liquid extracted from fruits or vegetables.",
+      "example_sentence": "He drinks orange juice."
+    }
+  }
+}

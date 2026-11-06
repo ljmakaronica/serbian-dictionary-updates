@@ -1,0 +1,23 @@
+{
+  "id": 753,
+  "translation": {
+    "cyrillic": {
+      "word": "правити",
+      "part_of_speech": "глагол",
+      "definition": "Стварати или израђивати нешто.",
+      "example_sentence": "Он прави играчке од дрвета."
+    },
+    "latin": {
+      "word": "praviti",
+      "part_of_speech": "glagol",
+      "definition": "Stvarati ili izrađivati nešto.",
+      "example_sentence": "On pravi igračke od drveta."
+    },
+    "english": {
+      "word": "create",
+      "part_of_speech": "verb",
+      "definition": "To bring something into existence.",
+      "example_sentence": "He makes toys out of wood."
+    }
+  }
+}

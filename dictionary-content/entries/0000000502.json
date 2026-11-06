@@ -1,0 +1,23 @@
+{
+  "id": 502,
+  "translation": {
+    "cyrillic": {
+      "word": "шлаг",
+      "part_of_speech": "именица",
+      "definition": "Слатко украшавање за десерте.",
+      "example_sentence": "Шлаг је био савршен за торту."
+    },
+    "latin": {
+      "word": "šlag",
+      "part_of_speech": "imenica",
+      "definition": "Slatko ukrašavanje za deserte.",
+      "example_sentence": "Šlag je bio savršen za tortu."
+    },
+    "english": {
+      "word": "whipped cream",
+      "part_of_speech": "noun",
+      "definition": "A sweet topping for desserts.",
+      "example_sentence": "The whipped cream was perfect for the cake."
+    }
+  }
+}

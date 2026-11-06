@@ -1,0 +1,23 @@
+{
+  "id": 1080,
+  "translation": {
+    "cyrillic": {
+      "word": "нула",
+      "part_of_speech": "именица",
+      "definition": "Број који означава одсуство количине.",
+      "example_sentence": "Резултат је био нула."
+    },
+    "latin": {
+      "word": "nula",
+      "part_of_speech": "imenica",
+      "definition": "Broj koji označava odsustvo količine.",
+      "example_sentence": "Rezultat je bio nula."
+    },
+    "english": {
+      "word": "zero",
+      "part_of_speech": "noun",
+      "definition": "A number indicating the absence of quantity.",
+      "example_sentence": "The result was zero."
+    }
+  }
+}

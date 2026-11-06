@@ -1,0 +1,23 @@
+{
+  "id": 8,
+  "translation": {
+    "cyrillic": {
+      "word": "африка",
+      "part_of_speech": "именица",
+      "definition": "Континент јужно од Европе и Азије.",
+      "example_sentence": "Сафари у Африци је био незаборавно искуство."
+    },
+    "latin": {
+      "word": "afrika",
+      "part_of_speech": "imenica",
+      "definition": "Kontinent južno od Evrope i Azije.",
+      "example_sentence": "Safari u Africi je bio nezaboravno iskustvo."
+    },
+    "english": {
+      "word": "Africa",
+      "part_of_speech": "noun",
+      "definition": "The continent south of Europe and Asia.",
+      "example_sentence": "The safari in Africa was an unforgettable experience."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 35,
+  "translation": {
+    "cyrillic": {
+      "word": "аутономан",
+      "part_of_speech": "придев",
+      "definition": "Који има право на самостално управљање.",
+      "example_sentence": "Аутономна покрајина има своју владу."
+    },
+    "latin": {
+      "word": "autonoman",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima pravo na samostalno upravljanje.",
+      "example_sentence": "Autonomna pokrajina ima svoju vladu."
+    },
+    "english": {
+      "word": "autonomous",
+      "part_of_speech": "adjective",
+      "definition": "Having the right to self-governance.",
+      "example_sentence": "The autonomous province has its own government."
+    }
+  }
+}

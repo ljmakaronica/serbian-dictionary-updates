@@ -1,0 +1,23 @@
+{
+  "id": 107,
+  "translation": {
+    "cyrillic": {
+      "word": "бранити",
+      "part_of_speech": "глагол",
+      "definition": "Штитити од напада или критике.",
+      "example_sentence": "Адвокат брани свог клијента на суду."
+    },
+    "latin": {
+      "word": "braniti",
+      "part_of_speech": "glagol",
+      "definition": "Štititi od napada ili kritike.",
+      "example_sentence": "Advokat brani svog klijenta na sudu."
+    },
+    "english": {
+      "word": "defend",
+      "part_of_speech": "verb",
+      "definition": "To protect from attack or criticism.",
+      "example_sentence": "The lawyer defends their client in court."
+    }
+  }
+}

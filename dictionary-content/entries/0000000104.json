@@ -1,0 +1,23 @@
+{
+  "id": 104,
+  "translation": {
+    "cyrillic": {
+      "word": "бајка",
+      "part_of_speech": "именица",
+      "definition": "Измишљена прича са често магичним елементима.",
+      "example_sentence": "Деца воле да слушају бајке пре спавања."
+    },
+    "latin": {
+      "word": "bajka",
+      "part_of_speech": "imenica",
+      "definition": "Izmišljena priča sa često magičnim elementima.",
+      "example_sentence": "Deca vole da slušaju bajke pre spavanja."
+    },
+    "english": {
+      "word": "fairy tale",
+      "part_of_speech": "noun",
+      "definition": "A fictional story often with magical elements.",
+      "example_sentence": "Children love to listen to fairy tales before bedtime."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 179,
+  "translation": {
+    "cyrillic": {
+      "word": "главар",
+      "part_of_speech": "именица",
+      "definition": "Лидер или вођа неке групе или заједнице.",
+      "example_sentence": "Главар племена разговара са својим људима."
+    },
+    "latin": {
+      "word": "glavar",
+      "part_of_speech": "imenica",
+      "definition": "Lider ili vođa neke grupe ili zajednice.",
+      "example_sentence": "Glavar plemena razgovara sa svojim ljudima."
+    },
+    "english": {
+      "word": "chief",
+      "part_of_speech": "noun",
+      "definition": "A leader or head of a group or community.",
+      "example_sentence": "The chief of the tribe is talking to his people."
+    }
+  }
+}

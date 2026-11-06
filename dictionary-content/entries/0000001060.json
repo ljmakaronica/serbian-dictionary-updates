@@ -1,0 +1,23 @@
+{
+  "id": 1060,
+  "translation": {
+    "cyrillic": {
+      "word": "четвртина",
+      "part_of_speech": "именица",
+      "definition": "Један од четири једнака дела.",
+      "example_sentence": "Појела је четвртину пице."
+    },
+    "latin": {
+      "word": "četvrtina",
+      "part_of_speech": "imenica",
+      "definition": "Jedan od četiri jednaka dela.",
+      "example_sentence": "Pojela je četvrtinu pice."
+    },
+    "english": {
+      "word": "quarter",
+      "part_of_speech": "noun",
+      "definition": "One of four equal parts.",
+      "example_sentence": "She ate a quarter of the pizza."
+    }
+  }
+}

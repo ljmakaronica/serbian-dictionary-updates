@@ -1,0 +1,23 @@
+{
+  "id": 520,
+  "translation": {
+    "cyrillic": {
+      "word": "осам",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 8.",
+      "example_sentence": "Имам осам јаја."
+    },
+    "latin": {
+      "word": "osam",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 8.",
+      "example_sentence": "Imam osam jaja."
+    },
+    "english": {
+      "word": "eight",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 8.",
+      "example_sentence": "I have eight eggs."
+    }
+  }
+}

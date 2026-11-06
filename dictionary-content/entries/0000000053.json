@@ -1,0 +1,23 @@
+{
+  "id": 53,
+  "translation": {
+    "cyrillic": {
+      "word": "ауспух",
+      "part_of_speech": "именица",
+      "definition": "Део аутомобила који избацује издувне гасове.",
+      "example_sentence": "Ауспух мог аутомобила је оштећен и треба га заменити."
+    },
+    "latin": {
+      "word": "auspuh",
+      "part_of_speech": "imenica",
+      "definition": "Deo automobila koji izbacuje izduvne gasove.",
+      "example_sentence": "Auspuh mog automobila je oštećen i treba ga zameniti."
+    },
+    "english": {
+      "word": "exhaust",
+      "part_of_speech": "noun",
+      "definition": "The part of a car that expels exhaust gases.",
+      "example_sentence": "The exhaust of my car is damaged and needs to be replaced."
+    }
+  }
+}

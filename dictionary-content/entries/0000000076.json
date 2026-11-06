@@ -1,0 +1,23 @@
+{
+  "id": 76,
+  "translation": {
+    "cyrillic": {
+      "word": "брзина",
+      "part_of_speech": "именица",
+      "definition": "Степен или мера којом се нешто креће или одвија.",
+      "example_sentence": "Брзина аутомобила је била превелика за градску вожњу."
+    },
+    "latin": {
+      "word": "brzina",
+      "part_of_speech": "imenica",
+      "definition": "Stepen ili mera kojom se nešto kreće ili odvija.",
+      "example_sentence": "Brzina automobila je bila prevelika za gradsku vožnju."
+    },
+    "english": {
+      "word": "speed",
+      "part_of_speech": "noun",
+      "definition": "The rate or measure at which something moves or happens.",
+      "example_sentence": "The car's speed was too high for city driving."
+    }
+  }
+}

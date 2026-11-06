@@ -1,0 +1,23 @@
+{
+  "id": 540,
+  "translation": {
+    "cyrillic": {
+      "word": "сто",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 100.",
+      "example_sentence": "Имам сто књига."
+    },
+    "latin": {
+      "word": "sto",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 100.",
+      "example_sentence": "Imam sto knjiga."
+    },
+    "english": {
+      "word": "one hundred",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 100.",
+      "example_sentence": "I have one hundred books."
+    }
+  }
+}

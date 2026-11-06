@@ -1,0 +1,23 @@
+{
+  "id": 935,
+  "translation": {
+    "cyrillic": {
+      "word": "посао",
+      "part_of_speech": "именица",
+      "definition": "запослење или задатак",
+      "example_sentence": "Идем на посао."
+    },
+    "latin": {
+      "word": "posao",
+      "part_of_speech": "imenica",
+      "definition": "zaposlenje ili zadatak",
+      "example_sentence": "Idem na posao."
+    },
+    "english": {
+      "word": "work",
+      "part_of_speech": "noun",
+      "definition": "employment or task",
+      "example_sentence": "I go to work."
+    }
+  }
+}

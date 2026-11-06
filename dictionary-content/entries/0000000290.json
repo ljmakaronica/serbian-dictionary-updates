@@ -1,0 +1,23 @@
+{
+  "id": 290,
+  "translation": {
+    "cyrillic": {
+      "word": "еколошки",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на екологију и животну средину.",
+      "example_sentence": "Ово је еколошки производ."
+    },
+    "latin": {
+      "word": "ekološki",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na ekologiju i životnu sredinu.",
+      "example_sentence": "Ovo je ekološki proizvod."
+    },
+    "english": {
+      "word": "ecological",
+      "part_of_speech": "adjective",
+      "definition": "Relating to ecology and environment.",
+      "example_sentence": "This is an ecological product."
+    }
+  }
+}

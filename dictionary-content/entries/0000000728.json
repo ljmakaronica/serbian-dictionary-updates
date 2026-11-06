@@ -1,0 +1,23 @@
+{
+  "id": 728,
+  "translation": {
+    "cyrillic": {
+      "word": "истраживати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство проучавања или истраживања нечега.",
+      "example_sentence": "Полиција истражује случај."
+    },
+    "latin": {
+      "word": "istraživati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo proučavanja ili istraživanja nečega.",
+      "example_sentence": "Policija istražuje slučaj."
+    },
+    "english": {
+      "word": "investigate",
+      "part_of_speech": "verb",
+      "definition": "To carry out research or study into a subject.",
+      "example_sentence": "The police are investigating the case."
+    }
+  }
+}

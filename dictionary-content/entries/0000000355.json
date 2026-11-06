@@ -1,0 +1,23 @@
+{
+  "id": 355,
+  "translation": {
+    "cyrillic": {
+      "word": "лењив",
+      "part_of_speech": "придев",
+      "definition": "Који не воли да ради или се труди.",
+      "example_sentence": "Лењив ученик није учио за тест."
+    },
+    "latin": {
+      "word": "lenjiv",
+      "part_of_speech": "pridev",
+      "definition": "Koji ne voli da radi ili se trudi.",
+      "example_sentence": "Lenjiv učenik nije učio za test."
+    },
+    "english": {
+      "word": "lazy",
+      "part_of_speech": "adjective",
+      "definition": "Not willing to work or make an effort.",
+      "example_sentence": "The lazy student didn't study for the test."
+    }
+  }
+}

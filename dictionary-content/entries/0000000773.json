@@ -1,0 +1,23 @@
+{
+  "id": 773,
+  "translation": {
+    "cyrillic": {
+      "word": "импровизовати",
+      "part_of_speech": "глагол",
+      "definition": "Извести нешто без припреме, спонтано.",
+      "example_sentence": "Музичар импровизује током наступа."
+    },
+    "latin": {
+      "word": "improvizovati",
+      "part_of_speech": "glagol",
+      "definition": "Izvesti nešto bez pripreme, spontano.",
+      "example_sentence": "Muzičar improvizuje tokom nastupa."
+    },
+    "english": {
+      "word": "improvise",
+      "part_of_speech": "verb",
+      "definition": "To perform spontaneously without preparation.",
+      "example_sentence": "The musician is improvising during the performance."
+    }
+  }
+}

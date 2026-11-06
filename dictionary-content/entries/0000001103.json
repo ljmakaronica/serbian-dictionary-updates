@@ -1,0 +1,23 @@
+{
+  "id": 1103,
+  "translation": {
+    "cyrillic": {
+      "word": "ајде",
+      "part_of_speech": "речца",
+      "definition": "Речца која изражава подстицај или наговор.",
+      "example_sentence": "Ајде, идемо!"
+    },
+    "latin": {
+      "word": "ajde",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja izražava podsticaj ili nagovor.",
+      "example_sentence": "Ajde, idemo!"
+    },
+    "english": {
+      "word": "come on",
+      "part_of_speech": "particle",
+      "definition": "A particle expressing urging or encouragement.",
+      "example_sentence": "Come on, let's go!"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 84,
+  "translation": {
+    "cyrillic": {
+      "word": "бео",
+      "part_of_speech": "придев",
+      "definition": "Који је боје снега или млека.",
+      "example_sentence": "Зид у соби је бео."
+    },
+    "latin": {
+      "word": "beo",
+      "part_of_speech": "pridev",
+      "definition": "Koji je boje snega ili mleka.",
+      "example_sentence": "Zid u sobi je beo."
+    },
+    "english": {
+      "word": "white",
+      "part_of_speech": "adjective",
+      "definition": "Having the color of snow or milk.",
+      "example_sentence": "The wall in the room is white."
+    }
+  }
+}

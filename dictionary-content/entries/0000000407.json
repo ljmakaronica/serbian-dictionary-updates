@@ -1,0 +1,23 @@
+{
+  "id": 407,
+  "translation": {
+    "cyrillic": {
+      "word": "рад",
+      "part_of_speech": "именица",
+      "definition": "Физичка или ментална активност ради постизања циља.",
+      "example_sentence": "Његов рад је био препознат."
+    },
+    "latin": {
+      "word": "rad",
+      "part_of_speech": "imenica",
+      "definition": "Fizička ili mentalna aktivnost radi postizanja cilja.",
+      "example_sentence": "Njegov rad je bio prepoznat."
+    },
+    "english": {
+      "word": "work",
+      "part_of_speech": "noun",
+      "definition": "Physical or mental activity to achieve a goal.",
+      "example_sentence": "His work was recognized."
+    }
+  }
+}

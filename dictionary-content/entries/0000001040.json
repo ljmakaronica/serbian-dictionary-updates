@@ -1,0 +1,23 @@
+{
+  "id": 1040,
+  "translation": {
+    "cyrillic": {
+      "word": "јединствен",
+      "part_of_speech": "придев",
+      "definition": "Који је сам свој, без парњака.",
+      "example_sentence": "Свако дете је јединствено."
+    },
+    "latin": {
+      "word": "jedinstven",
+      "part_of_speech": "pridev",
+      "definition": "Koji je sam svoj, bez parnjaka.",
+      "example_sentence": "Svako dete je jedinstveno."
+    },
+    "english": {
+      "word": "unique",
+      "part_of_speech": "adjective",
+      "definition": "Being the only one of its kind.",
+      "example_sentence": "Every child is unique."
+    }
+  }
+}

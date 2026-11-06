@@ -1,0 +1,23 @@
+{
+  "id": 117,
+  "translation": {
+    "cyrillic": {
+      "word": "бркови",
+      "part_of_speech": "именица",
+      "definition": "Длаке које расту изнад горње усне.",
+      "example_sentence": "Деда има дуге беле бркове."
+    },
+    "latin": {
+      "word": "brkovi",
+      "part_of_speech": "imenica",
+      "definition": "Dlake koje rastu iznad gornje usne.",
+      "example_sentence": "Deda ima duge bele brkove."
+    },
+    "english": {
+      "word": "mustache",
+      "part_of_speech": "noun",
+      "definition": "Hair growing above the upper lip.",
+      "example_sentence": "Grandpa has a long white mustache."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 654,
+  "translation": {
+    "cyrillic": {
+      "word": "ракета",
+      "part_of_speech": "именица",
+      "definition": "Летелица или пројектил који се креће потиском гасова избачених из мотора.",
+      "example_sentence": "Ракета је полетела са лансирне рампе."
+    },
+    "latin": {
+      "word": "raketa",
+      "part_of_speech": "imenica",
+      "definition": "Letelica ili projektil koji se kreće potiskom gasova izbačenih iz motora.",
+      "example_sentence": "Raketa je poletela sa lansirne rampe."
+    },
+    "english": {
+      "word": "rocket",
+      "part_of_speech": "noun",
+      "definition": "A vehicle or projectile propelled by gases expelled from its engine.",
+      "example_sentence": "The rocket lifted off from the launch pad."
+    }
+  }
+}

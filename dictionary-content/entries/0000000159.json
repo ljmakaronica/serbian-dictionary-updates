@@ -1,0 +1,23 @@
+{
+  "id": 159,
+  "translation": {
+    "cyrillic": {
+      "word": "грожђе",
+      "part_of_speech": "именица",
+      "definition": "Плодови винове лозе који расту у гроздовима; грожђе је збирна именица.",
+      "example_sentence": "Грожђе је зрело и спремно за бербу."
+    },
+    "latin": {
+      "word": "grožđe",
+      "part_of_speech": "imenica",
+      "definition": "Plodovi vinove loze koji rastu u grozdovima; grožđe je zbirna imenica.",
+      "example_sentence": "Grožđe je zrelo i spremno za berbu."
+    },
+    "english": {
+      "word": "grapes",
+      "part_of_speech": "noun",
+      "definition": "Small fruits that grow in bunches on vines. Serbian grožđe is a collective noun.",
+      "example_sentence": "The grapes are ripe and ready for harvest."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 89,
+  "translation": {
+    "cyrillic": {
+      "word": "боја",
+      "part_of_speech": "именица",
+      "definition": "Визуелна особина предмета која зависи од светлости коју одражава.",
+      "example_sentence": "Која је твоја омиљена боја?"
+    },
+    "latin": {
+      "word": "boja",
+      "part_of_speech": "imenica",
+      "definition": "Vizuelna osobina predmeta koja zavisi od svetlosti koju odražava.",
+      "example_sentence": "Koja je tvoja omiljena boja?"
+    },
+    "english": {
+      "word": "color",
+      "part_of_speech": "noun",
+      "definition": "The visual property of objects dependent on the light they reflect.",
+      "example_sentence": "What is your favorite color?"
+    }
+  }
+}

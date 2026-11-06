@@ -1,0 +1,23 @@
+{
+  "id": 847,
+  "translation": {
+    "cyrillic": {
+      "word": "љубазно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који изражава доброту и пријатељство.",
+      "example_sentence": "Она љубазно нуди помоћ свима."
+    },
+    "latin": {
+      "word": "ljubazno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji izražava dobrotu i prijateljstvo.",
+      "example_sentence": "Ona ljubazno nudi pomoć svima."
+    },
+    "english": {
+      "word": "kindly",
+      "part_of_speech": "adverb",
+      "definition": "In a warm and considerate manner.",
+      "example_sentence": "She kindly offers help to everyone."
+    }
+  }
+}

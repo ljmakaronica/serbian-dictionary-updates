@@ -1,0 +1,23 @@
+{
+  "id": 344,
+  "translation": {
+    "cyrillic": {
+      "word": "камен",
+      "part_of_speech": "именица",
+      "definition": "Тврда минерална материја која се користи у грађевинарству.",
+      "example_sentence": "Стаза је поплочана каменом."
+    },
+    "latin": {
+      "word": "kamen",
+      "part_of_speech": "imenica",
+      "definition": "Tvrda mineralna materija koja se koristi u građevinarstvu.",
+      "example_sentence": "Staza je popločana kamenom."
+    },
+    "english": {
+      "word": "stone",
+      "part_of_speech": "noun",
+      "definition": "Hard mineral material used in construction.",
+      "example_sentence": "The path was paved with stone."
+    }
+  }
+}

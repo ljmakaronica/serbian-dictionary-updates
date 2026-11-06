@@ -1,0 +1,23 @@
+{
+  "id": 90,
+  "translation": {
+    "cyrillic": {
+      "word": "балкон",
+      "part_of_speech": "именица",
+      "definition": "Истурени део зграде са оградом, повезан са унутрашњим простором.",
+      "example_sentence": "Седели смо на балкону и гледали залазак сунца."
+    },
+    "latin": {
+      "word": "balkon",
+      "part_of_speech": "imenica",
+      "definition": "Istureni deo zgrade sa ogradom, povezan sa unutrašnjim prostorom.",
+      "example_sentence": "Sedeli smo na balkonu i gledali zalazak sunca."
+    },
+    "english": {
+      "word": "balcony",
+      "part_of_speech": "noun",
+      "definition": "A platform extending from a building, enclosed by a railing.",
+      "example_sentence": "We sat on the balcony watching the sunset."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 572,
+  "translation": {
+    "cyrillic": {
+      "word": "оловка",
+      "part_of_speech": "именица",
+      "definition": "Прибор за писање или цртање са језгром од графита или обојеног материјала.",
+      "example_sentence": "Нацртала је круг оловком."
+    },
+    "latin": {
+      "word": "olovka",
+      "part_of_speech": "imenica",
+      "definition": "Pribor za pisanje ili crtanje sa jezgrom od grafita ili obojenog materijala.",
+      "example_sentence": "Nacrtala je krug olovkom."
+    },
+    "english": {
+      "word": "pencil",
+      "part_of_speech": "noun",
+      "definition": "A writing or drawing tool with a core of graphite or colored material.",
+      "example_sentence": "She drew a circle with a pencil."
+    }
+  }
+}

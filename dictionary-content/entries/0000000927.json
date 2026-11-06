@@ -1,0 +1,23 @@
+{
+  "id": 927,
+  "translation": {
+    "cyrillic": {
+      "word": "школа",
+      "part_of_speech": "именица",
+      "definition": "место за учење и образовање",
+      "example_sentence": "Деца иду у школу."
+    },
+    "latin": {
+      "word": "škola",
+      "part_of_speech": "imenica",
+      "definition": "mesto za učenje i obrazovanje",
+      "example_sentence": "Deca idu u školu."
+    },
+    "english": {
+      "word": "school",
+      "part_of_speech": "noun",
+      "definition": "place for learning and education",
+      "example_sentence": "Children go to school."
+    }
+  }
+}

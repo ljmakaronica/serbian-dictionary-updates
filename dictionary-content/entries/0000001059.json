@@ -1,0 +1,23 @@
+{
+  "id": 1059,
+  "translation": {
+    "cyrillic": {
+      "word": "количина",
+      "part_of_speech": "именица",
+      "definition": "Мера колико нечега има.",
+      "example_sentence": "Купио је велику количину воћа."
+    },
+    "latin": {
+      "word": "količina",
+      "part_of_speech": "imenica",
+      "definition": "Mera koliko nečega ima.",
+      "example_sentence": "Kupio je veliku količinu voća."
+    },
+    "english": {
+      "word": "quantity",
+      "part_of_speech": "noun",
+      "definition": "A measure of how much there is.",
+      "example_sentence": "He bought a large quantity of fruit."
+    }
+  }
+}

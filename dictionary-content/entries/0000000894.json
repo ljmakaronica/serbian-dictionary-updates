@@ -1,0 +1,23 @@
+{
+  "id": 894,
+  "translation": {
+    "cyrillic": {
+      "word": "до",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава близину или временско ограничење",
+      "example_sentence": "Седи до мене."
+    },
+    "latin": {
+      "word": "do",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava blizinu ili vremensko ograničenje",
+      "example_sentence": "Sedi do mene."
+    },
+    "english": {
+      "word": "until/next to",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating proximity or time limit",
+      "example_sentence": "Sit next to me."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 561,
+  "translation": {
+    "cyrillic": {
+      "word": "певати",
+      "part_of_speech": "глагол",
+      "definition": "Производити музику гласом.",
+      "example_sentence": "Волим да певам док се туширам."
+    },
+    "latin": {
+      "word": "pevati",
+      "part_of_speech": "glagol",
+      "definition": "Proizvoditi muziku glasom.",
+      "example_sentence": "Volim da pevam dok se tuširam."
+    },
+    "english": {
+      "word": "to sing",
+      "part_of_speech": "verb",
+      "definition": "To produce musical sounds with the voice.",
+      "example_sentence": "I like to sing while I shower."
+    }
+  }
+}

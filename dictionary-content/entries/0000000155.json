@@ -1,0 +1,23 @@
+{
+  "id": 155,
+  "translation": {
+    "cyrillic": {
+      "word": "господин",
+      "part_of_speech": "именица",
+      "definition": "Учтив назив или облик обраћања мушкарцу.",
+      "example_sentence": "Господин Петровић је стигао на састанак."
+    },
+    "latin": {
+      "word": "gospodin",
+      "part_of_speech": "imenica",
+      "definition": "Učtiv naziv ili oblik obraćanja muškarcu.",
+      "example_sentence": "Gospodin Petrović je stigao na sastanak."
+    },
+    "english": {
+      "word": "Mr.",
+      "part_of_speech": "noun",
+      "definition": "A polite title used before a man’s surname.",
+      "example_sentence": "Mr. Petrović arrived at the meeting."
+    }
+  }
+}

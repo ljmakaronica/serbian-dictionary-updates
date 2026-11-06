@@ -1,0 +1,23 @@
+{
+  "id": 1045,
+  "translation": {
+    "cyrillic": {
+      "word": "градски",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на град.",
+      "example_sentence": "Користе градски превоз."
+    },
+    "latin": {
+      "word": "gradski",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na grad.",
+      "example_sentence": "Koriste gradski prevoz."
+    },
+    "english": {
+      "word": "urban",
+      "part_of_speech": "adjective",
+      "definition": "Relating to a city.",
+      "example_sentence": "They use urban transportation."
+    }
+  }
+}

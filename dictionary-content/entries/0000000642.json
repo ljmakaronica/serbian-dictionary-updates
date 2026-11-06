@@ -1,0 +1,23 @@
+{
+  "id": 642,
+  "translation": {
+    "cyrillic": {
+      "word": "поезија",
+      "part_of_speech": "именица",
+      "definition": "Уметност изражавања мисли у ритмичном облику.",
+      "example_sentence": "Она чита поезију сваке вечери."
+    },
+    "latin": {
+      "word": "poezija",
+      "part_of_speech": "imenica",
+      "definition": "Umetnost izražavanja misli u ritmičnom obliku.",
+      "example_sentence": "Ona čita poeziju svake večeri."
+    },
+    "english": {
+      "word": "poetry",
+      "part_of_speech": "noun",
+      "definition": "The art of expressing thoughts in a rhythmic form.",
+      "example_sentence": "She reads poetry every evening."
+    }
+  }
+}

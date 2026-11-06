@@ -1,0 +1,23 @@
+{
+  "id": 161,
+  "translation": {
+    "cyrillic": {
+      "word": "гуска",
+      "part_of_speech": "именица",
+      "definition": "Водена птица слична патки.",
+      "example_sentence": "Гуска је пливала по језеру."
+    },
+    "latin": {
+      "word": "guska",
+      "part_of_speech": "imenica",
+      "definition": "Vodena ptica slična patki.",
+      "example_sentence": "Guska je plivala po jezeru."
+    },
+    "english": {
+      "word": "goose",
+      "part_of_speech": "noun",
+      "definition": "A waterfowl similar to a duck.",
+      "example_sentence": "The goose was swimming in the lake."
+    }
+  }
+}

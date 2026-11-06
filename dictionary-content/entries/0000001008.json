@@ -1,0 +1,23 @@
+{
+  "id": 1008,
+  "translation": {
+    "cyrillic": {
+      "word": "сада",
+      "part_of_speech": "прилог",
+      "definition": "у овом тренутку",
+      "example_sentence": "Сада сам овде."
+    },
+    "latin": {
+      "word": "sada",
+      "part_of_speech": "prilog",
+      "definition": "u ovom trenutku",
+      "example_sentence": "Sada sam ovde."
+    },
+    "english": {
+      "word": "now",
+      "part_of_speech": "adverb",
+      "definition": "at this moment",
+      "example_sentence": "I am here now."
+    }
+  }
+}

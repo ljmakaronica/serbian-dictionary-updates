@@ -1,0 +1,23 @@
+{
+  "id": 385,
+  "translation": {
+    "cyrillic": {
+      "word": "океан",
+      "part_of_speech": "именица",
+      "definition": "Велика маса слане воде која покрива већи део Земље.",
+      "example_sentence": "Океан је био миран и плав."
+    },
+    "latin": {
+      "word": "okean",
+      "part_of_speech": "imenica",
+      "definition": "Velika masa slane vode koja pokriva veći deo Zemlje.",
+      "example_sentence": "Okean je bio miran i plav."
+    },
+    "english": {
+      "word": "ocean",
+      "part_of_speech": "noun",
+      "definition": "A large body of saltwater covering most of the Earth.",
+      "example_sentence": "The ocean was calm and blue."
+    }
+  }
+}

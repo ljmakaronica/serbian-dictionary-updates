@@ -1,0 +1,23 @@
+{
+  "id": 32,
+  "translation": {
+    "cyrillic": {
+      "word": "аустрија",
+      "part_of_speech": "именица",
+      "definition": "Држава у средњој Европи.",
+      "example_sentence": "Аустрија је позната по својим планинским пределима."
+    },
+    "latin": {
+      "word": "Austrija",
+      "part_of_speech": "imenica",
+      "definition": "Država u srednjoj Evropi.",
+      "example_sentence": "Austrija je poznata po svojim planinskim predelima."
+    },
+    "english": {
+      "word": "Austria",
+      "part_of_speech": "noun",
+      "definition": "A country in Central Europe.",
+      "example_sentence": "Austria is known for its mountainous landscapes."
+    }
+  }
+}

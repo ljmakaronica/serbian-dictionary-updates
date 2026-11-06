@@ -1,0 +1,23 @@
+{
+  "id": 902,
+  "translation": {
+    "cyrillic": {
+      "word": "код",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава место или близину",
+      "example_sentence": "Идем код доктора."
+    },
+    "latin": {
+      "word": "kod",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava mesto ili blizinu",
+      "example_sentence": "Idem kod doktora."
+    },
+    "english": {
+      "word": "at",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating location or proximity",
+      "example_sentence": "I am going to the doctor."
+    }
+  }
+}

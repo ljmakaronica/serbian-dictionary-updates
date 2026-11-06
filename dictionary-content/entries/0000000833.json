@@ -1,0 +1,23 @@
+{
+  "id": 833,
+  "translation": {
+    "cyrillic": {
+      "word": "максимално",
+      "part_of_speech": "прилог",
+      "definition": "На највишем могућем нивоу или степену.",
+      "example_sentence": "Он максимално уложи своје напоре."
+    },
+    "latin": {
+      "word": "maksimalno",
+      "part_of_speech": "prilog",
+      "definition": "Na najvišem mogućem nivou ili stepenu.",
+      "example_sentence": "On maksimalno ulaže svoje napore."
+    },
+    "english": {
+      "word": "maximally",
+      "part_of_speech": "adverb",
+      "definition": "To the greatest extent possible.",
+      "example_sentence": "He works maximally hard."
+    }
+  }
+}

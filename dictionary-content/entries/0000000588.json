@@ -1,0 +1,23 @@
+{
+  "id": 588,
+  "translation": {
+    "cyrillic": {
+      "word": "наранџа",
+      "part_of_speech": "именица",
+      "definition": "Воће са наранџастом кожом.",
+      "example_sentence": "Наранџе су сочне."
+    },
+    "latin": {
+      "word": "narandža",
+      "part_of_speech": "imenica",
+      "definition": "Voće sa narandžastom korom.",
+      "example_sentence": "Narandže su sočne."
+    },
+    "english": {
+      "word": "orange",
+      "part_of_speech": "noun",
+      "definition": "A fruit with orange skin.",
+      "example_sentence": "Oranges are juicy."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 216,
+  "translation": {
+    "cyrillic": {
+      "word": "ђускање",
+      "part_of_speech": "именица",
+      "definition": "Неформално играње уз музику.",
+      "example_sentence": "Ђускање је трајало целу ноћ."
+    },
+    "latin": {
+      "word": "đuskanje",
+      "part_of_speech": "imenica",
+      "definition": "Neformalno igranje uz muziku.",
+      "example_sentence": "Đuskanje je trajalo celu noć."
+    },
+    "english": {
+      "word": "dancing",
+      "part_of_speech": "noun",
+      "definition": "Informal dancing to music.",
+      "example_sentence": "The dancing lasted all night."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 190,
+  "translation": {
+    "cyrillic": {
+      "word": "дугачак",
+      "part_of_speech": "придев",
+      "definition": "Који има велику дужину.",
+      "example_sentence": "Дугачак пут води до села."
+    },
+    "latin": {
+      "word": "dugačak",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima veliku dužinu.",
+      "example_sentence": "Dugačak put vodi do sela."
+    },
+    "english": {
+      "word": "long",
+      "part_of_speech": "adjective",
+      "definition": "Having a large length or distance from end to end.",
+      "example_sentence": "The long road leads to the village."
+    }
+  }
+}

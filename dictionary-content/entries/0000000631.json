@@ -1,0 +1,23 @@
+{
+  "id": 631,
+  "translation": {
+    "cyrillic": {
+      "word": "лампа",
+      "part_of_speech": "именица",
+      "definition": "Уређај за осветљење.",
+      "example_sentence": "Лампа је на столу."
+    },
+    "latin": {
+      "word": "lampa",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za osvetljenje.",
+      "example_sentence": "Lampa je na stolu."
+    },
+    "english": {
+      "word": "lamp",
+      "part_of_speech": "noun",
+      "definition": "A device for providing light.",
+      "example_sentence": "The lamp is on the table."
+    }
+  }
+}

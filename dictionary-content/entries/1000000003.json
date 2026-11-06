@@ -1,0 +1,23 @@
+{
+  "id": 1000000003,
+  "translation": {
+    "cyrillic": {
+      "word": "март",
+      "part_of_speech": "именица",
+      "definition": "Трећи месец у години.",
+      "example_sentence": "Март је први месец пролећа."
+    },
+    "latin": {
+      "word": "mart",
+      "part_of_speech": "imenica",
+      "definition": "Treći mesec u godini.",
+      "example_sentence": "Mart je prvi mesec proleća."
+    },
+    "english": {
+      "word": "March",
+      "part_of_speech": "noun",
+      "definition": "The third month of the year.",
+      "example_sentence": "March is the first month of spring."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 484,
+  "translation": {
+    "cyrillic": {
+      "word": "чекић",
+      "part_of_speech": "именица",
+      "definition": "Алат за ударање или забијање.",
+      "example_sentence": "Чекић је био неопходан за поправку."
+    },
+    "latin": {
+      "word": "čekić",
+      "part_of_speech": "imenica",
+      "definition": "Alat za udaranje ili zabijanje.",
+      "example_sentence": "Čekić je bio neophodan za popravku."
+    },
+    "english": {
+      "word": "hammer",
+      "part_of_speech": "noun",
+      "definition": "A tool for hitting or driving nails.",
+      "example_sentence": "The hammer was essential for the repair."
+    }
+  }
+}

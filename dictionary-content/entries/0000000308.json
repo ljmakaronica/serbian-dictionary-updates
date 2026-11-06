@@ -1,0 +1,23 @@
+{
+  "id": 308,
+  "translation": {
+    "cyrillic": {
+      "word": "игра",
+      "part_of_speech": "именица",
+      "definition": "Активност која се ради ради забаве или такмичења.",
+      "example_sentence": "Деца се играју у парку."
+    },
+    "latin": {
+      "word": "igra",
+      "part_of_speech": "imenica",
+      "definition": "Aktivnost koja se radi radi zabave ili takmičenja.",
+      "example_sentence": "Deca se igraju u parku."
+    },
+    "english": {
+      "word": "game",
+      "part_of_speech": "noun",
+      "definition": "An activity done for fun or competition.",
+      "example_sentence": "The children are playing in the park."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 632,
+  "translation": {
+    "cyrillic": {
+      "word": "сир",
+      "part_of_speech": "именица",
+      "definition": "Млечни производ направљен од млека.",
+      "example_sentence": "Волим да једем сир за доручак."
+    },
+    "latin": {
+      "word": "sir",
+      "part_of_speech": "imenica",
+      "definition": "Mlečni proizvod napravljen od mleka.",
+      "example_sentence": "Volim da jedem sir za doručak."
+    },
+    "english": {
+      "word": "cheese",
+      "part_of_speech": "noun",
+      "definition": "A dairy product made from milk.",
+      "example_sentence": "I like eating cheese for breakfast."
+    }
+  }
+}

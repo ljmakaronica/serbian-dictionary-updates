@@ -1,0 +1,23 @@
+{
+  "id": 794,
+  "translation": {
+    "cyrillic": {
+      "word": "одбранити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство штитења од напада или опасности.",
+      "example_sentence": "Војници су одбранили град од напада."
+    },
+    "latin": {
+      "word": "odbraniti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo zaštite od napada ili opasnosti.",
+      "example_sentence": "Vojnici su odbranili grad od napada."
+    },
+    "english": {
+      "word": "defend",
+      "part_of_speech": "verb",
+      "definition": "To protect against attack.",
+      "example_sentence": "The soldiers defended the city against the attack."
+    }
+  }
+}

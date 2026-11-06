@@ -1,0 +1,23 @@
+{
+  "id": 850,
+  "translation": {
+    "cyrillic": {
+      "word": "елегантно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је стилски и изражаван.",
+      "example_sentence": "Она се елегантно облачи."
+    },
+    "latin": {
+      "word": "elegantno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je stilski i izražajan.",
+      "example_sentence": "Ona se elegantno oblači."
+    },
+    "english": {
+      "word": "elegantly",
+      "part_of_speech": "adverb",
+      "definition": "In a graceful and stylish manner.",
+      "example_sentence": "She dresses elegantly."
+    }
+  }
+}

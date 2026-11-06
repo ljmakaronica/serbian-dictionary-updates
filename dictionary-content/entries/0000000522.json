@@ -1,0 +1,23 @@
+{
+  "id": 522,
+  "translation": {
+    "cyrillic": {
+      "word": "десет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 10.",
+      "example_sentence": "Имам десет прстију."
+    },
+    "latin": {
+      "word": "deset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 10.",
+      "example_sentence": "Imam deset prstiju."
+    },
+    "english": {
+      "word": "ten",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 10.",
+      "example_sentence": "I have ten fingers."
+    }
+  }
+}

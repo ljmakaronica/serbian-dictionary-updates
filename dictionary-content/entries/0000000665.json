@@ -1,0 +1,23 @@
+{
+  "id": 665,
+  "translation": {
+    "cyrillic": {
+      "word": "стан",
+      "part_of_speech": "именица",
+      "definition": "Животни простор у згради са више соба.",
+      "example_sentence": "Стан се налази у центру града."
+    },
+    "latin": {
+      "word": "stan",
+      "part_of_speech": "imenica",
+      "definition": "Životni prostor u zgradi sa više soba.",
+      "example_sentence": "Stan se nalazi u centru grada."
+    },
+    "english": {
+      "word": "apartment",
+      "part_of_speech": "noun",
+      "definition": "A living space within a multi-room building.",
+      "example_sentence": "The apartment is located in the city center."
+    }
+  }
+}

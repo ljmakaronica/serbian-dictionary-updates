@@ -1,0 +1,23 @@
+{
+  "id": 317,
+  "translation": {
+    "cyrillic": {
+      "word": "јабука",
+      "part_of_speech": "именица",
+      "definition": "Јестив, обично округао плод дрвета јабуке.",
+      "example_sentence": "Јабука је моје омиљено воће."
+    },
+    "latin": {
+      "word": "jabuka",
+      "part_of_speech": "imenica",
+      "definition": "Jestiv, obično okrugao plod drveta jabuke.",
+      "example_sentence": "Jabuka je moje omiljeno voće."
+    },
+    "english": {
+      "word": "apple",
+      "part_of_speech": "noun",
+      "definition": "The edible, usually round fruit of an apple tree.",
+      "example_sentence": "The apple is my favorite fruit."
+    }
+  }
+}

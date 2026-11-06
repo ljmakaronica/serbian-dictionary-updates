@@ -1,0 +1,23 @@
+{
+  "id": 798,
+  "translation": {
+    "cyrillic": {
+      "word": "испунити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство остварења или испуњења неког захтева.",
+      "example_sentence": "Она је испунила обећање."
+    },
+    "latin": {
+      "word": "ispuniti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo ostvarenja ili ispunjenja nekog zahteva.",
+      "example_sentence": "Ona je ispunila obećanje."
+    },
+    "english": {
+      "word": "fulfill",
+      "part_of_speech": "verb",
+      "definition": "To complete or achieve as required.",
+      "example_sentence": "She fulfilled her promise."
+    }
+  }
+}

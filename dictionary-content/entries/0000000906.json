@@ -1,0 +1,23 @@
+{
+  "id": 906,
+  "translation": {
+    "cyrillic": {
+      "word": "млад",
+      "part_of_speech": "придев",
+      "definition": "Придев који описује некога или нешто у раним годинама живота",
+      "example_sentence": "Он је млад човек."
+    },
+    "latin": {
+      "word": "mlad",
+      "part_of_speech": "pridev",
+      "definition": "Pridev koji opisuje nekoga ili nešto u ranim godinama života",
+      "example_sentence": "On je mlad čovek."
+    },
+    "english": {
+      "word": "young",
+      "part_of_speech": "adjective",
+      "definition": "Adjective describing someone or something in early years of life",
+      "example_sentence": "He is a young man."
+    }
+  }
+}

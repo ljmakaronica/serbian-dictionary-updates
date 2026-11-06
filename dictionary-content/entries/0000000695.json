@@ -1,0 +1,23 @@
+{
+  "id": 695,
+  "translation": {
+    "cyrillic": {
+      "word": "производ",
+      "part_of_speech": "именица",
+      "definition": "Резултат производног процеса.",
+      "example_sentence": "Нови производ је веома тражен."
+    },
+    "latin": {
+      "word": "proizvod",
+      "part_of_speech": "imenica",
+      "definition": "Rezultat proizvodnog procesa.",
+      "example_sentence": "Novi proizvod je veoma tražen."
+    },
+    "english": {
+      "word": "product",
+      "part_of_speech": "noun",
+      "definition": "The outcome of a manufacturing process.",
+      "example_sentence": "The new product is in high demand."
+    }
+  }
+}

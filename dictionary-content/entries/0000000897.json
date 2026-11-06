@@ -1,0 +1,23 @@
+{
+  "id": 897,
+  "translation": {
+    "cyrillic": {
+      "word": "после",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава време након нечега",
+      "example_sentence": "Видимо се после часа."
+    },
+    "latin": {
+      "word": "posle",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava vreme nakon nečega",
+      "example_sentence": "Vidimo se posle časa."
+    },
+    "english": {
+      "word": "after",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating time following something",
+      "example_sentence": "See you after class."
+    }
+  }
+}

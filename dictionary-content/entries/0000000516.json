@@ -1,0 +1,23 @@
+{
+  "id": 516,
+  "translation": {
+    "cyrillic": {
+      "word": "четири",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 4.",
+      "example_sentence": "Имам четири столице."
+    },
+    "latin": {
+      "word": "četiri",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 4.",
+      "example_sentence": "Imam četiri stolice."
+    },
+    "english": {
+      "word": "four",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 4.",
+      "example_sentence": "I have four chairs."
+    }
+  }
+}

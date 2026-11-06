@@ -1,0 +1,23 @@
+{
+  "id": 999,
+  "translation": {
+    "cyrillic": {
+      "word": "место",
+      "part_of_speech": "именица",
+      "definition": "локација",
+      "example_sentence": "Ово је лепо место."
+    },
+    "latin": {
+      "word": "mesto",
+      "part_of_speech": "imenica",
+      "definition": "lokacija",
+      "example_sentence": "Ovo je lepo mesto."
+    },
+    "english": {
+      "word": "place",
+      "part_of_speech": "noun",
+      "definition": "location",
+      "example_sentence": "This is a nice place."
+    }
+  }
+}

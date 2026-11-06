@@ -1,0 +1,23 @@
+{
+  "id": 429,
+  "translation": {
+    "cyrillic": {
+      "word": "тврдња",
+      "part_of_speech": "именица",
+      "definition": "Изјава или тврђење о нечему.",
+      "example_sentence": "Његова тврдња је била непотпуна."
+    },
+    "latin": {
+      "word": "tvrdnja",
+      "part_of_speech": "imenica",
+      "definition": "Izjava ili tvrđenje o nečemu.",
+      "example_sentence": "Njegova tvrdnja je bila nepotpuna."
+    },
+    "english": {
+      "word": "claim",
+      "part_of_speech": "noun",
+      "definition": "A statement or assertion about something.",
+      "example_sentence": "His claim was incomplete."
+    }
+  }
+}

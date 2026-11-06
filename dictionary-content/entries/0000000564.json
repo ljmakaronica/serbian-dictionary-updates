@@ -1,0 +1,23 @@
+{
+  "id": 564,
+  "translation": {
+    "cyrillic": {
+      "word": "радити",
+      "part_of_speech": "глагол",
+      "definition": "Обављати послове или задатке.",
+      "example_sentence": "Радим у канцеларији."
+    },
+    "latin": {
+      "word": "raditi",
+      "part_of_speech": "glagol",
+      "definition": "Obavljati poslove ili zadatke.",
+      "example_sentence": "Radim u kancelariji."
+    },
+    "english": {
+      "word": "to work",
+      "part_of_speech": "verb",
+      "definition": "To perform tasks or duties.",
+      "example_sentence": "I work in an office."
+    }
+  }
+}

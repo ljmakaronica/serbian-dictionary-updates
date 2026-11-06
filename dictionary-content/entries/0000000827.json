@@ -1,0 +1,23 @@
+{
+  "id": 827,
+  "translation": {
+    "cyrillic": {
+      "word": "прецизно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је врло тачан и детаљан.",
+      "example_sentence": "Он прецизно измери резултате свог експеримента."
+    },
+    "latin": {
+      "word": "precizno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je vrlo tačan i detaljan.",
+      "example_sentence": "On precizno meri rezultate svog eksperimenta."
+    },
+    "english": {
+      "word": "precisely",
+      "part_of_speech": "adverb",
+      "definition": "In a very exact and detailed manner.",
+      "example_sentence": "He precisely measures the results of his experiment."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 808,
+  "translation": {
+    "cyrillic": {
+      "word": "радосно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који изражава радост.",
+      "example_sentence": "Деца се радосно играју у парку."
+    },
+    "latin": {
+      "word": "radosno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji izražava radost.",
+      "example_sentence": "Deca se radosno igraju u parku."
+    },
+    "english": {
+      "word": "happily",
+      "part_of_speech": "adverb",
+      "definition": "In a joyful manner.",
+      "example_sentence": "The children are playing happily in the park."
+    }
+  }
+}

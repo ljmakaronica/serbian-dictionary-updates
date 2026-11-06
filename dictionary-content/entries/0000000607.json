@@ -1,0 +1,23 @@
+{
+  "id": 607,
+  "translation": {
+    "cyrillic": {
+      "word": "муж",
+      "part_of_speech": "именица",
+      "definition": "Мушки супруг.",
+      "example_sentence": "Мој муж ради као инжењер."
+    },
+    "latin": {
+      "word": "muž",
+      "part_of_speech": "imenica",
+      "definition": "Muški suprug.",
+      "example_sentence": "Moj muž radi kao inženjer."
+    },
+    "english": {
+      "word": "husband",
+      "part_of_speech": "noun",
+      "definition": "A married man.",
+      "example_sentence": "My husband works as an engineer."
+    }
+  }
+}

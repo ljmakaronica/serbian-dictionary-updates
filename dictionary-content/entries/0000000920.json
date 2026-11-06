@@ -1,0 +1,23 @@
+{
+  "id": 920,
+  "translation": {
+    "cyrillic": {
+      "word": "овде",
+      "part_of_speech": "прилог",
+      "definition": "Означава место близу говорника.",
+      "example_sentence": "Дођи овде!"
+    },
+    "latin": {
+      "word": "ovde",
+      "part_of_speech": "prilog",
+      "definition": "Označava mesto blizu govornika.",
+      "example_sentence": "Dođi ovde!"
+    },
+    "english": {
+      "word": "here",
+      "part_of_speech": "adverb",
+      "definition": "Indicates a place near the speaker.",
+      "example_sentence": "Come here!"
+    }
+  }
+}

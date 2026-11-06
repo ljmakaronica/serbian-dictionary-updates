@@ -1,0 +1,23 @@
+{
+  "id": 44,
+  "translation": {
+    "cyrillic": {
+      "word": "асистент",
+      "part_of_speech": "именица",
+      "definition": "Особа која помаже у извршавању задатака или послова.",
+      "example_sentence": "Асистент је помогао професору у припреми предавања."
+    },
+    "latin": {
+      "word": "asistent",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja pomaže u izvršavanju zadataka ili poslova.",
+      "example_sentence": "Asistent je pomogao profesoru u pripremi predavanja."
+    },
+    "english": {
+      "word": "assistant",
+      "part_of_speech": "noun",
+      "definition": "A person who helps in performing tasks or duties.",
+      "example_sentence": "The assistant helped the professor prepare the lecture."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 860,
+  "translation": {
+    "cyrillic": {
+      "word": "кад",
+      "part_of_speech": "везник",
+      "definition": "Означава време.",
+      "example_sentence": "Позови ме кад стигнеш."
+    },
+    "latin": {
+      "word": "kad",
+      "part_of_speech": "veznik",
+      "definition": "Označava vreme.",
+      "example_sentence": "Pozovi me kad stigneš."
+    },
+    "english": {
+      "word": "when",
+      "part_of_speech": "conjunction",
+      "definition": "Indicates time.",
+      "example_sentence": "Call me when you arrive."
+    }
+  }
+}

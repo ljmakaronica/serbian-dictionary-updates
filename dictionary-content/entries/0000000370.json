@@ -1,0 +1,23 @@
+{
+  "id": 370,
+  "translation": {
+    "cyrillic": {
+      "word": "небо",
+      "part_of_speech": "именица",
+      "definition": "Простор изнад Земље који видимо изнад себе.",
+      "example_sentence": "Небо је било ведро и плаво."
+    },
+    "latin": {
+      "word": "nebo",
+      "part_of_speech": "imenica",
+      "definition": "Prostor iznad Zemlje koji vidimo iznad sebe.",
+      "example_sentence": "Nebo je bilo vedro i plavo."
+    },
+    "english": {
+      "word": "sky",
+      "part_of_speech": "noun",
+      "definition": "The space above the Earth that we see above us.",
+      "example_sentence": "The sky was clear and blue."
+    }
+  }
+}

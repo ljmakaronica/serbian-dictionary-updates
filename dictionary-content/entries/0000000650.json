@@ -1,0 +1,23 @@
+{
+  "id": 650,
+  "translation": {
+    "cyrillic": {
+      "word": "папир",
+      "part_of_speech": "именица",
+      "definition": "Материјал за писање или штампу.",
+      "example_sentence": "Папир је стављен на сто."
+    },
+    "latin": {
+      "word": "papir",
+      "part_of_speech": "imenica",
+      "definition": "Materijal za pisanje ili štampu.",
+      "example_sentence": "Papir je stavljen na sto."
+    },
+    "english": {
+      "word": "paper",
+      "part_of_speech": "noun",
+      "definition": "Material used for writing or printing.",
+      "example_sentence": "The paper is placed on the table."
+    }
+  }
+}

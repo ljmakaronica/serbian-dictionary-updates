@@ -1,0 +1,23 @@
+{
+  "id": 696,
+  "translation": {
+    "cyrillic": {
+      "word": "поље",
+      "part_of_speech": "именица",
+      "definition": "Отворена површина земље за пољопривредне радове.",
+      "example_sentence": "Поље је спремно за жетву."
+    },
+    "latin": {
+      "word": "polje",
+      "part_of_speech": "imenica",
+      "definition": "Otvorena površina zemlje za poljoprivredne radove.",
+      "example_sentence": "Polje je spremno za žetvu."
+    },
+    "english": {
+      "word": "field",
+      "part_of_speech": "noun",
+      "definition": "An open area of land used for agricultural work.",
+      "example_sentence": "The field is ready for harvest."
+    }
+  }
+}

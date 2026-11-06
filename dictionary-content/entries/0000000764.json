@@ -1,0 +1,23 @@
+{
+  "id": 764,
+  "translation": {
+    "cyrillic": {
+      "word": "пратити",
+      "part_of_speech": "глагол",
+      "definition": "Ићи за неким или нечим.",
+      "example_sentence": "Ученици прате наставника по учионици."
+    },
+    "latin": {
+      "word": "pratiti",
+      "part_of_speech": "glagol",
+      "definition": "Ići za nekim ili nečim.",
+      "example_sentence": "Učenici prate nastavnika po učionici."
+    },
+    "english": {
+      "word": "follow",
+      "part_of_speech": "verb",
+      "definition": "To go behind someone or something moving ahead.",
+      "example_sentence": "The students follow the teacher around the classroom."
+    }
+  }
+}

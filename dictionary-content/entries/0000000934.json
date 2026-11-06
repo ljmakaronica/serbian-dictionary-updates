@@ -1,0 +1,23 @@
+{
+  "id": 934,
+  "translation": {
+    "cyrillic": {
+      "word": "љубав",
+      "part_of_speech": "именица",
+      "definition": "јако емоционално осећање наклоности",
+      "example_sentence": "Љубав је лепа."
+    },
+    "latin": {
+      "word": "ljubav",
+      "part_of_speech": "imenica",
+      "definition": "jako emocionalno osećanje naklonosti",
+      "example_sentence": "Ljubav je lepa."
+    },
+    "english": {
+      "word": "love",
+      "part_of_speech": "noun",
+      "definition": "strong emotional feeling of affection",
+      "example_sentence": "Love is beautiful."
+    }
+  }
+}

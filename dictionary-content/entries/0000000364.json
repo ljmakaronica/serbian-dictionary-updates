@@ -1,0 +1,23 @@
+{
+  "id": 364,
+  "translation": {
+    "cyrillic": {
+      "word": "море",
+      "part_of_speech": "именица",
+      "definition": "Велика маса слане воде која покрива већи део Земљине површине.",
+      "example_sentence": "Море је било мирно и плаво."
+    },
+    "latin": {
+      "word": "more",
+      "part_of_speech": "imenica",
+      "definition": "Velika masa slane vode koja pokriva veći deo Zemljine površine.",
+      "example_sentence": "More je bilo mirno i plavo."
+    },
+    "english": {
+      "word": "sea",
+      "part_of_speech": "noun",
+      "definition": "A large body of saltwater covering most of the Earth's surface.",
+      "example_sentence": "The sea was calm and blue."
+    }
+  }
+}

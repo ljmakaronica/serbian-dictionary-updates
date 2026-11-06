@@ -1,0 +1,23 @@
+{
+  "id": 541,
+  "translation": {
+    "cyrillic": {
+      "word": "хиљаду",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 1000.",
+      "example_sentence": "Имам хиљаду бомбона."
+    },
+    "latin": {
+      "word": "hiljadu",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 1000.",
+      "example_sentence": "Imam hiljadu bombona."
+    },
+    "english": {
+      "word": "one thousand",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 1,000.",
+      "example_sentence": "I have one thousand candies."
+    }
+  }
+}

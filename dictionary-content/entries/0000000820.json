@@ -1,0 +1,23 @@
+{
+  "id": 820,
+  "translation": {
+    "cyrillic": {
+      "word": "одмах",
+      "part_of_speech": "прилог",
+      "definition": "Без одлагања или кашњења.",
+      "example_sentence": "Он је одмах одговорио на питање."
+    },
+    "latin": {
+      "word": "odmah",
+      "part_of_speech": "prilog",
+      "definition": "Bez odlaganja ili kašnjenja.",
+      "example_sentence": "On je odmah odgovorio na pitanje."
+    },
+    "english": {
+      "word": "immediately",
+      "part_of_speech": "adverb",
+      "definition": "At once; without delay.",
+      "example_sentence": "He answered the question immediately."
+    }
+  }
+}

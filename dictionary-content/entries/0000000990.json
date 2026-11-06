@@ -1,0 +1,23 @@
+{
+  "id": 990,
+  "translation": {
+    "cyrillic": {
+      "word": "извини",
+      "part_of_speech": "узвик",
+      "definition": "израз жаљења",
+      "example_sentence": "Извини што касним."
+    },
+    "latin": {
+      "word": "izvini",
+      "part_of_speech": "uzvik",
+      "definition": "izraz žaljenja",
+      "example_sentence": "Izvini što kasnim."
+    },
+    "english": {
+      "word": "sorry",
+      "part_of_speech": "interjection",
+      "definition": "expression of regret",
+      "example_sentence": "Sorry I am late."
+    }
+  }
+}

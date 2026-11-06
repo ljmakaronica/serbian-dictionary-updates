@@ -1,0 +1,23 @@
+{
+  "id": 1,
+  "translation": {
+    "cyrillic": {
+      "word": "а",
+      "part_of_speech": "везник",
+      "definition": "Везник који се користи за супротстављање или додавање информација.",
+      "example_sentence": "Хтео сам да идем напоље, а киша је падала."
+    },
+    "latin": {
+      "word": "a",
+      "part_of_speech": "veznik",
+      "definition": "Veznik koji se koristi za suprotstavljanje ili dodavanje informacija.",
+      "example_sentence": "Hteo sam da idem napolje, a kiša je padala."
+    },
+    "english": {
+      "word": "but",
+      "part_of_speech": "conjunction",
+      "definition": "A conjunction used for adding information or showing mild contrast",
+      "example_sentence": "I wanted to go outside, but it was raining."
+    }
+  }
+}

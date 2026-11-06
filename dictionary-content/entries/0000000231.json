@@ -1,0 +1,23 @@
+{
+  "id": 231,
+  "translation": {
+    "cyrillic": {
+      "word": "епизода",
+      "part_of_speech": "именица",
+      "definition": "Део серије или догађаја који чини целину.",
+      "example_sentence": "Синоћ сам гледао нову епизоду серије."
+    },
+    "latin": {
+      "word": "epizoda",
+      "part_of_speech": "imenica",
+      "definition": "Deo serije ili događaja koji čini celinu.",
+      "example_sentence": "Sinoć sam gledao novu epizodu serije."
+    },
+    "english": {
+      "word": "episode",
+      "part_of_speech": "noun",
+      "definition": "A part of a series or event that forms a whole.",
+      "example_sentence": "I watched a new episode of the series last night."
+    }
+  }
+}

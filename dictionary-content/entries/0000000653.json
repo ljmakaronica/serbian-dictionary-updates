@@ -1,0 +1,23 @@
+{
+  "id": 653,
+  "translation": {
+    "cyrillic": {
+      "word": "трактор",
+      "part_of_speech": "именица",
+      "definition": "Пољопривредно возило за тешке радове.",
+      "example_sentence": "Трактор је радио на пољу."
+    },
+    "latin": {
+      "word": "traktor",
+      "part_of_speech": "imenica",
+      "definition": "Poljoprivredno vozilo za teške radove.",
+      "example_sentence": "Traktor je radio na polju."
+    },
+    "english": {
+      "word": "tractor",
+      "part_of_speech": "noun",
+      "definition": "An agricultural vehicle used for heavy tasks.",
+      "example_sentence": "The tractor worked hard in the field."
+    }
+  }
+}

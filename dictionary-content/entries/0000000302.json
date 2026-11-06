@@ -1,0 +1,23 @@
+{
+  "id": 302,
+  "translation": {
+    "cyrillic": {
+      "word": "завод",
+      "part_of_speech": "именица",
+      "definition": "Место где се људи обучавају или лече.",
+      "example_sentence": "Ту се налази завод за истраживања."
+    },
+    "latin": {
+      "word": "zavod",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde se ljudi obučavaju ili leče.",
+      "example_sentence": "Tu se nalazi zavod za istraživanja."
+    },
+    "english": {
+      "word": "institution",
+      "part_of_speech": "noun",
+      "definition": "A place where people are trained or treated.",
+      "example_sentence": "There is a research institution there."
+    }
+  }
+}

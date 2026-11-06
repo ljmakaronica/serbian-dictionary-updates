@@ -1,0 +1,23 @@
+{
+  "id": 806,
+  "translation": {
+    "cyrillic": {
+      "word": "пажљиво",
+      "part_of_speech": "прилог",
+      "definition": "На начин који показује велику пажњу.",
+      "example_sentence": "Он пажљиво чита упутство."
+    },
+    "latin": {
+      "word": "pažljivo",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji pokazuje veliku pažnju.",
+      "example_sentence": "On pažljivo čita uputstvo."
+    },
+    "english": {
+      "word": "carefully",
+      "part_of_speech": "adverb",
+      "definition": "In a cautious or thorough manner.",
+      "example_sentence": "He reads the instructions carefully."
+    }
+  }
+}

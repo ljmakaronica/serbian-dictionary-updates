@@ -1,0 +1,23 @@
+{
+  "id": 768,
+  "translation": {
+    "cyrillic": {
+      "word": "упоредити",
+      "part_of_speech": "глагол",
+      "definition": "Ставити једно поред другог за поређење.",
+      "example_sentence": "Он је упоредио две верзије документа."
+    },
+    "latin": {
+      "word": "uporediti",
+      "part_of_speech": "glagol",
+      "definition": "Staviti jedno pored drugog za poređenje.",
+      "example_sentence": "On je uporedio dve verzije dokumenta."
+    },
+    "english": {
+      "word": "compare",
+      "part_of_speech": "verb",
+      "definition": "To examine two or more items to note similarities and differences.",
+      "example_sentence": "He compared the two versions of the document."
+    }
+  }
+}

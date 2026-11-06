@@ -1,0 +1,23 @@
+{
+  "id": 870,
+  "translation": {
+    "cyrillic": {
+      "word": "зато",
+      "part_of_speech": "везник",
+      "definition": "Означава закључак или последицу.",
+      "example_sentence": "Касно је, зато идем кући."
+    },
+    "latin": {
+      "word": "zato",
+      "part_of_speech": "veznik",
+      "definition": "Označava zaključak ili posledicu.",
+      "example_sentence": "Kasno je, zato idem kući."
+    },
+    "english": {
+      "word": "therefore",
+      "part_of_speech": "conjunction",
+      "definition": "Indicates conclusion or consequence.",
+      "example_sentence": "It is late, therefore I am going home."
+    }
+  }
+}

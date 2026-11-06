@@ -1,0 +1,23 @@
+{
+  "id": 818,
+  "translation": {
+    "cyrillic": {
+      "word": "дубоко",
+      "part_of_speech": "прилог",
+      "definition": "На начин који указује на велику дубину или интензитет.",
+      "example_sentence": "Он дубоко размишља о животу."
+    },
+    "latin": {
+      "word": "duboko",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ukazuje na veliku dubinu ili intenzitet.",
+      "example_sentence": "On duboko razmišlja o životu."
+    },
+    "english": {
+      "word": "deeply",
+      "part_of_speech": "adverb",
+      "definition": "To a great depth; intensely.",
+      "example_sentence": "He thinks deeply about life."
+    }
+  }
+}

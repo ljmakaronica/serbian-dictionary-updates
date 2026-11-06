@@ -1,0 +1,23 @@
+{
+  "id": 910,
+  "translation": {
+    "cyrillic": {
+      "word": "јутро",
+      "part_of_speech": "именица",
+      "definition": "Први део дана, од изласка сунца до подне.",
+      "example_sentence": "Јутро је било свеже и ведро."
+    },
+    "latin": {
+      "word": "jutro",
+      "part_of_speech": "imenica",
+      "definition": "Prvi deo dana, od izlaska sunca do podne.",
+      "example_sentence": "Jutro je bilo sveže i vedro."
+    },
+    "english": {
+      "word": "morning",
+      "part_of_speech": "noun",
+      "definition": "The first part of the day, from sunrise to noon.",
+      "example_sentence": "The morning was fresh and bright."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 467,
+  "translation": {
+    "cyrillic": {
+      "word": "храброст",
+      "part_of_speech": "именица",
+      "definition": "Особина да се суочава са страхом или опасностима.",
+      "example_sentence": "Његова храброст је била награђена."
+    },
+    "latin": {
+      "word": "hrabrost",
+      "part_of_speech": "imenica",
+      "definition": "Osobina da se suočava sa strahom ili opasnostima.",
+      "example_sentence": "Njegova hrabrost je bila nagrađena."
+    },
+    "english": {
+      "word": "bravery",
+      "part_of_speech": "noun",
+      "definition": "The quality of facing fear or danger.",
+      "example_sentence": "His bravery was rewarded."
+    }
+  }
+}

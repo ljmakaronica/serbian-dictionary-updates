@@ -1,0 +1,23 @@
+{
+  "id": 562,
+  "translation": {
+    "cyrillic": {
+      "word": "птица",
+      "part_of_speech": "именица",
+      "definition": "Животиња са перјем, кљуном и крилима која носи јаја; већина птица може да лети.",
+      "example_sentence": "Птица пева на дрвету."
+    },
+    "latin": {
+      "word": "ptica",
+      "part_of_speech": "imenica",
+      "definition": "Životinja sa perjem, kljunom i krilima koja nosi jaja; većina ptica može da leti.",
+      "example_sentence": "Ptica peva na drvetu."
+    },
+    "english": {
+      "word": "bird",
+      "part_of_speech": "noun",
+      "definition": "An animal with feathers, a beak, and wings that lays eggs; most birds can fly.",
+      "example_sentence": "The bird is singing on the tree."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 133,
+  "translation": {
+    "cyrillic": {
+      "word": "време",
+      "part_of_speech": "именица",
+      "definition": "Атмосферске прилике у одређеном тренутку.",
+      "example_sentence": "Време је било сунчано и топло."
+    },
+    "latin": {
+      "word": "vreme",
+      "part_of_speech": "imenica",
+      "definition": "Atmosferske prilike u određenom trenutku.",
+      "example_sentence": "Vreme je bilo sunčano i toplo."
+    },
+    "english": {
+      "word": "weather",
+      "part_of_speech": "noun",
+      "definition": "The atmospheric conditions at a specific time.",
+      "example_sentence": "The weather was sunny and warm."
+    }
+  }
+}

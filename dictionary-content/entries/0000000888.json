@@ -1,0 +1,23 @@
+{
+  "id": 888,
+  "translation": {
+    "cyrillic": {
+      "word": "ваш",
+      "part_of_speech": "заменица",
+      "definition": "Присвојна заменица другог лица множине",
+      "example_sentence": "Где је ваш кључ?"
+    },
+    "latin": {
+      "word": "vaš",
+      "part_of_speech": "zamenica",
+      "definition": "Prisvojna zamenica drugog lica množine",
+      "example_sentence": "Gde je vaš ključ?"
+    },
+    "english": {
+      "word": "your",
+      "part_of_speech": "pronoun",
+      "definition": "Second person plural/formal possessive pronoun",
+      "example_sentence": "Where is your key?"
+    }
+  }
+}

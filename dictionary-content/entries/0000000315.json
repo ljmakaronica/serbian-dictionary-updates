@@ -1,0 +1,23 @@
+{
+  "id": 315,
+  "translation": {
+    "cyrillic": {
+      "word": "имати",
+      "part_of_speech": "глагол",
+      "definition": "Бити у поседу нечега или неке способности.",
+      "example_sentence": "Имам нови мобилни телефон."
+    },
+    "latin": {
+      "word": "imati",
+      "part_of_speech": "glagol",
+      "definition": "Biti u posedu nečega ili neke sposobnosti.",
+      "example_sentence": "Imam novi mobilni telefon."
+    },
+    "english": {
+      "word": "have",
+      "part_of_speech": "verb",
+      "definition": "To be in possession of something or some ability.",
+      "example_sentence": "I have a new mobile phone."
+    }
+  }
+}

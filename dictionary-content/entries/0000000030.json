@@ -1,0 +1,23 @@
+{
+  "id": 30,
+  "translation": {
+    "cyrillic": {
+      "word": "аула",
+      "part_of_speech": "именица",
+      "definition": "Велика просторија за предавања или скупове.",
+      "example_sentence": "Предавање ће бити одржано у главној аули."
+    },
+    "latin": {
+      "word": "aula",
+      "part_of_speech": "imenica",
+      "definition": "Velika prostorija za predavanja ili skupove.",
+      "example_sentence": "Predavanje će biti održano u glavnoj auli."
+    },
+    "english": {
+      "word": "lecture hall",
+      "part_of_speech": "noun",
+      "definition": "A large room for lectures or meetings.",
+      "example_sentence": "The lecture will be held in the main lecture hall."
+    }
+  }
+}

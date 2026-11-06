@@ -1,0 +1,23 @@
+{
+  "id": 583,
+  "translation": {
+    "cyrillic": {
+      "word": "нов",
+      "part_of_speech": "придев",
+      "definition": "Недавно направљен или купљен.",
+      "example_sentence": "Имам нов аутомобил."
+    },
+    "latin": {
+      "word": "nov",
+      "part_of_speech": "pridev",
+      "definition": "Nedavno napravljen ili kupljen.",
+      "example_sentence": "Imam nov automobil."
+    },
+    "english": {
+      "word": "new",
+      "part_of_speech": "adjective",
+      "definition": "Recently made or acquired.",
+      "example_sentence": "I have a new car."
+    }
+  }
+}

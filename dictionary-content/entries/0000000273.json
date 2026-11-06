@@ -1,0 +1,23 @@
+{
+  "id": 273,
+  "translation": {
+    "cyrillic": {
+      "word": "еквилибриста",
+      "part_of_speech": "именица",
+      "definition": "Акробата који изводи вежбе равнотеже.",
+      "example_sentence": "Еквилибриста је ходао по жици."
+    },
+    "latin": {
+      "word": "ekvilibrista",
+      "part_of_speech": "imenica",
+      "definition": "Akrobata koji izvodi vežbe ravnoteže.",
+      "example_sentence": "Ekvilibrista je hodao po žici."
+    },
+    "english": {
+      "word": "equilibrist",
+      "part_of_speech": "noun",
+      "definition": "An acrobat who performs balance exercises.",
+      "example_sentence": "The equilibrist walked on the wire."
+    }
+  }
+}

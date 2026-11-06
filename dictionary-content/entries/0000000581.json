@@ -1,0 +1,23 @@
+{
+  "id": 581,
+  "translation": {
+    "cyrillic": {
+      "word": "врућ",
+      "part_of_speech": "придев",
+      "definition": "Високе температуре.",
+      "example_sentence": "Кафа је врућа."
+    },
+    "latin": {
+      "word": "vruć",
+      "part_of_speech": "pridev",
+      "definition": "Visoke temperature.",
+      "example_sentence": "Kafa je vruća."
+    },
+    "english": {
+      "word": "hot",
+      "part_of_speech": "adjective",
+      "definition": "Having a high temperature.",
+      "example_sentence": "The coffee is hot."
+    }
+  }
+}

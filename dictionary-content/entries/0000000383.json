@@ -1,0 +1,23 @@
+{
+  "id": 383,
+  "translation": {
+    "cyrillic": {
+      "word": "облак",
+      "part_of_speech": "именица",
+      "definition": "Видљива маса ситних капљица воде или кристала леда у атмосфери.",
+      "example_sentence": "Облаци су прекрили небо."
+    },
+    "latin": {
+      "word": "oblak",
+      "part_of_speech": "imenica",
+      "definition": "Vidljiva masa sitnih kapljica vode ili kristala leda u atmosferi.",
+      "example_sentence": "Oblaci su prekrili nebo."
+    },
+    "english": {
+      "word": "cloud",
+      "part_of_speech": "noun",
+      "definition": "A visible mass of tiny water droplets or ice crystals in the atmosphere.",
+      "example_sentence": "Clouds covered the sky."
+    }
+  }
+}

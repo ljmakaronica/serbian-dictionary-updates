@@ -1,0 +1,23 @@
+{
+  "id": 557,
+  "translation": {
+    "cyrillic": {
+      "word": "трчати",
+      "part_of_speech": "глагол",
+      "definition": "Кретати се брзо ногама.",
+      "example_sentence": "Волим да трчим ујутру."
+    },
+    "latin": {
+      "word": "trčati",
+      "part_of_speech": "glagol",
+      "definition": "Kretati se brzo nogama.",
+      "example_sentence": "Volim da trčim ujutru."
+    },
+    "english": {
+      "word": "to run",
+      "part_of_speech": "verb",
+      "definition": "To move quickly on foot.",
+      "example_sentence": "I love to run in the morning."
+    }
+  }
+}

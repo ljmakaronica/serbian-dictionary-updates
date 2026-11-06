@@ -1,0 +1,23 @@
+{
+  "id": 987,
+  "translation": {
+    "cyrillic": {
+      "word": "да",
+      "part_of_speech": "прилог",
+      "definition": "потврдан одговор",
+      "example_sentence": "Да, хоћу."
+    },
+    "latin": {
+      "word": "da",
+      "part_of_speech": "prilog",
+      "definition": "potvrdan odgovor",
+      "example_sentence": "Da, hoću."
+    },
+    "english": {
+      "word": "yes",
+      "part_of_speech": "adverb",
+      "definition": "affirmative answer",
+      "example_sentence": "Yes, I will."
+    }
+  }
+}

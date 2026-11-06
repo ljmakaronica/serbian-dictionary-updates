@@ -1,0 +1,23 @@
+{
+  "id": 566,
+  "translation": {
+    "cyrillic": {
+      "word": "смејати се",
+      "part_of_speech": "глагол",
+      "definition": "Показивати задовољство или срећу осмехом.",
+      "example_sentence": "Волим када се смејеш."
+    },
+    "latin": {
+      "word": "smejati se",
+      "part_of_speech": "glagol",
+      "definition": "Pokazivati zadovoljstvo ili sreću osmehom.",
+      "example_sentence": "Volim kada se smeješ."
+    },
+    "english": {
+      "word": "to smile",
+      "part_of_speech": "verb",
+      "definition": "To show pleasure or happiness with a facial expression.",
+      "example_sentence": "I love it when you smile."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 797,
+  "translation": {
+    "cyrillic": {
+      "word": "доказати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство потврђивања тачности нечега.",
+      "example_sentence": "Ученица је доказала теорему."
+    },
+    "latin": {
+      "word": "dokazati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo potvrđivanja tačnosti nečega.",
+      "example_sentence": "Učenica je dokazala teoremu."
+    },
+    "english": {
+      "word": "prove",
+      "part_of_speech": "verb",
+      "definition": "To demonstrate the truth or existence of something.",
+      "example_sentence": "The student proved the theorem."
+    }
+  }
+}

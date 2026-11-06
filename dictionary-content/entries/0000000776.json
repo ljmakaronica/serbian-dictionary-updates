@@ -1,0 +1,23 @@
+{
+  "id": 776,
+  "translation": {
+    "cyrillic": {
+      "word": "кликнути",
+      "part_of_speech": "глагол",
+      "definition": "Кратко притиснути дугме миша ради избора или покретања нечега на екрану.",
+      "example_sentence": "Он је кликнуо на линк."
+    },
+    "latin": {
+      "word": "kliknuti",
+      "part_of_speech": "glagol",
+      "definition": "Kratko pritisnuti dugme miša radi izbora ili pokretanja nečega na ekranu.",
+      "example_sentence": "On je kliknuo na link."
+    },
+    "english": {
+      "word": "click",
+      "part_of_speech": "verb",
+      "definition": "To briefly press a mouse button to select or activate something on a screen.",
+      "example_sentence": "He clicked on the link."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 486,
+  "translation": {
+    "cyrillic": {
+      "word": "џак",
+      "part_of_speech": "именица",
+      "definition": "Велика врећа за складиштење жита или других материјала.",
+      "example_sentence": "џакови са пшеницом су били спремни за транспорт."
+    },
+    "latin": {
+      "word": "džak",
+      "part_of_speech": "imenica",
+      "definition": "Velika vreća za skladištenje žita ili drugih materijala.",
+      "example_sentence": "Džakovi sa pšenicom su bili spremni za transport."
+    },
+    "english": {
+      "word": "sack",
+      "part_of_speech": "noun",
+      "definition": "A large bag for storing grain or other materials.",
+      "example_sentence": "The sacks of wheat were ready for transport."
+    }
+  }
+}

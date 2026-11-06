@@ -1,0 +1,23 @@
+{
+  "id": 558,
+  "translation": {
+    "cyrillic": {
+      "word": "плав",
+      "part_of_speech": "придев",
+      "definition": "Боја неба или мора.",
+      "example_sentence": "Његове очи су плаве."
+    },
+    "latin": {
+      "word": "plav",
+      "part_of_speech": "pridev",
+      "definition": "Boja neba ili mora.",
+      "example_sentence": "Njegove oči su plave."
+    },
+    "english": {
+      "word": "blue",
+      "part_of_speech": "adjective",
+      "definition": "The color of the sky or the sea.",
+      "example_sentence": "His eyes are blue."
+    }
+  }
+}

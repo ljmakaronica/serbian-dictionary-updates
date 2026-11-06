@@ -1,0 +1,23 @@
+{
+  "id": 779,
+  "translation": {
+    "cyrillic": {
+      "word": "одбити",
+      "part_of_speech": "глагол",
+      "definition": "Не прихватити понуду, захтев или предлог.",
+      "example_sentence": "Он је одбио понуду за посао."
+    },
+    "latin": {
+      "word": "odbiti",
+      "part_of_speech": "glagol",
+      "definition": "Ne prihvatiti ponudu, zahtev ili predlog.",
+      "example_sentence": "On je odbio ponudu za posao."
+    },
+    "english": {
+      "word": "reject",
+      "part_of_speech": "verb",
+      "definition": "To refuse to accept an offer, request, or proposal.",
+      "example_sentence": "He rejected the job offer."
+    }
+  }
+}

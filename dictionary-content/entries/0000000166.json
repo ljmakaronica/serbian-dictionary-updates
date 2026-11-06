@@ -1,0 +1,23 @@
+{
+  "id": 166,
+  "translation": {
+    "cyrillic": {
+      "word": "гледати",
+      "part_of_speech": "глагол",
+      "definition": "Испитивати неку ствар гледањем.",
+      "example_sentence": "Гледали смо филм у биоскопу."
+    },
+    "latin": {
+      "word": "gledati",
+      "part_of_speech": "glagol",
+      "definition": "Ispitivati neku stvar gledanjem.",
+      "example_sentence": "Gledali smo film u bioskopu."
+    },
+    "english": {
+      "word": "to watch",
+      "part_of_speech": "verb",
+      "definition": "To observe something by looking.",
+      "example_sentence": "We watched the movie at the cinema."
+    }
+  }
+}

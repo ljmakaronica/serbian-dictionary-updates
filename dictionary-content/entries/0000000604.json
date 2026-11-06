@@ -1,0 +1,23 @@
+{
+  "id": 604,
+  "translation": {
+    "cyrillic": {
+      "word": "помоћи",
+      "part_of_speech": "глагол",
+      "definition": "Пружити подршку или асистенцију.",
+      "example_sentence": "Помажем својим пријатељима."
+    },
+    "latin": {
+      "word": "pomoći",
+      "part_of_speech": "glagol",
+      "definition": "Pružiti podršku ili asistenciju.",
+      "example_sentence": "Pomažem svojim prijateljima."
+    },
+    "english": {
+      "word": "to help",
+      "part_of_speech": "verb",
+      "definition": "To provide support or assistance.",
+      "example_sentence": "I help my friends."
+    }
+  }
+}

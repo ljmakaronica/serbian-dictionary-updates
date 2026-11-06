@@ -1,0 +1,23 @@
+{
+  "id": 735,
+  "translation": {
+    "cyrillic": {
+      "word": "помирити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство успостављања мира између супротстављених страна.",
+      "example_sentence": "Учитељ је помирио завађене ученике."
+    },
+    "latin": {
+      "word": "pomiriti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo uspostavljanja mira između suprotstavljenih strana.",
+      "example_sentence": "Učitelj je pomirio zavađene učenike."
+    },
+    "english": {
+      "word": "reconcile",
+      "part_of_speech": "verb",
+      "definition": "To restore friendly relations between.",
+      "example_sentence": "The teacher reconciled the students who had quarreled."
+    }
+  }
+}

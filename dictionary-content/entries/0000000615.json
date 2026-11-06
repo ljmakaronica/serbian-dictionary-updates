@@ -1,0 +1,23 @@
+{
+  "id": 615,
+  "translation": {
+    "cyrillic": {
+      "word": "компјутер",
+      "part_of_speech": "именица",
+      "definition": "Електронски уређај за обраду података.",
+      "example_sentence": "Користим компјутер за посао."
+    },
+    "latin": {
+      "word": "kompjuter",
+      "part_of_speech": "imenica",
+      "definition": "Elektronski uređaj za obradu podataka.",
+      "example_sentence": "Koristim kompjuter za posao."
+    },
+    "english": {
+      "word": "computer",
+      "part_of_speech": "noun",
+      "definition": "An electronic device for processing data.",
+      "example_sentence": "I use a computer for work."
+    }
+  }
+}

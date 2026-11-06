@@ -1,0 +1,23 @@
+{
+  "id": 670,
+  "translation": {
+    "cyrillic": {
+      "word": "болест",
+      "part_of_speech": "именица",
+      "definition": "Стање физичке или менталне немоћи.",
+      "example_sentence": "Болест је захватила град."
+    },
+    "latin": {
+      "word": "bolest",
+      "part_of_speech": "imenica",
+      "definition": "Stanje fizičke ili mentalne nemoći.",
+      "example_sentence": "Bolest je zahvatila grad."
+    },
+    "english": {
+      "word": "illness",
+      "part_of_speech": "noun",
+      "definition": "A condition of physical or mental infirmity.",
+      "example_sentence": "Illness has struck the town."
+    }
+  }
+}

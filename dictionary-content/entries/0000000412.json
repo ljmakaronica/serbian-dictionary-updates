@@ -1,0 +1,23 @@
+{
+  "id": 412,
+  "translation": {
+    "cyrillic": {
+      "word": "сат",
+      "part_of_speech": "именица",
+      "definition": "Уређај за мерење времена.",
+      "example_sentence": "На зиду је висио леп сат."
+    },
+    "latin": {
+      "word": "sat",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za merenje vremena.",
+      "example_sentence": "Na zidu je visio lep sat."
+    },
+    "english": {
+      "word": "clock / watch",
+      "part_of_speech": "noun",
+      "definition": "A device used to measure time.",
+      "example_sentence": "A beautiful clock hung on the wall."
+    }
+  }
+}

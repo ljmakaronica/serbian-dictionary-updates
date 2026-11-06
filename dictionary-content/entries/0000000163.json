@@ -1,0 +1,23 @@
+{
+  "id": 163,
+  "translation": {
+    "cyrillic": {
+      "word": "глумица",
+      "part_of_speech": "именица",
+      "definition": "Жена која игра улоге у позоришту или филму.",
+      "example_sentence": "Она је позната глумица која је играла у многим филмовима."
+    },
+    "latin": {
+      "word": "glumica",
+      "part_of_speech": "imenica",
+      "definition": "Žena koja igra uloge u pozorištu ili filmu.",
+      "example_sentence": "Ona je poznata glumica koja je igrala u mnogim filmovima."
+    },
+    "english": {
+      "word": "actress",
+      "part_of_speech": "noun",
+      "definition": "A woman who plays roles in theater or film.",
+      "example_sentence": "She is a famous actress who has starred in many movies."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 438,
+  "translation": {
+    "cyrillic": {
+      "word": "уста",
+      "part_of_speech": "именица",
+      "definition": "Део лица који се користи за јело и говор.",
+      "example_sentence": "Његова уста су се насмешила."
+    },
+    "latin": {
+      "word": "usta",
+      "part_of_speech": "imenica",
+      "definition": "Deo lica koji se koristi za jelo i govor.",
+      "example_sentence": "Njegova usta su se nasmešila."
+    },
+    "english": {
+      "word": "mouth",
+      "part_of_speech": "noun",
+      "definition": "The part of the face used for eating and speaking.",
+      "example_sentence": "His mouth smiled."
+    }
+  }
+}

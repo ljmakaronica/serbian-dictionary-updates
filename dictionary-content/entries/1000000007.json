@@ -1,0 +1,23 @@
+{
+  "id": 1000000007,
+  "translation": {
+    "cyrillic": {
+      "word": "септембар",
+      "part_of_speech": "именица",
+      "definition": "Девети месец у години.",
+      "example_sentence": "Септембар је први месец јесени."
+    },
+    "latin": {
+      "word": "septembar",
+      "part_of_speech": "imenica",
+      "definition": "Deveti mesec u godini.",
+      "example_sentence": "Septembar je prvi mesec jeseni."
+    },
+    "english": {
+      "word": "September",
+      "part_of_speech": "noun",
+      "definition": "The ninth month of the year.",
+      "example_sentence": "September is the first month of autumn."
+    }
+  }
+}

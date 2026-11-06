@@ -1,0 +1,23 @@
+{
+  "id": 256,
+  "translation": {
+    "cyrillic": {
+      "word": "еполета",
+      "part_of_speech": "именица",
+      "definition": "Украсна ознака чина на рамену униформе.",
+      "example_sentence": "Генерал је носио златне еполете."
+    },
+    "latin": {
+      "word": "epoleta",
+      "part_of_speech": "imenica",
+      "definition": "Ukrasna oznaka čina na ramenu uniforme.",
+      "example_sentence": "General je nosio zlatne epolete."
+    },
+    "english": {
+      "word": "epaulette",
+      "part_of_speech": "noun",
+      "definition": "An ornamental shoulder piece on a uniform.",
+      "example_sentence": "The general wore golden epaulettes."
+    }
+  }
+}

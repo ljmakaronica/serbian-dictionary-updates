@@ -1,0 +1,23 @@
+{
+  "id": 336,
+  "translation": {
+    "cyrillic": {
+      "word": "кров",
+      "part_of_speech": "именица",
+      "definition": "Горњи део зграде који штити од временских услова.",
+      "example_sentence": "Кров куће је покривен црепом."
+    },
+    "latin": {
+      "word": "krov",
+      "part_of_speech": "imenica",
+      "definition": "Gornji deo zgrade koji štiti od vremenskih uslova.",
+      "example_sentence": "Krov kuće je pokriven crepom."
+    },
+    "english": {
+      "word": "roof",
+      "part_of_speech": "noun",
+      "definition": "The top part of a building that protects from weather.",
+      "example_sentence": "The roof of the house is covered with tiles."
+    }
+  }
+}

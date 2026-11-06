@@ -1,0 +1,23 @@
+{
+  "id": 823,
+  "translation": {
+    "cyrillic": {
+      "word": "посебно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који истиче важност или разлику.",
+      "example_sentence": "Она посебно воли књиге."
+    },
+    "latin": {
+      "word": "posebno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ističe važnost ili razliku.",
+      "example_sentence": "Ona posebno voli knjige."
+    },
+    "english": {
+      "word": "especially",
+      "part_of_speech": "adverb",
+      "definition": "Particularly; notably.",
+      "example_sentence": "She especially loves books."
+    }
+  }
+}

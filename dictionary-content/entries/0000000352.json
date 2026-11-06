@@ -1,0 +1,23 @@
+{
+  "id": 352,
+  "translation": {
+    "cyrillic": {
+      "word": "љутити",
+      "part_of_speech": "глагол",
+      "definition": "Изазивати љутњу код некога.",
+      "example_sentence": "Његово кашњење љути колеге."
+    },
+    "latin": {
+      "word": "ljutiti",
+      "part_of_speech": "glagol",
+      "definition": "Izazivati ljutnju kod nekoga.",
+      "example_sentence": "Njegovo kašnjenje ljuti kolege."
+    },
+    "english": {
+      "word": "to anger",
+      "part_of_speech": "verb",
+      "definition": "To make someone angry.",
+      "example_sentence": "His lateness angers his colleagues."
+    }
+  }
+}

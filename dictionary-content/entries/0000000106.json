@@ -1,0 +1,23 @@
+{
+  "id": 106,
+  "translation": {
+    "cyrillic": {
+      "word": "базен",
+      "part_of_speech": "именица",
+      "definition": "Вештачки направљен простор испуњен водом за пливање.",
+      "example_sentence": "Лети често идемо на базен."
+    },
+    "latin": {
+      "word": "bazen",
+      "part_of_speech": "imenica",
+      "definition": "Veštački napravljen prostor ispunjen vodom za plivanje.",
+      "example_sentence": "Leti često idemo na bazen."
+    },
+    "english": {
+      "word": "swimming pool",
+      "part_of_speech": "noun",
+      "definition": "An artificial structure filled with water for swimming.",
+      "example_sentence": "We often go to the swimming pool in summer."
+    }
+  }
+}

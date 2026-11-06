@@ -1,0 +1,23 @@
+{
+  "id": 398,
+  "translation": {
+    "cyrillic": {
+      "word": "пријатељ",
+      "part_of_speech": "именица",
+      "definition": "Особа са којом имамо блиске и добре односе.",
+      "example_sentence": "Мој најбољи пријатељ је увек ту за мене."
+    },
+    "latin": {
+      "word": "prijatelj",
+      "part_of_speech": "imenica",
+      "definition": "Osoba sa kojom imamo bliske i dobre odnose.",
+      "example_sentence": "Moj najbolji prijatelj je uvek tu za mene."
+    },
+    "english": {
+      "word": "friend",
+      "part_of_speech": "noun",
+      "definition": "A person with whom we have close and good relations.",
+      "example_sentence": "My best friend is always there for me."
+    }
+  }
+}

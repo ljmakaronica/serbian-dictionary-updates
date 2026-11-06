@@ -1,0 +1,23 @@
+{
+  "id": 771,
+  "translation": {
+    "cyrillic": {
+      "word": "симболизовати",
+      "part_of_speech": "глагол",
+      "definition": "Представљати или означавај нешто као симбол.",
+      "example_sentence": "Овај споменик симболизује слободу."
+    },
+    "latin": {
+      "word": "simbolizovati",
+      "part_of_speech": "glagol",
+      "definition": "Predstavljati ili označavati nešto kao simbol.",
+      "example_sentence": "Ovaj spomenik simbolizuje slobodu."
+    },
+    "english": {
+      "word": "symbolize",
+      "part_of_speech": "verb",
+      "definition": "To represent something by means of a symbol.",
+      "example_sentence": "This monument symbolizes freedom."
+    }
+  }
+}

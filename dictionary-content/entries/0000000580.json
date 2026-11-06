@@ -1,0 +1,23 @@
+{
+  "id": 580,
+  "translation": {
+    "cyrillic": {
+      "word": "тужан",
+      "part_of_speech": "придев",
+      "definition": "Осећај туге или жалости.",
+      "example_sentence": "Он је тужан због вести."
+    },
+    "latin": {
+      "word": "tužan",
+      "part_of_speech": "pridev",
+      "definition": "Osećaj tuge ili žalosti.",
+      "example_sentence": "On je tužan zbog vesti."
+    },
+    "english": {
+      "word": "sad",
+      "part_of_speech": "adjective",
+      "definition": "Feeling or showing sorrow or unhappiness.",
+      "example_sentence": "He is sad because of the news."
+    }
+  }
+}

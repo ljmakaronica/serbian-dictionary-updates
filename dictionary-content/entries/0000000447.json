@@ -1,0 +1,23 @@
+{
+  "id": 447,
+  "translation": {
+    "cyrillic": {
+      "word": "фантазија",
+      "part_of_speech": "именица",
+      "definition": "Машта или замишљање нечег нестварног.",
+      "example_sentence": "Његова фантазија је била безгранична."
+    },
+    "latin": {
+      "word": "fantazija",
+      "part_of_speech": "imenica",
+      "definition": "Mašta ili zamišljanje nečeg nestvarnog.",
+      "example_sentence": "Njegova fantazija je bila bezgranična."
+    },
+    "english": {
+      "word": "fantasy",
+      "part_of_speech": "noun",
+      "definition": "Imagination or envisioning something unreal.",
+      "example_sentence": "His fantasy was limitless."
+    }
+  }
+}

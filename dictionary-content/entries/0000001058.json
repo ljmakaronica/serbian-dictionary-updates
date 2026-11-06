@@ -1,0 +1,23 @@
+{
+  "id": 1058,
+  "translation": {
+    "cyrillic": {
+      "word": "квалитет",
+      "part_of_speech": "именица",
+      "definition": "Ниво доброте или изврсности.",
+      "example_sentence": "Овај производ је доброг квалитета."
+    },
+    "latin": {
+      "word": "kvalitet",
+      "part_of_speech": "imenica",
+      "definition": "Nivo dobrote ili izvrsnosti.",
+      "example_sentence": "Ovaj proizvod je dobrog kvaliteta."
+    },
+    "english": {
+      "word": "quality",
+      "part_of_speech": "noun",
+      "definition": "The level of goodness or excellence.",
+      "example_sentence": "This product is of good quality."
+    }
+  }
+}

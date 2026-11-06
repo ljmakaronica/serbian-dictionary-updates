@@ -1,0 +1,23 @@
+{
+  "id": 720,
+  "translation": {
+    "cyrillic": {
+      "word": "узвратити",
+      "part_of_speech": "глагол",
+      "definition": "Пружање повратне акције или одговора.",
+      "example_sentence": "Он узвраћа љубазност пријатељу."
+    },
+    "latin": {
+      "word": "uzvratiti",
+      "part_of_speech": "glagol",
+      "definition": "Pružanje povratne akcije ili odgovora.",
+      "example_sentence": "On uzvraća ljubaznost prijatelju."
+    },
+    "english": {
+      "word": "return",
+      "part_of_speech": "verb",
+      "definition": "To reciprocate an action or favor.",
+      "example_sentence": "He returns the favor to his friend."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1048,
+  "translation": {
+    "cyrillic": {
+      "word": "користан",
+      "part_of_speech": "придев",
+      "definition": "Који доноси корист или помаже.",
+      "example_sentence": "Ово је користан савет."
+    },
+    "latin": {
+      "word": "koristan",
+      "part_of_speech": "pridev",
+      "definition": "Koji donosi korist ili pomaže.",
+      "example_sentence": "Ovo je koristan savet."
+    },
+    "english": {
+      "word": "useful",
+      "part_of_speech": "adjective",
+      "definition": "Bringing benefit or help.",
+      "example_sentence": "This is useful advice."
+    }
+  }
+}

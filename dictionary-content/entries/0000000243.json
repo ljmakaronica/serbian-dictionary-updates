@@ -1,0 +1,23 @@
+{
+  "id": 243,
+  "translation": {
+    "cyrillic": {
+      "word": "еуфорија",
+      "part_of_speech": "именица",
+      "definition": "Стање интензивне среће и узбуђења.",
+      "example_sentence": "Победа је изазвала еуфорију међу навијачима."
+    },
+    "latin": {
+      "word": "euforija",
+      "part_of_speech": "imenica",
+      "definition": "Stanje intenzivne sreće i uzbuđenja.",
+      "example_sentence": "Pobeda je izazvala euforiju među navijačima."
+    },
+    "english": {
+      "word": "euphoria",
+      "part_of_speech": "noun",
+      "definition": "A state of intense happiness and excitement.",
+      "example_sentence": "The victory caused euphoria among the fans."
+    }
+  }
+}

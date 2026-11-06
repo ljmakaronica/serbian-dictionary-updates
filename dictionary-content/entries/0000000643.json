@@ -1,0 +1,23 @@
+{
+  "id": 643,
+  "translation": {
+    "cyrillic": {
+      "word": "мост",
+      "part_of_speech": "именица",
+      "definition": "Конструкција која премошћава реку или долину.",
+      "example_sentence": "Нови мост повезује обале реке."
+    },
+    "latin": {
+      "word": "most",
+      "part_of_speech": "imenica",
+      "definition": "Konstrukcija koja premošćava reku ili dolinu.",
+      "example_sentence": "Novi most povezuje obale reke."
+    },
+    "english": {
+      "word": "bridge",
+      "part_of_speech": "noun",
+      "definition": "A structure built to span a river or valley.",
+      "example_sentence": "The new bridge connects the riverbanks."
+    }
+  }
+}

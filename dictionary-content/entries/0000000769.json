@@ -1,0 +1,23 @@
+{
+  "id": 769,
+  "translation": {
+    "cyrillic": {
+      "word": "демонстрирати",
+      "part_of_speech": "глагол",
+      "definition": "Показати како нешто ради или како се нешто изводи.",
+      "example_sentence": "Наставник демонстрира поступак ученицима."
+    },
+    "latin": {
+      "word": "demonstrirati",
+      "part_of_speech": "glagol",
+      "definition": "Pokazati kako nešto radi ili kako se nešto izvodi.",
+      "example_sentence": "Nastavnik demonstrira postupak učenicima."
+    },
+    "english": {
+      "word": "demonstrate",
+      "part_of_speech": "verb",
+      "definition": "To show how something works or how to do something.",
+      "example_sentence": "The teacher demonstrates the procedure to the students."
+    }
+  }
+}

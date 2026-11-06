@@ -1,0 +1,23 @@
+{
+  "id": 712,
+  "translation": {
+    "cyrillic": {
+      "word": "славити",
+      "part_of_speech": "глагол",
+      "definition": "Обележавање посебних догађаја.",
+      "example_sentence": "Породица слави рођендан."
+    },
+    "latin": {
+      "word": "slaviti",
+      "part_of_speech": "glagol",
+      "definition": "Obeležavanje posebnih događaja.",
+      "example_sentence": "Porodica slavi rođendan."
+    },
+    "english": {
+      "word": "celebrate",
+      "part_of_speech": "verb",
+      "definition": "To observe or honor a special event.",
+      "example_sentence": "The family celebrates a birthday."
+    }
+  }
+}

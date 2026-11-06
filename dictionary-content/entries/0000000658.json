@@ -1,0 +1,23 @@
+{
+  "id": 658,
+  "translation": {
+    "cyrillic": {
+      "word": "музичар",
+      "part_of_speech": "именица",
+      "definition": "Особа која изводи музичке композиције.",
+      "example_sentence": "Музичар свира клавир на концерту."
+    },
+    "latin": {
+      "word": "muzičar",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja izvodi muzičke kompozicije.",
+      "example_sentence": "Muzičar svira klavir na koncertu."
+    },
+    "english": {
+      "word": "musician",
+      "part_of_speech": "noun",
+      "definition": "A person who performs musical compositions.",
+      "example_sentence": "The musician plays the piano at the concert."
+    }
+  }
+}

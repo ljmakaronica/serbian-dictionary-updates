@@ -1,0 +1,23 @@
+{
+  "id": 504,
+  "translation": {
+    "cyrillic": {
+      "word": "шарка",
+      "part_of_speech": "именица",
+      "definition": "Покретни део који омогућава отварање и затварање врата или прозора.",
+      "example_sentence": "Шарка на вратима је била оштећена."
+    },
+    "latin": {
+      "word": "šarka",
+      "part_of_speech": "imenica",
+      "definition": "Pokretni deo koji omogućava otvaranje i zatvaranje vrata ili prozora.",
+      "example_sentence": "Šarka na vratima je bila oštećena."
+    },
+    "english": {
+      "word": "hinge",
+      "part_of_speech": "noun",
+      "definition": "A movable part that allows doors or windows to open and close.",
+      "example_sentence": "The hinge on the door was damaged."
+    }
+  }
+}

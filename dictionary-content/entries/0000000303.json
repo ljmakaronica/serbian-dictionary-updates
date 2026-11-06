@@ -1,0 +1,23 @@
+{
+  "id": 303,
+  "translation": {
+    "cyrillic": {
+      "word": "забава",
+      "part_of_speech": "именица",
+      "definition": "Активност која има за циљ да забави или усрећи људе.",
+      "example_sentence": "Музика и игре пружају забаву гостима."
+    },
+    "latin": {
+      "word": "zabava",
+      "part_of_speech": "imenica",
+      "definition": "Aktivnost koja ima za cilj da zabavi ili usreći ljude.",
+      "example_sentence": "Muzika i igre pružaju zabavu gostima."
+    },
+    "english": {
+      "word": "entertainment",
+      "part_of_speech": "noun",
+      "definition": "An activity meant to amuse or make people happy.",
+      "example_sentence": "Music and games provide entertainment for the guests."
+    }
+  }
+}

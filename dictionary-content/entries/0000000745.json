@@ -1,0 +1,23 @@
+{
+  "id": 745,
+  "translation": {
+    "cyrillic": {
+      "word": "одговорити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство пружања одговора или реакције.",
+      "example_sentence": "Она је одмах одговорила на поруку."
+    },
+    "latin": {
+      "word": "odgovoriti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo pružanja odgovora ili reakcije.",
+      "example_sentence": "Ona je odmah odgovorila na poruku."
+    },
+    "english": {
+      "word": "respond",
+      "part_of_speech": "verb",
+      "definition": "To reply or react to something.",
+      "example_sentence": "She responded to the message immediately."
+    }
+  }
+}

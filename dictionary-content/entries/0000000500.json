@@ -1,0 +1,23 @@
+{
+  "id": 500,
+  "translation": {
+    "cyrillic": {
+      "word": "шарен",
+      "part_of_speech": "придев",
+      "definition": "Који има више боја или узорака.",
+      "example_sentence": "Шарена хаљина је била веома лепа."
+    },
+    "latin": {
+      "word": "šaren",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima više boja ili uzoraka.",
+      "example_sentence": "Šarena haljina je bila veoma lepa."
+    },
+    "english": {
+      "word": "colorful",
+      "part_of_speech": "adjective",
+      "definition": "Having many colors or patterns.",
+      "example_sentence": "The colorful dress was very beautiful."
+    }
+  }
+}

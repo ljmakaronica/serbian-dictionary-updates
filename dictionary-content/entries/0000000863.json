@@ -1,0 +1,23 @@
+{
+  "id": 863,
+  "translation": {
+    "cyrillic": {
+      "word": "иако",
+      "part_of_speech": "везник",
+      "definition": "Изражава допуштање.",
+      "example_sentence": "Изашао је иако је падала киша."
+    },
+    "latin": {
+      "word": "iako",
+      "part_of_speech": "veznik",
+      "definition": "Izražava dopuštanje.",
+      "example_sentence": "Izašao je iako je padala kiša."
+    },
+    "english": {
+      "word": "although",
+      "part_of_speech": "conjunction",
+      "definition": "Expresses concession.",
+      "example_sentence": "He went out although it was raining."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 757,
+  "translation": {
+    "cyrillic": {
+      "word": "усавршавати",
+      "part_of_speech": "глагол",
+      "definition": "Постепено побољшавати знање, вештину или квалитет нечега.",
+      "example_sentence": "Она усавршава своје вештине редовним вежбањем."
+    },
+    "latin": {
+      "word": "usavršavati",
+      "part_of_speech": "glagol",
+      "definition": "Postepeno poboljšavati znanje, veštinu ili kvalitet nečega.",
+      "example_sentence": "Ona usavršava svoje veštine redovnim vežbanjem."
+    },
+    "english": {
+      "word": "improve",
+      "part_of_speech": "verb",
+      "definition": "To gradually improve knowledge, skill, or the quality of something.",
+      "example_sentence": "She improves her skills through regular practice."
+    }
+  }
+}

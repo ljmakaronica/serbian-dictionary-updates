@@ -1,0 +1,23 @@
+{
+  "id": 812,
+  "translation": {
+    "cyrillic": {
+      "word": "тренутно",
+      "part_of_speech": "прилог",
+      "definition": "У овом тренутку, сада.",
+      "example_sentence": "Пројекат тренутно напредује."
+    },
+    "latin": {
+      "word": "trenutno",
+      "part_of_speech": "prilog",
+      "definition": "U ovom trenutku, sada.",
+      "example_sentence": "Projekat trenutno napreduje."
+    },
+    "english": {
+      "word": "currently",
+      "part_of_speech": "adverb",
+      "definition": "At the present time.",
+      "example_sentence": "The project is currently progressing."
+    }
+  }
+}

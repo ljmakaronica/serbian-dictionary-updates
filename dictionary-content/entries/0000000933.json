@@ -1,0 +1,23 @@
+{
+  "id": 933,
+  "translation": {
+    "cyrillic": {
+      "word": "ауто",
+      "part_of_speech": "именица",
+      "definition": "моторно возило",
+      "example_sentence": "Купио сам нови ауто."
+    },
+    "latin": {
+      "word": "auto",
+      "part_of_speech": "imenica",
+      "definition": "motorno vozilo",
+      "example_sentence": "Kupio sam novi auto."
+    },
+    "english": {
+      "word": "car",
+      "part_of_speech": "noun",
+      "definition": "motor vehicle",
+      "example_sentence": "I bought a new car."
+    }
+  }
+}

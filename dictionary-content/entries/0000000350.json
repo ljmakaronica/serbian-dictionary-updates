@@ -1,0 +1,23 @@
+{
+  "id": 350,
+  "translation": {
+    "cyrillic": {
+      "word": "лист",
+      "part_of_speech": "именица",
+      "definition": "Део биљке који служи за фотосинтезу.",
+      "example_sentence": "Лист је пао са дрвета."
+    },
+    "latin": {
+      "word": "list",
+      "part_of_speech": "imenica",
+      "definition": "Deo biljke koji služi za fotosintezu.",
+      "example_sentence": "List je pao sa drveta."
+    },
+    "english": {
+      "word": "leaf",
+      "part_of_speech": "noun",
+      "definition": "The part of a plant used for photosynthesis.",
+      "example_sentence": "The leaf fell from the tree."
+    }
+  }
+}

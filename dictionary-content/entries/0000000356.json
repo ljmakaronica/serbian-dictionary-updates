@@ -1,0 +1,23 @@
+{
+  "id": 356,
+  "translation": {
+    "cyrillic": {
+      "word": "љубомора",
+      "part_of_speech": "именица",
+      "definition": "Осећај зависти или сумње у вези са нечијом пажњом или љубављу.",
+      "example_sentence": "Његова љубомора је изазвала свађу."
+    },
+    "latin": {
+      "word": "ljubomora",
+      "part_of_speech": "imenica",
+      "definition": "Osećaj zavisti ili sumnje u vezi sa nečijom pažnjom ili ljubavlju.",
+      "example_sentence": "Njegova ljubomora je izazvala svađu."
+    },
+    "english": {
+      "word": "jealousy",
+      "part_of_speech": "noun",
+      "definition": "A feeling of envy or doubt regarding someone's attention or love.",
+      "example_sentence": "His jealousy caused an argument."
+    }
+  }
+}

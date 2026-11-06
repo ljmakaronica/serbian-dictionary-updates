@@ -1,0 +1,23 @@
+{
+  "id": 52,
+  "translation": {
+    "cyrillic": {
+      "word": "август",
+      "part_of_speech": "именица",
+      "definition": "Осми месец у години.",
+      "example_sentence": "Август је обично најтоплији месец у години."
+    },
+    "latin": {
+      "word": "avgust",
+      "part_of_speech": "imenica",
+      "definition": "Osmi mesec u godini.",
+      "example_sentence": "Avgust je obično najtopliji mesec u godini."
+    },
+    "english": {
+      "word": "August",
+      "part_of_speech": "noun",
+      "definition": "The eighth month of the year.",
+      "example_sentence": "August is usually the hottest month of the year."
+    }
+  }
+}

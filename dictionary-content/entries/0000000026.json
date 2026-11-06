@@ -1,0 +1,23 @@
+{
+  "id": 26,
+  "translation": {
+    "cyrillic": {
+      "word": "атракција",
+      "part_of_speech": "именица",
+      "definition": "Нешто што привлачи пажњу или интересовање.",
+      "example_sentence": "Главна атракција града је средњовековни замак."
+    },
+    "latin": {
+      "word": "atrakcija",
+      "part_of_speech": "imenica",
+      "definition": "Nešto što privlači pažnju ili interesovanje.",
+      "example_sentence": "Glavna atrakcija grada je srednjovekovni zamak."
+    },
+    "english": {
+      "word": "attraction",
+      "part_of_speech": "noun",
+      "definition": "Something that draws attention or interest.",
+      "example_sentence": "The main attraction of the city is the medieval castle."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 703,
+  "translation": {
+    "cyrillic": {
+      "word": "изазов",
+      "part_of_speech": "именица",
+      "definition": "Ситуација која захтева посебну спремност или напор.",
+      "example_sentence": "Нови пројекат представља изазов за тим."
+    },
+    "latin": {
+      "word": "izazov",
+      "part_of_speech": "imenica",
+      "definition": "Situacija koja zahteva posebnu spremnost ili napor.",
+      "example_sentence": "Novi projekat predstavlja izazov za tim."
+    },
+    "english": {
+      "word": "challenge",
+      "part_of_speech": "noun",
+      "definition": "A situation that demands special effort or readiness.",
+      "example_sentence": "The new project is a real challenge."
+    }
+  }
+}

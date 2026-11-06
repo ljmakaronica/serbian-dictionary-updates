@@ -1,0 +1,23 @@
+{
+  "id": 880,
+  "translation": {
+    "cyrillic": {
+      "word": "оно",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица трећег лица једнине средњег рода",
+      "example_sentence": "Оно је лепо."
+    },
+    "latin": {
+      "word": "ono",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica trećeg lica jednine srednjeg roda",
+      "example_sentence": "Ono je lepo."
+    },
+    "english": {
+      "word": "it",
+      "part_of_speech": "pronoun",
+      "definition": "Third person singular neuter personal pronoun",
+      "example_sentence": "It is beautiful."
+    }
+  }
+}

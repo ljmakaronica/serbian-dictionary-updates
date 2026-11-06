@@ -1,0 +1,23 @@
+{
+  "id": 158,
+  "translation": {
+    "cyrillic": {
+      "word": "граматика",
+      "part_of_speech": "именица",
+      "definition": "Правила структуре језика.",
+      "example_sentence": "Граматика српског језика је сложена."
+    },
+    "latin": {
+      "word": "gramatika",
+      "part_of_speech": "imenica",
+      "definition": "Pravila strukture jezika.",
+      "example_sentence": "Gramatika srpskog jezika je složena."
+    },
+    "english": {
+      "word": "grammar",
+      "part_of_speech": "noun",
+      "definition": "The rules of language structure.",
+      "example_sentence": "The grammar of the Serbian language is complex."
+    }
+  }
+}

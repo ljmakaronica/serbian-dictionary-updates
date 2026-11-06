@@ -1,0 +1,23 @@
+{
+  "id": 1007,
+  "translation": {
+    "cyrillic": {
+      "word": "или",
+      "part_of_speech": "везник",
+      "definition": "показује избор",
+      "example_sentence": "Чај или кафа?"
+    },
+    "latin": {
+      "word": "ili",
+      "part_of_speech": "veznik",
+      "definition": "pokazuje izbor",
+      "example_sentence": "Čaj ili kafa?"
+    },
+    "english": {
+      "word": "or",
+      "part_of_speech": "conjunction",
+      "definition": "indicates choice",
+      "example_sentence": "Tea or coffee?"
+    }
+  }
+}

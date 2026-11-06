@@ -1,0 +1,23 @@
+{
+  "id": 556,
+  "translation": {
+    "cyrillic": {
+      "word": "дрво",
+      "part_of_speech": "именица",
+      "definition": "Висока биљка са стаблом и гранама.",
+      "example_sentence": "Дрво у нашем дворишту је веома старо."
+    },
+    "latin": {
+      "word": "drvo",
+      "part_of_speech": "imenica",
+      "definition": "Visoka biljka sa stablom i granama.",
+      "example_sentence": "Drvo u našem dvorištu je veoma staro."
+    },
+    "english": {
+      "word": "tree",
+      "part_of_speech": "noun",
+      "definition": "A tall plant with a trunk and branches.",
+      "example_sentence": "The tree in our yard is very old."
+    }
+  }
+}

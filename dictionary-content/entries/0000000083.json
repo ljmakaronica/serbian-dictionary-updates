@@ -1,0 +1,23 @@
+{
+  "id": 83,
+  "translation": {
+    "cyrillic": {
+      "word": "борба",
+      "part_of_speech": "именица",
+      "definition": "Физички или ментални сукоб између две или више страна.",
+      "example_sentence": "Борба за правду је дуготрајан процес."
+    },
+    "latin": {
+      "word": "borba",
+      "part_of_speech": "imenica",
+      "definition": "Fizički ili mentalni sukob između dve ili više strana.",
+      "example_sentence": "Borba za pravdu je dugotrajan proces."
+    },
+    "english": {
+      "word": "fight",
+      "part_of_speech": "noun",
+      "definition": "A physical or mental conflict between two or more parties.",
+      "example_sentence": "The fight for justice is a long process."
+    }
+  }
+}

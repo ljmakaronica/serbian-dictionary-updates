@@ -1,0 +1,23 @@
+{
+  "id": 95,
+  "translation": {
+    "cyrillic": {
+      "word": "будућност",
+      "part_of_speech": "именица",
+      "definition": "Време које ће доћи, оно што предстоји.",
+      "example_sentence": "Нико не може предвидети будућност."
+    },
+    "latin": {
+      "word": "budućnost",
+      "part_of_speech": "imenica",
+      "definition": "Vreme koje će doći, ono što predstoji.",
+      "example_sentence": "Niko ne može predvideti budućnost."
+    },
+    "english": {
+      "word": "future",
+      "part_of_speech": "noun",
+      "definition": "The time that is to come, what lies ahead.",
+      "example_sentence": "Nobody can predict the future."
+    }
+  }
+}

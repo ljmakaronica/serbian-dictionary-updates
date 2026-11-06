@@ -1,0 +1,23 @@
+{
+  "id": 454,
+  "translation": {
+    "cyrillic": {
+      "word": "фокус",
+      "part_of_speech": "именица",
+      "definition": "Концентрација пажње или тачка на коју се усмерава.",
+      "example_sentence": "Његов фокус је био на послу."
+    },
+    "latin": {
+      "word": "fokus",
+      "part_of_speech": "imenica",
+      "definition": "Koncentracija pažnje ili tačka na koju se usmerava.",
+      "example_sentence": "Njegov fokus je bio na poslu."
+    },
+    "english": {
+      "word": "focus",
+      "part_of_speech": "noun",
+      "definition": "Concentration of attention or the point being directed.",
+      "example_sentence": "His focus was on work."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 319,
+  "translation": {
+    "cyrillic": {
+      "word": "јаје",
+      "part_of_speech": "именица",
+      "definition": "Овална творевина са љуском коју носе птице; често се користи у исхрани.",
+      "example_sentence": "За доручак је скувала два јајета."
+    },
+    "latin": {
+      "word": "jaje",
+      "part_of_speech": "imenica",
+      "definition": "Ovalna tvorevina sa ljuskom koju nose ptice; često se koristi u ishrani.",
+      "example_sentence": "Za doručak je skuvala dva jajeta."
+    },
+    "english": {
+      "word": "egg",
+      "part_of_speech": "noun",
+      "definition": "An oval object with a shell laid by a bird, often used as food.",
+      "example_sentence": "She boiled two eggs for breakfast."
+    }
+  }
+}

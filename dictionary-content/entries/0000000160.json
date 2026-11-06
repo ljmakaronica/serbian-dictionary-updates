@@ -1,0 +1,23 @@
+{
+  "id": 160,
+  "translation": {
+    "cyrillic": {
+      "word": "гром",
+      "part_of_speech": "именица",
+      "definition": "Звук који прати муњу током олује.",
+      "example_sentence": "Гром је био толико јак да је затресао прозоре."
+    },
+    "latin": {
+      "word": "grom",
+      "part_of_speech": "imenica",
+      "definition": "Zvuk koji prati munju tokom oluje.",
+      "example_sentence": "Grom je bio toliko jak da je zatresao prozore."
+    },
+    "english": {
+      "word": "thunder",
+      "part_of_speech": "noun",
+      "definition": "The sound that follows lightning during a storm.",
+      "example_sentence": "The thunder was so loud that it shook the windows."
+    }
+  }
+}

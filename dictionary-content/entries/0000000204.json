@@ -1,0 +1,23 @@
+{
+  "id": 204,
+  "translation": {
+    "cyrillic": {
+      "word": "добијати",
+      "part_of_speech": "глагол",
+      "definition": "Примити нешто, постигнути нешто.",
+      "example_sentence": "Треба да добијеш дозволу пре него што уђеш."
+    },
+    "latin": {
+      "word": "dobijati",
+      "part_of_speech": "glagol",
+      "definition": "Primiti nešto, postići nešto.",
+      "example_sentence": "Treba da dobiješ dozvolu pre nego što uđeš."
+    },
+    "english": {
+      "word": "to receive",
+      "part_of_speech": "verb",
+      "definition": "To receive something, achieve something.",
+      "example_sentence": "You need to receive permission before you enter."
+    }
+  }
+}

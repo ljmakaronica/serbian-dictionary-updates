@@ -1,0 +1,23 @@
+{
+  "id": 813,
+  "translation": {
+    "cyrillic": {
+      "word": "никада",
+      "part_of_speech": "прилог",
+      "definition": "Уопште не, ниједном.",
+      "example_sentence": "Он никада не касни."
+    },
+    "latin": {
+      "word": "nikada",
+      "part_of_speech": "prilog",
+      "definition": "Uopšte ne, nijednom.",
+      "example_sentence": "On nikada ne kasni."
+    },
+    "english": {
+      "word": "never",
+      "part_of_speech": "adverb",
+      "definition": "At no time; not ever.",
+      "example_sentence": "He is never late."
+    }
+  }
+}

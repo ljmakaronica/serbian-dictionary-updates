@@ -1,0 +1,23 @@
+{
+  "id": 440,
+  "translation": {
+    "cyrillic": {
+      "word": "унутра",
+      "part_of_speech": "прилог",
+      "definition": "Унутар простора или зграде.",
+      "example_sentence": "Унутра је било топло и удобно."
+    },
+    "latin": {
+      "word": "unutra",
+      "part_of_speech": "prilog",
+      "definition": "Unutar prostora ili zgrade.",
+      "example_sentence": "Unutra je bilo toplo i udobno."
+    },
+    "english": {
+      "word": "inside",
+      "part_of_speech": "adverb",
+      "definition": "Within a space or building.",
+      "example_sentence": "It was warm and comfortable inside."
+    }
+  }
+}

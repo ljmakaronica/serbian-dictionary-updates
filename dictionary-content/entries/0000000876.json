@@ -1,0 +1,23 @@
+{
+  "id": 876,
+  "translation": {
+    "cyrillic": {
+      "word": "ја",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица првог лица једнине",
+      "example_sentence": "Ја идем у школу."
+    },
+    "latin": {
+      "word": "ja",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica prvog lica jednine",
+      "example_sentence": "Ja idem u školu."
+    },
+    "english": {
+      "word": "I",
+      "part_of_speech": "pronoun",
+      "definition": "First person singular personal pronoun",
+      "example_sentence": "I go to school."
+    }
+  }
+}

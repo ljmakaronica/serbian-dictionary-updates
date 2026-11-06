@@ -1,0 +1,23 @@
+{
+  "id": 537,
+  "translation": {
+    "cyrillic": {
+      "word": "седамдесет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 70.",
+      "example_sentence": "Имам седамдесет јаја."
+    },
+    "latin": {
+      "word": "sedamdeset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 70.",
+      "example_sentence": "Imam sedamdeset jaja."
+    },
+    "english": {
+      "word": "seventy",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 70.",
+      "example_sentence": "I have seventy eggs."
+    }
+  }
+}

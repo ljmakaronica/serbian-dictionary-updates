@@ -1,0 +1,23 @@
+{
+  "id": 345,
+  "translation": {
+    "cyrillic": {
+      "word": "капија",
+      "part_of_speech": "именица",
+      "definition": "Улаз или врата на ограђеном простору.",
+      "example_sentence": "Капија дворишта је била отворена."
+    },
+    "latin": {
+      "word": "kapija",
+      "part_of_speech": "imenica",
+      "definition": "Ulaz ili vrata na ograđenom prostoru.",
+      "example_sentence": "Kapija dvorišta je bila otvorena."
+    },
+    "english": {
+      "word": "gate",
+      "part_of_speech": "noun",
+      "definition": "An entrance or door in a fenced area.",
+      "example_sentence": "The courtyard gate was open."
+    }
+  }
+}

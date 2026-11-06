@@ -1,0 +1,23 @@
+{
+  "id": 1069,
+  "translation": {
+    "cyrillic": {
+      "word": "зевати",
+      "part_of_speech": "глагол",
+      "definition": "Отворити уста када смо уморни.",
+      "example_sentence": "Зевнуо је јер је био поспан."
+    },
+    "latin": {
+      "word": "zevati",
+      "part_of_speech": "glagol",
+      "definition": "Otvoriti usta kada smo umorni.",
+      "example_sentence": "Zevnuo je jer je bio pospan."
+    },
+    "english": {
+      "word": "yawn",
+      "part_of_speech": "verb",
+      "definition": "To open the mouth when tired.",
+      "example_sentence": "He yawned because he was sleepy."
+    }
+  }
+}

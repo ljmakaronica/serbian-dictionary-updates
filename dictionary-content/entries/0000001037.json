@@ -1,0 +1,23 @@
+{
+  "id": 1037,
+  "translation": {
+    "cyrillic": {
+      "word": "кајак",
+      "part_of_speech": "именица",
+      "definition": "Мали чамац који се весла двокраким веслом.",
+      "example_sentence": "Веслали су кајаком по реци."
+    },
+    "latin": {
+      "word": "kajak",
+      "part_of_speech": "imenica",
+      "definition": "Mali čamac koji se vesla dvokrakim veslom.",
+      "example_sentence": "Veslali su kajakom po reci."
+    },
+    "english": {
+      "word": "kayak",
+      "part_of_speech": "noun",
+      "definition": "A small boat propelled by a double-bladed paddle.",
+      "example_sentence": "They paddled a kayak down the river."
+    }
+  }
+}

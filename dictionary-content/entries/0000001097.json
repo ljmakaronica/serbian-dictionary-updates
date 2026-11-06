@@ -1,0 +1,23 @@
+{
+  "id": 1097,
+  "translation": {
+    "cyrillic": {
+      "word": "ма",
+      "part_of_speech": "речца",
+      "definition": "Речца која служи за наглашавање или противречење.",
+      "example_sentence": "Ма пусти то!"
+    },
+    "latin": {
+      "word": "ma",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja služi za naglašavanje ili protivrečenje.",
+      "example_sentence": "Ma pusti to!"
+    },
+    "english": {
+      "word": "oh",
+      "part_of_speech": "particle",
+      "definition": "A particle used for emphasis or contradiction.",
+      "example_sentence": "Oh, forget it!"
+    }
+  }
+}

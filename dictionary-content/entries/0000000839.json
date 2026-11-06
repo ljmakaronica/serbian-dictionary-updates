@@ -1,0 +1,23 @@
+{
+  "id": 839,
+  "translation": {
+    "cyrillic": {
+      "word": "конзистентно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који се стално понавља без одступања.",
+      "example_sentence": "Она конзистентно постиже исте резултате."
+    },
+    "latin": {
+      "word": "konzistentno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji se stalno ponavlja bez odstupanja.",
+      "example_sentence": "Ona konzistentno postiže iste rezultate."
+    },
+    "english": {
+      "word": "consistently",
+      "part_of_speech": "adverb",
+      "definition": "In an unchanging and steady manner.",
+      "example_sentence": "She consistently achieves the same results."
+    }
+  }
+}

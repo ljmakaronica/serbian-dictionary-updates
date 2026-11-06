@@ -1,0 +1,23 @@
+{
+  "id": 96,
+  "translation": {
+    "cyrillic": {
+      "word": "богат",
+      "part_of_speech": "придев",
+      "definition": "Који има много новца или имовине.",
+      "example_sentence": "Он је богат човек који помаже сиромашнима."
+    },
+    "latin": {
+      "word": "bogat",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima mnogo novca ili imovine.",
+      "example_sentence": "On je bogat čovek koji pomaže siromašnima."
+    },
+    "english": {
+      "word": "rich",
+      "part_of_speech": "adjective",
+      "definition": "Having a lot of money or property.",
+      "example_sentence": "He is a rich man who helps the poor."
+    }
+  }
+}

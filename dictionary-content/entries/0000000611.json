@@ -1,0 +1,23 @@
+{
+  "id": 611,
+  "translation": {
+    "cyrillic": {
+      "word": "отац",
+      "part_of_speech": "именица",
+      "definition": "Мушки родитељ.",
+      "example_sentence": "Мој отац ради у болници."
+    },
+    "latin": {
+      "word": "otac",
+      "part_of_speech": "imenica",
+      "definition": "Muški roditelj.",
+      "example_sentence": "Moj otac radi u bolnici."
+    },
+    "english": {
+      "word": "father",
+      "part_of_speech": "noun",
+      "definition": "The male parent.",
+      "example_sentence": "My father works in a hospital."
+    }
+  }
+}

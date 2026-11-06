@@ -1,0 +1,23 @@
+{
+  "id": 72,
+  "translation": {
+    "cyrillic": {
+      "word": "аларм",
+      "part_of_speech": "именица",
+      "definition": "Уређај за упозоравање на опасност.",
+      "example_sentence": "Аларм се активирао када је упадник ушао у кућу."
+    },
+    "latin": {
+      "word": "alarm",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za upozoravanje na opasnost.",
+      "example_sentence": "Alarm se aktivirao kada je upadnik ušao u kuću."
+    },
+    "english": {
+      "word": "alarm",
+      "part_of_speech": "noun",
+      "definition": "A device for warning of danger.",
+      "example_sentence": "The alarm went off when an intruder entered the house."
+    }
+  }
+}

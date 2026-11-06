@@ -1,0 +1,23 @@
+{
+  "id": 215,
+  "translation": {
+    "cyrillic": {
+      "word": "ђурђевак",
+      "part_of_speech": "именица",
+      "definition": "Бела пролећна цветна биљка пријатног мириса.",
+      "example_sentence": "Ђурђевак цвета у пролеће."
+    },
+    "latin": {
+      "word": "đurđevak",
+      "part_of_speech": "imenica",
+      "definition": "Bela prolećna cvetna biljka prijatnog mirisa.",
+      "example_sentence": "Đurđevak cveta u proleće."
+    },
+    "english": {
+      "word": "lily of the valley",
+      "part_of_speech": "noun",
+      "definition": "A white spring flowering plant with a pleasant scent.",
+      "example_sentence": "Lily of the valley blooms in spring."
+    }
+  }
+}

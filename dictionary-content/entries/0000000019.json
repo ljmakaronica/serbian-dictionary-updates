@@ -1,0 +1,23 @@
+{
+  "id": 19,
+  "translation": {
+    "cyrillic": {
+      "word": "аустралијанка",
+      "part_of_speech": "именица",
+      "definition": "Жена која је пореклом из Аустралије или живи у Аустралији.",
+      "example_sentence": "Аустралијанка нам је причала о животу у Сиднеју."
+    },
+    "latin": {
+      "word": "australijanka",
+      "part_of_speech": "imenica",
+      "definition": "Žena koja je poreklom iz Australije ili živi u Australiji.",
+      "example_sentence": "Australijanka nam je pričala o životu u Sidneju."
+    },
+    "english": {
+      "word": "Australian woman",
+      "part_of_speech": "noun",
+      "definition": "A woman who is from Australia or lives in Australia.",
+      "example_sentence": "The Australian woman told us about life in Sydney."
+    }
+  }
+}

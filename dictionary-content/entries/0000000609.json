@@ -1,0 +1,23 @@
+{
+  "id": 609,
+  "translation": {
+    "cyrillic": {
+      "word": "сестра",
+      "part_of_speech": "именица",
+      "definition": "Женско дете истог родитеља.",
+      "example_sentence": "Моја сестра је старија од мене."
+    },
+    "latin": {
+      "word": "sestra",
+      "part_of_speech": "imenica",
+      "definition": "Žensko dete istog roditelja.",
+      "example_sentence": "Moja sestra je starija od mene."
+    },
+    "english": {
+      "word": "sister",
+      "part_of_speech": "noun",
+      "definition": "A female sibling.",
+      "example_sentence": "My sister is older than me."
+    }
+  }
+}

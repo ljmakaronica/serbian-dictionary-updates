@@ -1,0 +1,23 @@
+{
+  "id": 465,
+  "translation": {
+    "cyrillic": {
+      "word": "хотел",
+      "part_of_speech": "именица",
+      "definition": "Објекат који нуди смештај за госте.",
+      "example_sentence": "Хотел је био луксузан и удобан."
+    },
+    "latin": {
+      "word": "hotel",
+      "part_of_speech": "imenica",
+      "definition": "Objekat koji nudi smeštaj za goste.",
+      "example_sentence": "Hotel je bio luksuzan i udoban."
+    },
+    "english": {
+      "word": "hotel",
+      "part_of_speech": "noun",
+      "definition": "A facility that offers lodging for guests.",
+      "example_sentence": "The hotel was luxurious and comfortable."
+    }
+  }
+}

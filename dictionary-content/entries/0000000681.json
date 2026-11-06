@@ -1,0 +1,23 @@
+{
+  "id": 681,
+  "translation": {
+    "cyrillic": {
+      "word": "путовање",
+      "part_of_speech": "именица",
+      "definition": "Одлазак из једног места у друго.",
+      "example_sentence": "Путовање нас је обогатило искуством."
+    },
+    "latin": {
+      "word": "putovanje",
+      "part_of_speech": "imenica",
+      "definition": "Odlazak iz jednog mesta u drugo.",
+      "example_sentence": "Putovanje nas je obogatilo iskustvom."
+    },
+    "english": {
+      "word": "journey",
+      "part_of_speech": "noun",
+      "definition": "The act of traveling from one place to another.",
+      "example_sentence": "The journey enriched us with experience."
+    }
+  }
+}

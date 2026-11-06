@@ -1,0 +1,23 @@
+{
+  "id": 801,
+  "translation": {
+    "cyrillic": {
+      "word": "упознати",
+      "part_of_speech": "глагол",
+      "definition": "Представити једну особу другој како би се упознале.",
+      "example_sentence": "Она је упознала новог колегу са осталим члановима тима."
+    },
+    "latin": {
+      "word": "upoznati",
+      "part_of_speech": "glagol",
+      "definition": "Predstaviti jednu osobu drugoj kako bi se upoznale.",
+      "example_sentence": "Ona je upoznala novog kolegu sa ostalim članovima tima."
+    },
+    "english": {
+      "word": "introduce",
+      "part_of_speech": "verb",
+      "definition": "To tell people who each other is when they meet for the first time.",
+      "example_sentence": "She introduced the new colleague to the other team members."
+    }
+  }
+}

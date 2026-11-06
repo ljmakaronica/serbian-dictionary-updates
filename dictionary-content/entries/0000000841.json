@@ -1,0 +1,23 @@
+{
+  "id": 841,
+  "translation": {
+    "cyrillic": {
+      "word": "често",
+      "part_of_speech": "прилог",
+      "definition": "На начин који указује на редовност или учесталост.",
+      "example_sentence": "Она често посећује библиотеку."
+    },
+    "latin": {
+      "word": "često",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ukazuje na redovnost ili učestalost.",
+      "example_sentence": "Ona često posećuje biblioteku."
+    },
+    "english": {
+      "word": "often",
+      "part_of_speech": "adverb",
+      "definition": "Frequently; many times.",
+      "example_sentence": "She visits the library often."
+    }
+  }
+}

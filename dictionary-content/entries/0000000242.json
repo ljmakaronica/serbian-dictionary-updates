@@ -1,0 +1,23 @@
+{
+  "id": 242,
+  "translation": {
+    "cyrillic": {
+      "word": "етикета",
+      "part_of_speech": "именица",
+      "definition": "Налепница са информацијама или ознака за правила понашања.",
+      "example_sentence": "Прочитај етикету пре употребе производа."
+    },
+    "latin": {
+      "word": "etiketa",
+      "part_of_speech": "imenica",
+      "definition": "Nalepnica sa informacijama ili oznaka za pravila ponašanja.",
+      "example_sentence": "Pročitaj etiketu pre upotrebe proizvoda."
+    },
+    "english": {
+      "word": "label/etiquette",
+      "part_of_speech": "noun",
+      "definition": "An information sticker or code of behavior.",
+      "example_sentence": "Read the label before using the product."
+    }
+  }
+}

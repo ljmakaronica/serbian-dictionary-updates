@@ -1,0 +1,23 @@
+{
+  "id": 835,
+  "translation": {
+    "cyrillic": {
+      "word": "систематски",
+      "part_of_speech": "прилог",
+      "definition": "На организован и методичан начин.",
+      "example_sentence": "Она систематски бележи све детаље свог истраживања."
+    },
+    "latin": {
+      "word": "sistematski",
+      "part_of_speech": "prilog",
+      "definition": "Na organizovan i metodičan način.",
+      "example_sentence": "Ona sistematski beleži sve detalje svog istraživanja."
+    },
+    "english": {
+      "word": "systematically",
+      "part_of_speech": "adverb",
+      "definition": "In an organized, methodical manner.",
+      "example_sentence": "She records all details of her research systematically."
+    }
+  }
+}

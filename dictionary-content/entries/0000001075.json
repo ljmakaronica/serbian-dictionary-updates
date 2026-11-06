@@ -1,0 +1,23 @@
+{
+  "id": 1075,
+  "translation": {
+    "cyrillic": {
+      "word": "младост",
+      "part_of_speech": "именица",
+      "definition": "Период живота када је неко млад.",
+      "example_sentence": "Провео је младост у селу."
+    },
+    "latin": {
+      "word": "mladost",
+      "part_of_speech": "imenica",
+      "definition": "Period života kada je neko mlad.",
+      "example_sentence": "Proveo je mladost u selu."
+    },
+    "english": {
+      "word": "youth",
+      "part_of_speech": "noun",
+      "definition": "The period of life when someone is young.",
+      "example_sentence": "He spent his youth in the village."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 493,
+  "translation": {
+    "cyrillic": {
+      "word": "џемпер",
+      "part_of_speech": "именица",
+      "definition": "Вунена или памучна одећа за горњи део тела.",
+      "example_sentence": "Његов џемпер је био топал и удобан."
+    },
+    "latin": {
+      "word": "džemper",
+      "part_of_speech": "imenica",
+      "definition": "Vunena ili pamučna odeća za gornji deo tela.",
+      "example_sentence": "Njegov džemper je bio topao i udoban."
+    },
+    "english": {
+      "word": "sweater",
+      "part_of_speech": "noun",
+      "definition": "A woolen or cotton garment for the upper body.",
+      "example_sentence": "His sweater was warm and comfortable."
+    }
+  }
+}

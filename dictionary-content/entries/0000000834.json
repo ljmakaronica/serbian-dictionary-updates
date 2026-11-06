@@ -1,0 +1,23 @@
+{
+  "id": 834,
+  "translation": {
+    "cyrillic": {
+      "word": "фундаментално",
+      "part_of_speech": "прилог",
+      "definition": "У суштини, основно.",
+      "example_sentence": "Нове идеје фундаментално мењају радно окружење."
+    },
+    "latin": {
+      "word": "fundamentalno",
+      "part_of_speech": "prilog",
+      "definition": "U suštini, osnovno.",
+      "example_sentence": "Nove ideje fundamentalno menjaju radno okruženje."
+    },
+    "english": {
+      "word": "fundamentally",
+      "part_of_speech": "adverb",
+      "definition": "In central or primary respects.",
+      "example_sentence": "The new ideas fundamentally change the working environment."
+    }
+  }
+}

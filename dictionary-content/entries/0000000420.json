@@ -1,0 +1,23 @@
+{
+  "id": 420,
+  "translation": {
+    "cyrillic": {
+      "word": "суза",
+      "part_of_speech": "именица",
+      "definition": "Течност коју луче очи када смо тужни или срећни.",
+      "example_sentence": "Сузе су јој текле низ лице."
+    },
+    "latin": {
+      "word": "suza",
+      "part_of_speech": "imenica",
+      "definition": "Tekućina koju luče oči kada smo tužni ili srećni.",
+      "example_sentence": "Suze su joj tekle niz lice."
+    },
+    "english": {
+      "word": "tear",
+      "part_of_speech": "noun",
+      "definition": "A liquid secreted by the eyes when we are sad or happy.",
+      "example_sentence": "Tears streamed down her face."
+    }
+  }
+}

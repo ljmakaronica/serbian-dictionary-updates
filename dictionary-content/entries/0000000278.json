@@ -1,0 +1,23 @@
+{
+  "id": 278,
+  "translation": {
+    "cyrillic": {
+      "word": "еуфорично",
+      "part_of_speech": "прилог",
+      "definition": "На начин који показује велику срећу.",
+      "example_sentence": "Навијачи су еуфорично прославили победу."
+    },
+    "latin": {
+      "word": "euforično",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji pokazuje veliku sreću.",
+      "example_sentence": "Navijači su euforično proslavili pobedu."
+    },
+    "english": {
+      "word": "euphorically",
+      "part_of_speech": "adverb",
+      "definition": "In a way showing great happiness.",
+      "example_sentence": "The fans euphorically celebrated the victory."
+    }
+  }
+}

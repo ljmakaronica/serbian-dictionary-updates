@@ -1,0 +1,23 @@
+{
+  "id": 1032,
+  "translation": {
+    "cyrillic": {
+      "word": "километар",
+      "part_of_speech": "именица",
+      "definition": "Јединица за мерење дужине, једнака хиљаду метара.",
+      "example_sentence": "Прешао је пет километара."
+    },
+    "latin": {
+      "word": "kilometar",
+      "part_of_speech": "imenica",
+      "definition": "Jedinica za merenje dužine, jednaka hiljadu metara.",
+      "example_sentence": "Prešao je pet kilometara."
+    },
+    "english": {
+      "word": "kilometer",
+      "part_of_speech": "noun",
+      "definition": "A unit for measuring length, equal to one thousand meters.",
+      "example_sentence": "He walked five kilometers."
+    }
+  }
+}

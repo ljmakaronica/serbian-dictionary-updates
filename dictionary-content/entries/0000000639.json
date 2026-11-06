@@ -1,0 +1,23 @@
+{
+  "id": 639,
+  "translation": {
+    "cyrillic": {
+      "word": "апотека",
+      "part_of_speech": "именица",
+      "definition": "Установа где се продају лекови и медицинска средства.",
+      "example_sentence": "Апотека ради до осам увече."
+    },
+    "latin": {
+      "word": "apoteka",
+      "part_of_speech": "imenica",
+      "definition": "Ustanova gde se prodaju lekovi i medicinska sredstva.",
+      "example_sentence": "Apoteka radi do osam uveče."
+    },
+    "english": {
+      "word": "pharmacy",
+      "part_of_speech": "noun",
+      "definition": "Establishment where medicines and medical supplies are sold.",
+      "example_sentence": "The pharmacy is open until eight in the evening."
+    }
+  }
+}

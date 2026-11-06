@@ -1,0 +1,23 @@
+{
+  "id": 184,
+  "translation": {
+    "cyrillic": {
+      "word": "гласање",
+      "part_of_speech": "именица",
+      "definition": "Процес давања гласа за одређену опцију или кандидата, обично у политичком контексту.",
+      "example_sentence": "Гласање на изборима је право сваког грађанина."
+    },
+    "latin": {
+      "word": "glasanje",
+      "part_of_speech": "imenica",
+      "definition": "Proces davanja glasa za određenu opciju ili kandidata, obično u političkom kontekstu.",
+      "example_sentence": "Glasanje na izborima je pravo svakog građanina."
+    },
+    "english": {
+      "word": "voting",
+      "part_of_speech": "noun",
+      "definition": "The process of casting a vote for a particular option or candidate, usually in a political context.",
+      "example_sentence": "Voting in elections is the right of every citizen."
+    }
+  }
+}

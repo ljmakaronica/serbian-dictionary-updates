@@ -1,0 +1,23 @@
+{
+  "id": 435,
+  "translation": {
+    "cyrillic": {
+      "word": "улица",
+      "part_of_speech": "именица",
+      "definition": "Јавни пут у насељу или граду.",
+      "example_sentence": "Улица је била пуна људи."
+    },
+    "latin": {
+      "word": "ulica",
+      "part_of_speech": "imenica",
+      "definition": "Javni put u naselju ili gradu.",
+      "example_sentence": "Ulica je bila puna ljudi."
+    },
+    "english": {
+      "word": "street",
+      "part_of_speech": "noun",
+      "definition": "A public road in a town or city.",
+      "example_sentence": "The street was full of people."
+    }
+  }
+}

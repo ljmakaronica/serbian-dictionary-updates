@@ -1,0 +1,23 @@
+{
+  "id": 924,
+  "translation": {
+    "cyrillic": {
+      "word": "вода",
+      "part_of_speech": "именица",
+      "definition": "течност за пиће",
+      "example_sentence": "Пијем воду сваки дан."
+    },
+    "latin": {
+      "word": "voda",
+      "part_of_speech": "imenica",
+      "definition": "tečnost za piće",
+      "example_sentence": "Pijem vodu svaki dan."
+    },
+    "english": {
+      "word": "water",
+      "part_of_speech": "noun",
+      "definition": "clear liquid for drinking",
+      "example_sentence": "I drink water every day."
+    }
+  }
+}

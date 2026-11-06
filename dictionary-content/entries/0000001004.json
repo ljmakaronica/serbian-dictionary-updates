@@ -1,0 +1,23 @@
+{
+  "id": 1004,
+  "translation": {
+    "cyrillic": {
+      "word": "пиво",
+      "part_of_speech": "именица",
+      "definition": "алкохолно пиће од слада",
+      "example_sentence": "Волим пиво."
+    },
+    "latin": {
+      "word": "pivo",
+      "part_of_speech": "imenica",
+      "definition": "alkoholno piće od slada",
+      "example_sentence": "Volim pivo."
+    },
+    "english": {
+      "word": "beer",
+      "part_of_speech": "noun",
+      "definition": "alcoholic drink from malt",
+      "example_sentence": "I like beer."
+    }
+  }
+}

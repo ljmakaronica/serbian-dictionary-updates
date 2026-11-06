@@ -1,0 +1,23 @@
+{
+  "id": 47,
+  "translation": {
+    "cyrillic": {
+      "word": "аутобиографија",
+      "part_of_speech": "именица",
+      "definition": "Књига у којој неко описује сопствени живот.",
+      "example_sentence": "Њена аутобиографија је била бестселер."
+    },
+    "latin": {
+      "word": "autobiografija",
+      "part_of_speech": "imenica",
+      "definition": "Knjiga u kojoj neko opisuje sopstveni život.",
+      "example_sentence": "Njena autobiografija je bila bestseler."
+    },
+    "english": {
+      "word": "autobiography",
+      "part_of_speech": "noun",
+      "definition": "A book in which someone describes their own life.",
+      "example_sentence": "Her autobiography was a bestseller."
+    }
+  }
+}

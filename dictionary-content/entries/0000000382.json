@@ -1,0 +1,23 @@
+{
+  "id": 382,
+  "translation": {
+    "cyrillic": {
+      "word": "њихов",
+      "part_of_speech": "придев",
+      "definition": "Посесивни придев за треће лице множине.",
+      "example_sentence": "Њихова кућа је велика."
+    },
+    "latin": {
+      "word": "njihov",
+      "part_of_speech": "pridev",
+      "definition": "Posesivni pridev za treće lice množine.",
+      "example_sentence": "Njihova kuća je velika."
+    },
+    "english": {
+      "word": "their",
+      "part_of_speech": "adjective",
+      "definition": "Possessive adjective for the third person plural.",
+      "example_sentence": "Their house is big."
+    }
+  }
+}

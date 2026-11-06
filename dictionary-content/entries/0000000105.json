@@ -1,0 +1,23 @@
+{
+  "id": 105,
+  "translation": {
+    "cyrillic": {
+      "word": "бетон",
+      "part_of_speech": "именица",
+      "definition": "Грађевински материјал направљен од мешавине цемента, песка и воде.",
+      "example_sentence": "Темељ куће је направљен од бетона."
+    },
+    "latin": {
+      "word": "beton",
+      "part_of_speech": "imenica",
+      "definition": "Građevinski materijal napravljen od mešavine cementa, peska i vode.",
+      "example_sentence": "Temelj kuće je napravljen od betona."
+    },
+    "english": {
+      "word": "concrete",
+      "part_of_speech": "noun",
+      "definition": "A building material made from a mixture of cement, sand, and water.",
+      "example_sentence": "The house foundation is made of concrete."
+    }
+  }
+}

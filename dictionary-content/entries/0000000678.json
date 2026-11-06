@@ -1,0 +1,23 @@
+{
+  "id": 678,
+  "translation": {
+    "cyrillic": {
+      "word": "мода",
+      "part_of_speech": "именица",
+      "definition": "Популарни стил облачења и понашања.",
+      "example_sentence": "Мода се стално мења."
+    },
+    "latin": {
+      "word": "moda",
+      "part_of_speech": "imenica",
+      "definition": "Popularni stil oblačenja i ponašanja.",
+      "example_sentence": "Moda se stalno menja."
+    },
+    "english": {
+      "word": "fashion",
+      "part_of_speech": "noun",
+      "definition": "A popular style of clothing and behavior.",
+      "example_sentence": "Fashion is constantly changing."
+    }
+  }
+}

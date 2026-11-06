@@ -1,0 +1,23 @@
+{
+  "id": 140,
+  "translation": {
+    "cyrillic": {
+      "word": "веран",
+      "part_of_speech": "придев",
+      "definition": "Одан, поуздан и истинит.",
+      "example_sentence": "Он је увек био веран својим пријатељима."
+    },
+    "latin": {
+      "word": "veran",
+      "part_of_speech": "pridev",
+      "definition": "Odan, pouzdan i istinit.",
+      "example_sentence": "On je uvek bio veran svojim prijateljima."
+    },
+    "english": {
+      "word": "loyal",
+      "part_of_speech": "adjective",
+      "definition": "Faithful, reliable, and truthful.",
+      "example_sentence": "He has always been loyal to his friends."
+    }
+  }
+}

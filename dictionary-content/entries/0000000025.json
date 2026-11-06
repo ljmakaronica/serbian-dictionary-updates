@@ -1,0 +1,23 @@
+{
+  "id": 25,
+  "translation": {
+    "cyrillic": {
+      "word": "апстрактан",
+      "part_of_speech": "придев",
+      "definition": "Који није конкретан или који се односи на идеје.",
+      "example_sentence": "Филозофија се често бави апстрактним концептима."
+    },
+    "latin": {
+      "word": "apstraktan",
+      "part_of_speech": "pridev",
+      "definition": "Koji nije konkretan ili koji se odnosi na ideje.",
+      "example_sentence": "Filozofija se često bavi apstraktnim konceptima."
+    },
+    "english": {
+      "word": "abstract",
+      "part_of_speech": "adjective",
+      "definition": "Not concrete or relating to ideas.",
+      "example_sentence": "Philosophy often deals with abstract concepts."
+    }
+  }
+}

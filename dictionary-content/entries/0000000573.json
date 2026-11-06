@@ -1,0 +1,23 @@
+{
+  "id": 573,
+  "translation": {
+    "cyrillic": {
+      "word": "пити",
+      "part_of_speech": "глагол",
+      "definition": "Уносити течност у тело.",
+      "example_sentence": "Пијем воду сваког дана."
+    },
+    "latin": {
+      "word": "piti",
+      "part_of_speech": "glagol",
+      "definition": "Unositi tečnost u telo.",
+      "example_sentence": "Pijem vodu svakog dana."
+    },
+    "english": {
+      "word": "to drink",
+      "part_of_speech": "verb",
+      "definition": "To consume liquid.",
+      "example_sentence": "I drink water every day."
+    }
+  }
+}

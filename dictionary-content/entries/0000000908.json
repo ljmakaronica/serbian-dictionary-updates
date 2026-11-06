@@ -1,0 +1,23 @@
+{
+  "id": 908,
+  "translation": {
+    "cyrillic": {
+      "word": "широк",
+      "part_of_speech": "придев",
+      "definition": "Придев који описује нешто што има велику ширину",
+      "example_sentence": "То је широк пут."
+    },
+    "latin": {
+      "word": "širok",
+      "part_of_speech": "pridev",
+      "definition": "Pridev koji opisuje nešto što ima veliku širinu",
+      "example_sentence": "To je širok put."
+    },
+    "english": {
+      "word": "wide",
+      "part_of_speech": "adjective",
+      "definition": "Adjective describing something of great width",
+      "example_sentence": "That is a wide road."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 893,
+  "translation": {
+    "cyrillic": {
+      "word": "за",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава намену или циљ",
+      "example_sentence": "Ово је за тебе."
+    },
+    "latin": {
+      "word": "za",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava namenu ili cilj",
+      "example_sentence": "Ovo je za tebe."
+    },
+    "english": {
+      "word": "for",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating purpose or destination",
+      "example_sentence": "This is for you."
+    }
+  }
+}

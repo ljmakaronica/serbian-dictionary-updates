@@ -1,0 +1,23 @@
+{
+  "id": 1036,
+  "translation": {
+    "cyrillic": {
+      "word": "котлић",
+      "part_of_speech": "именица",
+      "definition": "Посуда за кување воде или других течности.",
+      "example_sentence": "Ставио је воду у котлић."
+    },
+    "latin": {
+      "word": "kotlić",
+      "part_of_speech": "imenica",
+      "definition": "Posuda za kuvanje vode ili drugih tečnosti.",
+      "example_sentence": "Stavio je vodu u kotlić."
+    },
+    "english": {
+      "word": "kettle",
+      "part_of_speech": "noun",
+      "definition": "A container for boiling water or other liquids.",
+      "example_sentence": "He put water in the kettle."
+    }
+  }
+}

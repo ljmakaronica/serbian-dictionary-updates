@@ -1,0 +1,23 @@
+{
+  "id": 673,
+  "translation": {
+    "cyrillic": {
+      "word": "породица",
+      "part_of_speech": "именица",
+      "definition": "Група повезаних људи, обично крвних веза.",
+      "example_sentence": "Породица се окупила за празник."
+    },
+    "latin": {
+      "word": "porodica",
+      "part_of_speech": "imenica",
+      "definition": "Grupa povezanih ljudi, obično krvnih veza.",
+      "example_sentence": "Porodica se okupila za praznik."
+    },
+    "english": {
+      "word": "family",
+      "part_of_speech": "noun",
+      "definition": "A group of related people, usually by blood.",
+      "example_sentence": "The family gathered for the holiday."
+    }
+  }
+}

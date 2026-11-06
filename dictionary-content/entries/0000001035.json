@@ -1,0 +1,23 @@
+{
+  "id": 1035,
+  "translation": {
+    "cyrillic": {
+      "word": "комплет",
+      "part_of_speech": "именица",
+      "definition": "Скуп предмета који иду заједно.",
+      "example_sentence": "Купио је комплет алата."
+    },
+    "latin": {
+      "word": "komplet",
+      "part_of_speech": "imenica",
+      "definition": "Skup predmeta koji idu zajedno.",
+      "example_sentence": "Kupio je komplet alata."
+    },
+    "english": {
+      "word": "kit",
+      "part_of_speech": "noun",
+      "definition": "A set of items that go together.",
+      "example_sentence": "He bought a tool kit."
+    }
+  }
+}

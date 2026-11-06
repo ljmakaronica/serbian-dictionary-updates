@@ -1,0 +1,23 @@
+{
+  "id": 655,
+  "translation": {
+    "cyrillic": {
+      "word": "парк",
+      "part_of_speech": "именица",
+      "definition": "Јавно зелено подручје за рекреацију.",
+      "example_sentence": "Парк је пун деце која се играју."
+    },
+    "latin": {
+      "word": "park",
+      "part_of_speech": "imenica",
+      "definition": "Javno zeleno područje za rekreaciju.",
+      "example_sentence": "Park je pun dece koja se igraju."
+    },
+    "english": {
+      "word": "park",
+      "part_of_speech": "noun",
+      "definition": "A public green area for recreation.",
+      "example_sentence": "The park is full of children playing."
+    }
+  }
+}

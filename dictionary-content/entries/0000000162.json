@@ -1,0 +1,23 @@
+{
+  "id": 162,
+  "translation": {
+    "cyrillic": {
+      "word": "губитак",
+      "part_of_speech": "именица",
+      "definition": "Нестанак или одузимање нечега.",
+      "example_sentence": "Губитак посла је био тежак за њега."
+    },
+    "latin": {
+      "word": "gubitak",
+      "part_of_speech": "imenica",
+      "definition": "Nestanak ili oduzimanje nečega.",
+      "example_sentence": "Gubitak posla je bio težak za njega."
+    },
+    "english": {
+      "word": "loss",
+      "part_of_speech": "noun",
+      "definition": "The disappearance or deprivation of something.",
+      "example_sentence": "The loss of his job was hard for him."
+    }
+  }
+}

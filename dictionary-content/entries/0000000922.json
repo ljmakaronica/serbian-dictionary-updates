@@ -1,0 +1,23 @@
+{
+  "id": 922,
+  "translation": {
+    "cyrillic": {
+      "word": "сада",
+      "part_of_speech": "прилог",
+      "definition": "Означава садашњи тренутак.",
+      "example_sentence": "Морам ићи сада."
+    },
+    "latin": {
+      "word": "sada",
+      "part_of_speech": "prilog",
+      "definition": "Označava sadašnji trenutak.",
+      "example_sentence": "Moram ići sada."
+    },
+    "english": {
+      "word": "now",
+      "part_of_speech": "adverb",
+      "definition": "Indicates the present moment.",
+      "example_sentence": "I must go now."
+    }
+  }
+}

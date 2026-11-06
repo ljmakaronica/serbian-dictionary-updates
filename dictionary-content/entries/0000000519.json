@@ -1,0 +1,23 @@
+{
+  "id": 519,
+  "translation": {
+    "cyrillic": {
+      "word": "седам",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 7.",
+      "example_sentence": "Имам седам књига."
+    },
+    "latin": {
+      "word": "sedam",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 7.",
+      "example_sentence": "Imam sedam knjiga."
+    },
+    "english": {
+      "word": "seven",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 7.",
+      "example_sentence": "I have seven books."
+    }
+  }
+}

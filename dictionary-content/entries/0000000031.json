@@ -1,0 +1,23 @@
+{
+  "id": 31,
+  "translation": {
+    "cyrillic": {
+      "word": "аутономија",
+      "part_of_speech": "именица",
+      "definition": "Право на самостално управљање или одлучивање.",
+      "example_sentence": "Универзитети имају аутономију у одређивању наставног плана."
+    },
+    "latin": {
+      "word": "autonomija",
+      "part_of_speech": "imenica",
+      "definition": "Pravo na samostalno upravljanje ili odlučivanje.",
+      "example_sentence": "Univerziteti imaju autonomiju u određivanju nastavnog plana."
+    },
+    "english": {
+      "word": "autonomy",
+      "part_of_speech": "noun",
+      "definition": "The right to self-governance or decision-making.",
+      "example_sentence": "Universities have autonomy in determining their curriculum."
+    }
+  }
+}

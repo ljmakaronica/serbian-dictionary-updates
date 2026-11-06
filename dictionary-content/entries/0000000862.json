@@ -1,0 +1,23 @@
+{
+  "id": 862,
+  "translation": {
+    "cyrillic": {
+      "word": "него",
+      "part_of_speech": "везник",
+      "definition": "Користи се у поређењима.",
+      "example_sentence": "Боље касно него никад."
+    },
+    "latin": {
+      "word": "nego",
+      "part_of_speech": "veznik",
+      "definition": "Koristi se u poređenjima.",
+      "example_sentence": "Bolje kasno nego nikad."
+    },
+    "english": {
+      "word": "than",
+      "part_of_speech": "conjunction",
+      "definition": "Used in comparisons.",
+      "example_sentence": "Better late than never."
+    }
+  }
+}

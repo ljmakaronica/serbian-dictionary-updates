@@ -1,0 +1,23 @@
+{
+  "id": 339,
+  "translation": {
+    "cyrillic": {
+      "word": "крв",
+      "part_of_speech": "именица",
+      "definition": "Течност у телу која преноси кисеоник и хранљиве материје.",
+      "example_sentence": "Крв је битна за функционисање организма."
+    },
+    "latin": {
+      "word": "krv",
+      "part_of_speech": "imenica",
+      "definition": "Tekućina u telu koja prenosi kiseonik i hranljive materije.",
+      "example_sentence": "Krv je bitna za funkcionisanje organizma."
+    },
+    "english": {
+      "word": "blood",
+      "part_of_speech": "noun",
+      "definition": "The fluid in the body that carries oxygen and nutrients.",
+      "example_sentence": "Blood is essential for the functioning of the body."
+    }
+  }
+}

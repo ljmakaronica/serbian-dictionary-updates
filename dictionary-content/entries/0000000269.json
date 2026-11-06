@@ -1,0 +1,23 @@
+{
+  "id": 269,
+  "translation": {
+    "cyrillic": {
+      "word": "ентузијазам",
+      "part_of_speech": "именица",
+      "definition": "Снажно одушевљење и занос за нешто.",
+      "example_sentence": "Радио је са великим ентузијазмом."
+    },
+    "latin": {
+      "word": "entuzijazam",
+      "part_of_speech": "imenica",
+      "definition": "Snažno oduševljenje i zanos za nešto.",
+      "example_sentence": "Radio je sa velikim entuzijazmom."
+    },
+    "english": {
+      "word": "enthusiasm",
+      "part_of_speech": "noun",
+      "definition": "Strong excitement and passion for something.",
+      "example_sentence": "He worked with great enthusiasm."
+    }
+  }
+}

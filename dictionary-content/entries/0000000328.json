@@ -1,0 +1,23 @@
+{
+  "id": 328,
+  "translation": {
+    "cyrillic": {
+      "word": "књига",
+      "part_of_speech": "именица",
+      "definition": "Писано дело у облику повезаних страница.",
+      "example_sentence": "Читам интересантну књигу о историји."
+    },
+    "latin": {
+      "word": "knjiga",
+      "part_of_speech": "imenica",
+      "definition": "Pisano delo u obliku povezanih stranica.",
+      "example_sentence": "Čitam interesantnu knjigu o istoriji."
+    },
+    "english": {
+      "word": "book",
+      "part_of_speech": "noun",
+      "definition": "A written work in the form of bound pages.",
+      "example_sentence": "I am reading an interesting book about history."
+    }
+  }
+}

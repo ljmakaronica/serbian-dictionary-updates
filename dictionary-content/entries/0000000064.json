@@ -1,0 +1,23 @@
+{
+  "id": 64,
+  "translation": {
+    "cyrillic": {
+      "word": "аеродром",
+      "part_of_speech": "именица",
+      "definition": "Место где авиони полазе и слетају.",
+      "example_sentence": "Аеродром у Београду је један од најпрометнијих у региону."
+    },
+    "latin": {
+      "word": "aerodrom",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde avioni poleću i sleću.",
+      "example_sentence": "Aerodrom u Beogradu je jedan od najprometnijih u regionu."
+    },
+    "english": {
+      "word": "airport",
+      "part_of_speech": "noun",
+      "definition": "A place where airplanes take off and land.",
+      "example_sentence": "The airport in Belgrade is one of the busiest in the region."
+    }
+  }
+}

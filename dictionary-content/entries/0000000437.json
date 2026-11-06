@@ -1,0 +1,23 @@
+{
+  "id": 437,
+  "translation": {
+    "cyrillic": {
+      "word": "уживати",
+      "part_of_speech": "глагол",
+      "definition": "Осећати задовољство или радост.",
+      "example_sentence": "Уживам у шетњи кроз шуму."
+    },
+    "latin": {
+      "word": "uživati",
+      "part_of_speech": "glagol",
+      "definition": "Osećati zadovoljstvo ili radost.",
+      "example_sentence": "Uživam u šetnji kroz šumu."
+    },
+    "english": {
+      "word": "to enjoy",
+      "part_of_speech": "verb",
+      "definition": "To feel pleasure or joy.",
+      "example_sentence": "I enjoy walking through the forest."
+    }
+  }
+}

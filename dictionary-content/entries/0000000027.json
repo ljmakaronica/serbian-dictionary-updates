@@ -1,0 +1,23 @@
+{
+  "id": 27,
+  "translation": {
+    "cyrillic": {
+      "word": "ауторитет",
+      "part_of_speech": "именица",
+      "definition": "Особа или институција са званичном моћи или утицајем.",
+      "example_sentence": "Он је признати ауторитет у области физике."
+    },
+    "latin": {
+      "word": "autoritet",
+      "part_of_speech": "imenica",
+      "definition": "Osoba ili institucija sa zvaničnom moći ili uticajem.",
+      "example_sentence": "On je priznati autoritet u oblasti fizike."
+    },
+    "english": {
+      "word": "authority",
+      "part_of_speech": "noun",
+      "definition": "A person or institution with official power or influence.",
+      "example_sentence": "He is a recognized authority in the field of physics."
+    }
+  }
+}

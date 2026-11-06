@@ -1,0 +1,23 @@
+{
+  "id": 791,
+  "translation": {
+    "cyrillic": {
+      "word": "распоредити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство организовања или поделе по редоследу.",
+      "example_sentence": "Она је распоредила задатке по приоритету."
+    },
+    "latin": {
+      "word": "rasporediti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo organizovanja ili podele po redosledu.",
+      "example_sentence": "Ona je rasporedila zadatke po prioritetu."
+    },
+    "english": {
+      "word": "arrange",
+      "part_of_speech": "verb",
+      "definition": "To put in a neat, attractive, or required order.",
+      "example_sentence": "She arranged the tasks by priority."
+    }
+  }
+}

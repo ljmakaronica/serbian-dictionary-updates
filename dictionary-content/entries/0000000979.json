@@ -1,0 +1,23 @@
+{
+  "id": 979,
+  "translation": {
+    "cyrillic": {
+      "word": "кратак",
+      "part_of_speech": "придев",
+      "definition": "мале дужине",
+      "example_sentence": "То је кратка прича."
+    },
+    "latin": {
+      "word": "kratak",
+      "part_of_speech": "pridev",
+      "definition": "male dužine",
+      "example_sentence": "To je kratka priča."
+    },
+    "english": {
+      "word": "short",
+      "part_of_speech": "adjective",
+      "definition": "of small length",
+      "example_sentence": "That is a short story."
+    }
+  }
+}

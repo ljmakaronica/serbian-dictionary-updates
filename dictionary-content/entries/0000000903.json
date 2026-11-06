@@ -1,0 +1,23 @@
+{
+  "id": 903,
+  "translation": {
+    "cyrillic": {
+      "word": "паметан",
+      "part_of_speech": "придев",
+      "definition": "Придев који описује особу са високим интелектуалним способностима",
+      "example_sentence": "Он је паметан ученик."
+    },
+    "latin": {
+      "word": "pametan",
+      "part_of_speech": "pridev",
+      "definition": "Pridev koji opisuje osobu sa visokim intelektualnim sposobnostima",
+      "example_sentence": "On je pametan učenik."
+    },
+    "english": {
+      "word": "smart",
+      "part_of_speech": "adjective",
+      "definition": "Adjective describing a person with high intellectual capabilities",
+      "example_sentence": "He is a smart student."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 139,
+  "translation": {
+    "cyrillic": {
+      "word": "вежба",
+      "part_of_speech": "именица",
+      "definition": "Физичка активност за одржавање здравља.",
+      "example_sentence": "Свакодневна вежба је важна за добро стање."
+    },
+    "latin": {
+      "word": "vežba",
+      "part_of_speech": "imenica",
+      "definition": "Fizička aktivnost za održavanje zdravlja.",
+      "example_sentence": "Svakodnevna vežba je važna za dobro stanje."
+    },
+    "english": {
+      "word": "exercise",
+      "part_of_speech": "noun",
+      "definition": "Physical activity to maintain health.",
+      "example_sentence": "Daily exercise is important for well-being."
+    }
+  }
+}

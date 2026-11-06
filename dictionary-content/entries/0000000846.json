@@ -1,0 +1,23 @@
+{
+  "id": 846,
+  "translation": {
+    "cyrillic": {
+      "word": "неопходно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који указује на неизбежност или потребност.",
+      "example_sentence": "Овај корак је неопходно следити."
+    },
+    "latin": {
+      "word": "neophodno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ukazuje na neizbežnost ili potrebu.",
+      "example_sentence": "Ovaj korak je neophodno slediti."
+    },
+    "english": {
+      "word": "necessarily",
+      "part_of_speech": "adverb",
+      "definition": "In an inevitable or required manner.",
+      "example_sentence": "This step must be followed necessarily."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 199,
+  "translation": {
+    "cyrillic": {
+      "word": "дуга",
+      "part_of_speech": "именица",
+      "definition": "Обојена трака светлости која се појављује после кише.",
+      "example_sentence": "После кише, на небу је изашла дуга."
+    },
+    "latin": {
+      "word": "duga",
+      "part_of_speech": "imenica",
+      "definition": "Obojena traka svetlosti koja se pojavljuje nakon kiše.",
+      "example_sentence": "Posle kiše, na nebu je izašla duga."
+    },
+    "english": {
+      "word": "rainbow",
+      "part_of_speech": "noun",
+      "definition": "A colored strip of light that appears after rain.",
+      "example_sentence": "After the rain, a rainbow appeared in the sky."
+    }
+  }
+}

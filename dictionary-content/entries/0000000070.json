@@ -1,0 +1,23 @@
+{
+  "id": 70,
+  "translation": {
+    "cyrillic": {
+      "word": "акустика",
+      "part_of_speech": "именица",
+      "definition": "Наука о звуку и његовом понашању.",
+      "example_sentence": "Акустика у овој сали је изузетно добра."
+    },
+    "latin": {
+      "word": "akustika",
+      "part_of_speech": "imenica",
+      "definition": "Nauka o zvuku i njegovom ponašanju.",
+      "example_sentence": "Akustika u ovoj sali je izuzetno dobra."
+    },
+    "english": {
+      "word": "acoustics",
+      "part_of_speech": "noun",
+      "definition": "The science of sound and its behavior.",
+      "example_sentence": "The acoustics in this hall are exceptionally good."
+    }
+  }
+}

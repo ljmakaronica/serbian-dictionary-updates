@@ -1,0 +1,23 @@
+{
+  "id": 409,
+  "translation": {
+    "cyrillic": {
+      "word": "ракија",
+      "part_of_speech": "именица",
+      "definition": "Алкохолно пиће направљено од воћа.",
+      "example_sentence": "Ракија је традиционално пиће на Балкану."
+    },
+    "latin": {
+      "word": "rakija",
+      "part_of_speech": "imenica",
+      "definition": "Alkoholno piće napravljeno od voća.",
+      "example_sentence": "Rakija je tradicionalno piće na Balkanu."
+    },
+    "english": {
+      "word": "brandy",
+      "part_of_speech": "noun",
+      "definition": "An alcoholic drink made from fruit.",
+      "example_sentence": "Brandy is a traditional drink in the Balkans."
+    }
+  }
+}

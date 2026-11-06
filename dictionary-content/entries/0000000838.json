@@ -1,0 +1,23 @@
+{
+  "id": 838,
+  "translation": {
+    "cyrillic": {
+      "word": "радикално",
+      "part_of_speech": "прилог",
+      "definition": "На начин који подразумева потпуну промену.",
+      "example_sentence": "Политичке реформе радикално мењају државу."
+    },
+    "latin": {
+      "word": "radikalno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji podrazumeva potpunu promenu.",
+      "example_sentence": "Političke reforme radikalno menjaju državu."
+    },
+    "english": {
+      "word": "radically",
+      "part_of_speech": "adverb",
+      "definition": "In a thorough or complete manner.",
+      "example_sentence": "The political reforms are radically changing the country."
+    }
+  }
+}

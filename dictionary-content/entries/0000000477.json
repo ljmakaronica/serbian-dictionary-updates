@@ -1,0 +1,23 @@
+{
+  "id": 477,
+  "translation": {
+    "cyrillic": {
+      "word": "ципела",
+      "part_of_speech": "именица",
+      "definition": "Комад обуће који покрива и штити стопало.",
+      "example_sentence": "Ове ципеле су удобне за шетњу."
+    },
+    "latin": {
+      "word": "cipela",
+      "part_of_speech": "imenica",
+      "definition": "Komad obuće koji pokriva i štiti stopalo.",
+      "example_sentence": "Ove cipele su udobne za šetnju."
+    },
+    "english": {
+      "word": "shoe",
+      "part_of_speech": "noun",
+      "definition": "An item of footwear that covers and protects the foot.",
+      "example_sentence": "These shoes are comfortable for walking."
+    }
+  }
+}

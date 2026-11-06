@@ -1,0 +1,23 @@
+{
+  "id": 1046,
+  "translation": {
+    "cyrillic": {
+      "word": "хитан",
+      "part_of_speech": "придев",
+      "definition": "Који захтева брзо деловање.",
+      "example_sentence": "Позови хитну помоћ!"
+    },
+    "latin": {
+      "word": "hitan",
+      "part_of_speech": "pridev",
+      "definition": "Koji zahteva brzo delovanje.",
+      "example_sentence": "Pozovi hitnu pomoć!"
+    },
+    "english": {
+      "word": "urgent",
+      "part_of_speech": "adjective",
+      "definition": "Requiring quick action.",
+      "example_sentence": "Call emergency services!"
+    }
+  }
+}

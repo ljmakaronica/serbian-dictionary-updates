@@ -1,0 +1,23 @@
+{
+  "id": 627,
+  "translation": {
+    "cyrillic": {
+      "word": "пливати",
+      "part_of_speech": "глагол",
+      "definition": "Кретати се у води.",
+      "example_sentence": "Волим да пливам у мору."
+    },
+    "latin": {
+      "word": "plivati",
+      "part_of_speech": "glagol",
+      "definition": "Kretati se u vodi.",
+      "example_sentence": "Volim da plivam u moru."
+    },
+    "english": {
+      "word": "to swim",
+      "part_of_speech": "verb",
+      "definition": "To move through water.",
+      "example_sentence": "I love to swim in the sea."
+    }
+  }
+}

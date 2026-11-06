@@ -1,0 +1,23 @@
+{
+  "id": 389,
+  "translation": {
+    "cyrillic": {
+      "word": "одмор",
+      "part_of_speech": "именица",
+      "definition": "Време за одмарање и релаксацију.",
+      "example_sentence": "На одмору сам био две недеље."
+    },
+    "latin": {
+      "word": "odmor",
+      "part_of_speech": "imenica",
+      "definition": "Vreme za odmaranje i relaksaciju.",
+      "example_sentence": "Na odmoru sam bio dve nedelje."
+    },
+    "english": {
+      "word": "vacation",
+      "part_of_speech": "noun",
+      "definition": "Time for rest and relaxation.",
+      "example_sentence": "I was on vacation for two weeks."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1043,
+  "translation": {
+    "cyrillic": {
+      "word": "горњи",
+      "part_of_speech": "придев",
+      "definition": "Који се налази на вишем месту.",
+      "example_sentence": "Живе на горњем спрату."
+    },
+    "latin": {
+      "word": "gornji",
+      "part_of_speech": "pridev",
+      "definition": "Koji se nalazi na višem mestu.",
+      "example_sentence": "Žive na gornjem spratu."
+    },
+    "english": {
+      "word": "upper",
+      "part_of_speech": "adjective",
+      "definition": "Located in a higher place.",
+      "example_sentence": "They live on the upper floor."
+    }
+  }
+}

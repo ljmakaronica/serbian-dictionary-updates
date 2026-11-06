@@ -1,0 +1,23 @@
+{
+  "id": 717,
+  "translation": {
+    "cyrillic": {
+      "word": "помагати",
+      "part_of_speech": "глагол",
+      "definition": "Пружање подршке или асистенције.",
+      "example_sentence": "Он помаже својој сестри у раду."
+    },
+    "latin": {
+      "word": "pomagati",
+      "part_of_speech": "glagol",
+      "definition": "Pružanje podrške ili asistencije.",
+      "example_sentence": "On pomaže svojoj sestri u radu."
+    },
+    "english": {
+      "word": "help",
+      "part_of_speech": "verb",
+      "definition": "To provide assistance or support.",
+      "example_sentence": "He helps his sister with her work."
+    }
+  }
+}

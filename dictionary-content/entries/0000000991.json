@@ -1,0 +1,23 @@
+{
+  "id": 991,
+  "translation": {
+    "cyrillic": {
+      "word": "здраво",
+      "part_of_speech": "узвик",
+      "definition": "поздрав",
+      "example_sentence": "Здраво! Како си?"
+    },
+    "latin": {
+      "word": "zdravo",
+      "part_of_speech": "uzvik",
+      "definition": "pozdrav",
+      "example_sentence": "Zdravo! Kako si?"
+    },
+    "english": {
+      "word": "hello",
+      "part_of_speech": "interjection",
+      "definition": "greeting",
+      "example_sentence": "Hello! How are you?"
+    }
+  }
+}

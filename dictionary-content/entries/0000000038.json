@@ -1,0 +1,23 @@
+{
+  "id": 38,
+  "translation": {
+    "cyrillic": {
+      "word": "аутомеханичар",
+      "part_of_speech": "именица",
+      "definition": "Особа која поправља аутомобиле.",
+      "example_sentence": "Мој аутомеханичар је веома вешт и поуздан."
+    },
+    "latin": {
+      "word": "automehaničar",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja popravlja automobile.",
+      "example_sentence": "Moj automehaničar je veoma vešt i pouzdan."
+    },
+    "english": {
+      "word": "auto mechanic",
+      "part_of_speech": "noun",
+      "definition": "A person who repairs cars.",
+      "example_sentence": "My auto mechanic is very skilled and reliable."
+    }
+  }
+}

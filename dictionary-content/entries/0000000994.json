@@ -1,0 +1,23 @@
+{
+  "id": 994,
+  "translation": {
+    "cyrillic": {
+      "word": "месец",
+      "part_of_speech": "именица",
+      "definition": "период од око 30 дана",
+      "example_sentence": "Овај месец је фебруар."
+    },
+    "latin": {
+      "word": "mesec",
+      "part_of_speech": "imenica",
+      "definition": "period od oko 30 dana",
+      "example_sentence": "Ovaj mesec je februar."
+    },
+    "english": {
+      "word": "month",
+      "part_of_speech": "noun",
+      "definition": "period of about 30 days",
+      "example_sentence": "This month is February."
+    }
+  }
+}

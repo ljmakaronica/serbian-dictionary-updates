@@ -1,0 +1,23 @@
+{
+  "id": 462,
+  "translation": {
+    "cyrillic": {
+      "word": "хит",
+      "part_of_speech": "именица",
+      "definition": "Популарна песма или ствар.",
+      "example_sentence": "Ова песма је велики хит."
+    },
+    "latin": {
+      "word": "hit",
+      "part_of_speech": "imenica",
+      "definition": "Popularna pesma ili stvar.",
+      "example_sentence": "Ova pesma je veliki hit."
+    },
+    "english": {
+      "word": "hit",
+      "part_of_speech": "noun",
+      "definition": "A popular song or item.",
+      "example_sentence": "This song is a big hit."
+    }
+  }
+}

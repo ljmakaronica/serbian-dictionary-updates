@@ -1,0 +1,23 @@
+{
+  "id": 825,
+  "translation": {
+    "cyrillic": {
+      "word": "изузетно",
+      "part_of_speech": "прилог",
+      "definition": "У веома великој мери или са веома великим интензитетом.",
+      "example_sentence": "Време је изузетно хладно."
+    },
+    "latin": {
+      "word": "izuzetno",
+      "part_of_speech": "prilog",
+      "definition": "U veoma velikoj meri ili sa veoma velikim intenzitetom.",
+      "example_sentence": "Vreme je izuzetno hladno."
+    },
+    "english": {
+      "word": "extremely",
+      "part_of_speech": "adverb",
+      "definition": "To a very great degree or with very great intensity.",
+      "example_sentence": "The weather is extremely cold."
+    }
+  }
+}

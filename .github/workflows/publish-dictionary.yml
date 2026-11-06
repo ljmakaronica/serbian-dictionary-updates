@@ -1,0 +1,61 @@
+# Install in the content repository as .github/workflows/publish-dictionary.yml.
+name: Publish dictionary
+on:
+  workflow_dispatch:
+    inputs:
+      revision:
+        description: Content revision in review.json (changed/new entries reviewed)
+        required: true
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: publish-dictionary
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate revision and generate snapshot
+        env:
+          REQUESTED_REVISION: ${{ inputs.revision }}
+          CONTENT_REPOSITORY: ${{ github.repository }}
+        run: |
+          python3 - <<'PY'
+          import json, os, pathlib, subprocess
+          revision = int(os.environ['REQUESTED_REVISION'])
+          assert revision > 0
+          assert revision == json.loads(pathlib.Path('dictionary-content/review.json').read_text())['revision']
+          manifest = pathlib.Path('v1/manifest.json')
+          if manifest.exists():
+              assert revision > json.loads(manifest.read_text())['revision'], 'Revision must increase'
+          url = f"https://github.com/{os.environ['CONTENT_REPOSITORY']}/releases/download/content-{revision}/dictionary.json"
+          subprocess.run(['python3', 'scripts/build_dictionary.py', '--release', '--snapshot-url', url], check=True)
+          PY
+      - name: Publish a new immutable-by-policy release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REQUESTED_REVISION: ${{ inputs.revision }}
+        run: |
+          revision=$(python3 -c 'import os; print(int(os.environ["REQUESTED_REVISION"]))')
+          if git ls-remote --exit-code --tags origin "refs/tags/content-$revision"; then
+            echo 'This content tag already exists. Use a new revision.'
+            exit 1
+          fi
+          # gh release create fails if this release already exists; never overwrite its asset.
+          gh release create "content-$revision" build/dictionary/dictionary.json --target "$(git rev-parse HEAD)" --title "Dictionary $revision" --notes "Dictionary content snapshot; launch baseline plus reviewed changes."
+      - name: Publish manifest after the asset is available
+        run: |
+          mkdir -p v1
+          cp build/dictionary/manifest.json v1/manifest.json
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add v1/manifest.json
+          git commit -m 'Publish dictionary manifest'
+          git push origin HEAD:main

@@ -1,0 +1,23 @@
+{
+  "id": 402,
+  "translation": {
+    "cyrillic": {
+      "word": "река",
+      "part_of_speech": "именица",
+      "definition": "Велики водени ток који тече копном.",
+      "example_sentence": "Ова река протиче кроз наш град."
+    },
+    "latin": {
+      "word": "reka",
+      "part_of_speech": "imenica",
+      "definition": "Veliki vodeni tok koji teče kopnom.",
+      "example_sentence": "Ova reka protiče kroz naš grad."
+    },
+    "english": {
+      "word": "river",
+      "part_of_speech": "noun",
+      "definition": "A large flowing body of water that moves across land.",
+      "example_sentence": "This river flows through our city."
+    }
+  }
+}

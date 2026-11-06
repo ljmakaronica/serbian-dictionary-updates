@@ -1,0 +1,23 @@
+{
+  "id": 1076,
+  "translation": {
+    "cyrillic": {
+      "word": "рендген",
+      "part_of_speech": "именица",
+      "definition": "Медицински снимак направљен помоћу икс зрака.",
+      "example_sentence": "Доктор је прегледао рендген плућа."
+    },
+    "latin": {
+      "word": "rendgen",
+      "part_of_speech": "imenica",
+      "definition": "Medicinski snimak napravljen pomoću iks zraka.",
+      "example_sentence": "Doktor je pregledao rendgen pluća."
+    },
+    "english": {
+      "word": "x-ray",
+      "part_of_speech": "noun",
+      "definition": "A medical image made using x-radiation.",
+      "example_sentence": "The doctor examined the chest x-ray."
+    }
+  }
+}

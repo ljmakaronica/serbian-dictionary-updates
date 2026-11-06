@@ -1,0 +1,23 @@
+{
+  "id": 726,
+  "translation": {
+    "cyrillic": {
+      "word": "схватити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство разумевања или усвајања информација.",
+      "example_sentence": "Она је брзо схватила проблем."
+    },
+    "latin": {
+      "word": "shvatiti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo razumevanja ili usvajanja informacija.",
+      "example_sentence": "Ona je brzo shvatila problem."
+    },
+    "english": {
+      "word": "understand",
+      "part_of_speech": "verb",
+      "definition": "To perceive the meaning of something.",
+      "example_sentence": "She quickly understood the problem."
+    }
+  }
+}

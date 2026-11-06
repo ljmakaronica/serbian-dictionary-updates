@@ -1,0 +1,23 @@
+{
+  "id": 51,
+  "translation": {
+    "cyrillic": {
+      "word": "аутопсија",
+      "part_of_speech": "именица",
+      "definition": "Медицински преглед тела након смрти ради утврђивања узрока смрти.",
+      "example_sentence": "Аутопсија је показала да је смрт настала услед природних узрока."
+    },
+    "latin": {
+      "word": "autopsija",
+      "part_of_speech": "imenica",
+      "definition": "Medicinski pregled tela nakon smrti radi utvrđivanja uzroka smrti.",
+      "example_sentence": "Autopsija je pokazala da je smrt nastala usled prirodnih uzroka."
+    },
+    "english": {
+      "word": "autopsy",
+      "part_of_speech": "noun",
+      "definition": "A medical examination of a body after death to determine the cause of death.",
+      "example_sentence": "The autopsy revealed that the death was due to natural causes."
+    }
+  }
+}

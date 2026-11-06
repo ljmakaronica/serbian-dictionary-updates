@@ -1,0 +1,23 @@
+{
+  "id": 890,
+  "translation": {
+    "cyrillic": {
+      "word": "на",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава положај на површини нечега",
+      "example_sentence": "Књига је на столу."
+    },
+    "latin": {
+      "word": "na",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava položaj na površini nečega",
+      "example_sentence": "Knjiga je na stolu."
+    },
+    "english": {
+      "word": "on",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating position on a surface",
+      "example_sentence": "The book is on the table."
+    }
+  }
+}

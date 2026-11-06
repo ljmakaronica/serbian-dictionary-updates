@@ -1,0 +1,23 @@
+{
+  "id": 674,
+  "translation": {
+    "cyrillic": {
+      "word": "природа",
+      "part_of_speech": "именица",
+      "definition": "Скуп свих живих и неживих елемената Земље.",
+      "example_sentence": "Природа је пуна лепоте."
+    },
+    "latin": {
+      "word": "priroda",
+      "part_of_speech": "imenica",
+      "definition": "Skup svih živih i neživih elemenata Zemlje.",
+      "example_sentence": "Priroda je puna lepote."
+    },
+    "english": {
+      "word": "nature",
+      "part_of_speech": "noun",
+      "definition": "The sum of all living and non-living elements of Earth.",
+      "example_sentence": "Nature is full of beauty."
+    }
+  }
+}

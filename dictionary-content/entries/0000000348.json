@@ -1,0 +1,23 @@
+{
+  "id": 348,
+  "translation": {
+    "cyrillic": {
+      "word": "лава",
+      "part_of_speech": "именица",
+      "definition": "Растопљена стена која избија из вулкана.",
+      "example_sentence": "Лава је текла низ планину."
+    },
+    "latin": {
+      "word": "lava",
+      "part_of_speech": "imenica",
+      "definition": "Rastopljena stena koja izbija iz vulkana.",
+      "example_sentence": "Lava je tekla niz planinu."
+    },
+    "english": {
+      "word": "lava",
+      "part_of_speech": "noun",
+      "definition": "Molten rock that erupts from a volcano.",
+      "example_sentence": "Lava flowed down the mountain."
+    }
+  }
+}

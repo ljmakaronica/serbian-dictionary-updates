@@ -1,0 +1,23 @@
+{
+  "id": 549,
+  "translation": {
+    "cyrillic": {
+      "word": "шал",
+      "part_of_speech": "именица",
+      "definition": "Дугачка трака тканине која се носи око врата.",
+      "example_sentence": "Носила је црвени шал."
+    },
+    "latin": {
+      "word": "šal",
+      "part_of_speech": "imenica",
+      "definition": "Dugačka traka tkanine koja se nosi oko vrata.",
+      "example_sentence": "Nosila je crveni šal."
+    },
+    "english": {
+      "word": "scarf",
+      "part_of_speech": "noun",
+      "definition": "A long piece of fabric worn around the neck.",
+      "example_sentence": "She wore a red scarf."
+    }
+  }
+}

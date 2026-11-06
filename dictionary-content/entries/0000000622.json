@@ -1,0 +1,23 @@
+{
+  "id": 622,
+  "translation": {
+    "cyrillic": {
+      "word": "усисивач",
+      "part_of_speech": "именица",
+      "definition": "Уређај за чишћење подова.",
+      "example_sentence": "Чистим под усисивачем."
+    },
+    "latin": {
+      "word": "usisivač",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za čišćenje podova.",
+      "example_sentence": "Čistim pod usisivačem."
+    },
+    "english": {
+      "word": "vacuum cleaner",
+      "part_of_speech": "noun",
+      "definition": "A device for cleaning floors.",
+      "example_sentence": "I clean the floor with a vacuum cleaner."
+    }
+  }
+}

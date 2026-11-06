@@ -1,0 +1,23 @@
+{
+  "id": 620,
+  "translation": {
+    "cyrillic": {
+      "word": "микроталасна",
+      "part_of_speech": "именица",
+      "definition": "Уређај за загријавање хране.",
+      "example_sentence": "Загријавам ручак у микроталасној."
+    },
+    "latin": {
+      "word": "mikrotalasna",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za zagrevanje hrane.",
+      "example_sentence": "Zagrevam ručak u mikrotalasnoj."
+    },
+    "english": {
+      "word": "microwave",
+      "part_of_speech": "noun",
+      "definition": "A device for heating food.",
+      "example_sentence": "I heat my lunch in the microwave."
+    }
+  }
+}

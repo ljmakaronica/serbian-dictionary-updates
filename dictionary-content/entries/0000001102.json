@@ -1,0 +1,23 @@
+{
+  "id": 1102,
+  "translation": {
+    "cyrillic": {
+      "word": "ено",
+      "part_of_speech": "речца",
+      "definition": "Речца која указује на нешто удаљено.",
+      "example_sentence": "Ено га тамо!"
+    },
+    "latin": {
+      "word": "eno",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja ukazuje na nešto udaljeno.",
+      "example_sentence": "Eno ga tamo!"
+    },
+    "english": {
+      "word": "there",
+      "part_of_speech": "particle",
+      "definition": "A particle pointing to something distant.",
+      "example_sentence": "There he is over there!"
+    }
+  }
+}

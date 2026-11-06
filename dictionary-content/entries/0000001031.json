@@ -1,0 +1,23 @@
+{
+  "id": 1031,
+  "translation": {
+    "cyrillic": {
+      "word": "задржати",
+      "part_of_speech": "глагол",
+      "definition": "Наставити да поседује или чува нешто.",
+      "example_sentence": "Задржао је успомене из детињства."
+    },
+    "latin": {
+      "word": "zadržati",
+      "part_of_speech": "glagol",
+      "definition": "Nastaviti da poseduje ili čuva nešto.",
+      "example_sentence": "Zadržao je uspomene iz detinjstva."
+    },
+    "english": {
+      "word": "keep",
+      "part_of_speech": "verb",
+      "definition": "To continue to possess or hold something.",
+      "example_sentence": "He kept his childhood memories."
+    }
+  }
+}

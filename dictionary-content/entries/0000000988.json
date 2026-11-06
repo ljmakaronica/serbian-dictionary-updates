@@ -1,0 +1,23 @@
+{
+  "id": 988,
+  "translation": {
+    "cyrillic": {
+      "word": "не",
+      "part_of_speech": "речца",
+      "definition": "Речца која изражава негацију или одбијање.",
+      "example_sentence": "Не знам."
+    },
+    "latin": {
+      "word": "ne",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja izražava negaciju ili odbijanje.",
+      "example_sentence": "Ne znam."
+    },
+    "english": {
+      "word": "no",
+      "part_of_speech": "particle",
+      "definition": "A particle expressing negation or refusal.",
+      "example_sentence": "I don't know."
+    }
+  }
+}

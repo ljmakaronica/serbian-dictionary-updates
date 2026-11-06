@@ -1,0 +1,23 @@
+{
+  "id": 58,
+  "translation": {
+    "cyrillic": {
+      "word": "авангарда",
+      "part_of_speech": "именица",
+      "definition": "Иновативни или експериментални покрет у уметности, култури или политици који се одваја од традиције.",
+      "example_sentence": "Ова уметничка група сматра се авангардом модерне уметности."
+    },
+    "latin": {
+      "word": "avangarda",
+      "part_of_speech": "imenica",
+      "definition": "Inovativni ili eksperimentalni pokret u umetnosti, kulturi ili politici koji se odvaja od tradicije.",
+      "example_sentence": "Ova umetnička grupa smatra se avangardom moderne umetnosti."
+    },
+    "english": {
+      "word": "avant-garde",
+      "part_of_speech": "noun",
+      "definition": "An innovative or experimental movement in art, culture, or politics that breaks from tradition.",
+      "example_sentence": "This art group is considered the avant-garde of modern art."
+    }
+  }
+}

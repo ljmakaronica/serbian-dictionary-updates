@@ -1,0 +1,23 @@
+{
+  "id": 853,
+  "translation": {
+    "cyrillic": {
+      "word": "безбедно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који обезбеђује сигурност и заштиту.",
+      "example_sentence": "Он безбедно паркира своје возило."
+    },
+    "latin": {
+      "word": "bezbedno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji obezbeđuje sigurnost i zaštitu.",
+      "example_sentence": "On bezbedno parkira svoje vozilo."
+    },
+    "english": {
+      "word": "safely",
+      "part_of_speech": "adverb",
+      "definition": "In a manner that ensures safety.",
+      "example_sentence": "He parks his car safely."
+    }
+  }
+}

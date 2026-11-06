@@ -1,0 +1,23 @@
+{
+  "id": 472,
+  "translation": {
+    "cyrillic": {
+      "word": "цена",
+      "part_of_speech": "именица",
+      "definition": "Новчана вредност производа или услуге.",
+      "example_sentence": "Цена је била прихватљива."
+    },
+    "latin": {
+      "word": "cena",
+      "part_of_speech": "imenica",
+      "definition": "Novčana vrednost proizvoda ili usluge.",
+      "example_sentence": "Cena je bila prihvatljiva."
+    },
+    "english": {
+      "word": "price",
+      "part_of_speech": "noun",
+      "definition": "The monetary value of a product or service.",
+      "example_sentence": "The price was reasonable."
+    }
+  }
+}

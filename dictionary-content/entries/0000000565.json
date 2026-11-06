@@ -1,0 +1,23 @@
+{
+  "id": 565,
+  "translation": {
+    "cyrillic": {
+      "word": "учити",
+      "part_of_speech": "глагол",
+      "definition": "Стицати знање или вештине.",
+      "example_sentence": "Волим да учим нове језике."
+    },
+    "latin": {
+      "word": "učiti",
+      "part_of_speech": "glagol",
+      "definition": "Sticati znanje ili veštine.",
+      "example_sentence": "Volim da učim nove jezike."
+    },
+    "english": {
+      "word": "to learn",
+      "part_of_speech": "verb",
+      "definition": "To gain knowledge or skills.",
+      "example_sentence": "I love to learn new languages."
+    }
+  }
+}

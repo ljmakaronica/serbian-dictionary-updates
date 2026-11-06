@@ -1,0 +1,23 @@
+{
+  "id": 237,
+  "translation": {
+    "cyrillic": {
+      "word": "египат",
+      "part_of_speech": "именица",
+      "definition": "Земља у североисточној Африци.",
+      "example_sentence": "Пирамиде у Египту су древно чудо света."
+    },
+    "latin": {
+      "word": "egipat",
+      "part_of_speech": "imenica",
+      "definition": "Zemlja u severoistočnoj Africi.",
+      "example_sentence": "Piramide u Egiptu su drevno čudo sveta."
+    },
+    "english": {
+      "word": "Egypt",
+      "part_of_speech": "noun",
+      "definition": "A country in northeastern Africa.",
+      "example_sentence": "The pyramids in Egypt are an ancient wonder of the world."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 709,
+  "translation": {
+    "cyrillic": {
+      "word": "плакати",
+      "part_of_speech": "глагол",
+      "definition": "Изражавање туге кроз сузе.",
+      "example_sentence": "Дете плаче због губитка."
+    },
+    "latin": {
+      "word": "plakati",
+      "part_of_speech": "glagol",
+      "definition": "Izražavanje tuge kroz suze.",
+      "example_sentence": "Dete plače zbog gubitka."
+    },
+    "english": {
+      "word": "cry",
+      "part_of_speech": "verb",
+      "definition": "To express sorrow by shedding tears.",
+      "example_sentence": "The child cries due to a loss."
+    }
+  }
+}

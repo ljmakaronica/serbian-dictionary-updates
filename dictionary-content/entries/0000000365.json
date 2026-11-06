@@ -1,0 +1,23 @@
+{
+  "id": 365,
+  "translation": {
+    "cyrillic": {
+      "word": "мачка",
+      "part_of_speech": "именица",
+      "definition": "Мала домаћа животиња са крзном и брковима.",
+      "example_sentence": "Мачка је спавала на каучу."
+    },
+    "latin": {
+      "word": "mačka",
+      "part_of_speech": "imenica",
+      "definition": "Mala domaća životinja sa krznom i brkovima.",
+      "example_sentence": "Mačka je spavala na kauču."
+    },
+    "english": {
+      "word": "cat",
+      "part_of_speech": "noun",
+      "definition": "A small domestic animal with fur and whiskers.",
+      "example_sentence": "The cat was sleeping on the couch."
+    }
+  }
+}

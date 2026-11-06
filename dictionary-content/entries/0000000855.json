@@ -1,0 +1,23 @@
+{
+  "id": 855,
+  "translation": {
+    "cyrillic": {
+      "word": "и",
+      "part_of_speech": "везник",
+      "definition": "Повезује две речи или реченице.",
+      "example_sentence": "Марко и Ана иду у школу."
+    },
+    "latin": {
+      "word": "i",
+      "part_of_speech": "veznik",
+      "definition": "Povezuje dve reči ili rečenice.",
+      "example_sentence": "Marko i Ana idu u školu."
+    },
+    "english": {
+      "word": "and",
+      "part_of_speech": "conjunction",
+      "definition": "Connects two words or sentences.",
+      "example_sentence": "Marko and Ana go to school."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 560,
+  "translation": {
+    "cyrillic": {
+      "word": "јести",
+      "part_of_speech": "глагол",
+      "definition": "Уносити храну у тело.",
+      "example_sentence": "Волим да једем воће."
+    },
+    "latin": {
+      "word": "jesti",
+      "part_of_speech": "glagol",
+      "definition": "Unositi hranu u telo.",
+      "example_sentence": "Volim da jedem voće."
+    },
+    "english": {
+      "word": "to eat",
+      "part_of_speech": "verb",
+      "definition": "To consume food.",
+      "example_sentence": "I love to eat fruit."
+    }
+  }
+}

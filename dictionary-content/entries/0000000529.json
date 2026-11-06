@@ -1,0 +1,23 @@
+{
+  "id": 529,
+  "translation": {
+    "cyrillic": {
+      "word": "седамнаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 17.",
+      "example_sentence": "Имам седамнаест књига."
+    },
+    "latin": {
+      "word": "sedamnaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 17.",
+      "example_sentence": "Imam sedamnaest knjiga."
+    },
+    "english": {
+      "word": "seventeen",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 17.",
+      "example_sentence": "I have seventeen books."
+    }
+  }
+}

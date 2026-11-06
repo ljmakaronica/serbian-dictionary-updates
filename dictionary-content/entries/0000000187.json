@@ -1,0 +1,23 @@
+{
+  "id": 187,
+  "translation": {
+    "cyrillic": {
+      "word": "гитара",
+      "part_of_speech": "именица",
+      "definition": "Жичани музички инструмент, обично са шест жица, који се свира прстима или трзалицом.",
+      "example_sentence": "Он свира гитару у рок бенду."
+    },
+    "latin": {
+      "word": "gitara",
+      "part_of_speech": "imenica",
+      "definition": "Žičani muzički instrument, obično sa šest žica, koji se svira prstima ili trzalicom.",
+      "example_sentence": "On svira gitaru u rok bendu."
+    },
+    "english": {
+      "word": "guitar",
+      "part_of_speech": "noun",
+      "definition": "A stringed musical instrument, usually with six strings, played with the fingers or a pick.",
+      "example_sentence": "He plays the guitar in a rock band."
+    }
+  }
+}

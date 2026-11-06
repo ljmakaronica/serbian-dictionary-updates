@@ -1,0 +1,23 @@
+{
+  "id": 172,
+  "translation": {
+    "cyrillic": {
+      "word": "гнездо",
+      "part_of_speech": "именица",
+      "definition": "Место где птице полажу јаја.",
+      "example_sentence": "Гнездо је било високо на дрвету."
+    },
+    "latin": {
+      "word": "gnezdo",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde ptice polažu jaja.",
+      "example_sentence": "Gnezdo je bilo visoko na drvetu."
+    },
+    "english": {
+      "word": "nest",
+      "part_of_speech": "noun",
+      "definition": "A place where birds lay eggs.",
+      "example_sentence": "The nest was high in the tree."
+    }
+  }
+}

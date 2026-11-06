@@ -1,0 +1,23 @@
+{
+  "id": 914,
+  "translation": {
+    "cyrillic": {
+      "word": "поноћ",
+      "part_of_speech": "именица",
+      "definition": "Средина ноћи, тачно дванаест сати после подне.",
+      "example_sentence": "У поноћ се чују звона."
+    },
+    "latin": {
+      "word": "ponoć",
+      "part_of_speech": "imenica",
+      "definition": "Sredina noći, tačno dvanaest sati posle podne.",
+      "example_sentence": "U ponoć se čuju zvona."
+    },
+    "english": {
+      "word": "midnight",
+      "part_of_speech": "noun",
+      "definition": "The middle of the night, exactly twelve hours after noon.",
+      "example_sentence": "At midnight the bells are heard."
+    }
+  }
+}

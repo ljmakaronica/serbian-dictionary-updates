@@ -1,0 +1,23 @@
+{
+  "id": 775,
+  "translation": {
+    "cyrillic": {
+      "word": "лутати",
+      "part_of_speech": "глагол",
+      "definition": "Кретање без одређеног циља или пута.",
+      "example_sentence": "Он лута улицама старог града."
+    },
+    "latin": {
+      "word": "lutati",
+      "part_of_speech": "glagol",
+      "definition": "Kretanje bez određenog cilja ili puta.",
+      "example_sentence": "On luta ulicama starog grada."
+    },
+    "english": {
+      "word": "wander",
+      "part_of_speech": "verb",
+      "definition": "To move about without a fixed course or destination.",
+      "example_sentence": "He wanders the streets of the old town."
+    }
+  }
+}

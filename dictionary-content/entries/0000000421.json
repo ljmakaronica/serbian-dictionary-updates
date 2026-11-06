@@ -1,0 +1,23 @@
+{
+  "id": 421,
+  "translation": {
+    "cyrillic": {
+      "word": "тајна",
+      "part_of_speech": "именица",
+      "definition": "Нешто што је скривено или непознато.",
+      "example_sentence": "Његова тајна је остала сакривена."
+    },
+    "latin": {
+      "word": "tajna",
+      "part_of_speech": "imenica",
+      "definition": "Nešto što je skriveno ili nepoznato.",
+      "example_sentence": "Njegova tajna je ostala sakrivena."
+    },
+    "english": {
+      "word": "secret",
+      "part_of_speech": "noun",
+      "definition": "Something that is hidden or unknown.",
+      "example_sentence": "His secret remained hidden."
+    }
+  }
+}

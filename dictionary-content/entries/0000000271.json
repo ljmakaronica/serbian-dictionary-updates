@@ -1,0 +1,23 @@
+{
+  "id": 271,
+  "translation": {
+    "cyrillic": {
+      "word": "емулзија",
+      "part_of_speech": "именица",
+      "definition": "Мешавина две течности које се обично не мешају.",
+      "example_sentence": "Мајонез је врста емулзије."
+    },
+    "latin": {
+      "word": "emulzija",
+      "part_of_speech": "imenica",
+      "definition": "Mešavina dve tečnosti koje se obično ne mešaju.",
+      "example_sentence": "Majonez je vrsta emulzije."
+    },
+    "english": {
+      "word": "emulsion",
+      "part_of_speech": "noun",
+      "definition": "A mixture of two liquids that usually don't mix.",
+      "example_sentence": "Mayonnaise is a type of emulsion."
+    }
+  }
+}

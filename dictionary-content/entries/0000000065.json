@@ -1,0 +1,23 @@
+{
+  "id": 65,
+  "translation": {
+    "cyrillic": {
+      "word": "аеробика",
+      "part_of_speech": "именица",
+      "definition": "Врста вежби за побољшање кардиоваскуларног здравља.",
+      "example_sentence": "Аеробика је одличан начин за одржавање форме."
+    },
+    "latin": {
+      "word": "aerobika",
+      "part_of_speech": "imenica",
+      "definition": "Vrsta vežbi za poboljšanje kardiovaskularnog zdravlja.",
+      "example_sentence": "Aerobika je odličan način za održavanje forme."
+    },
+    "english": {
+      "word": "aerobics",
+      "part_of_speech": "noun",
+      "definition": "A type of exercise to improve cardiovascular health.",
+      "example_sentence": "Aerobics is a great way to stay in shape."
+    }
+  }
+}

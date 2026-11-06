@@ -1,0 +1,23 @@
+{
+  "id": 208,
+  "translation": {
+    "cyrillic": {
+      "word": "два",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 2.",
+      "example_sentence": "Има два апарата у соби."
+    },
+    "latin": {
+      "word": "dva",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 2.",
+      "example_sentence": "Ima dva aparata u sobi."
+    },
+    "english": {
+      "word": "two",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 2.",
+      "example_sentence": "There are two appliances in the room."
+    }
+  }
+}

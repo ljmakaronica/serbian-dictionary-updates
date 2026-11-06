@@ -1,0 +1,23 @@
+{
+  "id": 368,
+  "translation": {
+    "cyrillic": {
+      "word": "метар",
+      "part_of_speech": "именица",
+      "definition": "Основна јединица за дужину у метричком систему.",
+      "example_sentence": "Дужина собе је пет метара."
+    },
+    "latin": {
+      "word": "metar",
+      "part_of_speech": "imenica",
+      "definition": "Osnovna jedinica za dužinu u metričkom sistemu.",
+      "example_sentence": "Dužina sobe je pet metara."
+    },
+    "english": {
+      "word": "meter",
+      "part_of_speech": "noun",
+      "definition": "The basic unit of length in the metric system.",
+      "example_sentence": "The length of the room is five meters."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 265,
+  "translation": {
+    "cyrillic": {
+      "word": "евакуација",
+      "part_of_speech": "именица",
+      "definition": "Организовано напуштање угроженог подручја.",
+      "example_sentence": "Евакуација је спроведена због поплаве."
+    },
+    "latin": {
+      "word": "evakuacija",
+      "part_of_speech": "imenica",
+      "definition": "Organizovano napuštanje ugroženog područja.",
+      "example_sentence": "Evakuacija je sprovedena zbog poplave."
+    },
+    "english": {
+      "word": "evacuation",
+      "part_of_speech": "noun",
+      "definition": "Organized departure from a threatened area.",
+      "example_sentence": "The evacuation was conducted due to flooding."
+    }
+  }
+}

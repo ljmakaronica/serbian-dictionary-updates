@@ -1,0 +1,23 @@
+{
+  "id": 297,
+  "translation": {
+    "cyrillic": {
+      "word": "завршио",
+      "part_of_speech": "глагол",
+      "definition": "Мушки род једнине радног глаголског придева глагола завршити; користи се, на пример, у прошлом времену.",
+      "example_sentence": "Завршио сам све своје обавезе."
+    },
+    "latin": {
+      "word": "završio",
+      "part_of_speech": "glagol",
+      "definition": "Muški rod jednine radnog glagolskog prideva glagola završiti; koristi se, na primer, u prošlom vremenu.",
+      "example_sentence": "Završio sam sve svoje obaveze."
+    },
+    "english": {
+      "word": "finished",
+      "part_of_speech": "verb",
+      "definition": "The past tense and past participle of finish. The Serbian form završio is masculine singular and is used with an auxiliary in the example.",
+      "example_sentence": "I have finished all my tasks."
+    }
+  }
+}

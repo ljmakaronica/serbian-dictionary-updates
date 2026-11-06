@@ -1,0 +1,23 @@
+{
+  "id": 321,
+  "translation": {
+    "cyrillic": {
+      "word": "језик",
+      "part_of_speech": "именица",
+      "definition": "Орган у устима који служи за говор и осећај укуса.",
+      "example_sentence": "Лекар ми је рекао да испружим језик."
+    },
+    "latin": {
+      "word": "jezik",
+      "part_of_speech": "imenica",
+      "definition": "Organ u ustima koji služi za govor i osećaj ukusa.",
+      "example_sentence": "Lekar mi je rekao da ispružim jezik."
+    },
+    "english": {
+      "word": "tongue",
+      "part_of_speech": "noun",
+      "definition": "The organ in the mouth used for speech and taste.",
+      "example_sentence": "The doctor told me to stick out my tongue."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 722,
+  "translation": {
+    "cyrillic": {
+      "word": "тражити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство тражења нечега или некога.",
+      "example_sentence": "Она тражи изгубљени кључ."
+    },
+    "latin": {
+      "word": "tražiti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo traženja nečega ili nekoga.",
+      "example_sentence": "Ona traži izgubljeni ključ."
+    },
+    "english": {
+      "word": "search",
+      "part_of_speech": "verb",
+      "definition": "To look for something in order to find it.",
+      "example_sentence": "She is searching for the lost key."
+    }
+  }
+}

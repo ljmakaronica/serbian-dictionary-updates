@@ -1,0 +1,23 @@
+{
+  "id": 196,
+  "translation": {
+    "cyrillic": {
+      "word": "дете",
+      "part_of_speech": "именица",
+      "definition": "Мали људски организам који је у развоју.",
+      "example_sentence": "Дете се смејало и играло са својим играчкама."
+    },
+    "latin": {
+      "word": "dete",
+      "part_of_speech": "imenica",
+      "definition": "Mali ljudski organizam koji je u razvoju.",
+      "example_sentence": "Dete se smejalo i igralo sa svojim igračkama."
+    },
+    "english": {
+      "word": "child",
+      "part_of_speech": "noun",
+      "definition": "A small human organism that is in development.",
+      "example_sentence": "The child was laughing and playing with its toys."
+    }
+  }
+}

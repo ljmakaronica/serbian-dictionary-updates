@@ -1,0 +1,23 @@
+{
+  "id": 518,
+  "translation": {
+    "cyrillic": {
+      "word": "шест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 6.",
+      "example_sentence": "Имам шест оловака."
+    },
+    "latin": {
+      "word": "šest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 6.",
+      "example_sentence": "Imam šest olovaka."
+    },
+    "english": {
+      "word": "six",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 6.",
+      "example_sentence": "I have six pencils."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1070,
+  "translation": {
+    "cyrillic": {
+      "word": "викати",
+      "part_of_speech": "глагол",
+      "definition": "Говорити гласно или љутито.",
+      "example_sentence": "Не викај на мене!"
+    },
+    "latin": {
+      "word": "vikati",
+      "part_of_speech": "glagol",
+      "definition": "Govoriti glasno ili ljutito.",
+      "example_sentence": "Ne vikaj na mene!"
+    },
+    "english": {
+      "word": "yell",
+      "part_of_speech": "verb",
+      "definition": "To speak loudly or angrily.",
+      "example_sentence": "Don't yell at me!"
+    }
+  }
+}

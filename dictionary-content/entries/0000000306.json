@@ -1,0 +1,23 @@
+{
+  "id": 306,
+  "translation": {
+    "cyrillic": {
+      "word": "звезда",
+      "part_of_speech": "именица",
+      "definition": "Небеско тело од врелог гаса које емитује сопствену светлост.",
+      "example_sentence": "Ту је велика звезда на небу."
+    },
+    "latin": {
+      "word": "zvezda",
+      "part_of_speech": "imenica",
+      "definition": "Nebesko telo od vrelog gasa koje emituje sopstvenu svetlost.",
+      "example_sentence": "Tu je velika zvezda na nebu."
+    },
+    "english": {
+      "word": "star",
+      "part_of_speech": "noun",
+      "definition": "A celestial body of hot gas that emits its own light.",
+      "example_sentence": "There is a big star in the sky."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 168,
+  "translation": {
+    "cyrillic": {
+      "word": "грана",
+      "part_of_speech": "именица",
+      "definition": "Део дрвета који израства из главног стебла.",
+      "example_sentence": "Грана је пала са дрвета."
+    },
+    "latin": {
+      "word": "grana",
+      "part_of_speech": "imenica",
+      "definition": "Deo drveta koji izraste iz glavnog stabla.",
+      "example_sentence": "Grana je pala sa drveta."
+    },
+    "english": {
+      "word": "branch",
+      "part_of_speech": "noun",
+      "definition": "A part of a tree that grows out from the main trunk.",
+      "example_sentence": "A branch fell off the tree."
+    }
+  }
+}

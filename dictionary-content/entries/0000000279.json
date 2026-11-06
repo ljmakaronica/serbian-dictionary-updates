@@ -1,0 +1,23 @@
+{
+  "id": 279,
+  "translation": {
+    "cyrillic": {
+      "word": "еволутивно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који се постепено развија.",
+      "example_sentence": "Језик се еволутивно мења."
+    },
+    "latin": {
+      "word": "evolutivno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji se postepeno razvija.",
+      "example_sentence": "Jezik se evolutivno menja."
+    },
+    "english": {
+      "word": "evolutionarily",
+      "part_of_speech": "adverb",
+      "definition": "In a gradually developing way.",
+      "example_sentence": "Language changes evolutionarily."
+    }
+  }
+}

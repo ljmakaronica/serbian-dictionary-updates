@@ -1,0 +1,23 @@
+{
+  "id": 189,
+  "translation": {
+    "cyrillic": {
+      "word": "деца",
+      "part_of_speech": "именица",
+      "definition": "Млади људи који су део породице.",
+      "example_sentence": "Деца су играла на игралишту."
+    },
+    "latin": {
+      "word": "deca",
+      "part_of_speech": "imenica",
+      "definition": "Mlađi ljudi koji su deo porodice.",
+      "example_sentence": "Deca su igrala na igralištu."
+    },
+    "english": {
+      "word": "children",
+      "part_of_speech": "noun",
+      "definition": "Young people who are part of a family.",
+      "example_sentence": "The children were playing on the playground."
+    }
+  }
+}

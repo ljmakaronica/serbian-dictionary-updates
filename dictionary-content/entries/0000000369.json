@@ -1,0 +1,23 @@
+{
+  "id": 369,
+  "translation": {
+    "cyrillic": {
+      "word": "медвед",
+      "part_of_speech": "именица",
+      "definition": "Велика сисарска животиња са густим крзном.",
+      "example_sentence": "Медвед је ходао кроз шуму."
+    },
+    "latin": {
+      "word": "medved",
+      "part_of_speech": "imenica",
+      "definition": "Velika sisarska životinja sa gustim krznom.",
+      "example_sentence": "Medved je hodao kroz šumu."
+    },
+    "english": {
+      "word": "bear",
+      "part_of_speech": "noun",
+      "definition": "A large mammal with thick fur.",
+      "example_sentence": "The bear was walking through the forest."
+    }
+  }
+}

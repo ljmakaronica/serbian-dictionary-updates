@@ -1,0 +1,23 @@
+{
+  "id": 456,
+  "translation": {
+    "cyrillic": {
+      "word": "хладно",
+      "part_of_speech": "придев",
+      "definition": "Који има ниску температуру.",
+      "example_sentence": "Напољу је веома хладно."
+    },
+    "latin": {
+      "word": "hladno",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima nisku temperaturu.",
+      "example_sentence": "Napolju je veoma hladno."
+    },
+    "english": {
+      "word": "cold",
+      "part_of_speech": "adjective",
+      "definition": "Having a low temperature.",
+      "example_sentence": "It is very cold outside."
+    }
+  }
+}

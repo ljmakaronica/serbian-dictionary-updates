@@ -1,0 +1,23 @@
+{
+  "id": 937,
+  "translation": {
+    "cyrillic": {
+      "word": "дан",
+      "part_of_speech": "именица",
+      "definition": "период од 24 сата",
+      "example_sentence": "Данас је леп дан."
+    },
+    "latin": {
+      "word": "dan",
+      "part_of_speech": "imenica",
+      "definition": "period od 24 sata",
+      "example_sentence": "Danas je lep dan."
+    },
+    "english": {
+      "word": "day",
+      "part_of_speech": "noun",
+      "definition": "period of 24 hours",
+      "example_sentence": "Today is a nice day."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1055,
+  "translation": {
+    "cyrillic": {
+      "word": "напустити",
+      "part_of_speech": "глагол",
+      "definition": "Престати да се бави нечим.",
+      "example_sentence": "Напустио је посао."
+    },
+    "latin": {
+      "word": "napustiti",
+      "part_of_speech": "glagol",
+      "definition": "Prestati da se bavi nečim.",
+      "example_sentence": "Napustio je posao."
+    },
+    "english": {
+      "word": "quit",
+      "part_of_speech": "verb",
+      "definition": "To stop doing something.",
+      "example_sentence": "He quit his job."
+    }
+  }
+}

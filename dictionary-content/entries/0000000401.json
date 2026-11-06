@@ -1,0 +1,23 @@
+{
+  "id": 401,
+  "translation": {
+    "cyrillic": {
+      "word": "победа",
+      "part_of_speech": "именица",
+      "definition": "Успех у такмичењу или борби.",
+      "example_sentence": "Победа је била слатка."
+    },
+    "latin": {
+      "word": "pobeda",
+      "part_of_speech": "imenica",
+      "definition": "Uspeh u takmičenju ili borbi.",
+      "example_sentence": "Pobeda je bila slatka."
+    },
+    "english": {
+      "word": "victory",
+      "part_of_speech": "noun",
+      "definition": "Success in a competition or struggle.",
+      "example_sentence": "The victory was sweet."
+    }
+  }
+}

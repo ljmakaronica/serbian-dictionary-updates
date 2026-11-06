@@ -1,0 +1,23 @@
+{
+  "id": 434,
+  "translation": {
+    "cyrillic": {
+      "word": "уметност",
+      "part_of_speech": "именица",
+      "definition": "Креативна активност која изражава емоције или идеје.",
+      "example_sentence": "Уметност је била његова страст."
+    },
+    "latin": {
+      "word": "umetnost",
+      "part_of_speech": "imenica",
+      "definition": "Kreativna aktivnost koja izražava emocije ili ideje.",
+      "example_sentence": "Umetnost je bila njegova strast."
+    },
+    "english": {
+      "word": "art",
+      "part_of_speech": "noun",
+      "definition": "Creative activity that expresses emotions or ideas.",
+      "example_sentence": "Art was his passion."
+    }
+  }
+}

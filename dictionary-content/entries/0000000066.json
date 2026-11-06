@@ -1,0 +1,23 @@
+{
+  "id": 66,
+  "translation": {
+    "cyrillic": {
+      "word": "аеросол",
+      "part_of_speech": "именица",
+      "definition": "Суспензија чврстих или течних честица у гасу.",
+      "example_sentence": "Аеросоли се често користе у спрејевима."
+    },
+    "latin": {
+      "word": "aerosol",
+      "part_of_speech": "imenica",
+      "definition": "Suspenzija čvrstih ili tečnih čestica u gasu.",
+      "example_sentence": "Aerosoli se često koriste u sprejevima."
+    },
+    "english": {
+      "word": "aerosol",
+      "part_of_speech": "noun",
+      "definition": "A suspension of solid or liquid particles in a gas.",
+      "example_sentence": "Aerosols are often used in sprays."
+    }
+  }
+}

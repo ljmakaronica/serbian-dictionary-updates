@@ -1,0 +1,23 @@
+{
+  "id": 458,
+  "translation": {
+    "cyrillic": {
+      "word": "хитно",
+      "part_of_speech": "прилог",
+      "definition": "Неопходно одмах.",
+      "example_sentence": "Морам хитно да идем."
+    },
+    "latin": {
+      "word": "hitno",
+      "part_of_speech": "prilog",
+      "definition": "Neophodno odmah.",
+      "example_sentence": "Moram hitno da idem."
+    },
+    "english": {
+      "word": "urgently",
+      "part_of_speech": "adverb",
+      "definition": "In a manner requiring immediate action.",
+      "example_sentence": "I need to go urgently."
+    }
+  }
+}

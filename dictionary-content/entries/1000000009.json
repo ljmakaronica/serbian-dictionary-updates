@@ -1,0 +1,23 @@
+{
+  "id": 1000000009,
+  "translation": {
+    "cyrillic": {
+      "word": "новембар",
+      "part_of_speech": "именица",
+      "definition": "Једанаести месец у години.",
+      "example_sentence": "Новембар је хладан месец."
+    },
+    "latin": {
+      "word": "novembar",
+      "part_of_speech": "imenica",
+      "definition": "Jedanaesti mesec u godini.",
+      "example_sentence": "Novembar je hladan mesec."
+    },
+    "english": {
+      "word": "November",
+      "part_of_speech": "noun",
+      "definition": "The eleventh month of the year.",
+      "example_sentence": "November is a cold month."
+    }
+  }
+}

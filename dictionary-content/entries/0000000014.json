@@ -1,0 +1,23 @@
+{
+  "id": 14,
+  "translation": {
+    "cyrillic": {
+      "word": "американац",
+      "part_of_speech": "именица",
+      "definition": "Особа која је пореклом из Америке или живи у Америци.",
+      "example_sentence": "Мој комшија је американац који се преселио овде пре пет година."
+    },
+    "latin": {
+      "word": "amerikanac",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja je poreklom iz Amerike ili živi u Americi.",
+      "example_sentence": "Moj komšija je amerikanac koji se preselio ovde pre pet godina."
+    },
+    "english": {
+      "word": "American",
+      "part_of_speech": "noun",
+      "definition": "A person who is from America or lives in America.",
+      "example_sentence": "My neighbor is an American who moved here five years ago."
+    }
+  }
+}

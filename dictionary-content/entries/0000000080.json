@@ -1,0 +1,23 @@
+{
+  "id": 80,
+  "translation": {
+    "cyrillic": {
+      "word": "број",
+      "part_of_speech": "именица",
+      "definition": "Математички симбол који представља количину.",
+      "example_sentence": "Који је твој телефонски број?"
+    },
+    "latin": {
+      "word": "broj",
+      "part_of_speech": "imenica",
+      "definition": "Matematički simbol koji predstavlja količinu.",
+      "example_sentence": "Koji je tvoj telefonski broj?"
+    },
+    "english": {
+      "word": "number",
+      "part_of_speech": "noun",
+      "definition": "A mathematical symbol representing quantity.",
+      "example_sentence": "What is your phone number?"
+    }
+  }
+}

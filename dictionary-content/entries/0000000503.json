@@ -1,0 +1,23 @@
+{
+  "id": 503,
+  "translation": {
+    "cyrillic": {
+      "word": "шунка",
+      "part_of_speech": "именица",
+      "definition": "Месо од свињске бутине, често сушено или димљено.",
+      "example_sentence": "Шунка је била укусна и сочна."
+    },
+    "latin": {
+      "word": "šunka",
+      "part_of_speech": "imenica",
+      "definition": "Meso od svinjske butine, često sušeno ili dimljeno.",
+      "example_sentence": "Šunka je bila ukusna i sočna."
+    },
+    "english": {
+      "word": "ham",
+      "part_of_speech": "noun",
+      "definition": "Meat from a pig's thigh, often dried or smoked.",
+      "example_sentence": "The ham was tasty and juicy."
+    }
+  }
+}

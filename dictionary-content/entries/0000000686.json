@@ -1,0 +1,23 @@
+{
+  "id": 686,
+  "translation": {
+    "cyrillic": {
+      "word": "снага",
+      "part_of_speech": "именица",
+      "definition": "Физичка или ментална способност за издржљивост.",
+      "example_sentence": "Његова снага је импресивна."
+    },
+    "latin": {
+      "word": "snaga",
+      "part_of_speech": "imenica",
+      "definition": "Fizička ili mentalna sposobnost za izdržljivost.",
+      "example_sentence": "Njegova snaga je impresivna."
+    },
+    "english": {
+      "word": "strength",
+      "part_of_speech": "noun",
+      "definition": "The physical or mental ability to endure or exert force.",
+      "example_sentence": "His strength is impressive."
+    }
+  }
+}

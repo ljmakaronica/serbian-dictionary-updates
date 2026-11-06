@@ -1,0 +1,23 @@
+{
+  "id": 176,
+  "translation": {
+    "cyrillic": {
+      "word": "губити",
+      "part_of_speech": "глагол",
+      "definition": "Изгубити нешто или неког.",
+      "example_sentence": "Губио је своје кључеве целог дана."
+    },
+    "latin": {
+      "word": "gubiti",
+      "part_of_speech": "glagol",
+      "definition": "Izgubiti nešto ili nekog.",
+      "example_sentence": "Gubio je svoje ključeve celog dana."
+    },
+    "english": {
+      "word": "to lose",
+      "part_of_speech": "verb",
+      "definition": "To lose something or someone.",
+      "example_sentence": "He was losing his keys all day."
+    }
+  }
+}

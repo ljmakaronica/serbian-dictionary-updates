@@ -1,0 +1,23 @@
+{
+  "id": 97,
+  "translation": {
+    "cyrillic": {
+      "word": "брдо",
+      "part_of_speech": "именица",
+      "definition": "Узвишење земље ниже од планине.",
+      "example_sentence": "Попели смо се на брдо да гледамо залазак сунца."
+    },
+    "latin": {
+      "word": "brdo",
+      "part_of_speech": "imenica",
+      "definition": "Uzvišenje zemlje niže od planine.",
+      "example_sentence": "Popeli smo se na brdo da gledamo zalazak sunca."
+    },
+    "english": {
+      "word": "hill",
+      "part_of_speech": "noun",
+      "definition": "An elevation of land lower than a mountain.",
+      "example_sentence": "We climbed the hill to watch the sunset."
+    }
+  }
+}

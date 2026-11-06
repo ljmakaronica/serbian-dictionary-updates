@@ -1,0 +1,23 @@
+{
+  "id": 304,
+  "translation": {
+    "cyrillic": {
+      "word": "зграда",
+      "part_of_speech": "именица",
+      "definition": "Грађевина са кровом и зидовима, намењена становању, раду или другим активностима.",
+      "example_sentence": "Та зграда има десет спратова."
+    },
+    "latin": {
+      "word": "zgrada",
+      "part_of_speech": "imenica",
+      "definition": "Građevina sa krovom i zidovima, namenjena stanovanju, radu ili drugim aktivnostima.",
+      "example_sentence": "Ta zgrada ima deset spratova."
+    },
+    "english": {
+      "word": "building",
+      "part_of_speech": "noun",
+      "definition": "A structure with a roof and walls, used for living, working, or other activities.",
+      "example_sentence": "That building has ten floors."
+    }
+  }
+}

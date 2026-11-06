@@ -1,0 +1,23 @@
+{
+  "id": 495,
+  "translation": {
+    "cyrillic": {
+      "word": "школа",
+      "part_of_speech": "именица",
+      "definition": "Установа за образовање и учење.",
+      "example_sentence": "Школа је била близу наше куће."
+    },
+    "latin": {
+      "word": "škola",
+      "part_of_speech": "imenica",
+      "definition": "Ustanova za obrazovanje i učenje.",
+      "example_sentence": "Škola je bila blizu naše kuće."
+    },
+    "english": {
+      "word": "school",
+      "part_of_speech": "noun",
+      "definition": "An institution for education and learning.",
+      "example_sentence": "The school was near our house."
+    }
+  }
+}

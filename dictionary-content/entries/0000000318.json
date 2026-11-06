@@ -1,0 +1,23 @@
+{
+  "id": 318,
+  "translation": {
+    "cyrillic": {
+      "word": "јагода",
+      "part_of_speech": "именица",
+      "definition": "Мален, црвен плод са слатким укусом.",
+      "example_sentence": "Јагоде су најбоље у јуну."
+    },
+    "latin": {
+      "word": "jagoda",
+      "part_of_speech": "imenica",
+      "definition": "Malen, crven plod sa slatkim ukusom.",
+      "example_sentence": "Jagode su najbolje u junu."
+    },
+    "english": {
+      "word": "strawberry",
+      "part_of_speech": "noun",
+      "definition": "A small, red fruit with a sweet taste.",
+      "example_sentence": "Strawberries are best in June."
+    }
+  }
+}

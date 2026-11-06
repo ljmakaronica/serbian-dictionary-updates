@@ -1,0 +1,23 @@
+{
+  "id": 1000,
+  "translation": {
+    "cyrillic": {
+      "word": "свет",
+      "part_of_speech": "именица",
+      "definition": "планета Земља и све на њој",
+      "example_sentence": "Путујем широм света."
+    },
+    "latin": {
+      "word": "svet",
+      "part_of_speech": "imenica",
+      "definition": "planeta Zemlja i sve na njoj",
+      "example_sentence": "Putujem širom sveta."
+    },
+    "english": {
+      "word": "world",
+      "part_of_speech": "noun",
+      "definition": "planet Earth and everything on it",
+      "example_sentence": "I travel around the world."
+    }
+  }
+}

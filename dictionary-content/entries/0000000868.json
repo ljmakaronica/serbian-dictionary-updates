@@ -1,0 +1,23 @@
+{
+  "id": 868,
+  "translation": {
+    "cyrillic": {
+      "word": "како",
+      "part_of_speech": "везник",
+      "definition": "Показује начин или поређење.",
+      "example_sentence": "Уради како желиш."
+    },
+    "latin": {
+      "word": "kako",
+      "part_of_speech": "veznik",
+      "definition": "Pokazuje način ili poređenje.",
+      "example_sentence": "Uradi kako želiš."
+    },
+    "english": {
+      "word": "as",
+      "part_of_speech": "conjunction",
+      "definition": "Shows manner or comparison.",
+      "example_sentence": "Do as you wish."
+    }
+  }
+}

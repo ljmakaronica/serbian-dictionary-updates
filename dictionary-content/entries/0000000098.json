@@ -1,0 +1,23 @@
+{
+  "id": 98,
+  "translation": {
+    "cyrillic": {
+      "word": "бринути",
+      "part_of_speech": "глагол",
+      "definition": "Осећати забринутост или страх за некога или нешто.",
+      "example_sentence": "Не брини, све ће бити у реду."
+    },
+    "latin": {
+      "word": "brinuti",
+      "part_of_speech": "glagol",
+      "definition": "Osećati zabrinutost ili strah za nekoga ili nešto.",
+      "example_sentence": "Ne brini, sve će biti u redu."
+    },
+    "english": {
+      "word": "worry",
+      "part_of_speech": "verb",
+      "definition": "To feel anxiety or fear about someone or something.",
+      "example_sentence": "Don't worry, everything will be fine."
+    }
+  }
+}

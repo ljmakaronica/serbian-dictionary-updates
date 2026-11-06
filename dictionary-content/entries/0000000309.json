@@ -1,0 +1,23 @@
+{
+  "id": 309,
+  "translation": {
+    "cyrillic": {
+      "word": "интернет",
+      "part_of_speech": "именица",
+      "definition": "Глобална мрежа која повезује рачунаре и информације.",
+      "example_sentence": "Интернет је основа за многе технологије."
+    },
+    "latin": {
+      "word": "internet",
+      "part_of_speech": "imenica",
+      "definition": "Globalna mreža koja povezuje računare i informacije.",
+      "example_sentence": "Internet je osnova za mnoge tehnologije."
+    },
+    "english": {
+      "word": "internet",
+      "part_of_speech": "noun",
+      "definition": "A global network that connects computers and information.",
+      "example_sentence": "The internet is the foundation for many technologies."
+    }
+  }
+}

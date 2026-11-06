@@ -1,0 +1,23 @@
+{
+  "id": 397,
+  "translation": {
+    "cyrillic": {
+      "word": "проблем",
+      "part_of_speech": "именица",
+      "definition": "Нешто што изазива потешкоће или забринутост.",
+      "example_sentence": "Имамо велики проблем са рачунаром."
+    },
+    "latin": {
+      "word": "problem",
+      "part_of_speech": "imenica",
+      "definition": "Nešto što izaziva poteškoće ili zabrinutost.",
+      "example_sentence": "Imamo veliki problem sa računarom."
+    },
+    "english": {
+      "word": "problem",
+      "part_of_speech": "noun",
+      "definition": "Something that causes difficulty or concern.",
+      "example_sentence": "We have a big problem with the computer."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 628,
+  "translation": {
+    "cyrillic": {
+      "word": "летети",
+      "part_of_speech": "глагол",
+      "definition": "Кретати се кроз ваздух.",
+      "example_sentence": "Птице лете небом."
+    },
+    "latin": {
+      "word": "leteti",
+      "part_of_speech": "glagol",
+      "definition": "Kretati se kroz vazduh.",
+      "example_sentence": "Ptice lete nebom."
+    },
+    "english": {
+      "word": "to fly",
+      "part_of_speech": "verb",
+      "definition": "To move through the air.",
+      "example_sentence": "Birds fly through the sky."
+    }
+  }
+}

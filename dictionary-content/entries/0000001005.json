@@ -1,0 +1,23 @@
+{
+  "id": 1005,
+  "translation": {
+    "cyrillic": {
+      "word": "родитељ",
+      "part_of_speech": "именица",
+      "definition": "мајка или отац",
+      "example_sentence": "Моји родитељи су добри."
+    },
+    "latin": {
+      "word": "roditelj",
+      "part_of_speech": "imenica",
+      "definition": "majka ili otac",
+      "example_sentence": "Moji roditelji su dobri."
+    },
+    "english": {
+      "word": "parent",
+      "part_of_speech": "noun",
+      "definition": "mother or father",
+      "example_sentence": "My parents are good."
+    }
+  }
+}

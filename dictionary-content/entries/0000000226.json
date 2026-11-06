@@ -1,0 +1,23 @@
+{
+  "id": 226,
+  "translation": {
+    "cyrillic": {
+      "word": "енергија",
+      "part_of_speech": "именица",
+      "definition": "Способност да се изврши рад или произведе промена.",
+      "example_sentence": "Сунчева енергија је обновљив извор."
+    },
+    "latin": {
+      "word": "energija",
+      "part_of_speech": "imenica",
+      "definition": "Sposobnost da se izvrši rad ili proizvede promena.",
+      "example_sentence": "Sunčeva energija je obnovljiv izvor."
+    },
+    "english": {
+      "word": "energy",
+      "part_of_speech": "noun",
+      "definition": "The ability to perform work or produce change.",
+      "example_sentence": "Solar energy is a renewable source."
+    }
+  }
+}

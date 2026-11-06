@@ -1,0 +1,23 @@
+{
+  "id": 546,
+  "translation": {
+    "cyrillic": {
+      "word": "трећи",
+      "part_of_speech": "придев",
+      "definition": "Који по реду долази после другог.",
+      "example_sentence": "Они су трећи у реду."
+    },
+    "latin": {
+      "word": "treći",
+      "part_of_speech": "pridev",
+      "definition": "Koji po redu dolazi posle drugog.",
+      "example_sentence": "Oni su treći u redu."
+    },
+    "english": {
+      "word": "third",
+      "part_of_speech": "adjective",
+      "definition": "Coming immediately after the second.",
+      "example_sentence": "They are third in line."
+    }
+  }
+}

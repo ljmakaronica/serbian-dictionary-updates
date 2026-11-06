@@ -1,0 +1,23 @@
+{
+  "id": 998,
+  "translation": {
+    "cyrillic": {
+      "word": "о",
+      "part_of_speech": "предлог",
+      "definition": "на тему",
+      "example_sentence": "Причамо о послу."
+    },
+    "latin": {
+      "word": "o",
+      "part_of_speech": "predlog",
+      "definition": "na temu",
+      "example_sentence": "Pričamo o poslu."
+    },
+    "english": {
+      "word": "about",
+      "part_of_speech": "preposition",
+      "definition": "on the subject of",
+      "example_sentence": "We talk about work."
+    }
+  }
+}

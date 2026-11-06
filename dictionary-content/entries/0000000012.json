@@ -1,0 +1,23 @@
+{
+  "id": 12,
+  "translation": {
+    "cyrillic": {
+      "word": "амерички",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на Америку или потиче из Америке.",
+      "example_sentence": "Волим да гледам америчке филмове."
+    },
+    "latin": {
+      "word": "američki",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na Ameriku ili potiče iz Amerike.",
+      "example_sentence": "Volim da gledam američke filmove."
+    },
+    "english": {
+      "word": "American",
+      "part_of_speech": "adjective",
+      "definition": "Relating to or originating from America.",
+      "example_sentence": "I like watching American movies."
+    }
+  }
+}

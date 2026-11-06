@@ -1,0 +1,23 @@
+{
+  "id": 396,
+  "translation": {
+    "cyrillic": {
+      "word": "поклон",
+      "part_of_speech": "именица",
+      "definition": "Нешто што се даје као знак пажње или љубави.",
+      "example_sentence": "Добио сам леп поклон за рођендан."
+    },
+    "latin": {
+      "word": "poklon",
+      "part_of_speech": "imenica",
+      "definition": "Nešto što se daje kao znak pažnje ili ljubavi.",
+      "example_sentence": "Dobio sam lep poklon za rođendan."
+    },
+    "english": {
+      "word": "gift",
+      "part_of_speech": "noun",
+      "definition": "Something given as a sign of attention or love.",
+      "example_sentence": "I received a nice gift for my birthday."
+    }
+  }
+}

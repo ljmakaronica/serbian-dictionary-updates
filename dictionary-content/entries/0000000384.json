@@ -1,0 +1,23 @@
+{
+  "id": 384,
+  "translation": {
+    "cyrillic": {
+      "word": "огледало",
+      "part_of_speech": "именица",
+      "definition": "Предмет који рефлектује слику.",
+      "example_sentence": "Погледао се у огледало."
+    },
+    "latin": {
+      "word": "ogledalo",
+      "part_of_speech": "imenica",
+      "definition": "Predmet koji reflektuje sliku.",
+      "example_sentence": "Pogledao se u ogledalo."
+    },
+    "english": {
+      "word": "mirror",
+      "part_of_speech": "noun",
+      "definition": "An object that reflects an image.",
+      "example_sentence": "He looked at himself in the mirror."
+    }
+  }
+}

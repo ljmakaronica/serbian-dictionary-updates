@@ -1,0 +1,23 @@
+{
+  "id": 879,
+  "translation": {
+    "cyrillic": {
+      "word": "она",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица трећег лица једнине женског рода",
+      "example_sentence": "Она чита књигу."
+    },
+    "latin": {
+      "word": "ona",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica trećeg lica jednine ženskog roda",
+      "example_sentence": "Ona čita knjigu."
+    },
+    "english": {
+      "word": "she",
+      "part_of_speech": "pronoun",
+      "definition": "Third person singular feminine personal pronoun",
+      "example_sentence": "She reads a book."
+    }
+  }
+}

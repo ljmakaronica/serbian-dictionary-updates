@@ -1,0 +1,23 @@
+{
+  "id": 151,
+  "translation": {
+    "cyrillic": {
+      "word": "високотехнолошки",
+      "part_of_speech": "придев",
+      "definition": "Који користи најновије технологије.",
+      "example_sentence": "Високотехнолошки уређаји су постали неопходни."
+    },
+    "latin": {
+      "word": "visokotehnološki",
+      "part_of_speech": "pridev",
+      "definition": "Koji koristi najnovije tehnologije.",
+      "example_sentence": "Visokotehnološki uređaji su postali neophodni."
+    },
+    "english": {
+      "word": "high-tech",
+      "part_of_speech": "adjective",
+      "definition": "Using the latest technologies.",
+      "example_sentence": "High-tech devices have become essential."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 41,
+  "translation": {
+    "cyrillic": {
+      "word": "априори",
+      "part_of_speech": "прилог",
+      "definition": "Пре искуства или независно од искуства.",
+      "example_sentence": "Не можемо априори знати шта ће се догодити."
+    },
+    "latin": {
+      "word": "apriori",
+      "part_of_speech": "prilog",
+      "definition": "Pre iskustva ili nezavisno od iskustva.",
+      "example_sentence": "Ne možemo apriori znati šta će se dogoditi."
+    },
+    "english": {
+      "word": "a priori",
+      "part_of_speech": "adverb",
+      "definition": "Before experience or independent of experience.",
+      "example_sentence": "We cannot know a priori what will happen."
+    }
+  }
+}

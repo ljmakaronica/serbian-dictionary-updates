@@ -1,0 +1,23 @@
+{
+  "id": 48,
+  "translation": {
+    "cyrillic": {
+      "word": "аутопут",
+      "part_of_speech": "именица",
+      "definition": "Брзи пут са више трака за дуга путовања.",
+      "example_sentence": "Аутопут је најбржи начин да стигнете до суседног града."
+    },
+    "latin": {
+      "word": "autoput",
+      "part_of_speech": "imenica",
+      "definition": "Brzi put sa više traka za duga putovanja.",
+      "example_sentence": "Autoput je najbrži način da stignete do susednog grada."
+    },
+    "english": {
+      "word": "highway",
+      "part_of_speech": "noun",
+      "definition": "A fast road with multiple lanes for long-distance travel.",
+      "example_sentence": "The highway is the fastest way to reach the neighboring city."
+    }
+  }
+}

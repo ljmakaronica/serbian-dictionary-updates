@@ -1,0 +1,23 @@
+{
+  "id": 404,
+  "translation": {
+    "cyrillic": {
+      "word": "радост",
+      "part_of_speech": "именица",
+      "definition": "Осећај среће или задовољства.",
+      "example_sentence": "Њена радост је била заразна."
+    },
+    "latin": {
+      "word": "radost",
+      "part_of_speech": "imenica",
+      "definition": "Osećaj sreće ili zadovoljstva.",
+      "example_sentence": "Njena radost je bila zarazna."
+    },
+    "english": {
+      "word": "joy",
+      "part_of_speech": "noun",
+      "definition": "A feeling of happiness or pleasure.",
+      "example_sentence": "Her joy was contagious."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 354,
+  "translation": {
+    "cyrillic": {
+      "word": "људи",
+      "part_of_speech": "именица",
+      "definition": "Људска бића уопште.",
+      "example_sentence": "Људи су се окупили на тргу."
+    },
+    "latin": {
+      "word": "ljudi",
+      "part_of_speech": "imenica",
+      "definition": "Ljudska bića uopšte.",
+      "example_sentence": "Ljudi su se okupili na trgu."
+    },
+    "english": {
+      "word": "people",
+      "part_of_speech": "noun",
+      "definition": "Human beings in general.",
+      "example_sentence": "People gathered in the square."
+    }
+  }
+}

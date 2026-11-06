@@ -1,0 +1,23 @@
+{
+  "id": 145,
+  "translation": {
+    "cyrillic": {
+      "word": "вила",
+      "part_of_speech": "именица",
+      "definition": "Мистично створење из бајки.",
+      "example_sentence": "У бајци је вила помогла девојчици."
+    },
+    "latin": {
+      "word": "vila",
+      "part_of_speech": "imenica",
+      "definition": "Mistično stvorenje iz bajki.",
+      "example_sentence": "U bajci je vila pomogla devojčici."
+    },
+    "english": {
+      "word": "fairy",
+      "part_of_speech": "noun",
+      "definition": "A mystical creature from fairy tales.",
+      "example_sentence": "In the fairy tale, a fairy helped the little girl."
+    }
+  }
+}

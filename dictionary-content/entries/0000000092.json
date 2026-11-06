@@ -1,0 +1,23 @@
+{
+  "id": 92,
+  "translation": {
+    "cyrillic": {
+      "word": "барем",
+      "part_of_speech": "прилог",
+      "definition": "У најмању руку, у најмањој мери.",
+      "example_sentence": "Могао би барем да се јавиш телефоном."
+    },
+    "latin": {
+      "word": "barem",
+      "part_of_speech": "prilog",
+      "definition": "U najmanju ruku, u najmanjoj meri.",
+      "example_sentence": "Mogao bi barem da se javiš telefonom."
+    },
+    "english": {
+      "word": "at least",
+      "part_of_speech": "adverb",
+      "definition": "At the minimum, at the very least.",
+      "example_sentence": "You could at least call by phone."
+    }
+  }
+}

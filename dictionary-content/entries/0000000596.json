@@ -1,0 +1,23 @@
+{
+  "id": 596,
+  "translation": {
+    "cyrillic": {
+      "word": "чистити",
+      "part_of_speech": "глагол",
+      "definition": "Уклањати прљавштину или нечистоћу.",
+      "example_sentence": "Чистим кухињу сваког дана."
+    },
+    "latin": {
+      "word": "čistiti",
+      "part_of_speech": "glagol",
+      "definition": "Uklanjati prljavštinu ili nečistoću.",
+      "example_sentence": "Čistim kuhinju svakog dana."
+    },
+    "english": {
+      "word": "to clean",
+      "part_of_speech": "verb",
+      "definition": "To remove dirt or impurities.",
+      "example_sentence": "I clean the kitchen every day."
+    }
+  }
+}

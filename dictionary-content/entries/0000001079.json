@@ -1,0 +1,23 @@
+{
+  "id": 1079,
+  "translation": {
+    "cyrillic": {
+      "word": "ксерокопија",
+      "part_of_speech": "именица",
+      "definition": "Фотокопија направљена на апарату.",
+      "example_sentence": "Направио је ксерокопију документа."
+    },
+    "latin": {
+      "word": "kserokopija",
+      "part_of_speech": "imenica",
+      "definition": "Fotokopija napravljena na aparatu.",
+      "example_sentence": "Napravio je kserokopiju dokumenta."
+    },
+    "english": {
+      "word": "xerox",
+      "part_of_speech": "noun",
+      "definition": "A photocopy made on a machine.",
+      "example_sentence": "He made a xerox of the document."
+    }
+  }
+}

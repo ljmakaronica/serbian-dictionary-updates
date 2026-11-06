@@ -1,0 +1,23 @@
+{
+  "id": 55,
+  "translation": {
+    "cyrillic": {
+      "word": "аустралијанац",
+      "part_of_speech": "именица",
+      "definition": "Особа која потиче из Аустралије.",
+      "example_sentence": "Аустралијанац је причао о својим искуствима у пустињи."
+    },
+    "latin": {
+      "word": "Australijanac",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja potiče iz Australije.",
+      "example_sentence": "Australijanac je pričao o svojim iskustvima u pustinji."
+    },
+    "english": {
+      "word": "Australian",
+      "part_of_speech": "noun",
+      "definition": "A person from Australia.",
+      "example_sentence": "The Australian talked about his experiences in the desert."
+    }
+  }
+}

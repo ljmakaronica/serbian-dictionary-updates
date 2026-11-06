@@ -1,0 +1,23 @@
+{
+  "id": 952,
+  "translation": {
+    "cyrillic": {
+      "word": "доћи",
+      "part_of_speech": "глагол",
+      "definition": "стићи на место",
+      "example_sentence": "Доћи ћу сутра."
+    },
+    "latin": {
+      "word": "doći",
+      "part_of_speech": "glagol",
+      "definition": "stići na mesto",
+      "example_sentence": "Doći ću sutra."
+    },
+    "english": {
+      "word": "to come",
+      "part_of_speech": "verb",
+      "definition": "arrive at a place",
+      "example_sentence": "I will come tomorrow."
+    }
+  }
+}

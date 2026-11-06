@@ -1,0 +1,23 @@
+{
+  "id": 538,
+  "translation": {
+    "cyrillic": {
+      "word": "осамдесет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 80.",
+      "example_sentence": "Имам осамдесет јабука."
+    },
+    "latin": {
+      "word": "osamdeset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 80.",
+      "example_sentence": "Imam osamdeset jabuka."
+    },
+    "english": {
+      "word": "eighty",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 80.",
+      "example_sentence": "I have eighty apples."
+    }
+  }
+}

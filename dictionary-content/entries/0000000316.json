@@ -1,0 +1,23 @@
+{
+  "id": 316,
+  "translation": {
+    "cyrillic": {
+      "word": "интерпретација",
+      "part_of_speech": "именица",
+      "definition": "Процес тумачења неке информације или уметничког дела.",
+      "example_sentence": "Тумачење поезије може бити веома различито."
+    },
+    "latin": {
+      "word": "interpretacija",
+      "part_of_speech": "imenica",
+      "definition": "Proces tumačenja neke informacije ili umetničkog dela.",
+      "example_sentence": "Tumačenje poezije može biti veoma različito."
+    },
+    "english": {
+      "word": "interpretation",
+      "part_of_speech": "noun",
+      "definition": "The process of interpreting some information or artistic work.",
+      "example_sentence": "Interpretation of poetry can be very different."
+    }
+  }
+}

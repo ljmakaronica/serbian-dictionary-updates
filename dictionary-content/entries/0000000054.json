@@ -1,0 +1,23 @@
+{
+  "id": 54,
+  "translation": {
+    "cyrillic": {
+      "word": "аустријанац",
+      "part_of_speech": "именица",
+      "definition": "Особа која потиче из Аустрије.",
+      "example_sentence": "Аустријанац је био веома љубазан према туристима."
+    },
+    "latin": {
+      "word": "Austrijanac",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja potiče iz Austrije.",
+      "example_sentence": "Austrijanac je bio veoma ljubazan prema turistima."
+    },
+    "english": {
+      "word": "Austrian",
+      "part_of_speech": "noun",
+      "definition": "A person from Austria.",
+      "example_sentence": "The Austrian was very friendly toward the tourists."
+    }
+  }
+}

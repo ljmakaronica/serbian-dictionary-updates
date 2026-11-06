@@ -1,0 +1,23 @@
+{
+  "id": 960,
+  "translation": {
+    "cyrillic": {
+      "word": "мислити",
+      "part_of_speech": "глагол",
+      "definition": "размишљати",
+      "example_sentence": "Мислим о теби."
+    },
+    "latin": {
+      "word": "misliti",
+      "part_of_speech": "glagol",
+      "definition": "razmišljati",
+      "example_sentence": "Mislim o tebi."
+    },
+    "english": {
+      "word": "to think",
+      "part_of_speech": "verb",
+      "definition": "use mind to reason",
+      "example_sentence": "I think about you."
+    }
+  }
+}

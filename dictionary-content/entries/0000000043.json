@@ -1,0 +1,23 @@
+{
+  "id": 43,
+  "translation": {
+    "cyrillic": {
+      "word": "архитектура",
+      "part_of_speech": "именица",
+      "definition": "Уметност и наука пројектовања и изградње зграда.",
+      "example_sentence": "Архитектура ове зграде је инспирисана средњовековним стилом."
+    },
+    "latin": {
+      "word": "arhitektura",
+      "part_of_speech": "imenica",
+      "definition": "Umetnost i nauka projektovanja i izgradnje zgrada.",
+      "example_sentence": "Arhitektura ove zgrade je inspirisana srednjovekovnim stilom."
+    },
+    "english": {
+      "word": "architecture",
+      "part_of_speech": "noun",
+      "definition": "The art and science of designing and constructing buildings.",
+      "example_sentence": "The architecture of this building is inspired by medieval style."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 548,
+  "translation": {
+    "cyrillic": {
+      "word": "чоколада",
+      "part_of_speech": "именица",
+      "definition": "Слаткиш направљен од какаа.",
+      "example_sentence": "Волим да једем чоколаду."
+    },
+    "latin": {
+      "word": "čokolada",
+      "part_of_speech": "imenica",
+      "definition": "Slatkiš napravljen od kakaa.",
+      "example_sentence": "Volim da jedem čokoladu."
+    },
+    "english": {
+      "word": "chocolate",
+      "part_of_speech": "noun",
+      "definition": "A sweet food made from cocoa.",
+      "example_sentence": "I love eating chocolate."
+    }
+  }
+}

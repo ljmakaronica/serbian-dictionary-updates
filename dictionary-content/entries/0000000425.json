@@ -1,0 +1,23 @@
+{
+  "id": 425,
+  "translation": {
+    "cyrillic": {
+      "word": "тачка",
+      "part_of_speech": "именица",
+      "definition": "Мали круг или знак за крај реченице.",
+      "example_sentence": "Стави тачку на крај реченице."
+    },
+    "latin": {
+      "word": "tačka",
+      "part_of_speech": "imenica",
+      "definition": "Mali krug ili znak za kraj rečenice.",
+      "example_sentence": "Stavi tačku na kraj rečenice."
+    },
+    "english": {
+      "word": "dot",
+      "part_of_speech": "noun",
+      "definition": "A small circle or punctuation mark for the end of a sentence.",
+      "example_sentence": "Put a dot at the end of the sentence."
+    }
+  }
+}

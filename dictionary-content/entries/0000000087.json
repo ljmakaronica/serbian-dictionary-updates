@@ -1,0 +1,23 @@
+{
+  "id": 87,
+  "translation": {
+    "cyrillic": {
+      "word": "благо",
+      "part_of_speech": "именица",
+      "definition": "Вредне ствари или драгоцености.",
+      "example_sentence": "Пронашли су старо благо у пећини."
+    },
+    "latin": {
+      "word": "blago",
+      "part_of_speech": "imenica",
+      "definition": "Vredne stvari ili dragocenosti.",
+      "example_sentence": "Pronašli su staro blago u pećini."
+    },
+    "english": {
+      "word": "treasure",
+      "part_of_speech": "noun",
+      "definition": "Valuable items or precious things.",
+      "example_sentence": "They found old treasure in the cave."
+    }
+  }
+}

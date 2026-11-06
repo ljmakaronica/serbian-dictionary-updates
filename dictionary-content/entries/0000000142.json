@@ -1,0 +1,23 @@
+{
+  "id": 142,
+  "translation": {
+    "cyrillic": {
+      "word": "ветеринар",
+      "part_of_speech": "именица",
+      "definition": "Лекар за животиње.",
+      "example_sentence": "Ветеринар је прегледао нашег пса."
+    },
+    "latin": {
+      "word": "veterinar",
+      "part_of_speech": "imenica",
+      "definition": "Lekar za životinje.",
+      "example_sentence": "Veterinar je pregledao našeg psa."
+    },
+    "english": {
+      "word": "veterinarian",
+      "part_of_speech": "noun",
+      "definition": "A doctor for animals.",
+      "example_sentence": "The veterinarian examined our dog."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 450,
+  "translation": {
+    "cyrillic": {
+      "word": "фрустрација",
+      "part_of_speech": "именица",
+      "definition": "Осећај незадовољства или очајања.",
+      "example_sentence": "Његова фрустрација је била очигледна."
+    },
+    "latin": {
+      "word": "frustracija",
+      "part_of_speech": "imenica",
+      "definition": "Osećaj nezadovoljstva ili očajanja.",
+      "example_sentence": "Njegova frustracija je bila očigledna."
+    },
+    "english": {
+      "word": "frustration",
+      "part_of_speech": "noun",
+      "definition": "A feeling of dissatisfaction or despair.",
+      "example_sentence": "His frustration was evident."
+    }
+  }
+}

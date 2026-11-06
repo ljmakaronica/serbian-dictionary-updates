@@ -1,0 +1,23 @@
+{
+  "id": 442,
+  "translation": {
+    "cyrillic": {
+      "word": "укус",
+      "part_of_speech": "именица",
+      "definition": "Осећај који се доживљава језиком при јелу.",
+      "example_sentence": "Укус чоколаде је био божанствен."
+    },
+    "latin": {
+      "word": "ukus",
+      "part_of_speech": "imenica",
+      "definition": "Osećaj koji se doživljava jezikom pri jelu.",
+      "example_sentence": "Ukus čokolade je bio božanstven."
+    },
+    "english": {
+      "word": "taste",
+      "part_of_speech": "noun",
+      "definition": "The sensation experienced by the tongue when eating.",
+      "example_sentence": "The taste of chocolate was divine."
+    }
+  }
+}

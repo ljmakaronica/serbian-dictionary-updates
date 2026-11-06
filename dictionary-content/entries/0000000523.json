@@ -1,0 +1,23 @@
+{
+  "id": 523,
+  "translation": {
+    "cyrillic": {
+      "word": "једанаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 11.",
+      "example_sentence": "Имам једанаест књига."
+    },
+    "latin": {
+      "word": "jedanaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 11.",
+      "example_sentence": "Imam jedanaest knjiga."
+    },
+    "english": {
+      "word": "eleven",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 11.",
+      "example_sentence": "I have eleven books."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 859,
+  "translation": {
+    "cyrillic": {
+      "word": "па",
+      "part_of_speech": "речца",
+      "definition": "Речца која повезује реченице или ублажава исказ.",
+      "example_sentence": "Па добро…"
+    },
+    "latin": {
+      "word": "pa",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja povezuje rečenice ili ublažava iskaz.",
+      "example_sentence": "Pa dobro…"
+    },
+    "english": {
+      "word": "well",
+      "part_of_speech": "particle",
+      "definition": "A particle that connects or softens statements.",
+      "example_sentence": "Well, okay…"
+    }
+  }
+}

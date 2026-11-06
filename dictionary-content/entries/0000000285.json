@@ -1,0 +1,23 @@
+{
+  "id": 285,
+  "translation": {
+    "cyrillic": {
+      "word": "етички",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на морал и етику.",
+      "example_sentence": "То није етички поступак."
+    },
+    "latin": {
+      "word": "etički",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na moral i etiku.",
+      "example_sentence": "To nije etički postupak."
+    },
+    "english": {
+      "word": "ethical",
+      "part_of_speech": "adjective",
+      "definition": "Relating to morals and ethics.",
+      "example_sentence": "That is not an ethical procedure."
+    }
+  }
+}

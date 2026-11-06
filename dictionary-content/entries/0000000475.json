@@ -1,0 +1,23 @@
+{
+  "id": 475,
+  "translation": {
+    "cyrillic": {
+      "word": "цртеж",
+      "part_of_speech": "именица",
+      "definition": "Уметничко дело направљено цртањем.",
+      "example_sentence": "Његов цртеж је био изузетан."
+    },
+    "latin": {
+      "word": "crtež",
+      "part_of_speech": "imenica",
+      "definition": "Umetničko delo napravljeno crtanjem.",
+      "example_sentence": "Njegov crtež je bio izuzetan."
+    },
+    "english": {
+      "word": "drawing",
+      "part_of_speech": "noun",
+      "definition": "An artwork created by drawing.",
+      "example_sentence": "His drawing was exceptional."
+    }
+  }
+}

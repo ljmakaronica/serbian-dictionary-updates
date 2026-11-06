@@ -1,0 +1,23 @@
+{
+  "id": 45,
+  "translation": {
+    "cyrillic": {
+      "word": "атом",
+      "part_of_speech": "именица",
+      "definition": "Најмања јединица материје која задржава својства хемијског елемента.",
+      "example_sentence": "Атом се састоји од језгра и електрона."
+    },
+    "latin": {
+      "word": "atom",
+      "part_of_speech": "imenica",
+      "definition": "Najmanja jedinica materije koja zadržava svojstva hemijskog elementa.",
+      "example_sentence": "Atom se sastoji od jezgra i elektrona."
+    },
+    "english": {
+      "word": "atom",
+      "part_of_speech": "noun",
+      "definition": "The smallest unit of matter that retains the properties of a chemical element.",
+      "example_sentence": "An atom consists of a nucleus and electrons."
+    }
+  }
+}

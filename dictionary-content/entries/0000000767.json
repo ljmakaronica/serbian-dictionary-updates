@@ -1,0 +1,23 @@
+{
+  "id": 767,
+  "translation": {
+    "cyrillic": {
+      "word": "анализирати",
+      "part_of_speech": "глагол",
+      "definition": "Детаљно испитати или проучити нешто.",
+      "example_sentence": "Стручњак анализира податке."
+    },
+    "latin": {
+      "word": "analizirati",
+      "part_of_speech": "glagol",
+      "definition": "Detaljno ispitati ili proučiti nešto.",
+      "example_sentence": "Stručnjak analizira podatke."
+    },
+    "english": {
+      "word": "analyze",
+      "part_of_speech": "verb",
+      "definition": "To examine methodically and in detail.",
+      "example_sentence": "The expert is analyzing the data."
+    }
+  }
+}

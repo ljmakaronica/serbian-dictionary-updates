@@ -1,0 +1,23 @@
+{
+  "id": 886,
+  "translation": {
+    "cyrillic": {
+      "word": "твој",
+      "part_of_speech": "заменица",
+      "definition": "Присвојна заменица другог лица једнине",
+      "example_sentence": "Где је твој телефон?"
+    },
+    "latin": {
+      "word": "tvoj",
+      "part_of_speech": "zamenica",
+      "definition": "Prisvojna zamenica drugog lica jednine",
+      "example_sentence": "Gde je tvoj telefon?"
+    },
+    "english": {
+      "word": "your",
+      "part_of_speech": "pronoun",
+      "definition": "Second person singular possessive pronoun (informal)",
+      "example_sentence": "Where is your phone?"
+    }
+  }
+}

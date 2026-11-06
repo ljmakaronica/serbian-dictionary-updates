@@ -1,0 +1,23 @@
+{
+  "id": 636,
+  "translation": {
+    "cyrillic": {
+      "word": "паста",
+      "part_of_speech": "именица",
+      "definition": "Намирница направљена од теста.",
+      "example_sentence": "Волим пасту са сосом."
+    },
+    "latin": {
+      "word": "pasta",
+      "part_of_speech": "imenica",
+      "definition": "Namirnica napravljena od testa.",
+      "example_sentence": "Volim pastu sa sosom."
+    },
+    "english": {
+      "word": "pasta",
+      "part_of_speech": "noun",
+      "definition": "A food made from dough.",
+      "example_sentence": "I love pasta with sauce."
+    }
+  }
+}

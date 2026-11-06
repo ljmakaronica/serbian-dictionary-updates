@@ -1,0 +1,23 @@
+{
+  "id": 1000000006,
+  "translation": {
+    "cyrillic": {
+      "word": "јул",
+      "part_of_speech": "именица",
+      "definition": "Седми месец у години.",
+      "example_sentence": "Јул је најтоплији месец."
+    },
+    "latin": {
+      "word": "jul",
+      "part_of_speech": "imenica",
+      "definition": "Sedmi mesec u godini.",
+      "example_sentence": "Jul je najtopliji mesec."
+    },
+    "english": {
+      "word": "July",
+      "part_of_speech": "noun",
+      "definition": "The seventh month of the year.",
+      "example_sentence": "July is the hottest month."
+    }
+  }
+}

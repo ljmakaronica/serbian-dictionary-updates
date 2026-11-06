@@ -1,0 +1,23 @@
+{
+  "id": 713,
+  "translation": {
+    "cyrillic": {
+      "word": "куповати",
+      "part_of_speech": "глагол",
+      "definition": "Прибављати робу или услуге у замену за новац.",
+      "example_sentence": "Он купује свеже воће."
+    },
+    "latin": {
+      "word": "kupovati",
+      "part_of_speech": "glagol",
+      "definition": "Pribavljati robu ili usluge u zamenu za novac.",
+      "example_sentence": "On kupuje sveže voće."
+    },
+    "english": {
+      "word": "buy",
+      "part_of_speech": "verb",
+      "definition": "To obtain goods or services in exchange for money.",
+      "example_sentence": "He is buying fresh fruit."
+    }
+  }
+}

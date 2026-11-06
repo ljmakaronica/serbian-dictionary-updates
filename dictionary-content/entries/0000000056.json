@@ -1,0 +1,23 @@
+{
+  "id": 56,
+  "translation": {
+    "cyrillic": {
+      "word": "аутентичан",
+      "part_of_speech": "придев",
+      "definition": "Оригиналан, истинит, нелажиран.",
+      "example_sentence": "Овај ресторан нуди аутентичну италијанску кухињу."
+    },
+    "latin": {
+      "word": "autentičan",
+      "part_of_speech": "pridev",
+      "definition": "Originalan, istinit, nelažiran.",
+      "example_sentence": "Ovaj restoran nudi autentičnu italijansku kuhinju."
+    },
+    "english": {
+      "word": "authentic",
+      "part_of_speech": "adjective",
+      "definition": "Original, genuine, not fake.",
+      "example_sentence": "This restaurant offers authentic Italian cuisine."
+    }
+  }
+}

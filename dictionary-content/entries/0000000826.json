@@ -1,0 +1,23 @@
+{
+  "id": 826,
+  "translation": {
+    "cyrillic": {
+      "word": "упорно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који указује на сталну посвећеност или истрајност.",
+      "example_sentence": "Он упорно ради на пројекту."
+    },
+    "latin": {
+      "word": "uporno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ukazuje na stalnu posvećenost ili istrajnost.",
+      "example_sentence": "On uporno radi na projektu."
+    },
+    "english": {
+      "word": "persistently",
+      "part_of_speech": "adverb",
+      "definition": "In a determined or constant manner.",
+      "example_sentence": "He works on the project persistently."
+    }
+  }
+}

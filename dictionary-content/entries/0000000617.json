@@ -1,0 +1,23 @@
+{
+  "id": 617,
+  "translation": {
+    "cyrillic": {
+      "word": "фрижидер",
+      "part_of_speech": "именица",
+      "definition": "Уређај за чување хране на ниској температури.",
+      "example_sentence": "Храна је у фрижидеру."
+    },
+    "latin": {
+      "word": "frižider",
+      "part_of_speech": "imenica",
+      "definition": "Uređaj za čuvanje hrane na niskoj temperaturi.",
+      "example_sentence": "Hrana je u frižideru."
+    },
+    "english": {
+      "word": "refrigerator",
+      "part_of_speech": "noun",
+      "definition": "A device for keeping food cold.",
+      "example_sentence": "The food is in the refrigerator."
+    }
+  }
+}

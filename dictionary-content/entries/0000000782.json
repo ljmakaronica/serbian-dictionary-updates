@@ -1,0 +1,23 @@
+{
+  "id": 782,
+  "translation": {
+    "cyrillic": {
+      "word": "смањити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство смањења количине или интензитета нечега.",
+      "example_sentence": "Возач је смањио брзину."
+    },
+    "latin": {
+      "word": "smanjiti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo smanjenja količine ili intenziteta nečega.",
+      "example_sentence": "Vozač je smanjio brzinu."
+    },
+    "english": {
+      "word": "reduce",
+      "part_of_speech": "verb",
+      "definition": "To make something smaller or less in amount.",
+      "example_sentence": "The driver reduced his speed."
+    }
+  }
+}

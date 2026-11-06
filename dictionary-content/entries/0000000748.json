@@ -1,0 +1,23 @@
+{
+  "id": 748,
+  "translation": {
+    "cyrillic": {
+      "word": "обнављати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство поновног успостављања или обнове нечега.",
+      "example_sentence": "Компанија обнавља уговоре сваке године."
+    },
+    "latin": {
+      "word": "obnavljati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo ponovnog uspostavljanja ili obnove nečega.",
+      "example_sentence": "Kompanija obnavlja ugovore svake godine."
+    },
+    "english": {
+      "word": "renew",
+      "part_of_speech": "verb",
+      "definition": "To make something new again.",
+      "example_sentence": "The company renews its contracts every year."
+    }
+  }
+}

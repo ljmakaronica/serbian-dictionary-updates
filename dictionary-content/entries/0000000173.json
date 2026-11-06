@@ -1,0 +1,23 @@
+{
+  "id": 173,
+  "translation": {
+    "cyrillic": {
+      "word": "гусеница",
+      "part_of_speech": "именица",
+      "definition": "Ларва лептира.",
+      "example_sentence": "Гусеница је појела лист."
+    },
+    "latin": {
+      "word": "gusenica",
+      "part_of_speech": "imenica",
+      "definition": "Larva leptira.",
+      "example_sentence": "Gusenica je pojela list."
+    },
+    "english": {
+      "word": "caterpillar",
+      "part_of_speech": "noun",
+      "definition": "The larva of a butterfly or moth.",
+      "example_sentence": "The caterpillar ate the leaf."
+    }
+  }
+}

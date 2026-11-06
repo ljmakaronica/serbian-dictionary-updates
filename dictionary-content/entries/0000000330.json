@@ -1,0 +1,23 @@
+{
+  "id": 330,
+  "translation": {
+    "cyrillic": {
+      "word": "кућа",
+      "part_of_speech": "именица",
+      "definition": "Зграда у којој људи живе.",
+      "example_sentence": "Наша кућа је велика и удобна."
+    },
+    "latin": {
+      "word": "kuća",
+      "part_of_speech": "imenica",
+      "definition": "Zgrada u kojoj ljudi žive.",
+      "example_sentence": "Naša kuća je velika i udobna."
+    },
+    "english": {
+      "word": "house",
+      "part_of_speech": "noun",
+      "definition": "A building where people live.",
+      "example_sentence": "Our house is big and comfortable."
+    }
+  }
+}

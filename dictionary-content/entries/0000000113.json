@@ -1,0 +1,23 @@
+{
+  "id": 113,
+  "translation": {
+    "cyrillic": {
+      "word": "брзо",
+      "part_of_speech": "прилог",
+      "definition": "На начин који се одвија великом брзином.",
+      "example_sentence": "Треба да брзо стигнемо на станицу."
+    },
+    "latin": {
+      "word": "brzo",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji se odvija velikom brzinom.",
+      "example_sentence": "Treba da brzo stignemo na stanicu."
+    },
+    "english": {
+      "word": "quickly",
+      "part_of_speech": "adverb",
+      "definition": "In a manner that happens at high speed.",
+      "example_sentence": "We need to get to the station quickly."
+    }
+  }
+}

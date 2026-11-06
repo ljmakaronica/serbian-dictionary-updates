@@ -1,0 +1,23 @@
+{
+  "id": 254,
+  "translation": {
+    "cyrillic": {
+      "word": "естетика",
+      "part_of_speech": "именица",
+      "definition": "Наука о лепом и уметности.",
+      "example_sentence": "Естетика је важан аспект дизајна."
+    },
+    "latin": {
+      "word": "estetika",
+      "part_of_speech": "imenica",
+      "definition": "Nauka o lepom i umetnosti.",
+      "example_sentence": "Estetika je važan aspekt dizajna."
+    },
+    "english": {
+      "word": "aesthetics",
+      "part_of_speech": "noun",
+      "definition": "The study of beauty and art.",
+      "example_sentence": "Aesthetics is an important aspect of design."
+    }
+  }
+}

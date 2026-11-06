@@ -1,0 +1,23 @@
+{
+  "id": 1013,
+  "translation": {
+    "cyrillic": {
+      "word": "возило",
+      "part_of_speech": "именица",
+      "definition": "Средство за превоз на копну.",
+      "example_sentence": "Ауто је моторно возило."
+    },
+    "latin": {
+      "word": "vozilo",
+      "part_of_speech": "imenica",
+      "definition": "Sredstvo za prevoz na kopnu.",
+      "example_sentence": "Auto je motorno vozilo."
+    },
+    "english": {
+      "word": "vehicle",
+      "part_of_speech": "noun",
+      "definition": "A means of transport on land.",
+      "example_sentence": "A car is a motor vehicle."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 85,
+  "translation": {
+    "cyrillic": {
+      "word": "банка",
+      "part_of_speech": "именица",
+      "definition": "Финансијска институција која се бави новчаним трансакцијама.",
+      "example_sentence": "Морам да одем до банке да подигнем новац."
+    },
+    "latin": {
+      "word": "banka",
+      "part_of_speech": "imenica",
+      "definition": "Finansijska institucija koja se bavi novčanim transakcijama.",
+      "example_sentence": "Moram da odem do banke da podignem novac."
+    },
+    "english": {
+      "word": "bank",
+      "part_of_speech": "noun",
+      "definition": "A financial institution dealing with monetary transactions.",
+      "example_sentence": "I need to go to the bank to withdraw money."
+    }
+  }
+}

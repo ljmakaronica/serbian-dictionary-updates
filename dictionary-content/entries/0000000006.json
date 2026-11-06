@@ -1,0 +1,23 @@
+{
+  "id": 6,
+  "translation": {
+    "cyrillic": {
+      "word": "активност",
+      "part_of_speech": "именица",
+      "definition": "Стање или период активног деловања.",
+      "example_sentence": "Физичка активност је важна за здравље."
+    },
+    "latin": {
+      "word": "aktivnost",
+      "part_of_speech": "imenica",
+      "definition": "Stanje ili period aktivnog delovanja.",
+      "example_sentence": "Fizička aktivnost je važna za zdravlje."
+    },
+    "english": {
+      "word": "activity",
+      "part_of_speech": "noun",
+      "definition": "A state or period of active action.",
+      "example_sentence": "Physical activity is important for health."
+    }
+  }
+}

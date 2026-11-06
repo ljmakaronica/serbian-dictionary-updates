@@ -1,0 +1,23 @@
+{
+  "id": 864,
+  "translation": {
+    "cyrillic": {
+      "word": "пошто",
+      "part_of_speech": "везник",
+      "definition": "Означава узрок или време.",
+      "example_sentence": "Пошто је касно, идем кући."
+    },
+    "latin": {
+      "word": "pošto",
+      "part_of_speech": "veznik",
+      "definition": "Označava uzrok ili vreme.",
+      "example_sentence": "Pošto je kasno, idem kući."
+    },
+    "english": {
+      "word": "since",
+      "part_of_speech": "conjunction",
+      "definition": "Indicates cause or time.",
+      "example_sentence": "Since it is late, I am going home."
+    }
+  }
+}

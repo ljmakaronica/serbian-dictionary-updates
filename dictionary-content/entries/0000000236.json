@@ -1,0 +1,23 @@
+{
+  "id": 236,
+  "translation": {
+    "cyrillic": {
+      "word": "електрични",
+      "part_of_speech": "придев",
+      "definition": "Који ради на електричну енергију.",
+      "example_sentence": "Купили смо нови електрични шпорет."
+    },
+    "latin": {
+      "word": "električni",
+      "part_of_speech": "pridev",
+      "definition": "Koji radi na električnu energiju.",
+      "example_sentence": "Kupili smo novi električni šporet."
+    },
+    "english": {
+      "word": "electric",
+      "part_of_speech": "adjective",
+      "definition": "Powered by electricity.",
+      "example_sentence": "We bought a new electric stove."
+    }
+  }
+}

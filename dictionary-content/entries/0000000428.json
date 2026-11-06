@@ -1,0 +1,23 @@
+{
+  "id": 428,
+  "translation": {
+    "cyrillic": {
+      "word": "топлота",
+      "part_of_speech": "именица",
+      "definition": "Енергија која се осећа као врућина.",
+      "example_sentence": "Топлота сунца је била пријатна."
+    },
+    "latin": {
+      "word": "toplota",
+      "part_of_speech": "imenica",
+      "definition": "Energija koja se oseća kao vrućina.",
+      "example_sentence": "Toplota sunca je bila prijatna."
+    },
+    "english": {
+      "word": "heat",
+      "part_of_speech": "noun",
+      "definition": "Energy that is felt as warmth.",
+      "example_sentence": "The heat of the sun was pleasant."
+    }
+  }
+}

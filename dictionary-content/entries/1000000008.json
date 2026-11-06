@@ -1,0 +1,23 @@
+{
+  "id": 1000000008,
+  "translation": {
+    "cyrillic": {
+      "word": "октобар",
+      "part_of_speech": "именица",
+      "definition": "Десети месец у години.",
+      "example_sentence": "Октобар је леп месец."
+    },
+    "latin": {
+      "word": "oktobar",
+      "part_of_speech": "imenica",
+      "definition": "Deseti mesec u godini.",
+      "example_sentence": "Oktobar je lep mesec."
+    },
+    "english": {
+      "word": "October",
+      "part_of_speech": "noun",
+      "definition": "The tenth month of the year.",
+      "example_sentence": "October is a beautiful month."
+    }
+  }
+}

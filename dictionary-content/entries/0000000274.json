@@ -1,0 +1,23 @@
+{
+  "id": 274,
+  "translation": {
+    "cyrillic": {
+      "word": "ескорт",
+      "part_of_speech": "именица",
+      "definition": "Пратња која обезбеђује важну особу.",
+      "example_sentence": "Председник је имао полицијски ескорт."
+    },
+    "latin": {
+      "word": "eskort",
+      "part_of_speech": "imenica",
+      "definition": "Pratnja koja obezbeđuje važnu osobu.",
+      "example_sentence": "Predsednik je imao policijski eskort."
+    },
+    "english": {
+      "word": "escort",
+      "part_of_speech": "noun",
+      "definition": "A group providing security for an important person.",
+      "example_sentence": "The president had a police escort."
+    }
+  }
+}

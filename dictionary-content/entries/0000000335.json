@@ -1,0 +1,23 @@
+{
+  "id": 335,
+  "translation": {
+    "cyrillic": {
+      "word": "кокош",
+      "part_of_speech": "именица",
+      "definition": "Домаћа птица која носи јаја.",
+      "example_sentence": "Кокош је снела три јаја."
+    },
+    "latin": {
+      "word": "kokoš",
+      "part_of_speech": "imenica",
+      "definition": "Domaća ptica koja nosi jaja.",
+      "example_sentence": "Kokoš je snela tri jaja."
+    },
+    "english": {
+      "word": "hen",
+      "part_of_speech": "noun",
+      "definition": "A domestic bird that lays eggs.",
+      "example_sentence": "The hen laid three eggs."
+    }
+  }
+}

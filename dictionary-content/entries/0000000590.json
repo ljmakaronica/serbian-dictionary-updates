@@ -1,0 +1,23 @@
+{
+  "id": 590,
+  "translation": {
+    "cyrillic": {
+      "word": "лимун",
+      "part_of_speech": "именица",
+      "definition": "Жуто кисело воће.",
+      "example_sentence": "Лимун је користан за чај."
+    },
+    "latin": {
+      "word": "limun",
+      "part_of_speech": "imenica",
+      "definition": "Žuto kiselo voće.",
+      "example_sentence": "Limun je koristan za čaj."
+    },
+    "english": {
+      "word": "lemon",
+      "part_of_speech": "noun",
+      "definition": "Yellow sour fruit.",
+      "example_sentence": "Lemon is useful for tea."
+    }
+  }
+}

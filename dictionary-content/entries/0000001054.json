@@ -1,0 +1,23 @@
+{
+  "id": 1054,
+  "translation": {
+    "cyrillic": {
+      "word": "тих",
+      "part_of_speech": "придев",
+      "definition": "Без буке или звука.",
+      "example_sentence": "Будите тихи у библиотеци."
+    },
+    "latin": {
+      "word": "tih",
+      "part_of_speech": "pridev",
+      "definition": "Bez buke ili zvuka.",
+      "example_sentence": "Budite tihi u biblioteci."
+    },
+    "english": {
+      "word": "quiet",
+      "part_of_speech": "adjective",
+      "definition": "Without noise or sound.",
+      "example_sentence": "Be quiet in the library."
+    }
+  }
+}

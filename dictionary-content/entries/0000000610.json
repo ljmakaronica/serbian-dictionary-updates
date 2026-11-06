@@ -1,0 +1,23 @@
+{
+  "id": 610,
+  "translation": {
+    "cyrillic": {
+      "word": "мајка",
+      "part_of_speech": "именица",
+      "definition": "Женски родитељ.",
+      "example_sentence": "Моја мајка кува вечере."
+    },
+    "latin": {
+      "word": "majka",
+      "part_of_speech": "imenica",
+      "definition": "Ženski roditelj.",
+      "example_sentence": "Moja majka kuva večere."
+    },
+    "english": {
+      "word": "mother",
+      "part_of_speech": "noun",
+      "definition": "The female parent.",
+      "example_sentence": "My mother cooks dinners."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 955,
+  "translation": {
+    "cyrillic": {
+      "word": "хтети",
+      "part_of_speech": "глагол",
+      "definition": "желети нешто",
+      "example_sentence": "Хоћу воду."
+    },
+    "latin": {
+      "word": "hteti",
+      "part_of_speech": "glagol",
+      "definition": "želeti nešto",
+      "example_sentence": "Hoću vodu."
+    },
+    "english": {
+      "word": "to want",
+      "part_of_speech": "verb",
+      "definition": "desire something",
+      "example_sentence": "I want water."
+    }
+  }
+}

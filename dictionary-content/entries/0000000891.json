@@ -1,0 +1,23 @@
+{
+  "id": 891,
+  "translation": {
+    "cyrillic": {
+      "word": "из",
+      "part_of_speech": "предлог",
+      "definition": "Предлог који означава порекло или кретање из унутрашњости",
+      "example_sentence": "Он је из Београда."
+    },
+    "latin": {
+      "word": "iz",
+      "part_of_speech": "predlog",
+      "definition": "Predlog koji označava poreklo ili kretanje iz unutrašnjosti",
+      "example_sentence": "On je iz Beograda."
+    },
+    "english": {
+      "word": "from/out of",
+      "part_of_speech": "preposition",
+      "definition": "Preposition indicating origin or movement from inside",
+      "example_sentence": "He is from Belgrade."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 359,
+  "translation": {
+    "cyrillic": {
+      "word": "мама",
+      "part_of_speech": "именица",
+      "definition": "Мајка, родитељ женског пола.",
+      "example_sentence": "Моја мама је најбоља на свету."
+    },
+    "latin": {
+      "word": "mama",
+      "part_of_speech": "imenica",
+      "definition": "Majka, roditelj ženskog pola.",
+      "example_sentence": "Moja mama je najbolja na svetu."
+    },
+    "english": {
+      "word": "mom",
+      "part_of_speech": "noun",
+      "definition": "Mother, a female parent.",
+      "example_sentence": "My mom is the best in the world."
+    }
+  }
+}

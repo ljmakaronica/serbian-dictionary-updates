@@ -1,0 +1,23 @@
+{
+  "id": 729,
+  "translation": {
+    "cyrillic": {
+      "word": "снимати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство бележења слика или звука.",
+      "example_sentence": "Он снима видео током путовања."
+    },
+    "latin": {
+      "word": "snimati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo beleženja slika ili zvuka.",
+      "example_sentence": "On snima video tokom putovanja."
+    },
+    "english": {
+      "word": "record",
+      "part_of_speech": "verb",
+      "definition": "To capture audio or visual data.",
+      "example_sentence": "He is recording a video during the trip."
+    }
+  }
+}

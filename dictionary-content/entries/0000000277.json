@@ -1,0 +1,23 @@
+{
+  "id": 277,
+  "translation": {
+    "cyrillic": {
+      "word": "електрана",
+      "part_of_speech": "именица",
+      "definition": "Постројење за производњу електричне енергије.",
+      "example_sentence": "Нова електрана је почела са радом."
+    },
+    "latin": {
+      "word": "elektrana",
+      "part_of_speech": "imenica",
+      "definition": "Postrojenje za proizvodnju električne energije.",
+      "example_sentence": "Nova elektrana je počela sa radom."
+    },
+    "english": {
+      "word": "power plant",
+      "part_of_speech": "noun",
+      "definition": "A facility for generating electrical power.",
+      "example_sentence": "The new power plant has started operating."
+    }
+  }
+}

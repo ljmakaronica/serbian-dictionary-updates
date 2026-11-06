@@ -1,0 +1,23 @@
+{
+  "id": 584,
+  "translation": {
+    "cyrillic": {
+      "word": "стар",
+      "part_of_speech": "придев",
+      "definition": "Постоји дуго времена.",
+      "example_sentence": "Ова кућа је стара."
+    },
+    "latin": {
+      "word": "star",
+      "part_of_speech": "pridev",
+      "definition": "Postoji dugo vremena.",
+      "example_sentence": "Ova kuća je stara."
+    },
+    "english": {
+      "word": "old",
+      "part_of_speech": "adjective",
+      "definition": "Having existed for a long time.",
+      "example_sentence": "This house is old."
+    }
+  }
+}

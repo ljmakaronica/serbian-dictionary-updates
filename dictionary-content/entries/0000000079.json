@@ -1,0 +1,23 @@
+{
+  "id": 79,
+  "translation": {
+    "cyrillic": {
+      "word": "бити",
+      "part_of_speech": "глагол",
+      "definition": "Постојати или се налазити у одређеном стању.",
+      "example_sentence": "Лепо је бити млад."
+    },
+    "latin": {
+      "word": "biti",
+      "part_of_speech": "glagol",
+      "definition": "Postojati ili se nalaziti u određenom stanju.",
+      "example_sentence": "Lepo je biti mlad."
+    },
+    "english": {
+      "word": "to be",
+      "part_of_speech": "verb",
+      "definition": "To exist or be in a certain state.",
+      "example_sentence": "It's nice to be young."
+    }
+  }
+}

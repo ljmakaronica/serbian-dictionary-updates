@@ -1,0 +1,23 @@
+{
+  "id": 222,
+  "translation": {
+    "cyrillic": {
+      "word": "ђускати",
+      "part_of_speech": "глагол",
+      "definition": "Играти, плесати неформално.",
+      "example_sentence": "Млади су ђускали целу ноћ."
+    },
+    "latin": {
+      "word": "đuskati",
+      "part_of_speech": "glagol",
+      "definition": "Igrati, plesati neformalno.",
+      "example_sentence": "Mladi su đuskali celu noć."
+    },
+    "english": {
+      "word": "to dance",
+      "part_of_speech": "verb",
+      "definition": "To dance informally.",
+      "example_sentence": "The young people danced all night."
+    }
+  }
+}

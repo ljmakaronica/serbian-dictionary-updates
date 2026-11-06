@@ -1,0 +1,23 @@
+{
+  "id": 585,
+  "translation": {
+    "cyrillic": {
+      "word": "брз",
+      "part_of_speech": "придев",
+      "definition": "Креће се великом брзином.",
+      "example_sentence": "Овај ауто је веома брз."
+    },
+    "latin": {
+      "word": "brz",
+      "part_of_speech": "pridev",
+      "definition": "Kreće se velikom brzinom.",
+      "example_sentence": "Ovaj auto je veoma brz."
+    },
+    "english": {
+      "word": "fast",
+      "part_of_speech": "adjective",
+      "definition": "Moving or capable of moving at high speed.",
+      "example_sentence": "This car is very fast."
+    }
+  }
+}

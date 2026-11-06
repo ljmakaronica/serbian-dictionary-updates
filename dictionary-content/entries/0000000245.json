@@ -1,0 +1,23 @@
+{
+  "id": 245,
+  "translation": {
+    "cyrillic": {
+      "word": "егзотичан",
+      "part_of_speech": "придев",
+      "definition": "Необичан, стран, који потиче из далеких крајева.",
+      "example_sentence": "У зоо врту су држали егзотичне животиње."
+    },
+    "latin": {
+      "word": "egzotičan",
+      "part_of_speech": "pridev",
+      "definition": "Neobičan, stran, koji potiče iz dalekih krajeva.",
+      "example_sentence": "U zoo vrtu su držali egzotične životinje."
+    },
+    "english": {
+      "word": "exotic",
+      "part_of_speech": "adjective",
+      "definition": "Unusual, foreign, originating from distant lands.",
+      "example_sentence": "The zoo kept exotic animals."
+    }
+  }
+}

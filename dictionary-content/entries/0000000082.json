@@ -1,0 +1,23 @@
+{
+  "id": 82,
+  "translation": {
+    "cyrillic": {
+      "word": "брат",
+      "part_of_speech": "именица",
+      "definition": "Мушко дете истих родитеља у односу на другу децу.",
+      "example_sentence": "Мој брат студира медицину."
+    },
+    "latin": {
+      "word": "brat",
+      "part_of_speech": "imenica",
+      "definition": "Muško dete istih roditelja u odnosu na drugu decu.",
+      "example_sentence": "Moj brat studira medicinu."
+    },
+    "english": {
+      "word": "brother",
+      "part_of_speech": "noun",
+      "definition": "A male child of the same parents in relation to other children.",
+      "example_sentence": "My brother studies medicine."
+    }
+  }
+}

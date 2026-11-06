@@ -1,0 +1,23 @@
+{
+  "id": 1002,
+  "translation": {
+    "cyrillic": {
+      "word": "соба",
+      "part_of_speech": "именица",
+      "definition": "затворен простор у згради",
+      "example_sentence": "Ово је моја соба."
+    },
+    "latin": {
+      "word": "soba",
+      "part_of_speech": "imenica",
+      "definition": "zatvoren prostor u zgradi",
+      "example_sentence": "Ovo je moja soba."
+    },
+    "english": {
+      "word": "room",
+      "part_of_speech": "noun",
+      "definition": "enclosed space in building",
+      "example_sentence": "This is my room."
+    }
+  }
+}

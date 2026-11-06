@@ -1,0 +1,23 @@
+{
+  "id": 830,
+  "translation": {
+    "cyrillic": {
+      "word": "нежно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који је мек и пажљив.",
+      "example_sentence": "Она нежно додирује цветове."
+    },
+    "latin": {
+      "word": "nežno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji je mekan i pažljiv.",
+      "example_sentence": "Ona nežno dodiruje cvetove."
+    },
+    "english": {
+      "word": "gently",
+      "part_of_speech": "adverb",
+      "definition": "In a soft and tender manner.",
+      "example_sentence": "She touches the flowers gently."
+    }
+  }
+}

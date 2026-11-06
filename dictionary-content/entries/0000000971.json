@@ -1,0 +1,23 @@
+{
+  "id": 971,
+  "translation": {
+    "cyrillic": {
+      "word": "стопало",
+      "part_of_speech": "именица",
+      "definition": "део ноге за ходање",
+      "example_sentence": "Боли ме стопало."
+    },
+    "latin": {
+      "word": "stopalo",
+      "part_of_speech": "imenica",
+      "definition": "deo noge za hodanje",
+      "example_sentence": "Boli me stopalo."
+    },
+    "english": {
+      "word": "foot",
+      "part_of_speech": "noun",
+      "definition": "body part for walking",
+      "example_sentence": "My foot hurts."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 527,
+  "translation": {
+    "cyrillic": {
+      "word": "петнаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 15.",
+      "example_sentence": "Имам петнаест оловака."
+    },
+    "latin": {
+      "word": "petnaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 15.",
+      "example_sentence": "Imam petnaest olovaka."
+    },
+    "english": {
+      "word": "fifteen",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 15.",
+      "example_sentence": "I have fifteen pencils."
+    }
+  }
+}

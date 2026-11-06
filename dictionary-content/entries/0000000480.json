@@ -1,0 +1,23 @@
+{
+  "id": 480,
+  "translation": {
+    "cyrillic": {
+      "word": "сат",
+      "part_of_speech": "именица",
+      "definition": "Период од 60 минута.",
+      "example_sentence": "Сат је прошао брзо."
+    },
+    "latin": {
+      "word": "sat",
+      "part_of_speech": "imenica",
+      "definition": "Period od 60 minuta.",
+      "example_sentence": "Sat je prošao brzo."
+    },
+    "english": {
+      "word": "hour",
+      "part_of_speech": "noun",
+      "definition": "A period of 60 minutes.",
+      "example_sentence": "The hour passed quickly."
+    }
+  }
+}

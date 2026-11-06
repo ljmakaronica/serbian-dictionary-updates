@@ -1,0 +1,23 @@
+{
+  "id": 569,
+  "translation": {
+    "cyrillic": {
+      "word": "столица",
+      "part_of_speech": "именица",
+      "definition": "Намештај за седење.",
+      "example_sentence": "Седим на столици."
+    },
+    "latin": {
+      "word": "stolica",
+      "part_of_speech": "imenica",
+      "definition": "Nameštaj za sedenje.",
+      "example_sentence": "Sedim na stolici."
+    },
+    "english": {
+      "word": "chair",
+      "part_of_speech": "noun",
+      "definition": "A piece of furniture for sitting.",
+      "example_sentence": "I am sitting on the chair."
+    }
+  }
+}

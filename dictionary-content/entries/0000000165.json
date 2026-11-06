@@ -1,0 +1,23 @@
+{
+  "id": 165,
+  "translation": {
+    "cyrillic": {
+      "word": "глава",
+      "part_of_speech": "именица",
+      "definition": "Део тела у коме се налазе мозак, очи, уши, нос и уста.",
+      "example_sentence": "Глава ме боли после напорног дана."
+    },
+    "latin": {
+      "word": "glava",
+      "part_of_speech": "imenica",
+      "definition": "Deo tela u kome se nalaze mozak, oči, uši, nos i usta.",
+      "example_sentence": "Glava me boli posle napornog dana."
+    },
+    "english": {
+      "word": "head",
+      "part_of_speech": "noun",
+      "definition": "The part of the body containing the brain, eyes, ears, nose, and mouth.",
+      "example_sentence": "My head hurts after a long day."
+    }
+  }
+}

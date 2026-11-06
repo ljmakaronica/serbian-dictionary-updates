@@ -1,0 +1,23 @@
+{
+  "id": 1026,
+  "translation": {
+    "cyrillic": {
+      "word": "нож",
+      "part_of_speech": "именица",
+      "definition": "Оруђе са оштрицом за сечење.",
+      "example_sentence": "Исекао је хлеб ножем."
+    },
+    "latin": {
+      "word": "nož",
+      "part_of_speech": "imenica",
+      "definition": "Oruđe sa oštricom za sečenje.",
+      "example_sentence": "Isekao je hleb nožem."
+    },
+    "english": {
+      "word": "knife",
+      "part_of_speech": "noun",
+      "definition": "A tool with a sharp blade for cutting.",
+      "example_sentence": "He cut the bread with a knife."
+    }
+  }
+}

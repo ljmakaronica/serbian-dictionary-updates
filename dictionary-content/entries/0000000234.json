@@ -1,0 +1,23 @@
+{
+  "id": 234,
+  "translation": {
+    "cyrillic": {
+      "word": "експрес",
+      "part_of_speech": "придев",
+      "definition": "Брз, хитан начин услуге или превоза.",
+      "example_sentence": "Послао сам писмо експрес поштом."
+    },
+    "latin": {
+      "word": "ekspres",
+      "part_of_speech": "pridev",
+      "definition": "Brz, hitan način usluge ili prevoza.",
+      "example_sentence": "Poslao sam pismo ekspres poštom."
+    },
+    "english": {
+      "word": "express",
+      "part_of_speech": "adjective",
+      "definition": "Fast, urgent method of service or transportation.",
+      "example_sentence": "I sent the letter by express mail."
+    }
+  }
+}

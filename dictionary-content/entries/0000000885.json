@@ -1,0 +1,23 @@
+{
+  "id": 885,
+  "translation": {
+    "cyrillic": {
+      "word": "мој",
+      "part_of_speech": "заменица",
+      "definition": "Присвојна заменица првог лица једнине мушког рода",
+      "example_sentence": "Ово је мој ауто."
+    },
+    "latin": {
+      "word": "moj",
+      "part_of_speech": "zamenica",
+      "definition": "Prisvojna zamenica prvog lica jednine muškog roda",
+      "example_sentence": "Ovo je moj auto."
+    },
+    "english": {
+      "word": "my",
+      "part_of_speech": "pronoun",
+      "definition": "First person singular masculine possessive pronoun",
+      "example_sentence": "This is my car."
+    }
+  }
+}

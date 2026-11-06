@@ -1,0 +1,23 @@
+{
+  "id": 676,
+  "translation": {
+    "cyrillic": {
+      "word": "ум",
+      "part_of_speech": "именица",
+      "definition": "Способност човека да мисли, разуме и расуђује.",
+      "example_sentence": "Ум је способан за комплексне задатке."
+    },
+    "latin": {
+      "word": "um",
+      "part_of_speech": "imenica",
+      "definition": "Sposobnost čoveka da misli, razume i rasuđuje.",
+      "example_sentence": "Um je sposoban za kompleksne zadatke."
+    },
+    "english": {
+      "word": "mind",
+      "part_of_speech": "noun",
+      "definition": "The capacity for thought, understanding, and reasoning.",
+      "example_sentence": "The mind is capable of complex tasks."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99,
+  "translation": {
+    "cyrillic": {
+      "word": "бурек",
+      "part_of_speech": "именица",
+      "definition": "Пита од танког теста пуњена месом, сиром или другим надевом.",
+      "example_sentence": "Купио сам свеж бурек за доручак."
+    },
+    "latin": {
+      "word": "burek",
+      "part_of_speech": "imenica",
+      "definition": "Pita od tankog testa punjena mesom, sirom ili drugim nadevom.",
+      "example_sentence": "Kupio sam svež burek za doručak."
+    },
+    "english": {
+      "word": "burek",
+      "part_of_speech": "noun",
+      "definition": "A pie made of thin dough filled with meat, cheese, or other fillings.",
+      "example_sentence": "I bought fresh burek for breakfast."
+    }
+  }
+}

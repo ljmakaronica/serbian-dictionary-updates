@@ -1,0 +1,23 @@
+{
+  "id": 213,
+  "translation": {
+    "cyrillic": {
+      "word": "ђубре",
+      "part_of_speech": "именица",
+      "definition": "Отпадни материјал који се баца.",
+      "example_sentence": "Баци ђубре у канту."
+    },
+    "latin": {
+      "word": "đubre",
+      "part_of_speech": "imenica",
+      "definition": "Otpadni materijal koji se baca.",
+      "example_sentence": "Baci đubre u kantu."
+    },
+    "english": {
+      "word": "garbage",
+      "part_of_speech": "noun",
+      "definition": "Waste material that is thrown away.",
+      "example_sentence": "Throw the garbage in the bin."
+    }
+  }
+}

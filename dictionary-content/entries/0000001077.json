@@ -1,0 +1,23 @@
+{
+  "id": 1077,
+  "translation": {
+    "cyrillic": {
+      "word": "ксилофон",
+      "part_of_speech": "именица",
+      "definition": "Музички инструмент са дрвеним плочама.",
+      "example_sentence": "Свира ксилофон у оркестру."
+    },
+    "latin": {
+      "word": "ksilofon",
+      "part_of_speech": "imenica",
+      "definition": "Muzički instrument sa drvenim pločama.",
+      "example_sentence": "Svira ksilofon u orkestru."
+    },
+    "english": {
+      "word": "xylophone",
+      "part_of_speech": "noun",
+      "definition": "A musical instrument with wooden bars.",
+      "example_sentence": "He plays the xylophone in the orchestra."
+    }
+  }
+}

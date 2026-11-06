@@ -1,0 +1,23 @@
+{
+  "id": 17,
+  "translation": {
+    "cyrillic": {
+      "word": "африканка",
+      "part_of_speech": "именица",
+      "definition": "Жена која је пореклом из Африке или живи у Африци.",
+      "example_sentence": "Африканка нам је причала о својој земљи."
+    },
+    "latin": {
+      "word": "afrikanka",
+      "part_of_speech": "imenica",
+      "definition": "Žena koja je poreklom iz Afrike ili živi u Africi.",
+      "example_sentence": "Afrikanka nam je pričala o svojoj zemlji."
+    },
+    "english": {
+      "word": "African woman",
+      "part_of_speech": "noun",
+      "definition": "A woman who is from Africa or lives in Africa.",
+      "example_sentence": "The African woman told us about her country."
+    }
+  }
+}

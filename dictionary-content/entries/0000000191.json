@@ -1,0 +1,23 @@
+{
+  "id": 191,
+  "translation": {
+    "cyrillic": {
+      "word": "додатак",
+      "part_of_speech": "именица",
+      "definition": "Нешто што се додаје постојећој целини.",
+      "example_sentence": "Ова мапа је користан додатак књизи."
+    },
+    "latin": {
+      "word": "dodatak",
+      "part_of_speech": "imenica",
+      "definition": "Nešto što se dodaje postojećoj celini.",
+      "example_sentence": "Ova mapa je koristan dodatak knjizi."
+    },
+    "english": {
+      "word": "addition",
+      "part_of_speech": "noun",
+      "definition": "Something added to an existing whole.",
+      "example_sentence": "This map is a useful addition to the book."
+    }
+  }
+}

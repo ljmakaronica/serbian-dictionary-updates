@@ -1,0 +1,23 @@
+{
+  "id": 498,
+  "translation": {
+    "cyrillic": {
+      "word": "шешир",
+      "part_of_speech": "именица",
+      "definition": "Покривач за главу, често украшен.",
+      "example_sentence": "Његов шешир је био елегантан."
+    },
+    "latin": {
+      "word": "šešir",
+      "part_of_speech": "imenica",
+      "definition": "Pokrivač za glavu, često ukrašen.",
+      "example_sentence": "Njegov šešir je bio elegantan."
+    },
+    "english": {
+      "word": "hat",
+      "part_of_speech": "noun",
+      "definition": "A head covering, often decorated.",
+      "example_sentence": "His hat was elegant."
+    }
+  }
+}

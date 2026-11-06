@@ -1,0 +1,23 @@
+{
+  "id": 403,
+  "translation": {
+    "cyrillic": {
+      "word": "рука",
+      "part_of_speech": "именица",
+      "definition": "У овом значењу: шака, део руке од ручног зглоба до врхова прстију.",
+      "example_sentence": "Подигни руку ако знаш одговор."
+    },
+    "latin": {
+      "word": "ruka",
+      "part_of_speech": "imenica",
+      "definition": "U ovom značenju: šaka, deo ruke od ručnog zgloba do vrhova prstiju.",
+      "example_sentence": "Podigni ruku ako znaš odgovor."
+    },
+    "english": {
+      "word": "hand",
+      "part_of_speech": "noun",
+      "definition": "The part of the body from the wrist to the fingertips, including the palm and fingers.",
+      "example_sentence": "Raise your hand if you know the answer."
+    }
+  }
+}

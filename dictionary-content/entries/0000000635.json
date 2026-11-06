@@ -1,0 +1,23 @@
+{
+  "id": 635,
+  "translation": {
+    "cyrillic": {
+      "word": "пиринач",
+      "part_of_speech": "именица",
+      "definition": "Зрнаста намирница која се користи у кувању.",
+      "example_sentence": "Пиринач је популаран у Азији."
+    },
+    "latin": {
+      "word": "pirinač",
+      "part_of_speech": "imenica",
+      "definition": "Zrnasta namirnica koja se koristi u kuvanju.",
+      "example_sentence": "Pirinač je popularan u Aziji."
+    },
+    "english": {
+      "word": "rice",
+      "part_of_speech": "noun",
+      "definition": "A grain used in cooking.",
+      "example_sentence": "Rice is popular in Asia."
+    }
+  }
+}

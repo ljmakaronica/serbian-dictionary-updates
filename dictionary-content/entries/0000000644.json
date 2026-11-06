@@ -1,0 +1,23 @@
+{
+  "id": 644,
+  "translation": {
+    "cyrillic": {
+      "word": "зграда",
+      "part_of_speech": "именица",
+      "definition": "Структура у којој се живи или ради.",
+      "example_sentence": "У савременој згради налазе се канцеларије многих компанија."
+    },
+    "latin": {
+      "word": "zgrada",
+      "part_of_speech": "imenica",
+      "definition": "Struktura u kojoj se živi ili radi.",
+      "example_sentence": "U savremenoj zgradi nalaze se kancelarije mnogih kompanija."
+    },
+    "english": {
+      "word": "building",
+      "part_of_speech": "noun",
+      "definition": "A structure used for living or working.",
+      "example_sentence": "The modern building contains the offices of many companies."
+    }
+  }
+}

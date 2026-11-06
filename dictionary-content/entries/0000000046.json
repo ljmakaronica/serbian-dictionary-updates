@@ -1,0 +1,23 @@
+{
+  "id": 46,
+  "translation": {
+    "cyrillic": {
+      "word": "аурора",
+      "part_of_speech": "именица",
+      "definition": "Природна светлећа појава на небу, посебно у поларним областима.",
+      "example_sentence": "Аурора бореалис је невероватно леп природни феномен."
+    },
+    "latin": {
+      "word": "aurora",
+      "part_of_speech": "imenica",
+      "definition": "Prirodna svetleća pojava na nebu, posebno u polarnim oblastima.",
+      "example_sentence": "Aurora borealis je neverovatno lep prirodni fenomen."
+    },
+    "english": {
+      "word": "aurora",
+      "part_of_speech": "noun",
+      "definition": "A natural light display in the sky, especially in polar regions.",
+      "example_sentence": "The aurora borealis is an incredibly beautiful natural phenomenon."
+    }
+  }
+}

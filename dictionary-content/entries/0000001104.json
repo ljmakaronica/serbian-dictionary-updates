@@ -1,0 +1,23 @@
+{
+  "id": 1104,
+  "translation": {
+    "cyrillic": {
+      "word": "зар",
+      "part_of_speech": "речца",
+      "definition": "Речца која изражава неверицу или реторичко питање.",
+      "example_sentence": "Зар је могуће?"
+    },
+    "latin": {
+      "word": "zar",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja izražava nevericu ili retoričko pitanje.",
+      "example_sentence": "Zar je moguće?"
+    },
+    "english": {
+      "word": "really",
+      "part_of_speech": "particle",
+      "definition": "A particle expressing disbelief or rhetorical question.",
+      "example_sentence": "Is it really possible?"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 5,
+  "translation": {
+    "cyrillic": {
+      "word": "адреса",
+      "part_of_speech": "именица",
+      "definition": "Подаци о месту становања или локацији.",
+      "example_sentence": "Молим вас упишите вашу адресу овде."
+    },
+    "latin": {
+      "word": "adresa",
+      "part_of_speech": "imenica",
+      "definition": "Podaci o mestu stanovanja ili lokaciji.",
+      "example_sentence": "Molim vas upišite vašu adresu ovde."
+    },
+    "english": {
+      "word": "address",
+      "part_of_speech": "noun",
+      "definition": "Information about a residence or location.",
+      "example_sentence": "Please write your address here."
+    }
+  }
+}

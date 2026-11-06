@@ -1,0 +1,23 @@
+{
+  "id": 29,
+  "translation": {
+    "cyrillic": {
+      "word": "аутор",
+      "part_of_speech": "именица",
+      "definition": "Особа која је написала књигу, чланак или друго дело.",
+      "example_sentence": "Аутор ове књиге је добио неколико награда."
+    },
+    "latin": {
+      "word": "autor",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja je napisala knjigu, članak ili drugo delo.",
+      "example_sentence": "Autor ove knjige je dobio nekoliko nagrada."
+    },
+    "english": {
+      "word": "author",
+      "part_of_speech": "noun",
+      "definition": "A person who wrote a book, article, or other work.",
+      "example_sentence": "The author of this book has won several awards."
+    }
+  }
+}

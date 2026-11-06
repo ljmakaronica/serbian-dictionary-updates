@@ -1,0 +1,23 @@
+{
+  "id": 816,
+  "translation": {
+    "cyrillic": {
+      "word": "случајно",
+      "part_of_speech": "прилог",
+      "definition": "Без намере, као резултат случајности.",
+      "example_sentence": "Она је случајно испустила шољу."
+    },
+    "latin": {
+      "word": "slučajno",
+      "part_of_speech": "prilog",
+      "definition": "Bez namere, kao rezultat slučajnosti.",
+      "example_sentence": "Ona je slučajno ispustila šolju."
+    },
+    "english": {
+      "word": "accidentally",
+      "part_of_speech": "adverb",
+      "definition": "In an unintentional or unforeseen manner.",
+      "example_sentence": "She accidentally dropped the cup."
+    }
+  }
+}

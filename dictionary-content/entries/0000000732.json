@@ -1,0 +1,23 @@
+{
+  "id": 732,
+  "translation": {
+    "cyrillic": {
+      "word": "смирити се",
+      "part_of_speech": "глагол",
+      "definition": "Дејство постизања мирноће или опуштања.",
+      "example_sentence": "Он се смирио после неколико минута."
+    },
+    "latin": {
+      "word": "smiriti se",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo postizanja mirnoće ili opuštanja.",
+      "example_sentence": "On se smirio posle nekoliko minuta."
+    },
+    "english": {
+      "word": "calm down",
+      "part_of_speech": "verb",
+      "definition": "To become or make someone become less agitated.",
+      "example_sentence": "He calmed down after a few minutes."
+    }
+  }
+}

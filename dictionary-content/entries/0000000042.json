@@ -1,0 +1,23 @@
+{
+  "id": 42,
+  "translation": {
+    "cyrillic": {
+      "word": "аритметика",
+      "part_of_speech": "именица",
+      "definition": "Грана математике која се бави основним операцијама са бројевима.",
+      "example_sentence": "Аритметика је основа за све сложеније математичке концепте."
+    },
+    "latin": {
+      "word": "aritmetika",
+      "part_of_speech": "imenica",
+      "definition": "Grana matematike koja se bavi osnovnim operacijama sa brojevima.",
+      "example_sentence": "Aritmetika je osnova za sve složenije matematičke koncepte."
+    },
+    "english": {
+      "word": "arithmetic",
+      "part_of_speech": "noun",
+      "definition": "The branch of mathematics dealing with basic number operations.",
+      "example_sentence": "Arithmetic is the foundation for all more complex mathematical concepts."
+    }
+  }
+}

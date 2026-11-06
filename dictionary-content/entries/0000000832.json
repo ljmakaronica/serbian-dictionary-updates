@@ -1,0 +1,23 @@
+{
+  "id": 832,
+  "translation": {
+    "cyrillic": {
+      "word": "спонтано",
+      "part_of_speech": "прилог",
+      "definition": "На начин који није планиран већ природан.",
+      "example_sentence": "Деца се спонтано смеју током игре."
+    },
+    "latin": {
+      "word": "spontano",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji nije planiran već prirodan.",
+      "example_sentence": "Deca se spontano smeju tokom igre."
+    },
+    "english": {
+      "word": "spontaneously",
+      "part_of_speech": "adverb",
+      "definition": "In an unplanned, natural manner.",
+      "example_sentence": "The children laugh spontaneously while playing."
+    }
+  }
+}

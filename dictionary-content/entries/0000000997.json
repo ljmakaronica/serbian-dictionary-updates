@@ -1,0 +1,23 @@
+{
+  "id": 997,
+  "translation": {
+    "cyrillic": {
+      "word": "од",
+      "part_of_speech": "предлог",
+      "definition": "означава припадност",
+      "example_sentence": "Књига од брата."
+    },
+    "latin": {
+      "word": "od",
+      "part_of_speech": "predlog",
+      "definition": "označava pripadnost",
+      "example_sentence": "Knjiga od brata."
+    },
+    "english": {
+      "word": "of",
+      "part_of_speech": "preposition",
+      "definition": "indicating belonging",
+      "example_sentence": "Book of my brother."
+    }
+  }
+}

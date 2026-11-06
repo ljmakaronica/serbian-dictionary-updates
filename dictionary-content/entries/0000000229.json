@@ -1,0 +1,23 @@
+{
+  "id": 229,
+  "translation": {
+    "cyrillic": {
+      "word": "елемент",
+      "part_of_speech": "именица",
+      "definition": "Основни део или компонента нечега.",
+      "example_sentence": "Вода је важан елемент живота."
+    },
+    "latin": {
+      "word": "element",
+      "part_of_speech": "imenica",
+      "definition": "Osnovni deo ili komponenta nečega.",
+      "example_sentence": "Voda je važan element života."
+    },
+    "english": {
+      "word": "element",
+      "part_of_speech": "noun",
+      "definition": "A basic part or component of something.",
+      "example_sentence": "Water is an essential element of life."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 526,
+  "translation": {
+    "cyrillic": {
+      "word": "четрнаест",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 14.",
+      "example_sentence": "Имам четрнаест јабука."
+    },
+    "latin": {
+      "word": "četrnaest",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 14.",
+      "example_sentence": "Imam četrnaest jabuka."
+    },
+    "english": {
+      "word": "fourteen",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 14.",
+      "example_sentence": "I have fourteen apples."
+    }
+  }
+}

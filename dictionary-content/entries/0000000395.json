@@ -1,0 +1,23 @@
+{
+  "id": 395,
+  "translation": {
+    "cyrillic": {
+      "word": "памет",
+      "part_of_speech": "именица",
+      "definition": "Способност размишљања и разумевања.",
+      "example_sentence": "Он има велику памет."
+    },
+    "latin": {
+      "word": "pamet",
+      "part_of_speech": "imenica",
+      "definition": "Sposobnost razmišljanja i razumevanja.",
+      "example_sentence": "On ima veliku pamet."
+    },
+    "english": {
+      "word": "intelligence",
+      "part_of_speech": "noun",
+      "definition": "The ability to think and understand.",
+      "example_sentence": "He has great intelligence."
+    }
+  }
+}

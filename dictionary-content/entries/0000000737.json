@@ -1,0 +1,23 @@
+{
+  "id": 737,
+  "translation": {
+    "cyrillic": {
+      "word": "сећати се",
+      "part_of_speech": "глагол",
+      "definition": "Дејство поновног успостављања меморије.",
+      "example_sentence": "Он се сећа старих времена."
+    },
+    "latin": {
+      "word": "sećati se",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo ponovnog uspostavljanja memorije.",
+      "example_sentence": "On se seća starih vremena."
+    },
+    "english": {
+      "word": "remember",
+      "part_of_speech": "verb",
+      "definition": "To bring back to mind.",
+      "example_sentence": "He remembers the old days."
+    }
+  }
+}

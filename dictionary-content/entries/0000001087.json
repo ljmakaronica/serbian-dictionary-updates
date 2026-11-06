@@ -1,0 +1,23 @@
+{
+  "id": 1087,
+  "translation": {
+    "cyrillic": {
+      "word": "зачин",
+      "part_of_speech": "именица",
+      "definition": "Састојак који се додаје храни ради побољшања укуса.",
+      "example_sentence": "Кувар је додао зачин у супу."
+    },
+    "latin": {
+      "word": "začin",
+      "part_of_speech": "imenica",
+      "definition": "Sastojak koji se dodaje hrani radi poboljšanja ukusa.",
+      "example_sentence": "Kuvar je dodao začin u supu."
+    },
+    "english": {
+      "word": "seasoning",
+      "part_of_speech": "noun",
+      "definition": "An ingredient added to food to improve its flavor.",
+      "example_sentence": "The cook added seasoning to the soup."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 837,
+  "translation": {
+    "cyrillic": {
+      "word": "адекватно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који испуњава потребне стандарде.",
+      "example_sentence": "Решење је адекватно примењено."
+    },
+    "latin": {
+      "word": "adekvatno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ispunjava potrebne standarde.",
+      "example_sentence": "Rešenje je adekvatno primenjeno."
+    },
+    "english": {
+      "word": "adequately",
+      "part_of_speech": "adverb",
+      "definition": "In a manner that is sufficient or acceptable.",
+      "example_sentence": "The solution has been implemented adequately."
+    }
+  }
+}

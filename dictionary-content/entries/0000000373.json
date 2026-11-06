@@ -1,0 +1,23 @@
+{
+  "id": 373,
+  "translation": {
+    "cyrillic": {
+      "word": "новац",
+      "part_of_speech": "именица",
+      "definition": "Средство за размену добара и услуга.",
+      "example_sentence": "Немам довољно новца за ову куповину."
+    },
+    "latin": {
+      "word": "novac",
+      "part_of_speech": "imenica",
+      "definition": "Sredstvo za razmenu dobara i usluga.",
+      "example_sentence": "Nemam dovoljno novca za ovu kupovinu."
+    },
+    "english": {
+      "word": "money",
+      "part_of_speech": "noun",
+      "definition": "A medium of exchange for goods and services.",
+      "example_sentence": "I don't have enough money for this purchase."
+    }
+  }
+}

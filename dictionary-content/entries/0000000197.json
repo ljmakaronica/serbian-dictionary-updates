@@ -1,0 +1,23 @@
+{
+  "id": 197,
+  "translation": {
+    "cyrillic": {
+      "word": "десно",
+      "part_of_speech": "прилог",
+      "definition": "На десну страну или у смеру десне стране.",
+      "example_sentence": "Скрените десно на следећем углу."
+    },
+    "latin": {
+      "word": "desno",
+      "part_of_speech": "prilog",
+      "definition": "Na desnu stranu ili u smeru desne strane.",
+      "example_sentence": "Skrenite desno na sledećem uglu."
+    },
+    "english": {
+      "word": "right",
+      "part_of_speech": "adverb",
+      "definition": "On or toward the right-hand side.",
+      "example_sentence": "Turn right at the next corner."
+    }
+  }
+}

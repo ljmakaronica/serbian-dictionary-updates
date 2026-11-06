@@ -1,0 +1,23 @@
+{
+  "id": 687,
+  "translation": {
+    "cyrillic": {
+      "word": "мудрост",
+      "part_of_speech": "именица",
+      "definition": "Способност доношења паметних одлука на основу искуства.",
+      "example_sentence": "Мудрост старих је непроцењива."
+    },
+    "latin": {
+      "word": "mudrost",
+      "part_of_speech": "imenica",
+      "definition": "Sposobnost donošenja pametnih odluka na osnovu iskustva.",
+      "example_sentence": "Mudrost starih je neprocenjiva."
+    },
+    "english": {
+      "word": "wisdom",
+      "part_of_speech": "noun",
+      "definition": "The ability to make sound decisions based on experience.",
+      "example_sentence": "The wisdom of the elders is invaluable."
+    }
+  }
+}

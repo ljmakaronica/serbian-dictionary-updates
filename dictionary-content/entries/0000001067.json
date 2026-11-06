@@ -1,0 +1,23 @@
+{
+  "id": 1067,
+  "translation": {
+    "cyrillic": {
+      "word": "утолити",
+      "part_of_speech": "глагол",
+      "definition": "Задовољити жеђ или снажну жељу.",
+      "example_sentence": "Утолио је жеђ водом."
+    },
+    "latin": {
+      "word": "utoliti",
+      "part_of_speech": "glagol",
+      "definition": "Zadovoljiti žeđ ili snažnu želju.",
+      "example_sentence": "Utolio je žeđ vodom."
+    },
+    "english": {
+      "word": "quench",
+      "part_of_speech": "verb",
+      "definition": "To satisfy thirst or a strong desire.",
+      "example_sentence": "He quenched his thirst with water."
+    }
+  }
+}

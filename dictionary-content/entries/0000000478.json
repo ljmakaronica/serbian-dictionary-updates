@@ -1,0 +1,23 @@
+{
+  "id": 478,
+  "translation": {
+    "cyrillic": {
+      "word": "човек",
+      "part_of_speech": "именица",
+      "definition": "Људско биће, мушкарац.",
+      "example_sentence": "Човек је био веома љубазан."
+    },
+    "latin": {
+      "word": "čovek",
+      "part_of_speech": "imenica",
+      "definition": "Ljudsko biće, muškarac.",
+      "example_sentence": "Čovek je bio veoma ljubazan."
+    },
+    "english": {
+      "word": "man",
+      "part_of_speech": "noun",
+      "definition": "A human being, male.",
+      "example_sentence": "The man was very kind."
+    }
+  }
+}

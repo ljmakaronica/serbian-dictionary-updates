@@ -1,0 +1,23 @@
+{
+  "id": 100,
+  "translation": {
+    "cyrillic": {
+      "word": "библиотека",
+      "part_of_speech": "именица",
+      "definition": "Место где се чувају и позајмљују књиге.",
+      "example_sentence": "Проводим много времена учећи у библиотеци."
+    },
+    "latin": {
+      "word": "biblioteka",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde se čuvaju i pozajmljuju knjige.",
+      "example_sentence": "Provodim mnogo vremena učeći u biblioteci."
+    },
+    "english": {
+      "word": "library",
+      "part_of_speech": "noun",
+      "definition": "A place where books are kept and lent.",
+      "example_sentence": "I spend a lot of time studying in the library."
+    }
+  }
+}

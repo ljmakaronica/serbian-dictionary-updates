@@ -1,0 +1,23 @@
+{
+  "id": 491,
+  "translation": {
+    "cyrillic": {
+      "word": "џунгла",
+      "part_of_speech": "именица",
+      "definition": "Густа шума са богатом флором и фауном.",
+      "example_sentence": "џунгла је била пуна мистерије."
+    },
+    "latin": {
+      "word": "džungla",
+      "part_of_speech": "imenica",
+      "definition": "Gusta šuma sa bogatom florom i faunom.",
+      "example_sentence": "Džungla je bila puna misterije."
+    },
+    "english": {
+      "word": "jungle",
+      "part_of_speech": "noun",
+      "definition": "A dense forest with rich flora and fauna.",
+      "example_sentence": "The jungle was full of mystery."
+    }
+  }
+}

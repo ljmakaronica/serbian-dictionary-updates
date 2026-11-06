@@ -1,0 +1,23 @@
+{
+  "id": 149,
+  "translation": {
+    "cyrillic": {
+      "word": "високонапонски",
+      "part_of_speech": "придев",
+      "definition": "Који се односи на електричну енергију високог напона.",
+      "example_sentence": "Високонапонски стубови су опасни за приближавање."
+    },
+    "latin": {
+      "word": "visokonaponski",
+      "part_of_speech": "pridev",
+      "definition": "Koji se odnosi na električnu energiju visokog napona.",
+      "example_sentence": "Visokonaponski stubovi su opasni za približavanje."
+    },
+    "english": {
+      "word": "high-voltage",
+      "part_of_speech": "adjective",
+      "definition": "Relating to high-voltage electrical energy.",
+      "example_sentence": "High-voltage poles are dangerous to approach."
+    }
+  }
+}

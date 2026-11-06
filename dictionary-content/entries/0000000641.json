@@ -1,0 +1,23 @@
+{
+  "id": 641,
+  "translation": {
+    "cyrillic": {
+      "word": "ресторан",
+      "part_of_speech": "именица",
+      "definition": "Место где се припрема и служи храна.",
+      "example_sentence": "Ресторан је познат по традиционалној кухињи."
+    },
+    "latin": {
+      "word": "restoran",
+      "part_of_speech": "imenica",
+      "definition": "Mesto gde se priprema i služi hrana.",
+      "example_sentence": "Restoran je poznat po tradicionalnoj kuhinji."
+    },
+    "english": {
+      "word": "restaurant",
+      "part_of_speech": "noun",
+      "definition": "A place where prepared food is served.",
+      "example_sentence": "The restaurant is famous for its traditional cuisine."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 75,
+  "translation": {
+    "cyrillic": {
+      "word": "башта",
+      "part_of_speech": "именица",
+      "definition": "Уређен простор за гајење биљака, цвећа или поврћа.",
+      "example_sentence": "У башти имамо разно поврће и цвеће."
+    },
+    "latin": {
+      "word": "bašta",
+      "part_of_speech": "imenica",
+      "definition": "Uređen prostor za gajenje biljaka, cveća ili povrća.",
+      "example_sentence": "U bašti imamo razno povrće i cveće."
+    },
+    "english": {
+      "word": "garden",
+      "part_of_speech": "noun",
+      "definition": "An organized space for growing plants, flowers, or vegetables.",
+      "example_sentence": "We have various vegetables and flowers in the garden."
+    }
+  }
+}

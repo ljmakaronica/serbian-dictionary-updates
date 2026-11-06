@@ -1,0 +1,23 @@
+{
+  "id": 276,
+  "translation": {
+    "cyrillic": {
+      "word": "енигма",
+      "part_of_speech": "именица",
+      "definition": "Загонетка, тајна, нешто неразјашњено.",
+      "example_sentence": "Тај случај остаје енигма."
+    },
+    "latin": {
+      "word": "enigma",
+      "part_of_speech": "imenica",
+      "definition": "Zagonetka, tajna, nešto nerazjašnjeno.",
+      "example_sentence": "Taj slučaj ostaje enigma."
+    },
+    "english": {
+      "word": "enigma",
+      "part_of_speech": "noun",
+      "definition": "A puzzle, mystery, something unexplained.",
+      "example_sentence": "That case remains an enigma."
+    }
+  }
+}

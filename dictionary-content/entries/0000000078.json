@@ -1,0 +1,23 @@
+{
+  "id": 78,
+  "translation": {
+    "cyrillic": {
+      "word": "баба/бака",
+      "part_of_speech": "именица",
+      "definition": "Мајка нечијег оца или мајке.",
+      "example_sentence": "Моја баба прави најбоље колаче."
+    },
+    "latin": {
+      "word": "baba/baka",
+      "part_of_speech": "imenica",
+      "definition": "Majka nečijeg oca ili majke.",
+      "example_sentence": "Moja baba pravi najbolje kolače."
+    },
+    "english": {
+      "word": "grandmother",
+      "part_of_speech": "noun",
+      "definition": "The mother of one's father or mother.",
+      "example_sentence": "My grandmother makes the best cookies."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 324,
+  "translation": {
+    "cyrillic": {
+      "word": "јахта",
+      "part_of_speech": "именица",
+      "definition": "Луксузни брод за рекреацију.",
+      "example_sentence": "Њихова јахта је усидрена у луци."
+    },
+    "latin": {
+      "word": "jahta",
+      "part_of_speech": "imenica",
+      "definition": "Luksuzni brod za rekreaciju.",
+      "example_sentence": "Njihova jahta je usidrena u luci."
+    },
+    "english": {
+      "word": "yacht",
+      "part_of_speech": "noun",
+      "definition": "A luxury boat for recreation.",
+      "example_sentence": "Their yacht is anchored in the harbor."
+    }
+  }
+}

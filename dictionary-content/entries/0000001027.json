@@ -1,0 +1,23 @@
+{
+  "id": 1027,
+  "translation": {
+    "cyrillic": {
+      "word": "колено",
+      "part_of_speech": "именица",
+      "definition": "Зглоб који спаја бутну кост и потколеницу.",
+      "example_sentence": "Повредио је колено играјући фудбал."
+    },
+    "latin": {
+      "word": "koleno",
+      "part_of_speech": "imenica",
+      "definition": "Zglob koji spaja butnu kost i potkolenicu.",
+      "example_sentence": "Povredio je koleno igrajući fudbal."
+    },
+    "english": {
+      "word": "knee",
+      "part_of_speech": "noun",
+      "definition": "The joint between the thigh and lower leg.",
+      "example_sentence": "He injured his knee playing soccer."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 912,
+  "translation": {
+    "cyrillic": {
+      "word": "јуче",
+      "part_of_speech": "прилог",
+      "definition": "Означава дан који је био пре данашњег дана.",
+      "example_sentence": "Јуче сам био у позоришту."
+    },
+    "latin": {
+      "word": "juče",
+      "part_of_speech": "prilog",
+      "definition": "Označava dan koji je bio pre današnjeg dana.",
+      "example_sentence": "Juče sam bio u pozorištu."
+    },
+    "english": {
+      "word": "yesterday",
+      "part_of_speech": "adverb",
+      "definition": "Indicates the day that was before today.",
+      "example_sentence": "Yesterday I was at the theater."
+    }
+  }
+}

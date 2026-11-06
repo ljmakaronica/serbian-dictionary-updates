@@ -1,0 +1,23 @@
+{
+  "id": 219,
+  "translation": {
+    "cyrillic": {
+      "word": "ђаконија",
+      "part_of_speech": "именица",
+      "definition": "Укусна храна, посластица.",
+      "example_sentence": "На столу су биле разне ђаконије."
+    },
+    "latin": {
+      "word": "đakonija",
+      "part_of_speech": "imenica",
+      "definition": "Ukusna hrana, poslastica.",
+      "example_sentence": "Na stolu su bile razne đakonije."
+    },
+    "english": {
+      "word": "delicacy",
+      "part_of_speech": "noun",
+      "definition": "A delicious food, treat.",
+      "example_sentence": "There were various delicacies on the table."
+    }
+  }
+}

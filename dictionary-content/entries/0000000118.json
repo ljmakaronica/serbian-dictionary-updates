@@ -1,0 +1,23 @@
+{
+  "id": 118,
+  "translation": {
+    "cyrillic": {
+      "word": "бубањ",
+      "part_of_speech": "именица",
+      "definition": "Ударачки музички инструмент.",
+      "example_sentence": "Свира бубањ у рок бенду."
+    },
+    "latin": {
+      "word": "bubanj",
+      "part_of_speech": "imenica",
+      "definition": "Udarački muzički instrument.",
+      "example_sentence": "Svira bubanj u rok bendu."
+    },
+    "english": {
+      "word": "drum",
+      "part_of_speech": "noun",
+      "definition": "A percussion musical instrument.",
+      "example_sentence": "He plays drums in a rock band."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 854,
+  "translation": {
+    "cyrillic": {
+      "word": "минимално",
+      "part_of_speech": "прилог",
+      "definition": "На најмањем могућем нивоу или у најмањој количини.",
+      "example_sentence": "План се минимално разликује од претходног."
+    },
+    "latin": {
+      "word": "minimalno",
+      "part_of_speech": "prilog",
+      "definition": "Na najmanjem mogućem nivou ili u najmanjoj količini.",
+      "example_sentence": "Plan se minimalno razlikuje od prethodnog."
+    },
+    "english": {
+      "word": "minimally",
+      "part_of_speech": "adverb",
+      "definition": "To the smallest extent or degree.",
+      "example_sentence": "The plan differs minimally from the previous one."
+    }
+  }
+}

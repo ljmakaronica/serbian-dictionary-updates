@@ -1,0 +1,23 @@
+{
+  "id": 796,
+  "translation": {
+    "cyrillic": {
+      "word": "испитати",
+      "part_of_speech": "глагол",
+      "definition": "Детаљно проучити или анализирати нешто.",
+      "example_sentence": "Научници су испитали узорак воде."
+    },
+    "latin": {
+      "word": "ispitati",
+      "part_of_speech": "glagol",
+      "definition": "Detaljno proučiti ili analizirati nešto.",
+      "example_sentence": "Naučnici su ispitali uzorak vode."
+    },
+    "english": {
+      "word": "examine",
+      "part_of_speech": "verb",
+      "definition": "To inspect or scrutinize carefully.",
+      "example_sentence": "The scientists examined a water sample."
+    }
+  }
+}

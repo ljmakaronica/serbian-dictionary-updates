@@ -1,0 +1,23 @@
+{
+  "id": 284,
+  "translation": {
+    "cyrillic": {
+      "word": "електронска пошта",
+      "part_of_speech": "именица",
+      "definition": "Систем за слање порука путем интернета.",
+      "example_sentence": "Послао сам ти електронску пошту јуче."
+    },
+    "latin": {
+      "word": "elektronska pošta",
+      "part_of_speech": "imenica",
+      "definition": "Sistem za slanje poruka putem interneta.",
+      "example_sentence": "Poslao sam ti elektronsku poštu juče."
+    },
+    "english": {
+      "word": "email",
+      "part_of_speech": "noun",
+      "definition": "A system for sending messages via the internet.",
+      "example_sentence": "I sent you an email yesterday."
+    }
+  }
+}

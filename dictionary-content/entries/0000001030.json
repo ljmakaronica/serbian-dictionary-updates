@@ -1,0 +1,23 @@
+{
+  "id": 1030,
+  "translation": {
+    "cyrillic": {
+      "word": "знање",
+      "part_of_speech": "именица",
+      "definition": "Скуп информација које неко поседује.",
+      "example_sentence": "Има велико знање о историји."
+    },
+    "latin": {
+      "word": "znanje",
+      "part_of_speech": "imenica",
+      "definition": "Skup informacija koje neko poseduje.",
+      "example_sentence": "Ima veliko znanje o istoriji."
+    },
+    "english": {
+      "word": "knowledge",
+      "part_of_speech": "noun",
+      "definition": "The sum of information that someone possesses.",
+      "example_sentence": "He has great knowledge of history."
+    }
+  }
+}

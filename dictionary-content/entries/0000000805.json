@@ -1,0 +1,23 @@
+{
+  "id": 805,
+  "translation": {
+    "cyrillic": {
+      "word": "озбиљно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који показује озбиљну намеру или придавање важности нечему.",
+      "example_sentence": "Она озбиљно приступа свом раду."
+    },
+    "latin": {
+      "word": "ozbiljno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji pokazuje ozbiljnu nameru ili pridavanje važnosti nečemu.",
+      "example_sentence": "Ona ozbiljno pristupa svom radu."
+    },
+    "english": {
+      "word": "seriously",
+      "part_of_speech": "adverb",
+      "definition": "In a way that shows earnest intent or treats something as important.",
+      "example_sentence": "She approaches her work seriously."
+    }
+  }
+}

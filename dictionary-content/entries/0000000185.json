@@ -1,0 +1,23 @@
+{
+  "id": 185,
+  "translation": {
+    "cyrillic": {
+      "word": "гимназија",
+      "part_of_speech": "именица",
+      "definition": "Средња школа која пружа опште образовање у различитим предметима.",
+      "example_sentence": "Он је похађао гимназију у Београду."
+    },
+    "latin": {
+      "word": "gimnazija",
+      "part_of_speech": "imenica",
+      "definition": "Srednja škola koja pruža opšte obrazovanje u različitim predmetima.",
+      "example_sentence": "On je pohađao gimnaziju u Beogradu."
+    },
+    "english": {
+      "word": "gymnasium",
+      "part_of_speech": "noun",
+      "definition": "A secondary school providing general education in various subjects.",
+      "example_sentence": "He attended a gymnasium in Belgrade."
+    }
+  }
+}

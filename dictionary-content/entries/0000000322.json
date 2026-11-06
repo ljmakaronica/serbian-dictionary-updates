@@ -1,0 +1,23 @@
+{
+  "id": 322,
+  "translation": {
+    "cyrillic": {
+      "word": "јако",
+      "part_of_speech": "прилог",
+      "definition": "У великој мери или интензитету.",
+      "example_sentence": "Ветар је дувао јако."
+    },
+    "latin": {
+      "word": "jako",
+      "part_of_speech": "prilog",
+      "definition": "U velikoj meri ili intenzitetu.",
+      "example_sentence": "Vetar je duvao jako."
+    },
+    "english": {
+      "word": "strongly",
+      "part_of_speech": "adverb",
+      "definition": "To a great degree or intensity.",
+      "example_sentence": "The wind was blowing strongly."
+    }
+  }
+}

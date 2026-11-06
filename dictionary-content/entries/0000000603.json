@@ -1,0 +1,23 @@
+{
+  "id": 603,
+  "translation": {
+    "cyrillic": {
+      "word": "завршити",
+      "part_of_speech": "глагол",
+      "definition": "Довршити нешто.",
+      "example_sentence": "Завршио сам свој посао."
+    },
+    "latin": {
+      "word": "završiti",
+      "part_of_speech": "glagol",
+      "definition": "Dovršiti nešto.",
+      "example_sentence": "Završio sam svoj posao."
+    },
+    "english": {
+      "word": "to finish",
+      "part_of_speech": "verb",
+      "definition": "To complete something.",
+      "example_sentence": "I finished my work."
+    }
+  }
+}

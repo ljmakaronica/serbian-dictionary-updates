@@ -1,0 +1,23 @@
+{
+  "id": 849,
+  "translation": {
+    "cyrillic": {
+      "word": "опрезно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који указује на пажљиву и обазриву радњу.",
+      "example_sentence": "Он опрезно приступа новом пројекту."
+    },
+    "latin": {
+      "word": "oprezno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ukazuje na pažljivu i obazrivu radnju.",
+      "example_sentence": "On oprezno pristupa novom projektu."
+    },
+    "english": {
+      "word": "cautiously",
+      "part_of_speech": "adverb",
+      "definition": "In a careful and guarded manner.",
+      "example_sentence": "He approaches the new project cautiously."
+    }
+  }
+}

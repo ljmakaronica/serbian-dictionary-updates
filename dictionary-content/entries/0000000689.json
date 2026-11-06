@@ -1,0 +1,23 @@
+{
+  "id": 689,
+  "translation": {
+    "cyrillic": {
+      "word": "помоћ",
+      "part_of_speech": "именица",
+      "definition": "Подршка коју неко пружа другој особи при обављању посла или решавању проблема.",
+      "example_sentence": "Увек могу да се ослоним на његову помоћ."
+    },
+    "latin": {
+      "word": "pomoć",
+      "part_of_speech": "imenica",
+      "definition": "Podrška koju neko pruža drugoj osobi pri obavljanju posla ili rešavanju problema.",
+      "example_sentence": "Uvek mogu da se oslonim na njegovu pomoć."
+    },
+    "english": {
+      "word": "help",
+      "part_of_speech": "noun",
+      "definition": "Support given to someone to carry out a task or solve a problem.",
+      "example_sentence": "I can always rely on his help."
+    }
+  }
+}

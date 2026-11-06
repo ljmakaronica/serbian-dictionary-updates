@@ -1,0 +1,23 @@
+{
+  "id": 115,
+  "translation": {
+    "cyrillic": {
+      "word": "бундева",
+      "part_of_speech": "именица",
+      "definition": "Велико наранџасто поврће са јестивом унутрашњошћу.",
+      "example_sentence": "Направила је питу од бундеве."
+    },
+    "latin": {
+      "word": "bundeva",
+      "part_of_speech": "imenica",
+      "definition": "Veliko narandžasto povrće sa jestivom unutrašnjošću.",
+      "example_sentence": "Napravila je pitu od bundeve."
+    },
+    "english": {
+      "word": "pumpkin",
+      "part_of_speech": "noun",
+      "definition": "A large orange vegetable with edible flesh.",
+      "example_sentence": "She made a pumpkin pie."
+    }
+  }
+}

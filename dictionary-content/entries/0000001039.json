@@ -1,0 +1,23 @@
+{
+  "id": 1039,
+  "translation": {
+    "cyrillic": {
+      "word": "ујак",
+      "part_of_speech": "именица",
+      "definition": "Брат мајке.",
+      "example_sentence": "Мој ујак ме је повео у биоскоп."
+    },
+    "latin": {
+      "word": "ujak",
+      "part_of_speech": "imenica",
+      "definition": "Brat majke.",
+      "example_sentence": "Moj ujak me je poveo u bioskop."
+    },
+    "english": {
+      "word": "uncle",
+      "part_of_speech": "noun",
+      "definition": "The brother of one's mother.",
+      "example_sentence": "My uncle took me to the cinema."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 349,
+  "translation": {
+    "cyrillic": {
+      "word": "лептир",
+      "part_of_speech": "именица",
+      "definition": "Инсект са шареним крилима.",
+      "example_sentence": "Лептир је лебдео изнад цвета."
+    },
+    "latin": {
+      "word": "leptir",
+      "part_of_speech": "imenica",
+      "definition": "Insekt sa šarenim krilima.",
+      "example_sentence": "Leptir je lebdeo iznad cveta."
+    },
+    "english": {
+      "word": "butterfly",
+      "part_of_speech": "noun",
+      "definition": "An insect with colorful wings.",
+      "example_sentence": "The butterfly hovered above the flower."
+    }
+  }
+}

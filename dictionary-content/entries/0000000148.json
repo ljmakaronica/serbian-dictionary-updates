@@ -1,0 +1,23 @@
+{
+  "id": 148,
+  "translation": {
+    "cyrillic": {
+      "word": "високо",
+      "part_of_speech": "прилог",
+      "definition": "На великој висини или у великом степену.",
+      "example_sentence": "Птица лети високо на небу."
+    },
+    "latin": {
+      "word": "visoko",
+      "part_of_speech": "prilog",
+      "definition": "Na velikoj visini ili u velikom stepenu.",
+      "example_sentence": "Ptica leti visoko na nebu."
+    },
+    "english": {
+      "word": "high",
+      "part_of_speech": "adverb",
+      "definition": "At a great height or to a great degree.",
+      "example_sentence": "The bird flies high in the sky."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 844,
+  "translation": {
+    "cyrillic": {
+      "word": "фокусирано",
+      "part_of_speech": "прилог",
+      "definition": "На начин који указује на снажан фокус или концентрацију.",
+      "example_sentence": "Он фокусирано чита даље инструкције."
+    },
+    "latin": {
+      "word": "fokusirano",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ukazuje na snažan fokus ili koncentraciju.",
+      "example_sentence": "On fokusirano čita dalje instrukcije."
+    },
+    "english": {
+      "word": "focusedly",
+      "part_of_speech": "adverb",
+      "definition": "In a concentrated and attentive manner.",
+      "example_sentence": "He worked focusedly on the task."
+    }
+  }
+}

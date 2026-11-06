@@ -1,0 +1,23 @@
+{
+  "id": 20,
+  "translation": {
+    "cyrillic": {
+      "word": "авион",
+      "part_of_speech": "именица",
+      "definition": "Ваздухопловно средство за превоз путника или робе.",
+      "example_sentence": "Авион је слетео на аеродром у подне."
+    },
+    "latin": {
+      "word": "avion",
+      "part_of_speech": "imenica",
+      "definition": "Vazduhoplovno sredstvo za prevoz putnika ili robe.",
+      "example_sentence": "Avion je sleteo na aerodrom u podne."
+    },
+    "english": {
+      "word": "airplane",
+      "part_of_speech": "noun",
+      "definition": "A vehicle designed for air travel.",
+      "example_sentence": "The airplane landed at the airport at noon."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1083,
+  "translation": {
+    "cyrillic": {
+      "word": "зумирати",
+      "part_of_speech": "глагол",
+      "definition": "Повећати или смањити слику помоћу камере.",
+      "example_sentence": "Зумирао је да види детаље."
+    },
+    "latin": {
+      "word": "zumirati",
+      "part_of_speech": "glagol",
+      "definition": "Povećati ili smanjiti sliku pomoću kamere.",
+      "example_sentence": "Zumirao je da vidi detalje."
+    },
+    "english": {
+      "word": "zoom",
+      "part_of_speech": "verb",
+      "definition": "To enlarge or reduce an image using a camera.",
+      "example_sentence": "He zoomed to see the details."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 351,
+  "translation": {
+    "cyrillic": {
+      "word": "лекар",
+      "part_of_speech": "именица",
+      "definition": "Особа која лечи болести.",
+      "example_sentence": "Лекар ми је преписао лекове."
+    },
+    "latin": {
+      "word": "lekar",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja leči bolesti.",
+      "example_sentence": "Lekar mi je prepisao lekove."
+    },
+    "english": {
+      "word": "doctor",
+      "part_of_speech": "noun",
+      "definition": "A person who treats illnesses.",
+      "example_sentence": "The doctor prescribed me medication."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 831,
+  "translation": {
+    "cyrillic": {
+      "word": "изненадно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који долази без упозорења.",
+      "example_sentence": "Време се изненадно променио."
+    },
+    "latin": {
+      "word": "iznenadno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji dolazi bez upozorenja.",
+      "example_sentence": "Vreme se iznenadno promenilo."
+    },
+    "english": {
+      "word": "suddenly",
+      "part_of_speech": "adverb",
+      "definition": "In an unexpected or abrupt manner.",
+      "example_sentence": "The weather changed suddenly."
+    }
+  }
+}

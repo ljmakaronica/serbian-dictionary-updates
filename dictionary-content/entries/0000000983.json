@@ -1,0 +1,23 @@
+{
+  "id": 983,
+  "translation": {
+    "cyrillic": {
+      "word": "како",
+      "part_of_speech": "прилог",
+      "definition": "на који начин",
+      "example_sentence": "Како си?"
+    },
+    "latin": {
+      "word": "kako",
+      "part_of_speech": "prilog",
+      "definition": "na koji način",
+      "example_sentence": "Kako si?"
+    },
+    "english": {
+      "word": "how",
+      "part_of_speech": "adverb",
+      "definition": "in what way",
+      "example_sentence": "How are you?"
+    }
+  }
+}

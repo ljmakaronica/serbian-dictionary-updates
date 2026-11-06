@@ -1,0 +1,23 @@
+{
+  "id": 1029,
+  "translation": {
+    "cyrillic": {
+      "word": "знати",
+      "part_of_speech": "глагол",
+      "definition": "Поседовати информацију или вештину о нечему.",
+      "example_sentence": "Зна да говори француски."
+    },
+    "latin": {
+      "word": "znati",
+      "part_of_speech": "glagol",
+      "definition": "Posedovati informaciju ili veštinu o nečemu.",
+      "example_sentence": "Zna da govori francuski."
+    },
+    "english": {
+      "word": "know",
+      "part_of_speech": "verb",
+      "definition": "To possess information or skill about something.",
+      "example_sentence": "He knows how to speak French."
+    }
+  }
+}

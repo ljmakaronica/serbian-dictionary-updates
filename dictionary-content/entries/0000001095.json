@@ -1,0 +1,23 @@
+{
+  "id": 1095,
+  "translation": {
+    "cyrillic": {
+      "word": "ни",
+      "part_of_speech": "речца",
+      "definition": "Речца која појачава негацију.",
+      "example_sentence": "Ни ја не знам."
+    },
+    "latin": {
+      "word": "ni",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja pojačava negaciju.",
+      "example_sentence": "Ni ja ne znam."
+    },
+    "english": {
+      "word": "nor",
+      "part_of_speech": "particle",
+      "definition": "A particle reinforcing negation (\"not even\").",
+      "example_sentence": "Not even I know."
+    }
+  }
+}

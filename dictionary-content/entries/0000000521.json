@@ -1,0 +1,23 @@
+{
+  "id": 521,
+  "translation": {
+    "cyrillic": {
+      "word": "девет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 9.",
+      "example_sentence": "Имам девет бомбона."
+    },
+    "latin": {
+      "word": "devet",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 9.",
+      "example_sentence": "Imam devet bombona."
+    },
+    "english": {
+      "word": "nine",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 9.",
+      "example_sentence": "I have nine candies."
+    }
+  }
+}

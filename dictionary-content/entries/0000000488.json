@@ -1,0 +1,23 @@
+{
+  "id": 488,
+  "translation": {
+    "cyrillic": {
+      "word": "џеп",
+      "part_of_speech": "именица",
+      "definition": "Део одеће у који се стављају ствари.",
+      "example_sentence": "Кључеви су били у његовом џепу."
+    },
+    "latin": {
+      "word": "džep",
+      "part_of_speech": "imenica",
+      "definition": "Deo odeće u koji se stavljaju stvari.",
+      "example_sentence": "Ključevi su bili u njegovom džepu."
+    },
+    "english": {
+      "word": "pocket",
+      "part_of_speech": "noun",
+      "definition": "A part of clothing where items are stored.",
+      "example_sentence": "The keys were in his pocket."
+    }
+  }
+}

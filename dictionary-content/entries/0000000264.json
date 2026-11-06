@@ -1,0 +1,23 @@
+{
+  "id": 264,
+  "translation": {
+    "cyrillic": {
+      "word": "екосистем",
+      "part_of_speech": "именица",
+      "definition": "Заједница живих бића и њихове околине.",
+      "example_sentence": "Загађење угрожава екосистем."
+    },
+    "latin": {
+      "word": "ekosistem",
+      "part_of_speech": "imenica",
+      "definition": "Zajednica živih bića i njihove okoline.",
+      "example_sentence": "Zagađenje ugrožava ekosistem."
+    },
+    "english": {
+      "word": "ecosystem",
+      "part_of_speech": "noun",
+      "definition": "A community of living organisms and their environment.",
+      "example_sentence": "Pollution threatens the ecosystem."
+    }
+  }
+}

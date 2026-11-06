@@ -1,0 +1,23 @@
+{
+  "id": 1098,
+  "translation": {
+    "cyrillic": {
+      "word": "ето",
+      "part_of_speech": "речца",
+      "definition": "Речца која служи за скретање пажње или закључак.",
+      "example_sentence": "Ето видиш!"
+    },
+    "latin": {
+      "word": "eto",
+      "part_of_speech": "rečca",
+      "definition": "Rečca koja služi za skretanje pažnje ili zaključak.",
+      "example_sentence": "Eto vidiš!"
+    },
+    "english": {
+      "word": "there",
+      "part_of_speech": "particle",
+      "definition": "A particle drawing attention or marking conclusion.",
+      "example_sentence": "See!"
+    }
+  }
+}

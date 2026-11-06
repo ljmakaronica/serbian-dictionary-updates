@@ -1,0 +1,23 @@
+{
+  "id": 601,
+  "translation": {
+    "cyrillic": {
+      "word": "затворити",
+      "part_of_speech": "глагол",
+      "definition": "Учинити нешто недоступним или невидљивим.",
+      "example_sentence": "Затворио сам врата."
+    },
+    "latin": {
+      "word": "zatvoriti",
+      "part_of_speech": "glagol",
+      "definition": "Učiniti nešto nedostupnim ili nevidljivim.",
+      "example_sentence": "Zatvorio sam vrata."
+    },
+    "english": {
+      "word": "to close",
+      "part_of_speech": "verb",
+      "definition": "To make something inaccessible or invisible.",
+      "example_sentence": "I closed the door."
+    }
+  }
+}

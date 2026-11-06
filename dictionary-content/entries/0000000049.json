@@ -1,0 +1,23 @@
+{
+  "id": 49,
+  "translation": {
+    "cyrillic": {
+      "word": "аутсајдер",
+      "part_of_speech": "именица",
+      "definition": "Особа која није део одређене групе или заједнице.",
+      "example_sentence": "Осећао се као аутсајдер на журци."
+    },
+    "latin": {
+      "word": "autsajder",
+      "part_of_speech": "imenica",
+      "definition": "Osoba koja nije deo određene grupe ili zajednice.",
+      "example_sentence": "Osećao se kao autsajder na žurci."
+    },
+    "english": {
+      "word": "outsider",
+      "part_of_speech": "noun",
+      "definition": "A person who is not part of a particular group or community.",
+      "example_sentence": "He felt like an outsider at the party."
+    }
+  }
+}

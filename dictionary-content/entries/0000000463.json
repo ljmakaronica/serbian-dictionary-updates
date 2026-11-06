@@ -1,0 +1,23 @@
+{
+  "id": 463,
+  "translation": {
+    "cyrillic": {
+      "word": "храм",
+      "part_of_speech": "именица",
+      "definition": "Место верског обожавања.",
+      "example_sentence": "Посетили смо древни храм."
+    },
+    "latin": {
+      "word": "hram",
+      "part_of_speech": "imenica",
+      "definition": "Mesto verskog obožavanja.",
+      "example_sentence": "Posetili smo drevni hram."
+    },
+    "english": {
+      "word": "temple",
+      "part_of_speech": "noun",
+      "definition": "A place of worship.",
+      "example_sentence": "We visited an ancient temple."
+    }
+  }
+}

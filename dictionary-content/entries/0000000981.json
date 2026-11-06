@@ -1,0 +1,23 @@
+{
+  "id": 981,
+  "translation": {
+    "cyrillic": {
+      "word": "зелен",
+      "part_of_speech": "придев",
+      "definition": "боја траве",
+      "example_sentence": "Зелена је боја природе."
+    },
+    "latin": {
+      "word": "zelen",
+      "part_of_speech": "pridev",
+      "definition": "boja trave",
+      "example_sentence": "Zelena je boja prirode."
+    },
+    "english": {
+      "word": "green",
+      "part_of_speech": "adjective",
+      "definition": "color of grass",
+      "example_sentence": "Green is the color of nature."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 343,
+  "translation": {
+    "cyrillic": {
+      "word": "кафа",
+      "part_of_speech": "именица",
+      "definition": "Напитак направљен од прженог зрна кафе.",
+      "example_sentence": "Попих кафу пре него што сам кренуо на посао."
+    },
+    "latin": {
+      "word": "kafa",
+      "part_of_speech": "imenica",
+      "definition": "Napitak napravljen od prženog zrna kafe.",
+      "example_sentence": "Popih kafu pre nego što sam krenuo na posao."
+    },
+    "english": {
+      "word": "coffee",
+      "part_of_speech": "noun",
+      "definition": "A drink made from roasted coffee beans.",
+      "example_sentence": "I drank coffee before heading to work."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 786,
+  "translation": {
+    "cyrillic": {
+      "word": "изменити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство промене неке карактеристике.",
+      "example_sentence": "Она је изменила дизајн свог сајта."
+    },
+    "latin": {
+      "word": "izmeniti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo promene neke karakteristike.",
+      "example_sentence": "Ona je izmenila dizajn svog sajta."
+    },
+    "english": {
+      "word": "modify",
+      "part_of_speech": "verb",
+      "definition": "To change or alter.",
+      "example_sentence": "She modified the design of her website."
+    }
+  }
+}

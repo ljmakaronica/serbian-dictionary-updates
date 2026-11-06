@@ -1,0 +1,23 @@
+{
+  "id": 1000000004,
+  "translation": {
+    "cyrillic": {
+      "word": "мај",
+      "part_of_speech": "именица",
+      "definition": "Пети месец у години.",
+      "example_sentence": "Мај је леп месец."
+    },
+    "latin": {
+      "word": "maj",
+      "part_of_speech": "imenica",
+      "definition": "Peti mesec u godini.",
+      "example_sentence": "Maj je lep mesec."
+    },
+    "english": {
+      "word": "May",
+      "part_of_speech": "noun",
+      "definition": "The fifth month of the year.",
+      "example_sentence": "May is a beautiful month."
+    }
+  }
+}

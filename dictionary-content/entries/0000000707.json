@@ -1,0 +1,23 @@
+{
+  "id": 707,
+  "translation": {
+    "cyrillic": {
+      "word": "будити се",
+      "part_of_speech": "глагол",
+      "definition": "Прекид спавања и почетак будности.",
+      "example_sentence": "Она се буди у шест сати."
+    },
+    "latin": {
+      "word": "buditi se",
+      "part_of_speech": "glagol",
+      "definition": "Prekid spavanja i početak budnosti.",
+      "example_sentence": "Ona se budi u šest sati."
+    },
+    "english": {
+      "word": "wake up",
+      "part_of_speech": "verb",
+      "definition": "To emerge from sleep.",
+      "example_sentence": "She wakes up at six o’clock."
+    }
+  }
+}

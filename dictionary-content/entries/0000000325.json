@@ -1,0 +1,23 @@
+{
+  "id": 325,
+  "translation": {
+    "cyrillic": {
+      "word": "јарак",
+      "part_of_speech": "именица",
+      "definition": "Уска бразда или ров.",
+      "example_sentence": "Вода је текла кроз јарак."
+    },
+    "latin": {
+      "word": "jarak",
+      "part_of_speech": "imenica",
+      "definition": "Uska brazda ili rov.",
+      "example_sentence": "Voda je tekla kroz jarak."
+    },
+    "english": {
+      "word": "ditch",
+      "part_of_speech": "noun",
+      "definition": "A narrow trench or groove.",
+      "example_sentence": "Water flowed through the ditch."
+    }
+  }
+}

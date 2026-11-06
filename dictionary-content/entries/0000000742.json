@@ -1,0 +1,23 @@
+{
+  "id": 742,
+  "translation": {
+    "cyrillic": {
+      "word": "ослободити",
+      "part_of_speech": "глагол",
+      "definition": "Пустити некога на слободу.",
+      "example_sentence": "Ослободили су заробљенике."
+    },
+    "latin": {
+      "word": "osloboditi",
+      "part_of_speech": "glagol",
+      "definition": "Pustiti nekoga na slobodu.",
+      "example_sentence": "Oslobodili su zarobljenike."
+    },
+    "english": {
+      "word": "release",
+      "part_of_speech": "verb",
+      "definition": "To set someone free from captivity or detention.",
+      "example_sentence": "They released the prisoners."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 781,
+  "translation": {
+    "cyrillic": {
+      "word": "заштитити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство чувања некога или нечега од штете.",
+      "example_sentence": "Кров је заштитио децу од кише."
+    },
+    "latin": {
+      "word": "zaštititi",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo čuvanja nekoga ili nečega od štete.",
+      "example_sentence": "Krov je zaštitio decu od kiše."
+    },
+    "english": {
+      "word": "protect",
+      "part_of_speech": "verb",
+      "definition": "To keep someone or something safe from harm.",
+      "example_sentence": "The roof protected the children from the rain."
+    }
+  }
+}

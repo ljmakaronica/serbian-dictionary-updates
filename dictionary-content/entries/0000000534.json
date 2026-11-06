@@ -1,0 +1,23 @@
+{
+  "id": 534,
+  "translation": {
+    "cyrillic": {
+      "word": "четрдесет",
+      "part_of_speech": "број",
+      "definition": "Број који означава количину 40.",
+      "example_sentence": "Имам четрдесет оловака."
+    },
+    "latin": {
+      "word": "četrdeset",
+      "part_of_speech": "broj",
+      "definition": "Broj koji označava količinu 40.",
+      "example_sentence": "Imam četrdeset olovaka."
+    },
+    "english": {
+      "word": "forty",
+      "part_of_speech": "number",
+      "definition": "The number representing a quantity of 40.",
+      "example_sentence": "I have forty pencils."
+    }
+  }
+}

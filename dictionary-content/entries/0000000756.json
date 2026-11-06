@@ -1,0 +1,23 @@
+{
+  "id": 756,
+  "translation": {
+    "cyrillic": {
+      "word": "организовати",
+      "part_of_speech": "глагол",
+      "definition": "Уредити или припремити састанак или догађај.",
+      "example_sentence": "Они организују конференцију сваке године."
+    },
+    "latin": {
+      "word": "organizovati",
+      "part_of_speech": "glagol",
+      "definition": "Urediti ili pripremiti sastanak ili događaj.",
+      "example_sentence": "Oni organizuju konferenciju svake godine."
+    },
+    "english": {
+      "word": "organize",
+      "part_of_speech": "verb",
+      "definition": "To arrange or coordinate systematically.",
+      "example_sentence": "They organize a conference every year."
+    }
+  }
+}

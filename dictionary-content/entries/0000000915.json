@@ -1,0 +1,23 @@
+{
+  "id": 915,
+  "translation": {
+    "cyrillic": {
+      "word": "топао",
+      "part_of_speech": "придев",
+      "definition": "Који има умерену температуру, пријатан.",
+      "example_sentence": "Данас је топао дан."
+    },
+    "latin": {
+      "word": "topao",
+      "part_of_speech": "pridev",
+      "definition": "Koji ima umerenu temperaturu, prijatan.",
+      "example_sentence": "Danas je topao dan."
+    },
+    "english": {
+      "word": "warm",
+      "part_of_speech": "adjective",
+      "definition": "Having a moderate temperature, pleasant.",
+      "example_sentence": "Today is a warm day."
+    }
+  }
+}

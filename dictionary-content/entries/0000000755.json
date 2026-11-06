@@ -1,0 +1,23 @@
+{
+  "id": 755,
+  "translation": {
+    "cyrillic": {
+      "word": "поправити",
+      "part_of_speech": "глагол",
+      "definition": "Исправити или учинити да нешто функционише правилно.",
+      "example_sentence": "Он је поправио покварени телефон."
+    },
+    "latin": {
+      "word": "popraviti",
+      "part_of_speech": "glagol",
+      "definition": "Ispraviti ili učiniti da nešto funkcioniše pravilno.",
+      "example_sentence": "On je popravio pokvareni telefon."
+    },
+    "english": {
+      "word": "repair",
+      "part_of_speech": "verb",
+      "definition": "To fix or mend something that is broken.",
+      "example_sentence": "He repaired the broken phone."
+    }
+  }
+}

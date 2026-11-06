@@ -1,0 +1,23 @@
+{
+  "id": 942,
+  "translation": {
+    "cyrillic": {
+      "word": "стар",
+      "part_of_speech": "придев",
+      "definition": "у годинама",
+      "example_sentence": "Он је стар човек."
+    },
+    "latin": {
+      "word": "star",
+      "part_of_speech": "pridev",
+      "definition": "u godinama",
+      "example_sentence": "On je star čovek."
+    },
+    "english": {
+      "word": "old",
+      "part_of_speech": "adjective",
+      "definition": "aged",
+      "example_sentence": "He is an old man."
+    }
+  }
+}

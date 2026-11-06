@@ -1,0 +1,23 @@
+{
+  "id": 809,
+  "translation": {
+    "cyrillic": {
+      "word": "срећно",
+      "part_of_speech": "прилог",
+      "definition": "На начин који указује на срећу или благослов.",
+      "example_sentence": "Он срећно завршио испит."
+    },
+    "latin": {
+      "word": "srećno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji ukazuje na sreću ili blagoslov.",
+      "example_sentence": "On srećno završio ispit."
+    },
+    "english": {
+      "word": "fortunately",
+      "part_of_speech": "adverb",
+      "definition": "In a manner that is lucky or favorable.",
+      "example_sentence": "He fortunately passed the exam."
+    }
+  }
+}

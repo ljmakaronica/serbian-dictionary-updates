@@ -1,0 +1,23 @@
+{
+  "id": 1074,
+  "translation": {
+    "cyrillic": {
+      "word": "јахта",
+      "part_of_speech": "именица",
+      "definition": "Луксузан брод за забаву.",
+      "example_sentence": "Пловио је јахтом по мору."
+    },
+    "latin": {
+      "word": "jahta",
+      "part_of_speech": "imenica",
+      "definition": "Luksuzan brod za zabavu.",
+      "example_sentence": "Plovio je jahtom po moru."
+    },
+    "english": {
+      "word": "yacht",
+      "part_of_speech": "noun",
+      "definition": "A luxury boat for recreation.",
+      "example_sentence": "He sailed a yacht on the sea."
+    }
+  }
+}

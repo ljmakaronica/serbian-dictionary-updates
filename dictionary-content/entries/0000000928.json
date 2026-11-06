@@ -1,0 +1,23 @@
+{
+  "id": 928,
+  "translation": {
+    "cyrillic": {
+      "word": "храна",
+      "part_of_speech": "именица",
+      "definition": "оно што једемо за исхрану",
+      "example_sentence": "Ова храна је укусна."
+    },
+    "latin": {
+      "word": "hrana",
+      "part_of_speech": "imenica",
+      "definition": "ono što jedemo za ishranu",
+      "example_sentence": "Ova hrana je ukusna."
+    },
+    "english": {
+      "word": "food",
+      "part_of_speech": "noun",
+      "definition": "what we eat for nourishment",
+      "example_sentence": "This food is delicious."
+    }
+  }
+}

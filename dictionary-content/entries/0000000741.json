@@ -1,0 +1,23 @@
+{
+  "id": 741,
+  "translation": {
+    "cyrillic": {
+      "word": "регистровати",
+      "part_of_speech": "глагол",
+      "definition": "Дејство званичног уписа информација.",
+      "example_sentence": "Она је регистровала нови аутомобил."
+    },
+    "latin": {
+      "word": "registrovati",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo zvaničnog upisa informacija.",
+      "example_sentence": "Ona je registrovala novi automobil."
+    },
+    "english": {
+      "word": "register",
+      "part_of_speech": "verb",
+      "definition": "To enter or record formally.",
+      "example_sentence": "She registered her new car."
+    }
+  }
+}

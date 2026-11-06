@@ -1,0 +1,23 @@
+{
+  "id": 1020,
+  "translation": {
+    "cyrillic": {
+      "word": "драгуљ",
+      "part_of_speech": "именица",
+      "definition": "Скупоцени камен или накит који се користи као украс.",
+      "example_sentence": "Круна је била украшена драгуљима."
+    },
+    "latin": {
+      "word": "dragulj",
+      "part_of_speech": "imenica",
+      "definition": "Skupoceni kamen ili nakit koji se koristi kao ukras.",
+      "example_sentence": "Kruna je bila ukrašena draguljima."
+    },
+    "english": {
+      "word": "jewel",
+      "part_of_speech": "noun",
+      "definition": "A precious stone or ornament used for decoration.",
+      "example_sentence": "The crown was decorated with jewels."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 466,
+  "translation": {
+    "cyrillic": {
+      "word": "храна",
+      "part_of_speech": "именица",
+      "definition": "Оно што се једе ради исхране.",
+      "example_sentence": "Храна је била укусна и свежа."
+    },
+    "latin": {
+      "word": "hrana",
+      "part_of_speech": "imenica",
+      "definition": "Ono što se jede radi ishrane.",
+      "example_sentence": "Hrana je bila ukusna i sveža."
+    },
+    "english": {
+      "word": "food",
+      "part_of_speech": "noun",
+      "definition": "What is eaten for nourishment.",
+      "example_sentence": "The food was tasty and fresh."
+    }
+  }
+}

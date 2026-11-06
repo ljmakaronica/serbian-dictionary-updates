@@ -1,0 +1,23 @@
+{
+  "id": 866,
+  "translation": {
+    "cyrillic": {
+      "word": "те",
+      "part_of_speech": "везник",
+      "definition": "Повезује последичне радње.",
+      "example_sentence": "Устао је те отишао."
+    },
+    "latin": {
+      "word": "te",
+      "part_of_speech": "veznik",
+      "definition": "Povezuje posledične radnje.",
+      "example_sentence": "Ustao je te otišao."
+    },
+    "english": {
+      "word": "and then",
+      "part_of_speech": "conjunction",
+      "definition": "Connects consequential actions.",
+      "example_sentence": "He got up and then left."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 357,
+  "translation": {
+    "cyrillic": {
+      "word": "љутња",
+      "part_of_speech": "именица",
+      "definition": "Јак осећај беса или љутње.",
+      "example_sentence": "Њена љутња је била очигледна."
+    },
+    "latin": {
+      "word": "ljutnja",
+      "part_of_speech": "imenica",
+      "definition": "Jak osećaj besa ili ljutnje.",
+      "example_sentence": "Njena ljutnja je bila očigledna."
+    },
+    "english": {
+      "word": "anger",
+      "part_of_speech": "noun",
+      "definition": "A strong feeling of rage or fury.",
+      "example_sentence": "Her anger was obvious."
+    }
+  }
+}

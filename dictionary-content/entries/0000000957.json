@@ -1,0 +1,23 @@
+{
+  "id": 957,
+  "translation": {
+    "cyrillic": {
+      "word": "узети",
+      "part_of_speech": "глагол",
+      "definition": "прихватити нешто",
+      "example_sentence": "Узми ово."
+    },
+    "latin": {
+      "word": "uzeti",
+      "part_of_speech": "glagol",
+      "definition": "prihvatiti nešto",
+      "example_sentence": "Uzmi ovo."
+    },
+    "english": {
+      "word": "to take",
+      "part_of_speech": "verb",
+      "definition": "accept something",
+      "example_sentence": "Take this."
+    }
+  }
+}

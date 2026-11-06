@@ -1,0 +1,23 @@
+{
+  "id": 1049,
+  "translation": {
+    "cyrillic": {
+      "word": "бескористан",
+      "part_of_speech": "придев",
+      "definition": "Који не доноси никакву корист.",
+      "example_sentence": "Овај предмет је бескористан."
+    },
+    "latin": {
+      "word": "beskoristan",
+      "part_of_speech": "pridev",
+      "definition": "Koji ne donosi nikakvu korist.",
+      "example_sentence": "Ovaj predmet je beskoristan."
+    },
+    "english": {
+      "word": "useless",
+      "part_of_speech": "adjective",
+      "definition": "Bringing no benefit.",
+      "example_sentence": "This item is useless."
+    }
+  }
+}

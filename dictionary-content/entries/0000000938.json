@@ -1,0 +1,23 @@
+{
+  "id": 938,
+  "translation": {
+    "cyrillic": {
+      "word": "леп",
+      "part_of_speech": "придев",
+      "definition": "пријатан за гледање",
+      "example_sentence": "То је лепа слика."
+    },
+    "latin": {
+      "word": "lep",
+      "part_of_speech": "pridev",
+      "definition": "prijatan za gledanje",
+      "example_sentence": "To je lepa slika."
+    },
+    "english": {
+      "word": "beautiful",
+      "part_of_speech": "adjective",
+      "definition": "pleasant to look at",
+      "example_sentence": "That is a beautiful picture."
+    }
+  }
+}

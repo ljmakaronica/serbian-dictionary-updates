@@ -1,0 +1,23 @@
+{
+  "id": 1000000010,
+  "translation": {
+    "cyrillic": {
+      "word": "децембар",
+      "part_of_speech": "именица",
+      "definition": "Дванаести месец у години.",
+      "example_sentence": "Децембар је празнични месец."
+    },
+    "latin": {
+      "word": "decembar",
+      "part_of_speech": "imenica",
+      "definition": "Dvanaesti mesec u godini.",
+      "example_sentence": "Decembar je praznični mesec."
+    },
+    "english": {
+      "word": "December",
+      "part_of_speech": "noun",
+      "definition": "The twelfth month of the year.",
+      "example_sentence": "December is a festive month."
+    }
+  }
+}

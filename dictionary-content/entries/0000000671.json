@@ -1,0 +1,23 @@
+{
+  "id": 671,
+  "translation": {
+    "cyrillic": {
+      "word": "лек",
+      "part_of_speech": "именица",
+      "definition": "Супстанца или препарат који се користи за лечење или спречавање болести.",
+      "example_sentence": "Лек је био ефикасан."
+    },
+    "latin": {
+      "word": "lek",
+      "part_of_speech": "imenica",
+      "definition": "Supstanca ili preparat koji se koristi za lečenje ili sprečavanje bolesti.",
+      "example_sentence": "Lek je bio efikasan."
+    },
+    "english": {
+      "word": "medicine",
+      "part_of_speech": "noun",
+      "definition": "A substance or preparation used to treat or prevent illness.",
+      "example_sentence": "The medicine was effective."
+    }
+  }
+}

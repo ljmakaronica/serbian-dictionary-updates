@@ -1,0 +1,23 @@
+{
+  "id": 230,
+  "translation": {
+    "cyrillic": {
+      "word": "естрада",
+      "part_of_speech": "именица",
+      "definition": "Забавна музичка сцена и индустрија.",
+      "example_sentence": "Она је позната звезда естраде."
+    },
+    "latin": {
+      "word": "estrada",
+      "part_of_speech": "imenica",
+      "definition": "Zabavna muzička scena i industrija.",
+      "example_sentence": "Ona je poznata zvezda estrade."
+    },
+    "english": {
+      "word": "show business",
+      "part_of_speech": "noun",
+      "definition": "The entertainment music scene and industry.",
+      "example_sentence": "She is a famous show business star."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 292,
+  "translation": {
+    "cyrillic": {
+      "word": "жут",
+      "part_of_speech": "придев",
+      "definition": "Који је боје лимуна или злата.",
+      "example_sentence": "Носила је жуту хаљину."
+    },
+    "latin": {
+      "word": "žut",
+      "part_of_speech": "pridev",
+      "definition": "Koji je boje limuna ili zlata.",
+      "example_sentence": "Nosila je žutu haljinu."
+    },
+    "english": {
+      "word": "yellow",
+      "part_of_speech": "adjective",
+      "definition": "Having the color of a lemon or gold.",
+      "example_sentence": "She wore a yellow dress."
+    }
+  }
+}

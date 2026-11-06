@@ -1,0 +1,23 @@
+{
+  "id": 427,
+  "translation": {
+    "cyrillic": {
+      "word": "требати",
+      "part_of_speech": "глагол",
+      "definition": "Бити неопходан или потребан.",
+      "example_sentence": "Треба ми помоћ са овим задатком."
+    },
+    "latin": {
+      "word": "trebati",
+      "part_of_speech": "glagol",
+      "definition": "Biti neophodan ili potreban.",
+      "example_sentence": "Treba mi pomoć sa ovim zadatkom."
+    },
+    "english": {
+      "word": "to need",
+      "part_of_speech": "verb",
+      "definition": "To be necessary or required.",
+      "example_sentence": "I need help with this task."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 186,
+  "translation": {
+    "cyrillic": {
+      "word": "гимнастика",
+      "part_of_speech": "именица",
+      "definition": "Физичка активност која укључује различите вежбе ради развоја тела, снаге и флексибилности.",
+      "example_sentence": "Гимнастика је одличан начин за побољшање физичке кондиције."
+    },
+    "latin": {
+      "word": "gimnastika",
+      "part_of_speech": "imenica",
+      "definition": "Fizička aktivnost koja uključuje različite vežbe radi razvoja tela, snage i fleksibilnosti.",
+      "example_sentence": "Gimnastika je odličan način za poboljšanje fizičke kondicije."
+    },
+    "english": {
+      "word": "gymnastics",
+      "part_of_speech": "noun",
+      "definition": "Physical activity that involves various exercises to develop the body, strength, and flexibility.",
+      "example_sentence": "Gymnastics is a great way to improve physical fitness."
+    }
+  }
+}

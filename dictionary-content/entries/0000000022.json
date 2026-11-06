@@ -1,0 +1,23 @@
+{
+  "id": 22,
+  "translation": {
+    "cyrillic": {
+      "word": "април",
+      "part_of_speech": "именица",
+      "definition": "Четврти месец у години.",
+      "example_sentence": "Април је познат по честим кишама."
+    },
+    "latin": {
+      "word": "april",
+      "part_of_speech": "imenica",
+      "definition": "Četvrti mesec u godini.",
+      "example_sentence": "April je poznat po čestim kišama."
+    },
+    "english": {
+      "word": "April",
+      "part_of_speech": "noun",
+      "definition": "The fourth month of the year.",
+      "example_sentence": "April is known for frequent rains."
+    }
+  }
+}

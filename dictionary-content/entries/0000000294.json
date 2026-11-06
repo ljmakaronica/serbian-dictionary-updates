@@ -1,0 +1,23 @@
+{
+  "id": 294,
+  "translation": {
+    "cyrillic": {
+      "word": "жирафа",
+      "part_of_speech": "именица",
+      "definition": "Животиња из Африке са дугим вратом.",
+      "example_sentence": "Жирафа је висока животиња."
+    },
+    "latin": {
+      "word": "žirafa",
+      "part_of_speech": "imenica",
+      "definition": "Životinja iz Afrike sa dugim vratom.",
+      "example_sentence": "Žirafa je visoka životinja."
+    },
+    "english": {
+      "word": "giraffe",
+      "part_of_speech": "noun",
+      "definition": "An African animal with a long neck.",
+      "example_sentence": "The giraffe is a tall animal."
+    }
+  }
+}

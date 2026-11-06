@@ -1,0 +1,23 @@
+{
+  "id": 802,
+  "translation": {
+    "cyrillic": {
+      "word": "полако",
+      "part_of_speech": "прилог",
+      "definition": "На начин који траје дуго време.",
+      "example_sentence": "Она говори полако."
+    },
+    "latin": {
+      "word": "polako",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji traje dugo vreme.",
+      "example_sentence": "Ona govori polako."
+    },
+    "english": {
+      "word": "slowly",
+      "part_of_speech": "adverb",
+      "definition": "In a manner that takes a long time.",
+      "example_sentence": "She speaks slowly."
+    }
+  }
+}

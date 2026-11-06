@@ -1,0 +1,23 @@
+{
+  "id": 877,
+  "translation": {
+    "cyrillic": {
+      "word": "ти",
+      "part_of_speech": "заменица",
+      "definition": "Лична заменица другог лица једнине",
+      "example_sentence": "Ти си мој пријатељ."
+    },
+    "latin": {
+      "word": "ti",
+      "part_of_speech": "zamenica",
+      "definition": "Lična zamenica drugog lica jednine",
+      "example_sentence": "Ti si moj prijatelj."
+    },
+    "english": {
+      "word": "you",
+      "part_of_speech": "pronoun",
+      "definition": "Second person singular personal pronoun (informal)",
+      "example_sentence": "You are my friend."
+    }
+  }
+}

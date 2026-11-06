@@ -1,0 +1,23 @@
+{
+  "id": 259,
+  "translation": {
+    "cyrillic": {
+      "word": "епархија",
+      "part_of_speech": "именица",
+      "definition": "Административна јединица у православној цркви.",
+      "example_sentence": "Епископ управља епархијом."
+    },
+    "latin": {
+      "word": "eparhija",
+      "part_of_speech": "imenica",
+      "definition": "Administrativna jedinica u pravoslavnoj crkvi.",
+      "example_sentence": "Episkop upravlja eparhijom."
+    },
+    "english": {
+      "word": "eparchy",
+      "part_of_speech": "noun",
+      "definition": "An administrative unit in the Orthodox Church.",
+      "example_sentence": "The bishop manages the eparchy."
+    }
+  }
+}

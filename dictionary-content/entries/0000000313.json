@@ -1,0 +1,23 @@
+{
+  "id": 313,
+  "translation": {
+    "cyrillic": {
+      "word": "истраживање",
+      "part_of_speech": "именица",
+      "definition": "Процес добијања нових информација или открића.",
+      "example_sentence": "Истраживање нових технологија је важно за напредак."
+    },
+    "latin": {
+      "word": "istrazivanje",
+      "part_of_speech": "imenica",
+      "definition": "Proces dobijanja novih informacija ili otkrića.",
+      "example_sentence": "Istraživanje novih tehnologija je važno za napredak."
+    },
+    "english": {
+      "word": "research",
+      "part_of_speech": "noun",
+      "definition": "The process of obtaining new information or discoveries.",
+      "example_sentence": "Research into new technologies is important for progress."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 836,
+  "translation": {
+    "cyrillic": {
+      "word": "професионално",
+      "part_of_speech": "прилог",
+      "definition": "На начин који одговара високом стандардном раду.",
+      "example_sentence": "Он професионално изводи своје задатке."
+    },
+    "latin": {
+      "word": "profesionalno",
+      "part_of_speech": "prilog",
+      "definition": "Na način koji odgovara visokom standardu rada.",
+      "example_sentence": "On profesionalno izvodi svoje zadatke."
+    },
+    "english": {
+      "word": "professionally",
+      "part_of_speech": "adverb",
+      "definition": "In a manner befitting a professional.",
+      "example_sentence": "He performs his tasks professionally."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 919,
+  "translation": {
+    "cyrillic": {
+      "word": "доле",
+      "part_of_speech": "прилог",
+      "definition": "Означава место које је ниже или испод.",
+      "example_sentence": "Доле у подруму је хладно."
+    },
+    "latin": {
+      "word": "dole",
+      "part_of_speech": "prilog",
+      "definition": "Označava mesto koje je niže ili ispod.",
+      "example_sentence": "Dole u podrumu je hladno."
+    },
+    "english": {
+      "word": "down",
+      "part_of_speech": "adverb",
+      "definition": "Indicates a place that is lower or below.",
+      "example_sentence": "Down in the basement it is cold."
+    }
+  }
+}

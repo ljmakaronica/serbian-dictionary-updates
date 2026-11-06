@@ -1,0 +1,23 @@
+{
+  "id": 410,
+  "translation": {
+    "cyrillic": {
+      "word": "реч",
+      "part_of_speech": "именица",
+      "definition": "Јединица језика која има значење.",
+      "example_sentence": "Ова реч има много значења."
+    },
+    "latin": {
+      "word": "reč",
+      "part_of_speech": "imenica",
+      "definition": "Jedinica jezika koja ima značenje.",
+      "example_sentence": "Ova reč ima mnogo značenja."
+    },
+    "english": {
+      "word": "word",
+      "part_of_speech": "noun",
+      "definition": "A unit of language that has meaning.",
+      "example_sentence": "This word has many meanings."
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 1088,
+  "translation": {
+    "cyrillic": {
+      "word": "живахан",
+      "part_of_speech": "придев",
+      "definition": "Пун енергије и живости.",
+      "example_sentence": "Она је живахна особа."
+    },
+    "latin": {
+      "word": "živahan",
+      "part_of_speech": "pridev",
+      "definition": "Pun energije i živosti.",
+      "example_sentence": "Ona je živahna osoba."
+    },
+    "english": {
+      "word": "zesty",
+      "part_of_speech": "adjective",
+      "definition": "Full of energy and liveliness.",
+      "example_sentence": "She is a zesty person."
+    }
+  }
+}

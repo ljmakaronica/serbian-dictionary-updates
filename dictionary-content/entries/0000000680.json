@@ -1,0 +1,23 @@
+{
+  "id": 680,
+  "translation": {
+    "cyrillic": {
+      "word": "играчка",
+      "part_of_speech": "именица",
+      "definition": "Предмет намењен забави деце.",
+      "example_sentence": "Играчка је нова и шарена."
+    },
+    "latin": {
+      "word": "igračka",
+      "part_of_speech": "imenica",
+      "definition": "Predmet namenjen zabavi dece.",
+      "example_sentence": "Igračka je nova i šarena."
+    },
+    "english": {
+      "word": "toy",
+      "part_of_speech": "noun",
+      "definition": "An object designed for children to play with.",
+      "example_sentence": "The toy is new and colorful."
+    }
+  }
+}

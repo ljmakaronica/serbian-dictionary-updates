@@ -1,0 +1,23 @@
+{
+  "id": 790,
+  "translation": {
+    "cyrillic": {
+      "word": "усмерити",
+      "part_of_speech": "глагол",
+      "definition": "Дејство давања правца или инструкција.",
+      "example_sentence": "Менаџер је усмерио тим ка заједничком циљу."
+    },
+    "latin": {
+      "word": "usmeriti",
+      "part_of_speech": "glagol",
+      "definition": "Dejstvo davanja pravca ili instrukcija.",
+      "example_sentence": "Menadžer je usmerio tim ka zajedničkom cilju."
+    },
+    "english": {
+      "word": "direct",
+      "part_of_speech": "verb",
+      "definition": "To control the operations of something.",
+      "example_sentence": "The manager directed the team toward a common goal."
+    }
+  }
+}
